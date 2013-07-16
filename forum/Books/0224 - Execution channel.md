@@ -1,9 +1,9 @@
 ## Execution channel
 Posted by **TerrorDrone** on Fri August 8th, 2008 11:03:53 AM
 
-if your into reading check out &quot;The Execution Channel&quot; by Ken Macleod
+if your into reading check out "The Execution Channel" by Ken Macleod
 
-[url:1zc7k42v]http&#58;//www&#46;scifi&#46;com/sfw/books/sfw16059&#46;html[/url:1zc7k42v]
+<http://www.scifi.com/sfw/books/sfw16059.html>
 
 --------------------------------------------------------------------------------
 
