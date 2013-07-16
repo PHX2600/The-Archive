@@ -5,4 +5,4 @@ Defcon has their vids available from Defcon 7 (1999) to current.
 
 For Defcon 1-6, audio is available.
 
-<!-- m --><a class="postlink" href="http://www.defcon.org/html/links/dc-archives.html">http://www.defcon.org/html/links/dc-archives.html</a><!-- m -->
+<http://www.defcon.org/html/links/dc-archives.html>

@@ -27,4 +27,4 @@ See you guys there
 
 Posted by **fightgar** on Fri March 29th, 2013 05:49:37 PM
 
-I came  <!-- s:oops: --><img src="{SMILIES_PATH}/icon_redface.gif" alt=":oops:" title="Embarrassed" /><!-- s:oops: -->
+I came  :oops:
