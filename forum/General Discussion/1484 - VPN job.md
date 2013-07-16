@@ -1,0 +1,4 @@
+## VPN job
+Posted by **Urbal** on Sat October 29th, 2011 02:35:08 AM
+
+I have a job that needs to be handled asap. The job is to finish a VPN deployment. The server is deployed at the client site (gentoo) and openVPN is installed but not configured. Unfortunately, I'm out of town and need someone to go onsite in Tempe and configure the openVPN. It should be an hour or two of work. I got screwed and the guy I hired bailed on me. I need someone to go onsite and just do whatever it takes to make it work. It needs to happen Monday. The pay is fair. Please email me at <!-- e --><a href="mailto:iamurbal@gmail.com">iamurbal@gmail.com</a><!-- e --> (don't message me here because I'm on vacation). Anyway, I hope someone can help and I look forward to seeing you all in November. Thanks. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
