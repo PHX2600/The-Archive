@@ -1,7 +1,8 @@
 ## Looking for a roomie
 Posted by **Rax** on Wed July 21st, 2010 07:20:26 PM
 
-I've got a room booked in the Rivera. Anyone one else going up that wants to split the cost?
+I've got a room booked in the Rivera. Anyone one else going up that wants to
+split the cost?
 
 --------------------------------------------------------------------------------
 
