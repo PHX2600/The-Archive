@@ -3,7 +3,7 @@ Posted by **Automated Penguin** on Sun November 28th, 2010 01:54:35 PM
 
 See Pic
 
-[img:3wm4lnun]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/badges&#46;JPG[/img:3wm4lnun]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/badges.JPG)
 
 --------------------------------------------------------------------------------
 

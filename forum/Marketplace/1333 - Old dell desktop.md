@@ -13,4 +13,4 @@ hd will be blanked.
 
 make offer
 
-[img:32w5rvyw]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/dell2&#46;JPG[/img:32w5rvyw]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/dell2.JPG)

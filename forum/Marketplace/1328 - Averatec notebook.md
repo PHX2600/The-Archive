@@ -3,7 +3,7 @@ Posted by **Automated Penguin** on Fri November 26th, 2010 07:25:40 PM
 
 Info:
 
-<!-- m --><a class="postlink" href="http://reviews.cnet.com/laptops/averatec-4270/1707-3121_7-31470029.html">http://reviews.cnet.com/laptops/averate ... 70029.html</a><!-- m -->
+<http://reviews.cnet.com/laptops/averatec-4270/1707-3121_7-31470029.html>
 
 One gig ram i think.
 
@@ -15,9 +15,10 @@ comes with power cable.
 
 drive will be wiped.
 
-CD/DVD drive requires paperclip to open and wired network jack is unreliable (wifi works fine)
+CD/DVD drive requires paperclip to open and wired network jack is unreliable
+(wifi works fine)
 
-[img:3hhu84ye]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/averatec&#46;JPG[/img:3hhu84ye]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/averatec.JPG)
 
 Make an offer.
 

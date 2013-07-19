@@ -7,12 +7,12 @@ No OS
 
 Comes with extra floppy and cd rom drives which work
 
-Has [u:55qx1718]ETHERNET[/u:55qx1718] which WORKS.
+Has ETHERNET which WORKS.
 
-battery is worthless but does come with 
+battery is worthless but does come with
 
-[img:55qx1718]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/dell1&#46;JPG[/img:55qx1718]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/dell1.JPG)
 
-[img:55qx1718]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/dell1-3&#46;JPG[/img:55qx1718]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/dell1-3.JPG)
 
 Make an offer

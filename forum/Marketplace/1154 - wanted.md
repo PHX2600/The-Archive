@@ -37,22 +37,23 @@ what exactly did you want to payfor such a device
 
 Posted by **Ugly** on Thu November 19th, 2009 03:25:25 AM
 
-[url=http&#58;//www&#46;phx2600&#46;org/forum-archive/viewtopic&#46;php?t=1026:2fd8w3zu]Jacobs ladders?[/url:2fd8w3zu]
+[Jacobs ladders?](http://www.phx2600.org/forum-archive/viewtopic.php?t=1026)
 
 --------------------------------------------------------------------------------
 
 Posted by **TerrorDrone** on Fri November 20th, 2009 08:10:47 PM
 
-ugly was right always wanted a jacobs ladder every since i was a little drone 
+ugly was right always wanted a jacobs ladder every since i was a little drone
 as for price i have no clue let me look around cuz i wanna give you a far offer
 
 --------------------------------------------------------------------------------
 
 Posted by **PHLAK** on Fri November 20th, 2009 11:25:03 PM
 
-Penguin and I built one a while back (ok, he did most of the planning, I just helped with the labor).  Check it out here:
+Penguin and I built one a while back (ok, he did most of the planning, I just
+helped with the labor).  Check it out here:
 
-[url:11dlycxq]http&#58;//www&#46;flickr&#46;com/photos/kankie/sets/72157604378867077/detail/[/url:11dlycxq]
+<http://www.flickr.com/photos/kankie/sets/72157604378867077/detail/>
 
 --------------------------------------------------------------------------------
 

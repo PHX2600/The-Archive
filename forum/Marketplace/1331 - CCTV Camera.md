@@ -11,4 +11,4 @@ Signal is intermittent sometimes, may have an internal short.
 
 make an offer.
 
-[img:2abq0vs0]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/cctv&#46;JPG[/img:2abq0vs0]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/cctv.JPG)

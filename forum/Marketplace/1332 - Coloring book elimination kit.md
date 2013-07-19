@@ -5,7 +5,7 @@ See pic
 
 make offer
 
-[img:1mm8swgz]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/coloryay&#46;JPG[/img:1mm8swgz]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/coloryay.JPG)
 
 --------------------------------------------------------------------------------
 
@@ -21,7 +21,8 @@ I'll bring it to the meet,
 
 It is slightly used some of the pencils are shorter than others and stuff.
 
-I'm gonna try and sell all this stuff off and put the money aside for DARC but if your giving it as a gift for a kid I'll let you have it.
+I'm gonna try and sell all this stuff off and put the money aside for DARC but
+if your giving it as a gift for a kid I'll let you have it.
 
 It's good to do nice things for kids!
 

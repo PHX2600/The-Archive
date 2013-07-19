@@ -9,6 +9,6 @@ Hard case included.
 
 more info here:
 
-<!-- m --><a class="postlink" href="http://en.wikipedia.org/wiki/Palm_TX">http://en.wikipedia.org/wiki/Palm_TX</a><!-- m -->
+<http://en.wikipedia.org/wiki/Palm_TX>
 
-[img:17pyhvw6]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/tx&#46;JPG[/img:17pyhvw6]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/tx.JPG)

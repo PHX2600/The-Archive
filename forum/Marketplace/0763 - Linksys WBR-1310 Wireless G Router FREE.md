@@ -1,13 +1,14 @@
 ## Linksys WBR-1310 Wireless G Router FREE!!!
 Posted by **PHLAK** on Thu March 5th, 2009 05:08:05 PM
 
-[color=#0000FF:2itttm1w][b:2itttm1w]THIS ITEM HAS BEEN CLAIMED![/b:2itttm1w][/color:2itttm1w]
+**THIS ITEM HAS BEEN CLAIMED!**
 
-Free to the first person who wants it!  Will bring it to the meeting on Friday.  Power cord included.
+Free to the first person who wants it!  Will bring it to the meeting on Friday.
+Power cord included.
 
-[url=http&#58;//www&#46;flickr&#46;com/photos/kankie/3329179836/in/set-72157614805213474/:2itttm1w][img:2itttm1w]http&#58;//farm4&#46;static&#46;flickr&#46;com/3658/3329179836_3101d01433&#46;jpg[/img:2itttm1w][/url:2itttm1w]
+![](http://farm4.static.flickr.com/3658/3329179836_3101d01433.jpg)
 
-[url=http&#58;//www&#46;flickr&#46;com/photos/kankie/3329179766/in/set-72157614805213474/:2itttm1w][img:2itttm1w]http&#58;//farm4&#46;static&#46;flickr&#46;com/3664/3329179766_35e1223dde&#46;jpg[/img:2itttm1w][/url:2itttm1w]
+![](http://farm4.static.flickr.com/3664/3329179766_35e1223dde.jpg)
 
 --------------------------------------------------------------------------------
 

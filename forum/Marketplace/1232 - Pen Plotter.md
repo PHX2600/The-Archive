@@ -1,9 +1,10 @@
 ## Pen Plotter
 Posted by **Automated Penguin** on Sat April 17th, 2010 03:45:51 PM
 
-<!-- m --><a class="postlink" href="http://phoenix.craigslist.org/evl/sys/1697189976.html">http://phoenix.craigslist.org/evl/sys/1697189976.html</a><!-- m -->
+<http://phoenix.craigslist.org/evl/sys/1697189976.html>
 
-Ill sell it to an individual but I also wouldn't mind donating it to a group with some (hacker)space to play with it.
+Ill sell it to an individual but I also wouldn't mind donating it to a group
+with some (hacker)space to play with it.
 
 Let me know.
 

@@ -5,4 +5,4 @@ The title says it all.
 
 Make an offer.
 
-[img:3f3xf9wk]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/sale/nst&#46;JPG[/img:3f3xf9wk]
+![](http://www.public.asu.edu/~cbock/JUNK/sale/nst.JPG)
