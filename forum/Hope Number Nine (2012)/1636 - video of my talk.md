@@ -3,7 +3,7 @@ Posted by **XlogicX** on Sun July 22nd, 2012 02:35:42 PM
 
 For anybody that wants to see it, here's the youtube:
 
-<!-- m --><a class="postlink" href="https://www.youtube.com/watch?v=aiupXHi2BIA">https://www.youtube.com/watch?v=aiupXHi2BIA</a><!-- m -->
+<https://www.youtube.com/watch?v=aiupXHi2BIA>
 
 --------------------------------------------------------------------------------
 
@@ -19,5 +19,7 @@ Watching now!
 
 Posted by **nak** on Sun July 22nd, 2012 06:39:37 PM
 
-Awesome! Thanks for the post, and the shoutouts <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
-I haven't watched it all, but I will... darn internets went down partway through.
+Awesome! Thanks for the post, and the shoutouts ;)
+
+I haven't watched it all, but I will... darn internets went down partway
+through.
