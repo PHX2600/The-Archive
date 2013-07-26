@@ -21,6 +21,7 @@ WOAH!  THAT'S AMAZING!!!
 
 Posted by **ArchAngel** on Wed January 9th, 2008 09:57:38 AM
 
-Good old blinkenlights! Reminds me of the ascii matrix: <!-- m --><a class="postlink" href="http://onyx.chattanoogastate.edu/~jack/matrix/">http://onyx.chattanoogastate.edu/~jack/matrix/</a><!-- m -->
+Good old blinkenlights! Reminds me of the ascii matrix:
+<http://onyx.chattanoogastate.edu/~jack/matrix/">
 
 -ArchAngel
