@@ -1,13 +1,14 @@
 ## my guitar vid
 Posted by **Valveritas** on Wed September 23rd, 2009 06:22:01 PM
 
-<!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
+:)
 
 --------------------------------------------------------------------------------
 
 Posted by **fightgar** on Wed September 23rd, 2009 06:39:21 PM
 
-Heavy <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
+Heavy :)
+
 My friend has the same guitar I think!
 
 --------------------------------------------------------------------------------
