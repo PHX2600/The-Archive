@@ -27,7 +27,10 @@ More pwnage!
 
 Posted by **ArchAngel** on Wed March 12th, 2008 01:44:08 PM
 
-Pwned? That doesn't sound like the Shadow I know -- I'm going to have to delete this topic unless it can be proven that it originated from Shadow and not someone spoofing his account. Shadow, please send me your password(s) in a private message to avoid forum posting access interruption. 
+Pwned? That doesn't sound like the Shadow I know -- I'm going to have to delete
+this topic unless it can be proven that it originated from Shadow and not
+someone spoofing his account. Shadow, please send me your password(s) in a
+private message to avoid forum posting access interruption.
 
 ... ^_-.
 
