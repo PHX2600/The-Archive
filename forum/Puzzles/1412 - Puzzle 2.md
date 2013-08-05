@@ -5,16 +5,19 @@ Name: Trivial Security
 
 Scoring:
 
-5] This one will net you 5 points for successfully producing the plain text key.
-5] An additional 5 points will be awarded for the cipher key used.
-20] And finally an additional 20 points will be awarded for patching the binary to print the plain text key in all its glory.
+  * 5] This one will net you 5 points for successfully producing the plain text
+    key.
+  * 5] An additional 5 points will be awarded for the cipher key used.
+  * 20] And finally an additional 20 points will be awarded for patching the
+    binary to print the plain text key in all its glory.
 
 Total: 30 Points Possible
 
 [Binary attached]
 
 ========================================================
-Email solutions to <!-- e --><a href="mailto:Penguin2600@asu.edu">Penguin2600@asu.edu</a><!-- e --> to get your points on the scoreboard or to report problems with the puzzle.
+Email solutions to <Penguin2600@asu.edu> to get your points on the scoreboard or
+to report problems with the puzzle.
 
 --------------------------------------------------------------------------------
 
@@ -24,4 +27,4 @@ I have made a walkthru for this puzzle on my totally sweet website.
 
 Caution though as this will reveal the answer to this puzzle!
 
-[url:1ngbushf]http&#58;//blastwavelabs&#46;com/?p=46#more-46[/url:1ngbushf]
+<http://blastwavelabs.com/?p=46#more-46>
