@@ -13,4 +13,4 @@ Rad. I miss playing with payphones.
 
 Posted by **nak** on Fri February 15th, 2008 08:11:02 PM
 
-Sweet bro <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
+Sweet bro :)
