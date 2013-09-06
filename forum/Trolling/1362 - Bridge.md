@@ -7,7 +7,8 @@ I'll just sit under here and wait for now...
 
 Posted by **nak** on Fri December 24th, 2010 07:30:41 AM
 
-Just noticed I became a &quot;Red Box&quot; <!-- s:o --><img src="{SMILIES_PATH}/icon_e_surprised.gif" alt=":o" title="Surprised" /><!-- s:o --> after 300 posts... anyone Red Box those Red Boxes(TM) that cum DVDs when you put CC#s in them?
+Just noticed I became a "Red Box" :o after 300 posts... anyone Red Box those Red
+Boxes(TM) that cum DVDs when you put CC#s in them?
 
 --------------------------------------------------------------------------------
 
@@ -20,5 +21,7 @@ Hello, I'd like to cross this bridge...
 Posted by **Automated Penguin** on Thu December 30th, 2010 10:48:51 AM
 
 what is.... your name
+
 what is.... your favourite colour
+
 what is... love?

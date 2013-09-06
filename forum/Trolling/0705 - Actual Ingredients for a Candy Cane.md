@@ -3,13 +3,11 @@ Posted by **jargon** on Sun December 21st, 2008 10:10:34 PM
 
 My lil' brother looked at the ingredients for a candy cane he was eating:
 
-[quote]
-Sugar
-Corn Syrup
-Titanium-Dioxide
-Peppermint Flavoring
-Red #40
-[/quote]
+>  * Sugar
+>  * Corn Syrup
+>  * Titanium-Dioxide
+>  * Peppermint Flavoring
+>  * Red #40
 
 Okay, do any of these ingredients sound a little freaky?
 
@@ -34,7 +32,7 @@ Bob ross loves titanium dioxide
 
 Posted by **Automated Penguin** on Wed December 24th, 2008 11:01:13 AM
 
-<!-- m --><a class="postlink" href="http://www.collegehumor.com/picture:1706377">http://www.collegehumor.com/picture:1706377</a><!-- m -->
+<http://www.collegehumor.com/picture:1706377>
 
 --------------------------------------------------------------------------------
 

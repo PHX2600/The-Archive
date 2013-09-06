@@ -1,26 +1,33 @@
 ## Safe Your Life (RCAT)
 Posted by **jargon** on Tue December 23rd, 2008 05:49:03 AM
 
-A long while while I ended up banned from using the &quot;PoliceOne&quot; chat room because the head guy asked me what I would do if I had a gun to my face. I told him I would probably end up breaking their trigger finger either at the bone or off completely and he thought I was just some douche bag that didn't know what the hell I was talking about.
+A long while while I ended up banned from using the "PoliceOne" chat room
+because the head guy asked me what I would do if I had a gun to my face. I told
+him I would probably end up breaking their trigger finger either at the bone or
+off completely and he thought I was just some douche bag that didn't know what
+the hell I was talking about.
 
-Finally, someone made a &quot;YouTube&quot; video about it, here let me link...
+Finally, someone made a "YouTube" video about it, here let me link...
 
-The method is called &quot;RCAT&quot; for a frontal attack with a pistol:
-<!-- m --><a class="postlink" href="http://www.youtube.com/watch?v=07jnqD8wvyE">http://www.youtube.com/watch?v=07jnqD8wvyE</a><!-- m -->
+The method is called "RCAT" for a frontal attack with a pistol:
+<http://www.youtube.com/watch?v=07jnqD8wvyE>
 
 Here is another video the guy made for a hostage situation with a pistol:
-<!-- m --><a class="postlink" href="http://www.youtube.com/watch?v=3HaY2gV5seg">http://www.youtube.com/watch?v=3HaY2gV5seg</a><!-- m -->
+<http://www.youtube.com/watch?v=3HaY2gV5seg>
 
-DISCLAIMER: Do not practice RCAT for real on someone. Just like I said, their trigger finger will either break at the bone or tear off completely. ..Even when practicing, if their finger is in the trigger guard.
+DISCLAIMER: Do not practice RCAT for real on someone. Just like I said, their
+trigger finger will either break at the bone or tear off completely. ..Even when
+practicing, if their finger is in the trigger guard.
 
-And remember, in real life, most likely you will not be able to move your hands as fast as his without motor memory down pat.
+And remember, in real life, most likely you will not be able to move your hands
+as fast as his without motor memory down pat.
 
 --------------------------------------------------------------------------------
 
 Posted by **jargon** on Tue January 27th, 2009 12:44:38 AM
 
-Here is an example of a video made by people that don't know a damn thing they are talking about for comparison.
-[url:21yji1m5]http&#58;//www&#46;collegehumor&#46;com/video&#58;1825645[/url:21yji1m5]
+Here is an example of a video made by people that don't know a damn thing they
+are talking about for comparison. <http://www.collegehumor.com/video:1825645>
 
 --------------------------------------------------------------------------------
 

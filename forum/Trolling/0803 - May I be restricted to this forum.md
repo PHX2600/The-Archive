@@ -13,9 +13,11 @@ lol
 
 Posted by **jargon** on Tue June 30th, 2009 03:37:32 PM
 
-It has been a year since I have been restricted to here. Think I could have &quot;troll&quot; status removed, please? Thanks.
+It has been a year since I have been restricted to here. Think I could have
+"troll" status removed, please? Thanks.
 
-BTW, I verified that the &quot;Unlimited Coffee&quot; cafe will be open until midnight on Friday the 3rd, 2009. They close at 4pm on Independence Day though.
+BTW, I verified that the "Unlimited Coffee" cafe will be open until midnight on
+Friday the 3rd, 2009. They close at 4pm on Independence Day though.
 
 --------------------------------------------------------------------------------
 
