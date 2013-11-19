@@ -1,9 +1,11 @@
 ## SPAM IP Blacklist
 Posted by **PHLAK** on Mon June 22nd, 2009 12:46:55 AM
 
-I have just implemented the SPAM IP blacklist found here: [url:38guhmk6]http&#58;//www&#46;forumblacklist&#46;com/blacklist&#46;htm[/url:38guhmk6]
+I have just implemented the SPAM IP blacklist found here:
+<http://www.forumblacklist.com/blacklist.htm>
 
-If you, or anyone you know, are getting a message about being associated with an SPAM IP, please email me at <!-- e --><a href="mailto:PHLAK@PHX2600.org">PHLAK@PHX2600.org</a><!-- e -->
+If you, or anyone you know, are getting a message about being associated with an
+SPAM IP, please email me at <PHLAK@PHX2600.org>
 
 --------------------------------------------------------------------------------
 

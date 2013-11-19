@@ -11,7 +11,9 @@ kthbai
 
 Posted by **PHLAK** on Thu March 18th, 2010 12:27:33 PM
 
-Ooops... I think this was caused by my, er, um.. fuck up durring th forum upgrade.  Sorry, I'll see what I can do about restoring them when I'm not at work.
+Ooops... I think this was caused by my, er, um.. fuck up durring th forum
+upgrade.  Sorry, I'll see what I can do about restoring them when I'm not at
+work.
 
 PS - @dxh Awesome new avatar... or should I say CATATAR!
 
@@ -19,6 +21,8 @@ PS - @dxh Awesome new avatar... or should I say CATATAR!
 
 Posted by **dxh** on Sat March 20th, 2010 02:25:45 AM
 
-[quote=&quot;PHLAK&quot;:xgffv8ee]PS - @dxh Awesome new avatar... or should I say CATATAR![/quote:xgffv8ee]
+> **PHLAK wrote:**
+>
+> PS - @dxh Awesome new avatar... or should I say CATATAR!
 
-Everyday is Caturday now! <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->
+Everyday is Caturday now! :D
