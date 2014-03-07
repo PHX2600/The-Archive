@@ -42,7 +42,7 @@ supporters, but do they vote?
 
 Of course the polls don't show R.P. very high, because R.P. supporters don't
 take those polls. And of course online polls show him QUITE high, but do average
-voters ever see [i:1avsixf7]those[/i:1avsixf7] polls? There's definitely no real
+voters ever see _those_ polls? There's definitely no real
 gage or even remotely accurate prediction as to the possible popular turnout
 right now...
 

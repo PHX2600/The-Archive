@@ -367,7 +367,7 @@ You mean DC-UAT?
 
 Posted by **dxh** on Sun August 17th, 2008 07:13:53 PM
 
-> **CoolNewz wrote:
+> **CoolNewz wrote:**
 > > **dxh wrote:**
 > > Anyone know if DC480 is still around?
 >
