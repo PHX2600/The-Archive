@@ -9,7 +9,8 @@ Batteries should be replaceable.
 
 Special tools are allowed only for darn good reasons.
 
-Profiting by selling expensive special tools is wrong and not making special tools available is even worse.
+Profiting by selling expensive special tools is wrong and not making special
+tools available is even worse.
 
 Torx is OK; tamperproof is rarely OK.
 
@@ -27,7 +28,8 @@ If it snaps shut, it shall snap open.
 
 Screws better than glues.
 
-Docs and drivers shall have permalinks and shall reside for all perpetuity at archive.org.
+Docs and drivers shall have permalinks and shall reside for all perpetuity at
+archive.org.
 
 Ease of repair shall be a design ideal, not an afterthought.
 
