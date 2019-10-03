@@ -8,12 +8,12 @@ Here's Andrew's brief overview of the format:
 1.) Slide decks are optional-- this is more about showing off things
 you are working on.
 2.) You don't have to be uberl33t hacker to present, nor does the
-topic have to be &quot;technical.&quot;  I saw a guy talk on how he negotiated
+topic have to be "technical."  I saw a guy talk on how he negotiated
 his way out of a speeding ticket with the laws of physics-- and it was
 awesome.
 3.) We encourage dialog-- the meeting goes till it goes.  I hope that
 means closer to 2 hours of meeting, but that will depend on attendees.
-4.) If you have something that will take up &gt;15 minutes to show, you
+4.) If you have something that will take up >15 minutes to show, you
 need to let me know to get on the deck.  Also, if it's your first time
 attending you need to let me know.  Otherwise we do firetalks at the
 end.

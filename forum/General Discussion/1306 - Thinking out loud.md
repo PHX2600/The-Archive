@@ -17,7 +17,7 @@ Posted by **PHLAK** on Wed October 20th, 2010 09:48:07 AM
 
 3rded.
 
-On that note, we do have some [url=http&#58;//www&#46;phx2600&#46;org/archive/2009/09/20/phx2600-meeting-flyers/:1sp4mbxi]flyers available to print[/url:1sp4mbxi].  I don't live/work near ASU, so it would be great if anyone who does [b:1sp4mbxi]*COUGHPENGUINCOUGH*[/b:1sp4mbxi] could post these around or hand them out.  Also, don't limit posting these to just ASU, hit up some local coffee shops, etc.  I have another design I like better that fits 4 per page and has a QR code, I'll try to find that again and post it for use.
+On that note, we do have some [url=http://www.phx2600.org/archive/2009/09/20/phx2600-meeting-flyers/:1sp4mbxi]flyers available to print>.  I don't live/work near ASU, so it would be great if anyone who does ***COUGHPENGUINCOUGH*** could post these around or hand them out.  Also, don't limit posting these to just ASU, hit up some local coffee shops, etc.  I have another design I like better that fits 4 per page and has a QR code, I'll try to find that again and post it for use.
 
 --------------------------------------------------------------------------------
 
@@ -33,7 +33,7 @@ Fix em up then I would be happy to spread the propaganda.
 
 Posted by **PHLAK** on Wed October 20th, 2010 10:01:41 AM
 
-[quote=&quot;Automated Penguin&quot;:3ih77chz]These fliers are massively out of date and list wrong information *COUGHPHLAKCOUGH*[/quote:3ih77chz]
+[quote="Automated Penguin":3ih77chz]These fliers are massively out of date and list wrong information *COUGHPHLAKCOUGH*[/quote:3ih77chz]
 
 Oops... didn't realize that.  Yeah, the other flyer I mentioned doesn't specify a location, just says to check the website for location.  I'll try to get that one up over lunch.
 
@@ -43,7 +43,7 @@ Posted by **Rax** on Wed October 20th, 2010 09:49:01 PM
 
 QR code rather than bar code on flyers, please.
 
-I guess it'll have to say &quot;see web site for meeting location&quot; since there's no new &quot;regular&quot; meeting spot (yet).
+I guess it'll have to say "see web site for meeting location" since there's no new "regular" meeting spot (yet).
 
 --------------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ Posted by **PHLAK** on Thu November 4th, 2010 12:53:46 PM
 Ok, new flyer is now available:
 
 Color: <!-- m --><a class="postlink" href="http://www.chriskankiewicz.com/documents/phx2600/flyers/PHX2600_Flyer_New_4up_Color.pdf">http://www.chriskankiewicz.com/document ... _Color.pdf</a><!-- m -->
-Black &amp; White: <!-- m --><a class="postlink" href="http://www.chriskankiewicz.com/documents/phx2600/flyers/PHX2600_Flyer_New_4up_BW.pdf">http://www.chriskankiewicz.com/document ... 4up_BW.pdf</a><!-- m -->
+Black  &amp;  White: <!-- m --><a class="postlink" href="http://www.chriskankiewicz.com/documents/phx2600/flyers/PHX2600_Flyer_New_4up_BW.pdf">http://www.chriskankiewicz.com/document ... 4up_BW.pdf</a><!-- m -->
 
 --------------------------------------------------------------------------------
 
@@ -76,10 +76,10 @@ What do you do?
 
 Posted by **dxh** on Sun December 5th, 2010 07:12:01 PM
 
-[quote=&quot;PHLAK&quot;:3v8tbr8h]Ok, new flyer is now available:
+[quote="PHLAK":3v8tbr8h]Ok, new flyer is now available:
 
 Color: <!-- m --><a class="postlink" href="http://www.chriskankiewicz.com/documents/phx2600/flyers/PHX2600_Flyer_New_4up_Color.pdf">http://www.chriskankiewicz.com/document ... _Color.pdf</a><!-- m -->
-Black &amp; White: <!-- m --><a class="postlink" href="http://www.chriskankiewicz.com/documents/phx2600/flyers/PHX2600_Flyer_New_4up_BW.pdf">http://www.chriskankiewicz.com/document ... 4up_BW.pdf</a><!-- m -->[/quote:3v8tbr8h]
+Black  &amp;  White: <!-- m --><a class="postlink" href="http://www.chriskankiewicz.com/documents/phx2600/flyers/PHX2600_Flyer_New_4up_BW.pdf">http://www.chriskankiewicz.com/document ... 4up_BW.pdf</a><!-- m -->[/quote:3v8tbr8h]
 
 I'll post the color one on the doors of HeatSync Labs, despite the logo's use of Comic Sans.  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 
@@ -89,18 +89,18 @@ Posted by **AltF4** on Mon December 6th, 2010 07:00:09 AM
 
 I printed out dozens last year and put them all over the Brickyard. But now I'm all graduated...
 
-New members are always awesome. But what I think we really need are more organized 2600 events. The meetings are great, but we always seem to kind of just sit around and talk. Which is awesome. I love talking to you guys. But it would be good if we had a &quot;Phx 2600 sponsored game of CTF&quot; or &quot;Phx 2600 soft/hardware projects&quot;. 
+New members are always awesome. But what I think we really need are more organized 2600 events. The meetings are great, but we always seem to kind of just sit around and talk. Which is awesome. I love talking to you guys. But it would be good if we had a "Phx 2600 sponsored game of CTF" or "Phx 2600 soft/hardware projects". 
 
-Maybe we can have a &quot;show off your pet project month&quot;. (People are always so hesitant to show their projects until their done)
+Maybe we can have a "show off your pet project month". (People are always so hesitant to show their projects until their done)
 
 --------------------------------------------------------------------------------
 
 Posted by **Automated Penguin** on Mon December 6th, 2010 07:56:55 AM
 
-[quote=&quot;AltF4&quot;:3hvx4swl]
-New members are always awesome. But what I think we really need are more organized 2600 events. The meetings are great, but we always seem to kind of just sit around and talk. Which is awesome. I love talking to you guys. But it would be good if we had a &quot;Phx 2600 sponsored game of CTF&quot; or &quot;Phx 2600 soft/hardware projects&quot;. 
+[quote="AltF4":3hvx4swl]
+New members are always awesome. But what I think we really need are more organized 2600 events. The meetings are great, but we always seem to kind of just sit around and talk. Which is awesome. I love talking to you guys. But it would be good if we had a "Phx 2600 sponsored game of CTF" or "Phx 2600 soft/hardware projects". 
 
-Maybe we can have a &quot;show off your pet project month&quot;. (People are always so hesitant to show their projects until their done)[/quote:3hvx4swl]
+Maybe we can have a "show off your pet project month". (People are always so hesitant to show their projects until their done)[/quote:3hvx4swl]
 
 Correct sir!
 
@@ -133,7 +133,7 @@ do you have a ham license penguin? cause if so i never know you were into this w
 
 Posted by **Automated Penguin** on Tue December 7th, 2010 04:48:46 PM
 
-[quote=&quot;TerrorDrone&quot;:krkpvhv4]Do you have a ham license penguin? cause if so i never know you were into this we could have been sharing ideas and other radio stuff a while ago[/quote:krkpvhv4]
+[quote="TerrorDrone":krkpvhv4]Do you have a ham license penguin? cause if so i never know you were into this we could have been sharing ideas and other radio stuff a while ago[/quote:krkpvhv4]
 
 Kilo Echo Seven Victory Mike Quebec, That's me!
 
@@ -163,7 +163,7 @@ I could do a quick presentation on a pet project of mine. I mentioned it a while
 
 It would also be cool to make a counter-tool. Something which shapes your traffic such that it appears to be a different protocol. (IE: Pad packets and send them in intervals such that Bit Torrent traffic looks like Web traffic, or whatever)
 
-I feel like we should have a &quot;Pet Project&quot; room on the forum. 
+I feel like we should have a "Pet Project" room on the forum. 
 
 oh, also. I signed up for the P2P DNS Security / Dev team.
 
@@ -207,8 +207,8 @@ I wonder what the most signed key is these days.
 
 Posted by **PHLAK** on Mon December 13th, 2010 09:20:36 AM
 
-[quote=&quot;AltF4&quot;:39qq29z9]What about a key signing party?[/quote:39qq29z9]
+[quote="AltF4":39qq29z9]What about a key signing party?[/quote:39qq29z9]
 
-That's awesome!  I'm totally down for this.  Maybe we could roll the DARC poker night / fund raiser in with the key signing party?  Do you know how to set up a public key server so we can have a PHX2600 key server, or do you think it would be better to use a free one like the [url=http&#58;//pgp&#46;mit&#46;edu/:39qq29z9]MIT PGP Key Server[/url:39qq29z9]?
+That's awesome!  I'm totally down for this.  Maybe we could roll the DARC poker night / fund raiser in with the key signing party?  Do you know how to set up a public key server so we can have a PHX2600 key server, or do you think it would be better to use a free one like the [url=http://pgp.mit.edu/:39qq29z9]MIT PGP Key Server>?
 
-While we're on the topic of key servers, do you know how to remove your key from the server after having lost the original? I have a few on the MIT key server that I no longer have any more (set them up before I fully understood PGP), and would like to remove those and put up a current one.  [b:39qq29z9]EDIT:[/b:39qq29z9] [url=http&#58;//pgp&#46;mit&#46;edu/faq&#46;html:39qq29z9]Answered my own question[/url:39qq29z9]
+While we're on the topic of key servers, do you know how to remove your key from the server after having lost the original? I have a few on the MIT key server that I no longer have any more (set them up before I fully understood PGP), and would like to remove those and put up a current one.  **EDIT:** [url=http://pgp.mit.edu/faq.html:39qq29z9]Answered my own question>

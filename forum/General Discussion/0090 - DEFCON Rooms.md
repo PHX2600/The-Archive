@@ -34,7 +34,7 @@ Yey.
 
 Posted by **PHLAK** on Wed April 16th, 2008 03:22:39 AM
 
-[quote=&quot;taryn&quot;:3l3dujbv]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
+[quote="taryn":3l3dujbv]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
 
 So I pitched the idea to my dad and hey it might happen. And since Defcon is the 8th thru 10th we may as well go.
 
@@ -47,7 +47,7 @@ LOL!  That makes two of us!  I'm getting hitched on the 2nd, and coming to Defco
 
 Posted by **taryn** on Wed April 23rd, 2008 10:01:12 PM
 
-[quote=&quot;PHLAK&quot;:28tr8ehg][quote=&quot;taryn&quot;:28tr8ehg]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
+[quote="PHLAK":28tr8ehg][quote="taryn":28tr8ehg]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
 
 So I pitched the idea to my dad and hey it might happen. And since Defcon is the 8th thru 10th we may as well go.
 
@@ -64,7 +64,7 @@ anyway you guys should show up. a few internet friends from the board zaph and i
 
 Posted by **Teh_Fed** on Sun April 27th, 2008 12:03:35 AM
 
-[quote=&quot;taryn&quot;:3dq2lvh2]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
+[quote="taryn":3dq2lvh2]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
 
 So I pitched the idea to my dad and hey it might happen. And since Defcon is the 8th thru 10th we may as well go.
 
@@ -76,7 +76,7 @@ Well jeeze now i  want to go, why come there has be so many things to do during 
 
 Posted by **taryn** on Sun April 27th, 2008 07:00:12 PM
 
-[quote=&quot;Teh_Fed&quot;:2ikcahk7][quote=&quot;taryn&quot;:2ikcahk7]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
+[quote="Teh_Fed":2ikcahk7][quote="taryn":2ikcahk7]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
 
 So I pitched the idea to my dad and hey it might happen. And since Defcon is the 8th thru 10th we may as well go.
 
@@ -92,10 +92,10 @@ ETA: Or did you mean who is going to watch him part time while we do other thing
 
 Posted by **ArchAngel** on Mon April 28th, 2008 05:51:58 PM
 
-[quote=&quot;taryn&quot;:1brqvygi]He's like WTF DO NOT WANT @ bottle.[/quote:1brqvygi]
+[quote="taryn":1brqvygi]He's like WTF DO NOT WANT @ bottle.[/quote:1brqvygi]
 Well don't feed him the whole array at once, silly. Try:
 [code:1brqvygi]foreach $myBottle (@bottle){
-feedBaby($myBottle) || die &quot;could not feed baby&#58;$!&quot;;
+feedBaby($myBottle) || die "could not feed baby:$!";
  }
 [/code:1brqvygi]
 
@@ -107,7 +107,7 @@ feedBaby($myBottle) || die &quot;could not feed baby&#58;$!&quot;;
 
 Posted by **Teh_Fed** on Wed April 30th, 2008 12:44:26 AM
 
-[quote=&quot;taryn&quot;:30djatjr][quote=&quot;Teh_Fed&quot;:30djatjr][quote=&quot;taryn&quot;:30djatjr]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
+[quote="taryn":30djatjr][quote="Teh_Fed":30djatjr][quote="taryn":30djatjr]zaph and I might go to Defcon this year. My birthday is August 5th and we are getting married around then since that's when my insurance [thru my mom] runs out. And I always wanted a really tacky Vegas wedding, if I ever happened to get married. Super tacky.
 
 So I pitched the idea to my dad and hey it might happen. And since Defcon is the 8th thru 10th we may as well go.
 
@@ -125,10 +125,10 @@ Ya i meant watching him, you know there are prostitues everywhere there i think 
 
 Posted by **taryn** on Thu May 1st, 2008 12:21:42 PM
 
-[quote=&quot;ArchAngel&quot;:8cmgorhs][quote=&quot;taryn&quot;:8cmgorhs]He's like WTF DO NOT WANT @ bottle.[/quote:8cmgorhs]
+[quote="ArchAngel":8cmgorhs][quote="taryn":8cmgorhs]He's like WTF DO NOT WANT @ bottle.[/quote:8cmgorhs]
 Well don't feed him the whole array at once, silly. Try:
 [code:8cmgorhs]foreach $myBottle (@bottle){
-feedBaby($myBottle) || die &quot;could not feed baby&#58;$!&quot;;
+feedBaby($myBottle) || die "could not feed baby:$!";
  }
 [/code:8cmgorhs]
 
@@ -137,11 +137,11 @@ feedBaby($myBottle) || die &quot;could not feed baby&#58;$!&quot;;
 -ArchAngel[/quote:8cmgorhs]
 More like:
 
-[url:8cmgorhs]http&#58;//i30&#46;tinypic&#46;com/2ex1qx4&#46;jpg[/url:8cmgorhs] [I tried to inline the image &amp; it cut the end off? Weird.]
+<http://i30.tinypic.com/2ex1qx4.jpg> [I tried to inline the image  &amp;  it cut the end off? Weird.]
 
 If you ignore all the wintery clothes it pretty much looks like us too...
 
-[quote=&quot;Teh_Fed&quot;:8cmgorhs]Ya i meant watching him, you know there are prostitues everywhere there i think you can pay them for things other than sex <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) --> and who knows one might even have breast milk....laced with crack[/quote:8cmgorhs]
+[quote="Teh_Fed":8cmgorhs]Ya i meant watching him, you know there are prostitues everywhere there i think you can pay them for things other than sex <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) --> and who knows one might even have breast milk....laced with crack[/quote:8cmgorhs]
 
 Oh you read the story about the baby dying from cokemilk too huh? The mom did lines off his stomach while she nursed him! Wtf?!
 
@@ -157,7 +157,7 @@ Two of my friends got married around Defcon time (one of them in Vegas), now som
 
 Posted by **taryn** on Tue June 3rd, 2008 11:07:44 AM
 
-[quote=&quot;phigan&quot;:3uw6mi88]Something to think about if you're getting married in Vegas at Defcon...
+[quote="phigan":3uw6mi88]Something to think about if you're getting married in Vegas at Defcon...
 
 Two of my friends got married around Defcon time (one of them in Vegas), now sometimes Defcon falls on their anniversary. So, if they go to Defcon, they can't kick it with the wife, or vice versa.[/quote:3uw6mi88]
 Oh man. We aren't getting married AT Defcon. What do you think we are, nerds?! 
@@ -168,15 +168,15 @@ We are getting married at the Starship Chapel by Spock.
 
 Posted by **zaphraud** on Tue June 3rd, 2008 01:08:32 PM
 
-The funniest reaction so far has been my parents, who said &quot;Don't you think it's going to be kind of hot in August, in Las Vegas?&quot;
+The funniest reaction so far has been my parents, who said "Don't you think it's going to be kind of hot in August, in Las Vegas?"
 
-The worst part? [i:325534m3]They moved about 20 miles south of Phoenix in 2005, so its not like they don't know...[/i:325534m3]
+The worst part? _They moved about 20 miles south of Phoenix in 2005, so its not like they don't know..._
 
 --------------------------------------------------------------------------------
 
 Posted by ***Hazard** on Tue July 1st, 2008 10:28:37 AM
 
-[quote=&quot;Rax&quot;:2ml88630]DefCon.org
+[quote="Rax":2ml88630]DefCon.org
 
 Aug 8-10 in Las Vegas
 
@@ -202,9 +202,9 @@ The Riviera seems to be sold out.  I really wanted to check out their signature 
 
 Posted by ***Hazard** on Thu July 3rd, 2008 12:01:44 AM
 
-[quote=&quot;dxh&quot;:ppn75r2a]The Riviera seems to be sold out.  I really wanted to check out their signature rooms, too.  <!-- s:cry: --><img src="{SMILIES_PATH}/icon_cry.gif" alt=":cry:" title="Crying or Very Sad" /><!-- s:cry: -->[/quote:ppn75r2a]
+[quote="dxh":ppn75r2a]The Riviera seems to be sold out.  I really wanted to check out their signature rooms, too.  <!-- s:cry: --><img src="{SMILIES_PATH}/icon_cry.gif" alt=":cry:" title="Crying or Very Sad" /><!-- s:cry: -->[/quote:ppn75r2a]
 
-Damn. Gotta turn to family now. &lt;&lt;shivers&gt;&gt;
+Damn. Gotta turn to family now. <<shivers>>
 
 Holiday Inn Express, maybe?
 
@@ -224,7 +224,7 @@ Will I go? I dunno. I didn't book a room, but I has lots of cash. Maybe someones
 
 Posted by **taryn** on Sat July 12th, 2008 10:16:51 PM
 
-[quote=&quot;Evil1&quot;:3uwty2xv]but I has lots of cash[/quote:3uwty2xv]
+[quote="Evil1":3uwty2xv]but I has lots of cash[/quote:3uwty2xv]
 i hope you have lots of $1s
 
 --------------------------------------------------------------------------------

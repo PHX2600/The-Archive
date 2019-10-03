@@ -1,7 +1,7 @@
 ## Dictionary.txt Files
 Posted by **PHLAK** on Sun January 13th, 2008 01:12:23 AM
 
-So... found this nice little piece of software: [url:1hwux92r]http&#58;//freespace&#46;virgin&#46;net/martin&#46;mamo/dictgen&#46;html[/url:1hwux92r] that takes 2 text files and combines them into one dictionary text file (one word per line) with no repeats.  With this I have combined all my dictionary files (and a few other non-dictionary files) into one large 3,740KB dictionary file (get it here: [url:1hwux92r]http&#58;//www&#46;chriskankiewicz&#46;com/documents/phx2600/hax/dictionary&#46;zip[/url:1hwux92r]).
+So... found this nice little piece of software: <http://freespace.virgin.net/martin.mamo/dictgen.html> that takes 2 text files and combines them into one dictionary text file (one word per line) with no repeats.  With this I have combined all my dictionary files (and a few other non-dictionary files) into one large 3,740KB dictionary file (get it here: <http://www.chriskankiewicz.com/documents/phx2600/hax/dictionary.zip>).
 
 Anyway, I was wondering if anyone had any larger text files, or any at all, so I can keep crunching these together and make one massive dictionary.txt file for everyone.So... SEND ME THOSE DICTIONARY FILES!!!
 
@@ -25,9 +25,9 @@ That's kind of the point!
 
 Posted by **ArchAngel** on Fri January 18th, 2008 02:28:44 PM
 
-&lt;_&lt;
+<_<
 
-&gt;_&gt;
+>_>
 
 [code:2d2oeyko]
 dave,fran,susanita,goresw,pad1ngton,Debra,asdf,mymiata,zdws26,assembly,
@@ -61,7 +61,7 @@ Broncos01,Breanna1991,chief1,Coll1283,danielle,babyface,Riverton4,coppercat9,Chr
 derekron,2007Alaska,houston11,cap1tan,123Annoy,Back90oFF,AK01home,1-Dec,razoklic,
 2Festus,killian1,Jana00o1,Christmas06,Buckster55,retirement,utex70,caleigha,1234SKIPPYlou,RJR1smr,
 milo,pinetop,Enormous1,Carson35,S1incere1,Nature1,goleight!thd,anne4347,Fredcat1,
-sun2Shine,Drifters5,drake&#46;,Rfr301,isaac01,Aspen999,Michigan07,CancunBeach9,41651,
+sun2Shine,Drifters5,drake.,Rfr301,isaac01,Aspen999,Michigan07,CancunBeach9,41651,
 engineer,kolina12,kadoks01,baseball,kr1stin,tuna2185,3devonian3,Grinde1,alaska,matt6161,
 roessls,gutter,Pila1uno,salamatpo,cassie,2coldinAK,mieeTH01,46661773,Chawk5,sooners60,
 tweetgus,petersm2,7-Feb,thor51,M00se4,11fs3ml,Katrina3,g1zzm0w,Ferrari7612,
@@ -95,7 +95,7 @@ Mustang44,24621011,4577866,kl2990NV,nicholas,peanuts,nathan,cwws667,mike2004,Bar
 maya11,3945WdB3,Shelby44,change,007007Pj,davos002,PASSword2,Farnsworth127,BIMChief3,11Olivilove,
 welcome,Heider04,stefonic,rascal7632,Emmett88,may12kee3440,squeeky,divot,Winter2006,Labas123,
 13554nri2,march0902,3733Fred,chanko1,15688624,melissa,FISHING,1314Scots,maggyg,3141ispi,
-west3944,spcl4YOU,ottogolf,bernie,9ijnIJN,Luke11&#58;9thru10,ben13ois,cicrusty,greenway,
+west3944,spcl4YOU,ottogolf,bernie,9ijnIJN,Luke11:9thru10,ben13ois,cicrusty,greenway,
 x802qz8,Dpm0930,bowtie,Sallydog1996,eubanktr,Newportsailor,Welcome1,winter,Polaris1,DLK69level3,
 Ebina04,seal dogs,le$blaine,jeremyone,Clint10,password,Cookie3,laganson,
 flagday00,Password1,AlaskaLosser69,mrsanders,nineteen86,apolo14space,F470c572,williama,72Camero,Stevenanny2,
@@ -184,11 +184,11 @@ All I've got to say is: The Argon List.
 
 <!-- m --><a class="postlink" href="http://theargon.com/achilles/wordlists/theargonlists/theargonlistver2.zip">http://theargon.com/achilles/wordlists/ ... stver2.zip</a><!-- m -->
 
-[quote:qz2pwxc9]shadow@tourian:~&gt; unzip theargonlistver2.zip
+[quote:qz2pwxc9]shadow@tourian:~> unzip theargonlistver2.zip
 Archive:  theargonlistver2.zip
   inflating: word.rar
   inflating: ReadMe.txt
-shadow@tourian:~&gt; unrar e word.rar
+shadow@tourian:~> unrar e word.rar
 
 UNRAR 3.71 beta 1 freeware      Copyright (c) 1993-2007 Alexander Roshal
 
@@ -197,7 +197,7 @@ Extracting from word.rar
 
 Extracting  word.lst                                                  OK
 All OK
-shadow@tourian:~&gt; du -h word.lst; cat word.lst | wc -l
+shadow@tourian:~> du -h word.lst; cat word.lst | wc -l
 1.9G    word.lst
 227784242
 [/quote:qz2pwxc9]
@@ -212,7 +212,7 @@ JESUS TITTY-F***ING CHRIST!!!
 
 Posted by **kingbudz** on Wed August 5th, 2009 11:10:36 AM
 
-[quote=&quot;PHLAK&quot;:hoimv7fo]So... found this nice little piece of software: [url:hoimv7fo]http&#58;//freespace&#46;virgin&#46;net/martin&#46;mamo/dictgen&#46;html[/url:hoimv7fo] that takes 2 text files and combines them into one dictionary text file (one word per line) with no repeats.  With this I have combined all my dictionary files (and a few other non-dictionary files) into one large 3,740KB dictionary file (get it here: [url:hoimv7fo]http&#58;//www&#46;chriskankiewicz&#46;com/documents/phx2600/hax/dictionary&#46;zip[/url:hoimv7fo]).
+[quote="PHLAK":hoimv7fo]So... found this nice little piece of software: <http://freespace.virgin.net/martin.mamo/dictgen.html> that takes 2 text files and combines them into one dictionary text file (one word per line) with no repeats.  With this I have combined all my dictionary files (and a few other non-dictionary files) into one large 3,740KB dictionary file (get it here: <http://www.chriskankiewicz.com/documents/phx2600/hax/dictionary.zip>).
 
 Anyway, I was wondering if anyone had any larger text files, or any at all, so I can keep crunching these together and make one massive dictionary.txt file for everyone.So... SEND ME THOSE DICTIONARY FILES!!![/quote:hoimv7fo]
 
@@ -220,4 +220,4 @@ finally i got something new here, maybe i should take this one..
 
 
 ________________
-[url=http&#58;//www&#46;chacha&#46;com/language-lookup/definitions/:hoimv7fo]Define[/url:hoimv7fo]
+[url=http://www.chacha.com/language-lookup/definitions/:hoimv7fo]Define>

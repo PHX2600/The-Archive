@@ -1,11 +1,11 @@
 ## Tip of the Hat, Wag of the Finger
 Posted by **TheWill** on Mon August 3rd, 2009 04:23:05 AM
 
-[b:22qtwyeo]Tip of the Hat:[/b:22qtwyeo]
-   Great to meet a couple of you at defcon this past weekend! (Sorry, I don't remember any names.) It was my first actual hacker meetup and it did great things for my psyche (6,700 people just like me?!?) I'll try to make it to the meetup this Friday. Also, if you're a twitter type person, please shoot me a message [url=http&#58;//www&#46;twitter&#46;com/willbradley:22qtwyeo]@willbradley[/url:22qtwyeo] since forums are about 10 years behind the online socializing curve. I r nice, n r do not b bitin.
+**Tip of the Hat:**
+   Great to meet a couple of you at defcon this past weekend! (Sorry, I don't remember any names.) It was my first actual hacker meetup and it did great things for my psyche (6,700 people just like me?!?) I'll try to make it to the meetup this Friday. Also, if you're a twitter type person, please shoot me a message [url=http://www.twitter.com/willbradley:22qtwyeo]@willbradley> since forums are about 10 years behind the online socializing curve. I r nice, n r do not b bitin.
 
-[b:22qtwyeo]Wag of the Finger:[/b:22qtwyeo]
-   (Re: attached screenshot of &quot;my password&quot;) Srsly guys? This kind of security hole is silly for a hacker group to be continuing... If you'd like me to hack phpbb to remove the little HERE IS YOUR PASSWORD WHICH YOU PROBABLY ALSO USE FOR OTHER FORUMS AND ONLINE SERVICES TOO note I'd be happy to help out <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
+**Wag of the Finger:**
+   (Re: attached screenshot of "my password") Srsly guys? This kind of security hole is silly for a hacker group to be continuing... If you'd like me to hack phpbb to remove the little HERE IS YOUR PASSWORD WHICH YOU PROBABLY ALSO USE FOR OTHER FORUMS AND ONLINE SERVICES TOO note I'd be happy to help out <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 
 --------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ I see you live in Tempe. Does that make you an ASU student? I'm lonely there. AS
 
 Posted by **dxh** on Mon August 3rd, 2009 11:24:30 PM
 
-[quote=&quot;AltF4Warrior&quot;:evp89f48]I see you live in Tempe. Does that make you an ASU student? I'm lonely there. ASU hasn't much of a hacker community, I'm sorry to say. But I'm hoping to fix that. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->[/quote:evp89f48]
+[quote="AltF4Warrior":evp89f48]I see you live in Tempe. Does that make you an ASU student? I'm lonely there. ASU hasn't much of a hacker community, I'm sorry to say. But I'm hoping to fix that. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->[/quote:evp89f48]
 
 Wat?  There be plenty of closeted hackers in ASULIUG and the ASU Computer Society Student Branch thar.
 
@@ -71,7 +71,7 @@ So....posting a clear text password to a password protected email is thats usual
 
 Posted by **hexatex** on Fri August 7th, 2009 02:47:35 PM
 
-[quote=&quot;Evil1&quot;:3okox7qn]So....posting a clear text password to a password protected email is thats usually SSL encrypted is bad how?[/quote:3okox7qn]
+[quote="Evil1":3okox7qn]So....posting a clear text password to a password protected email is thats usually SSL encrypted is bad how?[/quote:3okox7qn]
 
 hmm I could see a security issue with that, email transfer usually isn't ssl encrypted by default, at least from what I have seen.
 
@@ -91,53 +91,53 @@ Not to mention that SMTP email transmission and email databases themselves are f
 
 Posted by **PHLAK** on Sat August 15th, 2009 01:05:49 PM
 
-I had a brief look around the code and didn't see where it was generating the email text.  I could probably find it if I really dug deep, but that might take a while.  If anyone would like to help me find where it's echoing this, grab a copy of the PHPBB code from [url=http&#58;//www&#46;ohloh&#46;net/p/phpbb/download?filename=phpBB-3&#46;0&#46;5&#46;zip:11yhff8x]here[/url:11yhff8x] and give me a file path/name and line number and I'll get this done.
+I had a brief look around the code and didn't see where it was generating the email text.  I could probably find it if I really dug deep, but that might take a while.  If anyone would like to help me find where it's echoing this, grab a copy of the PHPBB code from [url=http://www.ohloh.net/p/phpbb/download?filename=phpBB-3.0.5.zip:11yhff8x]here> and give me a file path/name and line number and I'll get this done.
 
 --------------------------------------------------------------------------------
 
 Posted by **jargon** on Wed August 19th, 2009 08:33:11 AM
 
-[b:1yflhaq1]Re: Tip of the Hat, Wag of the Finger[/b:1yflhaq1]
+**Re: Tip of the Hat, Wag of the Finger**
 
-[quote=&quot;TheWill on Fri Aug 07, 2009 6:49 pm&quot;:1yflhaq1]
+[quote="TheWill on Fri Aug 07, 2009 6:49 pm":1yflhaq1]
 A high profile example is the Twitter company hack a few weeks ago. A hacker found the personal Gmail address of an employee, asked for a password reset, noticed that it was going to send to an (expired) Hotmail address, registered that address and sent the reset, then logged into the Gmail account and sifted thru it looking for forum password emails like the one in question. Reset the Gmail password to the forum password which had a high probability of being identical, employee none the wiser. Rinse and repeat on up to the Twitter Google Apps account and all of their secret company documents.
 
 Not to mention that SMTP email transmission and email databases themselves are frequently not encrypted, so emailing permanent passwords as a practice is quite flawed.
 [/quote:1yflhaq1]
 
-[quote=&quot;PHLAK on Sat Aug 15, 2009 12:05 pm&quot;:1yflhaq1]
+[quote="PHLAK on Sat Aug 15, 2009 12:05 pm":1yflhaq1]
 I had a brief look around the code and didn't see where it was generating the email text. I could probably find it if I really dug deep, but that might take a while. If anyone would like to help me find where it's echoing this, grab a copy of the PHPBB code from here and give me a file path/name and line number and I'll get this done.
 [/quote:1yflhaq1]
 
 This is an example with the XAMPP httpd using the default install, with PHPBB installed using default folder name:
-[code:1yflhaq1]C&#58;\xampp\htdocs\phpBB3\language\en\email\user_activate_passwd&#46;txt[/code:1yflhaq1]
+[code:1yflhaq1]C:\xampp\htdocs\phpBB3\language\en\email\user_activate_passwd.txt[/code:1yflhaq1]
 
 Here is that document:
 [code:1yflhaq1]
-Subject&#58; New password activation
+Subject: New password activation
 
 Hello {USERNAME}
 
-You are receiving this notification because you have (or someone pretending to be you has) requested a new password be sent for your account on &quot;{SITENAME}&quot;&#46; If you did not request this notification then please ignore it, if you keep receiving it please contact the board administrator&#46;
+You are receiving this notification because you have (or someone pretending to be you has) requested a new password be sent for your account on "{SITENAME}". If you did not request this notification then please ignore it, if you keep receiving it please contact the board administrator.
 
-To use the new password you need to activate it&#46; To do this click the link provided below&#46;
+To use the new password you need to activate it. To do this click the link provided below.
 
 {U_ACTIVATE}
 
-If successful you will be able to login using the following password&#58;
+If successful you will be able to login using the following password:
 
-Password&#58; {PASSWORD}
+Password: {PASSWORD}
 
-You can of course change this password yourself via the profile page&#46; If you have any difficulties please contact the board administrator&#46;
+You can of course change this password yourself via the profile page. If you have any difficulties please contact the board administrator.
 
 {EMAIL_SIG}
 [/code:1yflhaq1]
 
 You need to remove:
 [code:1yflhaq1]
-If successful you will be able to login using the following password&#58;
+If successful you will be able to login using the following password:
 
-Password&#58; {PASSWORD}
+Password: {PASSWORD}
 [/code:1yflhaq1]
 
 Either that or force people to change their password at the re-activation {U_ACTIVATE} url using a password strength test compared to the former password. You only want to do this server side, and only send the result of the check to the admin and nobody else in order for the admin to potentially assist post-reactivate regarding password trouble.

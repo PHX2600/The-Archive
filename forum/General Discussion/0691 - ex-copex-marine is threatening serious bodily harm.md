@@ -6,14 +6,14 @@ Some ex-cop/ex-marine is threatening to do serious bodily harm to me online.  I'
 [quote:nho1kpo5]
 I would have likely sought you out and quite literally put my boot up your ass, and then hospitalized your sorry ass just for good measure. If you doubt my ability to have actually pulled this off, then you have just made a critical tactical error in the form of underestimating an extremely dangerous opponent.
 ...
-is liable to have a nasty &quot;accident&quot;, courtesy of his peers. 
+is liable to have a nasty "accident", courtesy of his peers. 
 ...
-I also have resources you are not aware of. Some very substantial ones, in fact. And I assure you, were I to do something such as that, there would not be any repercussions for me. Though I strongly believe in &quot;Rule of Law&quot;, for whatever it's worth this day and age (not much), and I've never condoned vigilanteism, there are certain things that simply must be dealt with, outside of &quot;legitimate&quot; channels if necessary. And lemme tell ya, you don't nearly as much about me as you think you do. I happen to very skilled at deception, misinformation, and hiding in plain sight. Had to be, in order to carry out our team's assignments, supposedly for the &quot;just, honorable, and righteous good guys&quot; of this once great nation, but that's whole different story, from a whole different life, and one I won't get into to. 
+I also have resources you are not aware of. Some very substantial ones, in fact. And I assure you, were I to do something such as that, there would not be any repercussions for me. Though I strongly believe in "Rule of Law", for whatever it's worth this day and age (not much), and I've never condoned vigilanteism, there are certain things that simply must be dealt with, outside of "legitimate" channels if necessary. And lemme tell ya, you don't nearly as much about me as you think you do. I happen to very skilled at deception, misinformation, and hiding in plain sight. Had to be, in order to carry out our team's assignments, supposedly for the "just, honorable, and righteous good guys" of this once great nation, but that's whole different story, from a whole different life, and one I won't get into to. 
 [/quote:nho1kpo5]
 
 Here's the other funny part.  If he's a master of deception why do I already have 4 pictures of him?  Why do I know his age, that he lives in Tucson AZ, and the he has a dating profile on Match.com?? lol   (Of course he doesn't know that I know this).
 
-I figured this would be a good opportunity to talk about how to protect yourself from psychos on the internet, by finding out as much about the person as possible in case [i:nho1kpo5]they do[/i:nho1kpo5] make good on their threats.   Most of the tools I use to locate or track someone's presence on the internet are standard searches and a bit of intuition.  Of course, if you have a phone number or name you have more options available.  I'm curious what tools you use on very limited information.
+I figured this would be a good opportunity to talk about how to protect yourself from psychos on the internet, by finding out as much about the person as possible in case _they do_ make good on their threats.   Most of the tools I use to locate or track someone's presence on the internet are standard searches and a bit of intuition.  Of course, if you have a phone number or name you have more options available.  I'm curious what tools you use on very limited information.
 
 --------------------------------------------------------------------------------
 
@@ -49,7 +49,7 @@ Haha, tuff stuff <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":
 
 Posted by **Ugly** on Mon December 8th, 2008 04:38:42 PM
 
-Are you sure he's an ex cop/marine and not just a [url=http&#58;//lonelymachines&#46;org/mall-ninjas/:11p6m8la]mall[/url:11p6m8la] [url=http&#58;//lonelymachines&#46;org/2006/08/12/return-of-the-iron-fist-of-the-mall-ninja/:11p6m8la]ninja[/url:11p6m8la]?
+Are you sure he's an ex cop/marine and not just a [url=http://lonelymachines.org/mall-ninjas/:11p6m8la]mall> [url=http://lonelymachines.org/2006/08/12/return-of-the-iron-fist-of-the-mall-ninja/:11p6m8la]ninja>?
 
 --------------------------------------------------------------------------------
 
@@ -65,9 +65,9 @@ ThatGuy:
 
 That was essentially the gist of my plan...  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 
-He may very well be a Mall Ninja, but not really the &quot;lawful hero type&quot; mentioned by Ugly.  He constantly brings up references to firearms. In fact, in  a recent thread someone quipped about him putting two bullets in my chest and one in my head, and he replied:
+He may very well be a Mall Ninja, but not really the "lawful hero type" mentioned by Ugly.  He constantly brings up references to firearms. In fact, in  a recent thread someone quipped about him putting two bullets in my chest and one in my head, and he replied:
 
-[quote:1eih7zyj]&quot;Nah, that's overkill. Waste of good ammo. One in the the head should be quite sufficient to do the job. 'Specially bein's how I prefer heavier calibers like .40 S&amp;W or .45 ACP. If you don't miss, then lighter recoil/muzzle flip, and faster fllowup shots are irrelevant. With the lighter calibers you'll also need that followup shot, hence the lighter recoil becomes important. I don't have that problem.&quot;[/quote:1eih7zyj]
+[quote:1eih7zyj]"Nah, that's overkill. Waste of good ammo. One in the the head should be quite sufficient to do the job. 'Specially bein's how I prefer heavier calibers like .40 S&amp;W or .45 ACP. If you don't miss, then lighter recoil/muzzle flip, and faster fllowup shots are irrelevant. With the lighter calibers you'll also need that followup shot, hence the lighter recoil becomes important. I don't have that problem."[/quote:1eih7zyj]
 
 As far as embarassing pictures, here's a good start: [removed by request]
 
@@ -97,10 +97,10 @@ Posted by **Valveritas** on Tue December 9th, 2008 03:53:52 PM
 Talked to an ex-marine friend the other day.  His take on it was:
 
 [quote:kpq274se]
-I've met a few actual &quot;supercommando&quot; types, and let me assure you if they were going to harm someone they would not send an e-mail announcing their arrival.
+I've met a few actual "supercommando" types, and let me assure you if they were going to harm someone they would not send an e-mail announcing their arrival.
 
 Personally, I would take this right to the cops, because even if he
-isn't &quot;supercommando&quot;, even an untrained lunatic is capable of doing something stupid and dangerous that could harm you or your property. [/quote:kpq274se]
+isn't "supercommando", even an untrained lunatic is capable of doing something stupid and dangerous that could harm you or your property. [/quote:kpq274se]
 
 Hmm.
 
@@ -114,13 +114,13 @@ Well well, every cowboy needs a good pussy.
 
 Posted by **TerrorDrone** on Wed December 10th, 2008 02:37:41 PM
 
-[quote=&quot;CultLeadr&quot;:d0k5hacp]Talked to an ex-marine friend the other day.  His take on it was:
+[quote="CultLeadr":d0k5hacp]Talked to an ex-marine friend the other day.  His take on it was:
 
 [quote:d0k5hacp]
-I've met a few actual &quot;supercommando&quot; types, and let me assure you if they were going to harm someone they would not send an e-mail announcing their arrival.
+I've met a few actual "supercommando" types, and let me assure you if they were going to harm someone they would not send an e-mail announcing their arrival.
 
 Personally, I would take this right to the cops, because even if he
-isn't &quot;supercommando&quot;, even an untrained lunatic is capable of doing something stupid and dangerous that could harm you or your property. [/quote:d0k5hacp]
+isn't "supercommando", even an untrained lunatic is capable of doing something stupid and dangerous that could harm you or your property. [/quote:d0k5hacp]
 
 Hmm.[/quote:d0k5hacp]
 100% agree i work in a lower lvl spec ops unit not even a badass super commando i think if the wanted to hurt you 
@@ -149,7 +149,7 @@ At least you walked away from it.
 
 Posted by **Gun_Haver** on Wed December 10th, 2008 11:12:28 PM
 
-[quote=&quot;Ugly&quot;:qxvvpzsz]...And let's not forget that 2 in the chest and one in the head has very little to do with caliber or even killing someone.
+[quote="Ugly":qxvvpzsz]...And let's not forget that 2 in the chest and one in the head has very little to do with caliber or even killing someone.
 
 Two in the chest with anything from a .32 and up stops most people reflexively. The one in the head is for those that don't have that particular nervous response - somewhere in the 5-10% range.
 
@@ -172,7 +172,7 @@ While one should be prepared to kill when discharging their gun at someone, that
 
 Posted by **ThatGuy** on Thu December 11th, 2008 07:49:02 PM
 
-[quote=&quot;Gun_Haver&quot;:3kqroqlk]
+[quote="Gun_Haver":3kqroqlk]
 
 More like 30-40% in African Americans and 15-20% in Hispanics. Sometimes that's due to drugs sometimes not.
 

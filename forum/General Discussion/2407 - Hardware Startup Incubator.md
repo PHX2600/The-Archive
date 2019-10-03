@@ -1,7 +1,7 @@
 ## Hardware Startup Incubator
 Posted by **twitterkilo** on Fri March 22nd, 2013 01:34:52 AM
 
-That &quot;@assembleAZ&quot; thing hosted a wordpress meetup; and one of the guys there mentioned wanting to setup a space where Hardware Startups could have a home. He didn't yet have something to announce (like &quot;watch this twitter profile&quot; or &quot;go to xyz.com and get all the news about it&quot;), but I asked him where I could go to check back on it later on, and he told me to google &quot;Special Computing&quot; and the address in Scottsdale comes up, and this website:
+That "@assembleAZ" thing hosted a wordpress meetup; and one of the guys there mentioned wanting to setup a space where Hardware Startups could have a home. He didn't yet have something to announce (like "watch this twitter profile" or "go to xyz.com and get all the news about it"), but I asked him where I could go to check back on it later on, and he told me to google "Special Computing" and the address in Scottsdale comes up, and this website:
 
 <!-- m --><a class="postlink" href="http://www.specialcomp.com/">http://www.specialcomp.com/</a><!-- m -->
 

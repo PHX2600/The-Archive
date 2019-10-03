@@ -54,13 +54,13 @@ You know whats even more bad ass is that you can lock your doors, turn on your a
 
 Posted by **Automated Penguin** on Wed October 20th, 2010 08:06:47 AM
 
-[quote=&quot;ThatGuy&quot;:yje8p44n]You know whats even more bad ass is that you can lock your doors, turn on your alarm, feed your pets, deter burglaries, or just about anything with android phones with this awesomeness. I know Iphone has had similar software/hardware for a while, but have yet to see it for android phones.[/quote:yje8p44n]
+[quote="ThatGuy":yje8p44n]You know whats even more bad ass is that you can lock your doors, turn on your alarm, feed your pets, deter burglaries, or just about anything with android phones with this awesomeness. I know Iphone has had similar software/hardware for a while, but have yet to see it for android phones.[/quote:yje8p44n]
 
 Yeah its pretty open ended.
 
 The External IO channels are digital and analog, and being connected to the web it could  send out email alerts or sms or whatever. It is even able to monitor Ethernet traffic promiscuously and save packet data to the SD card, or host web content from the SD card. I already did some servo control via a uart interface to the little pololu controller you can see in the vid,  that was pretty fun.
 
-[quote=&quot;CultLeadr&quot;:yje8p44n]Good god. <!-- s:shock: --><img src="{SMILIES_PATH}/icon_eek.gif" alt=":shock:" title="Shocked" /><!-- s:shock: --> Can you cure a cataract with that? I sure hope so.[/quote:yje8p44n]
+[quote="CultLeadr":yje8p44n]Good god. <!-- s:shock: --><img src="{SMILIES_PATH}/icon_eek.gif" alt=":shock:" title="Shocked" /><!-- s:shock: --> Can you cure a cataract with that? I sure hope so.[/quote:yje8p44n]
 
 Haha is this a reference to all the monitors? or maybe the poor video quality? sorry about that.
 
@@ -69,7 +69,7 @@ Haha is this a reference to all the monitors? or maybe the poor video quality? s
 Posted by **Valveritas** on Wed October 20th, 2010 10:51:49 AM
 
 I was literally referring to a cataract... specifically mine, which is premature / genetic and
-not induced by any external factors.  I'm jumping on the &quot;you can do anything with this&quot; bandwagon. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
+not induced by any external factors.  I'm jumping on the "you can do anything with this" bandwagon. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
 --------------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ Posted by **TerrorDrone** on Wed October 20th, 2010 04:41:13 PM
 
 Posted by **Automated Penguin** on Wed October 20th, 2010 06:03:00 PM
 
-[quote=&quot;TerrorDrone&quot;:3f6yjae8]4 open ports is more than enough to do a lot specially with two analogue have you thought about a wifi version? and where did you get that bread board?[/quote:3f6yjae8]
+[quote="TerrorDrone":3f6yjae8]4 open ports is more than enough to do a lot specially with two analogue have you thought about a wifi version? and where did you get that bread board?[/quote:3f6yjae8]
 
 I think I got that one from <!-- m --><a class="postlink" href="http://www.goldmine-elec-products.com/products.asp?dept=1293">http://www.goldmine-elec-products.com/p ... ?dept=1293</a><!-- m -->
 

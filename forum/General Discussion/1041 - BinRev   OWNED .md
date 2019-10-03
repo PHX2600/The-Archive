@@ -1,11 +1,11 @@
 ## BinRev  * OWNED *
 Posted by **Rax** on Tue July 28th, 2009 09:43:09 PM
 
-BinRev.com has been owned.  See Stank's post about it [url=http&#58;//binrevstatus&#46;blogspot&#46;com/:a9aizain]here[/url:a9aizain].
+BinRev.com has been owned.  See Stank's post about it [url=http://binrevstatus.blogspot.com/:a9aizain]here>.
 
-See the article about it (and other shit) at this [url=http&#58;//www&#46;leetupload&#46;com/zf05&#46;txt:a9aizain]urber leetzor magazine[/url:a9aizain].  Since it's a text file, you'll need to scroll down to (and / or search for) [code:a9aizain]Binary revolution [/code:a9aizain] (with the lower case &quot;R&quot;).
+See the article about it (and other shit) at this [url=http://www.leetupload.com/zf05.txt:a9aizain]urber leetzor magazine>.  Since it's a text file, you'll need to scroll down to (and / or search for) [code:a9aizain]Binary revolution [/code:a9aizain] (with the lower case "R").
 
-The authors were even so kind as to attempt a password hash crack.  I'm pretty sure I didn't put &quot;dick&quot; for my password. It would have been something more like &quot;Ihaveareallybigdick&quot; or something. LOL
+The authors were even so kind as to attempt a password hash crack.  I'm pretty sure I didn't put "dick" for my password. It would have been something more like "Ihaveareallybigdick" or something. LOL
 
 At any rate, Stank is saying that he may just retire the entire site (see first link). Can't say that I blame him.
 
@@ -53,6 +53,6 @@ Posted by **Nrezinorn** on Thu July 30th, 2009 10:29:04 AM
 
 Interesting.
 Did they somehow get root or did your user have root privileges?   Something looks misconfigured!
-I also archived a copy of the section (found it in google cache)  [url=http&#58;//nrezinorn&#46;net/binrev&#46;txt:orlfymq6]here[/url:orlfymq6]
+I also archived a copy of the section (found it in google cache)  [url=http://nrezinorn.net/binrev.txt:orlfymq6]here>
 
 Also the PHP code they are referring to?  the backup scripts?  Were they mad you didn't use bash or something?   <!-- s:roll: --><img src="{SMILIES_PATH}/icon_rolleyes.gif" alt=":roll:" title="Rolling Eyes" /><!-- s:roll: -->

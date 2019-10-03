@@ -5,15 +5,15 @@ Rainbow tables have recently caught my interest, but they're gigantic files. I'm
 
 I'm interested in getting some decent sized tables ~10gb for MD5, LM, and NTLM. 
 It looks like there are some tables at:
-[url:rty7j7zr]http&#58;//www&#46;freerainbowtables&#46;com/en/tables/[/url:rty7j7zr]
+<http://www.freerainbowtables.com/en/tables/>
 and
-[url:rty7j7zr]http&#58;//rainbowtables&#46;shmoo&#46;com/[/url:rty7j7zr]
+<http://rainbowtables.shmoo.com/>
 
 --------------------------------------------------------------------------------
 
 Posted by **PHLAK** on Mon November 16th, 2009 07:25:06 PM
 
-Here are the one's that Ophcrack provides: [url:3032q25t]http&#58;//ophcrack&#46;sourceforge&#46;net/tables&#46;php[/url:3032q25t]
+Here are the one's that Ophcrack provides: <http://ophcrack.sourceforge.net/tables.php>
 
 --------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Posted by **saltthefries** on Fri November 27th, 2009 11:45:55 AM
 
 I've spent the last week or so downloading the Renderlab top 1000 SSID WPA rainbow tables. My point is that these can be gigantic, and my internet connection is awfully slow. It seems like the best way to trade these around is on hard drives at the meetings after one of us downloads one. I'll bring said WPA rainbow tables on my laptop or an external drive for anybody to copy at the meeting. I'd like a decent MD5 table if someone else is interested in blowing through bandwidth.
 
-&quot;Never underestimate the bandwidth of a station wagon filled with tapes.&quot;
+"Never underestimate the bandwidth of a station wagon filled with tapes."
 
 --------------------------------------------------------------------------------
 

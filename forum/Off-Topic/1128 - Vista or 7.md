@@ -35,7 +35,7 @@ yea if only they could fix IE its a shame <!-- s:cry: --><img src="{SMILIES_PATH
 
 Posted by **PHLAK** on Sat October 17th, 2009 08:49:05 PM
 
-[quote=&quot;terabyte&quot;:3jmtowcu]yea if only they could fix IE its a shame <!-- s:cry: --><img src="{SMILIES_PATH}/icon_cry.gif" alt=":cry:" title="Crying or Very Sad" /><!-- s:cry: -->[/quote:3jmtowcu]
+[quote="terabyte":3jmtowcu]yea if only they could fix IE its a shame <!-- s:cry: --><img src="{SMILIES_PATH}/icon_cry.gif" alt=":cry:" title="Crying or Very Sad" /><!-- s:cry: -->[/quote:3jmtowcu]
 
 Luckily we have Firefox.
 
@@ -47,7 +47,7 @@ If Win98SE is the holy grail of OS, then why did it still crash so often?
 
 XP was way better.
 
-I'm not sure what &quot;RC&quot; is... Root Canal?  Yeah, I guess I can see how Windows might invoke that association.
+I'm not sure what "RC" is... Root Canal?  Yeah, I guess I can see how Windows might invoke that association.
 
 --------------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ I bought a new PC with Windows 7 home premium.   It's been smooth sailing so far
 
 Posted by **PHLAK** on Mon December 14th, 2009 09:30:51 AM
 
-[quote=&quot;CultLeadr&quot;:zfmjsrzg]The way the start menu is laid out is kind of disorienting for me however, and seems to take me longer to find programs compared with XP.[/quote:zfmjsrzg]
+[quote="CultLeadr":zfmjsrzg]The way the start menu is laid out is kind of disorienting for me however, and seems to take me longer to find programs compared with XP.[/quote:zfmjsrzg]
 
 I love the new start menu, it makes finding the program you want FASTER than XP (especially when you have lots of them).  Just use the search box at the bottom of the start menu to type the name of the program you want to run and it will pop up in the menu above.  If it's the top item, you don't even need to click, just press enter to run it.
 
@@ -77,7 +77,7 @@ On a side note, I've been running Windows 7 on my Desktop for close to two month
 
 Posted by **Valveritas** on Mon December 14th, 2009 09:48:04 AM
 
-[quote=&quot;PHLAK&quot;:qkasfkr7]
+[quote="PHLAK":qkasfkr7]
 I love the new start menu, it makes finding the program you want FASTER than XP (especially when you have lots of them).  Just use the search box at the bottom of the start menu to type the name of the program you want to run and it will pop up in the menu above.  If it's the top item, you don't even need to click, just press enter to run it.  [/quote:qkasfkr7]
 
 I do like the search feature.  But I haven't acclimated to the rest of the start menu yet.  I seem to be the only one.  I probably need to look at a basic tutorial and then maybe I'll feel it.  <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
@@ -89,10 +89,10 @@ I had troubling with sharing the Windows 7 computer as well, but only because I 
 Posted by **chespirito** on Sun February 7th, 2010 11:47:02 AM
 
 Between Vista and 7, 7 is clearly the winner.  As has been said many times, 7 is what Vista shoulda been.
-For me though, 7 is too close to Vista to make me want to move off XP, primarily for versatility and performance reasons.  With 5 years or so as the only &quot;current&quot; version of Windows, there are a lot of software and utilities that work with XP, and some of those don't work with Vista/7 because of the new redesigned kernel.
+For me though, 7 is too close to Vista to make me want to move off XP, primarily for versatility and performance reasons.  With 5 years or so as the only "current" version of Windows, there are a lot of software and utilities that work with XP, and some of those don't work with Vista/7 because of the new redesigned kernel.
 
-On the performance side of things, I REALLY don't care for all the built-in DRM/etc. in the Vista/7 kernel -- all those checks slow things down, and I don't like giving up THAT much control over my PC &amp; OS.  (Yeah, I know, I should switch to Linux...)  I ran across an article talking about performance comparisons between XP, Vista, and 7.
-[url:irp8ro85]http&#58;//www&#46;computerworlduk&#46;com/toolbox/in-depth/index&#46;cfm?articleid=2026&amp;amp;amp;pn=2[/url:irp8ro85]
+On the performance side of things, I REALLY don't care for all the built-in DRM/etc. in the Vista/7 kernel -- all those checks slow things down, and I don't like giving up THAT much control over my PC  &amp;  OS.  (Yeah, I know, I should switch to Linux...)  I ran across an article talking about performance comparisons between XP, Vista, and 7.
+<http://www.computerworlduk.com/toolbox/in-depth/index.cfm?articleid=2026&amp;amp;amp;pn=2>
 The last paragraph sums up pretty well why I'm sticking with XP for the foreseeable future:
 [quote:irp8ro85]However, better scalability still isn't enough to offset Windows XP's huge performance edge on today's hardware. In fact, it won't be until after Windows 7 has been replaced by the next Windows that the fruit of Microsoft's multicore optimisation labours will be fully realised. Then, as we boot our 32- or 64-core netbooks, we can all smile as Microsoft's foresight and perseverance finally start to pay off.[/quote:irp8ro85]
 ~Chesy

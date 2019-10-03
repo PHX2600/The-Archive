@@ -1,7 +1,7 @@
 ## Toolkit
 Posted by **tokiya** on Wed August 31st, 2011 04:19:33 AM
 
-I need a recommendation on tool kits for pc/laptop repair.  I've gone to Frys and looking online at toolkits for pc repair and I want to get a good kit so I can work on computers at home but don't want to buy crappy quality tools that are gonna break.  Would you buy individually or have you seen a good quality, &quot;complete&quot; kit?
+I need a recommendation on tool kits for pc/laptop repair.  I've gone to Frys and looking online at toolkits for pc repair and I want to get a good kit so I can work on computers at home but don't want to buy crappy quality tools that are gonna break.  Would you buy individually or have you seen a good quality, "complete" kit?
 
 --------------------------------------------------------------------------------
 
@@ -25,7 +25,7 @@ Posted by **nak** on Fri September 2nd, 2011 12:10:04 PM
 
 Computer toolkit:
 
-[img:21cx5v8c]http&#58;//www&#46;charlesandhudson&#46;com/archives/phillips-screwdriver-patent&#46;jpg[/img:21cx5v8c]
+[img:21cx5v8c]http://www.charlesandhudson.com/archives/phillips-screwdriver-patent.jpg[/img:21cx5v8c]
 
 Yep, Steve Wozniak just goes around to restaurants and tweets about it on 4square... people don't actually ~build computers~ anymore (unless you're Jerri Ellsworth)
 
@@ -41,6 +41,6 @@ beyond that, maybe a first aid kit for when you cut yourself on the insides of a
 
 Posted by **PHLAK** on Mon October 10th, 2011 02:56:19 PM
 
-[quote=&quot;XlogicX&quot;:1nw57xaw]maybe a first aid kit for when you cut yourself on the insides of a computer, I'm sure I'm not the only one that has bleed from computer repair, tugging on those old stubborn IDE ribbons.[/quote:1nw57xaw]
+[quote="XlogicX":1nw57xaw]maybe a first aid kit for when you cut yourself on the insides of a computer, I'm sure I'm not the only one that has bleed from computer repair, tugging on those old stubborn IDE ribbons.[/quote:1nw57xaw]
 
 I christen all my new PCs with my own blood.

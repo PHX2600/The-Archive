@@ -24,7 +24,7 @@ Posted by **PHLAK** on Wed November 5th, 2008 11:31:33 AM
 
 I'm about the same as Nak, neither happy nor sad, though I'm sure I'd feel worse had McCain won.
 
-[quote=&quot;nak&quot;:s8v9nfmr]I'm glad 200 didn't pass...[/quote:s8v9nfmr]
+[quote="nak":s8v9nfmr]I'm glad 200 didn't pass...[/quote:s8v9nfmr]
 
 First I heard of that, I agree, happy that didn't pass.
 
@@ -32,9 +32,9 @@ First I heard of that, I agree, happy that didn't pass.
 
 Posted by **nak** on Wed November 5th, 2008 01:14:20 PM
 
-[quote=&quot;PHLAK&quot;:3p22a4r2]I'm about the same as Nak, neither happy nor sad, though I'm sure I'd feel worse had McCain won.
+[quote="PHLAK":3p22a4r2]I'm about the same as Nak, neither happy nor sad, though I'm sure I'd feel worse had McCain won.
 
-[quote=&quot;nak&quot;:3p22a4r2]I'm glad 200 didn't pass...[/quote:3p22a4r2]
+[quote="nak":3p22a4r2]I'm glad 200 didn't pass...[/quote:3p22a4r2]
 
 First I heard of that, I agree, happy that didn't pass.[/quote:3p22a4r2]
 
@@ -50,7 +50,7 @@ All of my hopes and dreams were with Ron Paul. Thats what the Republicans get fo
 
 Posted by **PHLAK** on Wed November 5th, 2008 10:32:05 PM
 
-[quote=&quot;ThatGuy&quot;:2hxb9z76]All of my hopes and dreams were with Ron Paul.[/quote:2hxb9z76]
+[quote="ThatGuy":2hxb9z76]All of my hopes and dreams were with Ron Paul.[/quote:2hxb9z76]
 
 I wrote him in. Seriously.
 
@@ -82,18 +82,18 @@ Peace out
 
 Posted by **HalfSight** on Sat November 15th, 2008 07:56:02 AM
 
-I was into the elections this year. I am super happy about Obama wining and super happy about mccain losing. The reason mccain lost is because he sold out his core values for the GOP core values. I don't even think that this is a vote for the first black president, I think it is a vote against bush and the republican party. All the wingnut conservatives are talking about how they are buying guns cause &quot;Obama gonna takar guuns awaY&quot;. I told me buddy that I was on the other side of the spectrum. If mccain won, I would have bought my first gun and a passport. 
+I was into the elections this year. I am super happy about Obama wining and super happy about mccain losing. The reason mccain lost is because he sold out his core values for the GOP core values. I don't even think that this is a vote for the first black president, I think it is a vote against bush and the republican party. All the wingnut conservatives are talking about how they are buying guns cause "Obama gonna takar guuns awaY". I told me buddy that I was on the other side of the spectrum. If mccain won, I would have bought my first gun and a passport. 
 
 Anyway, I thinkl Obama is gonna be great. Any person that says a black guy in the white house is not change, is full of shit. 
 
-[img:jq4615yo]http&#58;//i38&#46;photobucket&#46;com/albums/e120/an_evening_rose/motivation/n35003988_32254640_6932&#46;jpg[/img:jq4615yo]
+[img:jq4615yo]http://i38.photobucket.com/albums/e120/an_evening_rose/motivation/n35003988_32254640_6932.jpg[/img:jq4615yo]
 
 --------------------------------------------------------------------------------
 
 Posted by **nak** on Sat November 15th, 2008 01:08:59 PM
 
 I love the combo breaker inspirational poster.  But my first post still stands
-[img:motkimy3]http&#58;//www&#46;wetwarehacks&#46;com/pics/difference&#46;jpg[/img:motkimy3]
+[img:motkimy3]http://www.wetwarehacks.com/pics/difference.jpg[/img:motkimy3]
 
 No one dares talk about economics, everyone is just looking around for someone to fix this problem and entrusting the institutions that got us into the mess in the first place to get us out.  I see the mess starting with the creation of the federal reserve, others don't look that far back, just really how far you want to look and where.  Depends on what kind of media you have consumed, what schools you've been trained in, and the values that you've been brought up with.  All pieces that make up ones world view.
 
@@ -109,8 +109,8 @@ And people wonder why I voted for Ron Paul.
 
 Posted by **dxh** on Tue November 18th, 2008 12:04:10 AM
 
-[quote=&quot;nak&quot;:16cbtacc]I love the combo breaker inspirational poster.  But my first post still stands
-[img:16cbtacc]http&#58;//www&#46;wetwarehacks&#46;com/pics/difference&#46;jpg[/img:16cbtacc]
+[quote="nak":16cbtacc]I love the combo breaker inspirational poster.  But my first post still stands
+[img:16cbtacc]http://www.wetwarehacks.com/pics/difference.jpg[/img:16cbtacc]
 
 No one dares talk about economics, everyone is just looking around for someone to fix this problem and entrusting the institutions that got us into the mess in the first place to get us out.  I see the mess starting with the creation of the federal reserve, others don't look that far back, just really how far you want to look and where.  Depends on what kind of media you have consumed, what schools you've been trained in, and the values that you've been brought up with.  All pieces that make up ones world view.[/quote:16cbtacc]
 

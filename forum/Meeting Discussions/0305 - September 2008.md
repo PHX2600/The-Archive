@@ -83,9 +83,9 @@ yeah that wont be me... but ill be there.
 
 Posted by **nak** on Wed August 20th, 2008 10:55:56 PM
 
-[quote=&quot;Zapperlink&quot;:3wb7199k]I will be there, just look for the hot chick with a tight shirt on..[/quote:3wb7199k]
+[quote="Zapperlink":3wb7199k]I will be there, just look for the hot chick with a tight shirt on..[/quote:3wb7199k]
 
-[img:3wb7199k]http&#58;//www&#46;tshirthell&#46;com/images/contestpics/a249_004&#46;jpg[/img:3wb7199k]
+[img:3wb7199k]http://www.tshirthell.com/images/contestpics/a249_004.jpg[/img:3wb7199k]
 
 --------------------------------------------------------------------------------
 
@@ -97,7 +97,7 @@ Posted by **PHLAK** on Thu August 21st, 2008 01:01:04 AM
 
 Posted by **XlogicX** on Fri August 22nd, 2008 10:39:59 PM
 
-I will have a presentation soon. It is mostly hardware, but software is involved. I have worked on this one for quite a while, and it is easily my favorite project (even considering some of the others). It wont be completely &quot;ready&quot; when I present it. It is just barely ready now, although presentable. But I would like it to be more functional by the time I demonstrate it.
+I will have a presentation soon. It is mostly hardware, but software is involved. I have worked on this one for quite a while, and it is easily my favorite project (even considering some of the others). It wont be completely "ready" when I present it. It is just barely ready now, although presentable. But I would like it to be more functional by the time I demonstrate it.
 
 I will probably be ready to show and tell it on the Oct meeting, possibly September, but I'm not willing to write that much code in such a short amount of time.
 
@@ -125,7 +125,7 @@ Sup everyone, new to the site. I'm gonna try to make it down there on the 5th.
 
 Posted by **PHLAK** on Tue August 26th, 2008 01:06:07 AM
 
-I got this Friday off!  Sarah (I guess she's going as &quot;Rabbit&quot; now) and I will be joining you all at the coffee house!
+I got this Friday off!  Sarah (I guess she's going as "Rabbit" now) and I will be joining you all at the coffee house!
 
 --------------------------------------------------------------------------------
 
@@ -141,11 +141,11 @@ EDIT: Though I think I'm having an issues with repeated words... I'll likely hav
 
 Posted by **PHLAK** on Wed August 27th, 2008 04:29:17 AM
 
-[quote=&quot;AltF4Warrior&quot;:mjxghnza]Does anyone have a good wordlist? I've been compiling a collection of everything I can find, but it still seems kind of shallow.[/quote:mjxghnza]
+[quote="AltF4Warrior":mjxghnza]Does anyone have a good wordlist? I've been compiling a collection of everything I can find, but it still seems kind of shallow.[/quote:mjxghnza]
 
 Does anyone have a good wordlist?!  HA!  You've come to the right place my friend!
 
-[url=http&#58;//www&#46;phx2600&#46;org/forum2/viewtopic&#46;php?f=12&amp;t=24:mjxghnza]http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=24[/url:mjxghnza]
+[url=http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=24:mjxghnza]http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=24>
 
 --------------------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ There was a presentation on good vs large wordlists at defcon... there is a diff
 
 Posted by **PHLAK** on Thu September 4th, 2008 12:25:32 AM
 
-[quote=&quot;nak&quot;:1f4tkgl8]There was a presentation on good vs large wordlists at defcon... there is a difference!
+[quote="nak":1f4tkgl8]There was a presentation on good vs large wordlists at defcon... there is a difference!
 <!-- m --><a class="postlink" href="http://mirror.sweon.net/defcon16/Speakers/Weir/defcon-16-weir.pdf">http://mirror.sweon.net/defcon16/Speake ... 6-weir.pdf</a><!-- m -->[/quote:1f4tkgl8]
 
 I agree with that talk, but I have that wordlist already made, so might as well get some use out of it.
@@ -183,7 +183,7 @@ Posted by **Evil1** on Thu September 4th, 2008 04:11:17 PM
 
 I'll be there. No talk, just chillin. No idea really what to talk about that I haven't already talked about. I guess I could...present my findings with nortan AV and race conditions. Or I could go over integer underflows in game server software followed by format string exploits in admin consoles for games like call of duty. Or I can do what I do best - stare blankly into space and mingle with my peers. The latter option is sounding good. If you have questions though, I'll be glad to answer them. 
 
-[img:3nne3sxg]http&#58;//img297&#46;imageshack&#46;us/img297/3504/1220492295652zj2&#46;jpg[/img:3nne3sxg]
+[img:3nne3sxg]http://img297.imageshack.us/img297/3504/1220492295652zj2.jpg[/img:3nne3sxg]
 
 --------------------------------------------------------------------------------
 

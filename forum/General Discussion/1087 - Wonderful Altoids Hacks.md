@@ -1,7 +1,7 @@
 ## Wonderful Altoids Hacks
 Posted by **taryn** on Sun August 30th, 2009 12:10:53 PM
 
-[url:36jr2965]http&#58;//www&#46;oobject&#46;com/category/wonderful-altoids-hacks/[/url:36jr2965]
+<http://www.oobject.com/category/wonderful-altoids-hacks/>
 
 --------------------------------------------------------------------------------
 

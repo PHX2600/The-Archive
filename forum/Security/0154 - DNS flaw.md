@@ -16,7 +16,7 @@ Posted by **Ugly** on Wed July 23rd, 2008 05:56:16 PM
 
 and it's now live
 
-[url:2fw9yxb8]http&#58;//it&#46;slashdot&#46;org/article&#46;pl?sid=08/07/23/231254[/url:2fw9yxb8]
+<http://it.slashdot.org/article.pl?sid=08/07/23/231254>
 
 --------------------------------------------------------------------------------
 

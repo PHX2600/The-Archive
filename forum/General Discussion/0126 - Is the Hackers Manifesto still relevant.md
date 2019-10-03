@@ -69,7 +69,7 @@ but you can't stop us all... after all, we're all alike.
 
 Posted by **PHLAK** on Tue June 24th, 2008 01:39:46 PM
 
-I think the Hackers Manifesto is MORE relevant today then it was back then.  The only difference is true hackers are fewer and further between these days.  There are so many wanna be &quot;hackers&quot; that they don't even realize that what they are really trying to to is called cracking.
+I think the Hackers Manifesto is MORE relevant today then it was back then.  The only difference is true hackers are fewer and further between these days.  There are so many wanna be "hackers" that they don't even realize that what they are really trying to to is called cracking.
 
 But those of us with the true hackers mindset will continue to exist.  We may not be in the news or on the front pages anymore, however, we're still around.  Maybe it's because we don't like the attention, or are too busy hacking to care, but we hackers must continue fighting for what we believe in, the one universal truth that sets us apart from every other human being... freedom.
 
@@ -79,7 +79,7 @@ Posted by **nak** on Tue June 24th, 2008 01:55:51 PM
 
 War. War never changes...  <!-- s:lol: --><img src="{SMILIES_PATH}/icon_lol.gif" alt=":lol:" title="Laughing" /><!-- s:lol: --> 
 
-It's always going to be relevant!  Im not sure if its more relevant though... Every little modification or trick is being called a &quot;hack&quot; now a days ([url=http&#58;//www&#46;amazon&#46;com/s/ref=nb_ss_gw?url=search-alias%3Dstripbooks&amp;field-keywords=hacks&amp;x=0&amp;y=0:3keingy7]Amazon search for hacks brings up 159,580 results[/url:3keingy7]).  I'm sure cultleadr has some good real world experience, I've just read a couple books on the 'good ol' days.  I bet if someone had access to credit records and telephone switches, the amount of power you had could defiantly corrupt a young person into doing things for the dirty money.
+It's always going to be relevant!  Im not sure if its more relevant though... Every little modification or trick is being called a "hack" now a days ([url=http://www.amazon.com/s/ref=nb_ss_gw?url=search-alias%3Dstripbooks&amp;field-keywords=hacks&amp;x=0&amp;y=0:3keingy7]Amazon search for hacks brings up 159,580 results>).  I'm sure cultleadr has some good real world experience, I've just read a couple books on the 'good ol' days.  I bet if someone had access to credit records and telephone switches, the amount of power you had could defiantly corrupt a young person into doing things for the dirty money.
 
 I wont even try and draw a line between 'hacking' and 'cracking'...
 
@@ -89,7 +89,7 @@ I wont even try and draw a line between 'hacking' and 'cracking'...
 
 Posted by **Valveritas** on Mon June 30th, 2008 06:55:29 PM
 
-I distinctly remember a conversation with the Secret Service agent that once arrested me after my sentencing.  He said what I did was &quot;what criminals do.&quot;  That always bugged me, and I didn't have an adequate response at the time.  It threw me off.  Well, I wasn't undermining society by collecting access codes to make phone calls.  And I wasn't making any money off that activity. Sure an argument can me made that what I did was illegal, like downloading copyrighted music, but that kind of indignation should be reserved for people that are truly doing harm by their actions. 
+I distinctly remember a conversation with the Secret Service agent that once arrested me after my sentencing.  He said what I did was "what criminals do."  That always bugged me, and I didn't have an adequate response at the time.  It threw me off.  Well, I wasn't undermining society by collecting access codes to make phone calls.  And I wasn't making any money off that activity. Sure an argument can me made that what I did was illegal, like downloading copyrighted music, but that kind of indignation should be reserved for people that are truly doing harm by their actions. 
 
 The public can be pretty ignorant, but overall I think hackers are perceived as heroes of the technological age by most.   Attempts by corporate government to demonize hackers has 
 failed.  Hackers instill some dignity and purpose to what Ted Kaczynski railed against.  Obviously hackers don't want to be enslaved by technology.  With RFID tags, and other police state measures, that is the goal.  I suspect the importance of hackers will rise, not decrease.  There are bad elements in every community, as the media likes to focus on - but if it wasn't for hackers of all sorts, none of this would exist.
@@ -98,9 +98,9 @@ failed.  Hackers instill some dignity and purpose to what Ted Kaczynski railed a
 
 Posted by **TerrorDrone** on Thu July 3rd, 2008 09:03:54 AM
 
-I semi disagree with cult. I don't feel hackers are yet veiwed as heros. The term hackers is now used for anyone who commits a crime based on technology and hackers are used a scapegoats. Just watch the free credit report.com commercials &quot;some hacker stole my identity&quot; that is a pretty broad comment. is there hackers that steal id information? yes, but is all id theft done by hackers? no. My friends dad refuses to pay bills online or do any online business whatsoever due to his fear of hackers stealing his info. I try to explain to him that writing a check or credit card information and sticking it in his mailbox is not safe either but he still feel that(for some reason) someone its easier for a hacker to steal info online then it is for someone to walk up and grab stuff out of his mailbox.
+I semi disagree with cult. I don't feel hackers are yet veiwed as heros. The term hackers is now used for anyone who commits a crime based on technology and hackers are used a scapegoats. Just watch the free credit report.com commercials "some hacker stole my identity" that is a pretty broad comment. is there hackers that steal id information? yes, but is all id theft done by hackers? no. My friends dad refuses to pay bills online or do any online business whatsoever due to his fear of hackers stealing his info. I try to explain to him that writing a check or credit card information and sticking it in his mailbox is not safe either but he still feel that(for some reason) someone its easier for a hacker to steal info online then it is for someone to walk up and grab stuff out of his mailbox.
 And on the scapegoat side m cousin found pics, info, phone numbers and the such of other women on her husbands lap top. According to him it wasn't him some hackers must have put it there. The question i told her to ask is WHY. Why would some random hacker go thru the trouble and time of taking over your husband computer just to make it appear he was messing around. In fact to me its seems more and more people are blaming hackers for wrong doing they do on there computers. Even a case in new york where some sick minded idiot is saying hackers are reponsible for the child porn and his online commuincation with childern in a sexual manner.
-I try myself to explain to thoose that don't know the difference between a &quot;hacker&quot; and cyber criminal but hacker seems to be the term most used for such.
+I try myself to explain to thoose that don't know the difference between a "hacker" and cyber criminal but hacker seems to be the term most used for such.
 Now there are thoose educated ones out there that see hackers as the new frontier cowboys that help fight injustice and corruption in the age of information but i think theese people are few and far between. Yet they are growing.
 
 --------------------------------------------------------------------------------

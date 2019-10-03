@@ -27,7 +27,7 @@ Posted by **TerrorDrone** on Thu July 3rd, 2008 08:31:16 AM
 
 I grew up mainly in the SF bay area 
 but moved here from North Carolina 
-My main interest in what I refer to as &quot;junkyard engineering&quot; 
+My main interest in what I refer to as "junkyard engineering" 
 just taking old stuff and compnents and making something new.
 
 --------------------------------------------------------------------------------
@@ -60,15 +60,15 @@ Welcome!   You might see me at a meeting,  I usually show up like once a year lo
 
 Posted by **XlogicX** on Sun July 27th, 2008 03:19:48 AM
 
-&quot;junkyard engineering,&quot; I've never heard that term before, but it sounds like a familiar concept <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->, we can probably share stories.
+"junkyard engineering," I've never heard that term before, but it sounds like a familiar concept <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->, we can probably share stories.
 
 --------------------------------------------------------------------------------
 
 Posted by **RetroTech1541** on Tue July 29th, 2008 01:36:11 AM
 
-[quote=&quot;TerrorDrone&quot;:1iderw5y]I grew up mainly in the SF bay area 
+[quote="TerrorDrone":1iderw5y]I grew up mainly in the SF bay area 
 but moved here from North Carolina 
-My main interest in what I refer to as &quot;junkyard engineering&quot; 
+My main interest in what I refer to as "junkyard engineering" 
 just taking old stuff and compnents and making something new.[/quote:1iderw5y]
 
 Hey there and welcome! A few years back I remember reading about people making things like tesla coils out of junk. I bet I'm not the only one who would like to see a presentation of stuff you've put together out of junk.
@@ -79,7 +79,7 @@ Posted by **HalfSight** on Tue July 29th, 2008 02:31:35 AM
 
 Hey everybody. I'm HalfSight. I look forward to the meeting. I'm not so much a hacker as I am a wares trader. I like software and trying to manipulate my OS installs as much as possible. I prefer Ubuntu right now but I am trying out other distros as I gain more knowledge of linux. I do like windows though, I have to be honest. I like the x64 Vista, but thats it these days. I have stacks of OS installs and I try to have as many slipstreams as possible for fun. 
 
-[url:24lfpfge]http&#58;//i34&#46;photobucket&#46;com/albums/d149/DooDooBucket/VistaUbuntu-1&#46;jpg[/url:24lfpfge]
+<http://i34.photobucket.com/albums/d149/DooDooBucket/VistaUbuntu-1.jpg>
 
 --------------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ Posted by **PHLAK** on Thu July 31st, 2008 02:25:02 PM
 
 Welcome to the PHX2600 HalfSight.
 
-[quote=&quot;HalfSight&quot;:2gg1tpnq]I have stacks of OS installs and I try to have as many slipstreams as possible for fun.[/url][/quote:2gg1tpnq]
+[quote="HalfSight":2gg1tpnq]I have stacks of OS installs and I try to have as many slipstreams as possible for fun.[/url][/quote:2gg1tpnq]
 
 What do you like to slipstream?  I've only slipstreamed a Windows disc once, and that was to get some RAID drivers onto it cuz I didn't have a floppy drive.  But yeah... what else is good to slipstream onto the install disc?
 
@@ -103,7 +103,7 @@ What do you like to slipstream?  I've only slipstreamed a Windows disc once, and
 
 Posted by **HalfSight** on Thu July 31st, 2008 06:24:47 PM
 
-I don't so much do some of the slipstreaming myself, But I collect ones that I find. I have done it once for my old P4 so it would automatically install my drivers for my hardware. But I am about to install a Slim xp slipstream on my sisters computer so she can try it out. So Its basically  Windows XP with a lot of the B.S. services turned off for Higher performance. I think the program you can use is called nLite. You can download it here: [url:2cdmkwnp]http&#58;//www&#46;nliteos&#46;com/[/url:2cdmkwnp]. It's for editing ISO's. I got a buddy that knows more, but I was thinking of making my own. I have a windows live CD too. It comes in handy.
+I don't so much do some of the slipstreaming myself, But I collect ones that I find. I have done it once for my old P4 so it would automatically install my drivers for my hardware. But I am about to install a Slim xp slipstream on my sisters computer so she can try it out. So Its basically  Windows XP with a lot of the B.S. services turned off for Higher performance. I think the program you can use is called nLite. You can download it here: <http://www.nliteos.com/>. It's for editing ISO's. I got a buddy that knows more, but I was thinking of making my own. I have a windows live CD too. It comes in handy.
 
 --------------------------------------------------------------------------------
 

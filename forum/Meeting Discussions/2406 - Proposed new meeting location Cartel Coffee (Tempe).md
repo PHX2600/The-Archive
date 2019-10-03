@@ -9,7 +9,7 @@ Edit: Location: <!-- m --><a class="postlink" href="http://goo.gl/maps/wRbb3">ht
 
 Posted by **Rax** on Tue March 19th, 2013 10:52:50 PM
 
-I'd also add checking to see if they mind us doing &quot;presentations&quot; there.
+I'd also add checking to see if they mind us doing "presentations" there.
 
 --------------------------------------------------------------------------------
 
@@ -29,6 +29,6 @@ I vote yes as well. FYI, google maps does have an internal 360 view of the place
 
 Posted by **PHLAK** on Tue April 9th, 2013 05:07:37 PM
 
-[quote=&quot;XlogicX&quot;:23u0f69m]FYI, google maps does have an internal 360 view of the place.[/quote:23u0f69m]
+[quote="XlogicX":23u0f69m]FYI, google maps does have an internal 360 view of the place.[/quote:23u0f69m]
 
 That 360 view is from before any remodling.  They've at LEAST doubled in size since then.

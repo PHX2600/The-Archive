@@ -56,7 +56,7 @@ Charles,
 All of the passwords are hashed in teh database. Once logged in, they are decrypted.
 [/quote:1j4dv6lj]
 
-So passwords are &quot;hashed&quot; and then &quot;decrypted&quot; Uh Yeah...
+So passwords are "hashed" and then "decrypted" Uh Yeah...
 
 [quote:1j4dv6lj]
 Hi Jeremiah,
@@ -173,7 +173,7 @@ Hi Jeremy,
 
 That doesn't make sense to me, as you know, a hash is a one way function by definition.
 
-Please explain how the passwords are &quot;decrypted&quot; from a hash. I assume I am missing something or we aren't using the same terminology.
+Please explain how the passwords are "decrypted" from a hash. I assume I am missing something or we aren't using the same terminology.
 
 I am fairly technical you don't have to tone it down for me.
 
@@ -233,7 +233,7 @@ $7/mo VPS? You get what you pay for I guess.
 
 Posted by **Automated Penguin** on Thu February 23rd, 2012 05:50:37 PM
 
-[quote=&quot;PHLAK&quot;:3mxgc96c]$7/mo VPS? You get what you pay for I guess.[/quote:3mxgc96c]
+[quote="PHLAK":3mxgc96c]$7/mo VPS? You get what you pay for I guess.[/quote:3mxgc96c]
 
 Yeah its actually not that bad for 7 bux a month, 
 
@@ -243,7 +243,7 @@ I should probably stop kicking them in the teeth and just enjoy what I got.
 
 Posted by **PHLAK** on Thu February 23rd, 2012 05:57:12 PM
 
-[quote=&quot;Automated Penguin&quot;:3sq3ildg]I should probably stop kicking them in the teeth and just enjoy what I got.[/quote:3sq3ildg]
+[quote="Automated Penguin":3sq3ildg]I should probably stop kicking them in the teeth and just enjoy what I got.[/quote:3sq3ildg]
 
 This is the wrong community to be proposing that.
 
@@ -263,7 +263,7 @@ Lol, who cares. The request is for him to show his actual understanding, not the
 
 Posted by **Automated Penguin** on Fri February 24th, 2012 07:35:38 AM
 
-[quote=&quot;XlogicX&quot;:1vwuv5n9]Epic conversation, thanks for sharing <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
+[quote="XlogicX":1vwuv5n9]Epic conversation, thanks for sharing <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
 Best part:
 
@@ -271,7 +271,7 @@ Best part:
 
 Lol, who cares. The request is for him to show his actual understanding, not the pieces of paper that says he should understand (of which he is not demonstrating). Him saying what he's saying and pointing to his certs merely make the certs look bad, in context.[/quote:1vwuv5n9]
 
-Yeah that was my take on it as well. I wanted to reply with like &quot;Are you seriously asking me to be satisfied with the fact that you have a sec+?&quot; But I figured that was the fast track to ending the conversation
+Yeah that was my take on it as well. I wanted to reply with like "Are you seriously asking me to be satisfied with the fact that you have a sec+?" But I figured that was the fast track to ending the conversation
 
 --------------------------------------------------------------------------------
 
@@ -289,13 +289,13 @@ Any updates on what level 2 had to say?
 
 Posted by **Urbal** on Mon February 27th, 2012 11:22:12 AM
 
-This is fucking great! I can't wait to hear the outcome. &quot;Please review my signature&quot;... classic!
+This is fucking great! I can't wait to hear the outcome. "Please review my signature"... classic!
 
 --------------------------------------------------------------------------------
 
 Posted by **Automated Penguin** on Mon February 27th, 2012 01:41:03 PM
 
-They have parked my ticket at &quot;level two&quot; and haven't contacted me since my last update.
+They have parked my ticket at "level two" and haven't contacted me since my last update.
 
 --------------------------------------------------------------------------------
 
@@ -317,7 +317,7 @@ UPDATE: they copped out on me, not sure where to go from here, I put the new stu
 
 Posted by **PHLAK** on Mon May 21st, 2012 10:28:50 AM
 
-[url=http&#58;//dilbert&#46;com/fast/2012-05-19/:2v6k5geo][img:2v6k5geo]http&#58;//i&#46;imgur&#46;com/33V0l&#46;gif[/img:2v6k5geo][/url:2v6k5geo]
+[url=http://dilbert.com/fast/2012-05-19/:2v6k5geo][img:2v6k5geo]http://i.imgur.com/33V0l.gif[/img:2v6k5geo]>
 
 --------------------------------------------------------------------------------
 
@@ -327,4 +327,4 @@ Posted by **Medicine Storm** on Fri September 7th, 2012 10:20:27 AM
 
 Heheheh! Using that one from now on.
 
-&quot;Don't question what we say! Please review our signature:&quot;
+"Don't question what we say! Please review our signature:"

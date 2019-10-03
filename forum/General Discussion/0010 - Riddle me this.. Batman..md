@@ -14,7 +14,7 @@ Posted by **PHLAK** on Sun December 30th, 2007 07:25:52 PM
 For the image tagging, I've recently started using Google's Picasa to tag my several thousand photos (UGH!  What a task!).  I use Picasa because, from my understanding, it writes the tags to the photos themselves, rather than a separate database.
 
 [quote:3w2z4rjj]A great new feature in Picasa is the fact that any caption or keywords you give a photo will be written to the photo itself, embedded as meta data.[/quote:3w2z4rjj]
-Source: [url:3w2z4rjj]http&#58;//searchenginewatch&#46;com/showPage&#46;html?page=3460061[/url:3w2z4rjj]
+Source: <http://searchenginewatch.com/showPage.html?page=3460061>
 
 Other sources on the Picasa Google Groups pages confirm this as well.
 
@@ -24,10 +24,10 @@ In terms of being able to access from anywhere, Picasa natively allows you to vi
 
 Posted by **Konshu** on Sun December 30th, 2007 09:07:23 PM
 
-[quote=&quot;PHLAK&quot;:7lvj3o2k]For the image tagging, I've recently started using Google's Picasa to tag my several thousand photos (UGH!  What a task!).  I use Picasa because, from my understanding, it writes the tags to the photos themselves, rather than a separate database.
+[quote="PHLAK":7lvj3o2k]For the image tagging, I've recently started using Google's Picasa to tag my several thousand photos (UGH!  What a task!).  I use Picasa because, from my understanding, it writes the tags to the photos themselves, rather than a separate database.
 
 [quote:7lvj3o2k]A great new feature in Picasa is the fact that any caption or keywords you give a photo will be written to the photo itself, embedded as meta data.[/quote:7lvj3o2k]
-Source: [url:7lvj3o2k]http&#58;//searchenginewatch&#46;com/showPage&#46;html?page=3460061[/url:7lvj3o2k]
+Source: <http://searchenginewatch.com/showPage.html?page=3460061>
 
 Other sources on the Picasa Google Groups pages confirm this as well.
 
@@ -39,12 +39,12 @@ Interesting so that is perfect, that meta data will work perfectly if that is th
 
 Posted by **phigan** on Tue January 1st, 2008 05:29:50 PM
 
-Have you seen [url=http&#58;//www&#46;plutohome&#46;com:3duo1b8e]Pluto home[/url:3duo1b8e] distro yet? I'm not sure if it does what you were saying, but it might (with all the other crazy shit it does).
+Have you seen [url=http://www.plutohome.com:3duo1b8e]Pluto home> distro yet? I'm not sure if it does what you were saying, but it might (with all the other crazy shit it does).
 
 --------------------------------------------------------------------------------
 
 Posted by **Konshu** on Wed January 2nd, 2008 07:07:01 PM
 
-[quote=&quot;phigan&quot;:2vrupsbh]Have you seen [url=http&#58;//www&#46;plutohome&#46;com:2vrupsbh]Pluto home[/url:2vrupsbh] distro yet? I'm not sure if it does what you were saying, but it might (with all the other crazy shit it does).[/quote:2vrupsbh]
+[quote="phigan":2vrupsbh]Have you seen [url=http://www.plutohome.com:2vrupsbh]Pluto home> distro yet? I'm not sure if it does what you were saying, but it might (with all the other crazy shit it does).[/quote:2vrupsbh]
 
 No I had not seen that yet, I don't think I am quite ready to add in home automation. However It does open some potential if I did want to add it in. Thanks for the link.

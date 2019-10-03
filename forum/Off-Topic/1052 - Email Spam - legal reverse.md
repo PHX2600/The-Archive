@@ -7,7 +7,7 @@ Is there a legal way to reverse spam this guy?
 
 I did one look up and it came back empty: <!-- e --><a href="mailto:doyoulikepie@live.co.uk">doyoulikepie@live.co.uk</a><!-- e -->
 
-Another &quot;free&quot; look up found it in Redmond, but how can that be if it's a UK email.
+Another "free" look up found it in Redmond, but how can that be if it's a UK email.
 
 No clue...
 

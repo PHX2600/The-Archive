@@ -20,7 +20,7 @@ The video was posted four days after Carrier IQ withdrew legal threats against E
 
 In an interview last week, Carrier IQ VP of Marketing Andrew Coward rejected claims the software posed a privacy threat because it never captured key presses.
 
-“Our technology is not real time,” he said at the time. &quot;It's not constantly reporting back. It's gathering information up and is usually transmitted in small doses.”
+“Our technology is not real time,” he said at the time. "It's not constantly reporting back. It's gathering information up and is usually transmitted in small doses.”
 
 Coward went on to say that Carrier IQ was a diagnostic tool designed to give network carriers and device manufacturers detailed information about the causes of dropped calls and other performance issues.
 
@@ -43,7 +43,7 @@ Source: <!-- m --><a class="postlink" href="http://www.cyanogenmod.com/blog/cyan
 
 This is a hacking forum so I hope everyone knows about CyanogenMod for your Android phones, but if not...
 
-[size=150:2fmwm298][b:2fmwm298]GO INSTALL CYANOGENMOD ON YOUR ANDROID PHONE NOW!!!![/b:2fmwm298][/size:2fmwm298]
+[size=150:2fmwm298]**GO INSTALL CYANOGENMOD ON YOUR ANDROID PHONE NOW!!!!**[/size:2fmwm298]
 (Assuming your phone is supported)
 
 --------------------------------------------------------------------------------
@@ -75,15 +75,15 @@ Neat...
 Has anyone here run USB debugging on their phone? Is there special hardware?
 Why did we not notice this before that nerd from CT?
 
-[url=http&#58;//www&#46;youtube&#46;com/watch?v=ofHr8Lv5cNk:4nwfgnra]It seems like carrier IQ are some pretty cool dudes <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->[/url:4nwfgnra]
+[url=http://www.youtube.com/watch?v=ofHr8Lv5cNk:4nwfgnra]It seems like carrier IQ are some pretty cool dudes <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->>
 
 --------------------------------------------------------------------------------
 
 Posted by **PHLAK** on Mon December 5th, 2011 08:10:48 AM
 
-[quote=&quot;nak&quot;:gylq1kxe]Has anyone here run USB debugging on their phone? Is there special hardware?[/url][/quote:gylq1kxe]
+[quote="nak":gylq1kxe]Has anyone here run USB debugging on their phone? Is there special hardware?[/url][/quote:gylq1kxe]
 
-You can enable USB debugging on (I believe) any android phone from the settings menu.  With that enabled, you can run [url=http&#58;//developer&#46;android&#46;com/guide/developing/tools/adb&#46;html:gylq1kxe]Android Debug Bridge (ADB)[/url:gylq1kxe] on your PC and debug stuff.
+You can enable USB debugging on (I believe) any android phone from the settings menu.  With that enabled, you can run [url=http://developer.android.com/guide/developing/tools/adb.html:gylq1kxe]Android Debug Bridge (ADB)> on your PC and debug stuff.
 
 --------------------------------------------------------------------------------
 
@@ -101,7 +101,7 @@ I don't have an android, or else I would've probably been doing USB debugging wh
 
 Posted by **Automated Penguin** on Tue December 6th, 2011 04:29:13 PM
 
-[quote=&quot;nak&quot;:5kz9rv9v]I don't have an android, or else I would've probably been doing USB debugging when I first got it...  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? --> where da haxors?![/quote:5kz9rv9v]
+[quote="nak":5kz9rv9v]I don't have an android, or else I would've probably been doing USB debugging when I first got it...  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? --> where da haxors?![/quote:5kz9rv9v]
 
 Done tons of USB Debuggin on mine while developing APPS but my phone is an old moto-roll'a so it doesnt have that CIQ junk.
 
@@ -109,7 +109,7 @@ Done tons of USB Debuggin on mine while developing APPS but my phone is an old m
 
 Posted by **AltF4** on Tue December 6th, 2011 09:22:59 PM
 
-[quote=&quot;Urbal&quot;:djfha70p]Is anyone aware of how to check/remove this from a rooted phone?[/quote:djfha70p]
+[quote="Urbal":djfha70p]Is anyone aware of how to check/remove this from a rooted phone?[/quote:djfha70p]
 
 As Phlak said, installing Cyanogenmod is a surefire way to get rid of it.
 
@@ -121,7 +121,7 @@ As for an app that searches for CarrierIQ installed on your phone? Not sure. Hav
 
 Posted by **ArchAngel** on Wed December 7th, 2011 08:09:35 AM
 
-[quote=&quot;AltF4&quot;:280vzvlh][quote=&quot;Urbal&quot;:280vzvlh]Is anyone aware of how to check/remove this from a rooted phone?[/quote:280vzvlh]
+[quote="AltF4":280vzvlh][quote="Urbal":280vzvlh]Is anyone aware of how to check/remove this from a rooted phone?[/quote:280vzvlh]
 
 As Phlak said, installing Cyanogenmod is a surefire way to get rid of it.
 
@@ -146,18 +146,18 @@ Unfortunately, CM7 is not available for the Samsung Epic.
 
 Posted by **PHLAK** on Wed December 7th, 2011 11:52:50 AM
 
-[quote=&quot;Urbal&quot;:1cuws39a]Is anyone aware of how to check/remove this from a rooted phone?[/quote:1cuws39a]
+[quote="Urbal":1cuws39a]Is anyone aware of how to check/remove this from a rooted phone?[/quote:1cuws39a]
 
-From what I recall, navigate to Settings -&gt; Applications -&gt; Manage Applications -&gt; All (tab) then look for anything named &quot;CarrierIQ&quot; or &quot;CIQ&quot;.  If you see this on your phone then you have it.  As for removing it, I know there's a way to do it via the terminal (app or via ADB), but would have to look that up.
+From what I recall, navigate to Settings -> Applications -> Manage Applications -> All (tab) then look for anything named "CarrierIQ" or "CIQ".  If you see this on your phone then you have it.  As for removing it, I know there's a way to do it via the terminal (app or via ADB), but would have to look that up.
 
-The easy way would be to grab [url=https&#58;//market&#46;android&#46;com/details?id=com&#46;keramidas&#46;TitaniumBackup&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5rZXJhbWlkYXMuVGl0YW5pdW1CYWNrdXAiXQ&#46;&#46;:1cuws39a]Titanium Backup[/url:1cuws39a] from the market and remove it through there.  I'm not sure, but you may need [url=https&#58;//market&#46;android&#46;com/details?id=com&#46;keramidas&#46;TitaniumBackupPro&amp;feature=search_result:1cuws39a]Titanium Backup Pro[/url:1cuws39a] (worth the money) to do it.
+The easy way would be to grab [url=https://market.android.com/details?id=com.keramidas.TitaniumBackup&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5rZXJhbWlkYXMuVGl0YW5pdW1CYWNrdXAiXQ..:1cuws39a]Titanium Backup> from the market and remove it through there.  I'm not sure, but you may need [url=https://market.android.com/details?id=com.keramidas.TitaniumBackupPro&amp;feature=search_result:1cuws39a]Titanium Backup Pro> (worth the money) to do it.
 
 --------------------------------------------------------------------------------
 
 Posted by **nak** on Mon December 12th, 2011 03:58:22 PM
 
-FBI: Carrier IQ files used for &quot;law enforcement purposes&quot;
-[url:2gma3amc]http&#58;//www&#46;muckrock&#46;com/news/archives/2011/dec/12/fbi-carrier-iq-files-used-law-enforcement-purposes/[/url:2gma3amc]
+FBI: Carrier IQ files used for "law enforcement purposes"
+<http://www.muckrock.com/news/archives/2011/dec/12/fbi-carrier-iq-files-used-law-enforcement-purposes/>
 
 haha
 o wow... pretty sensationalist title... but yeah...

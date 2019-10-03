@@ -33,7 +33,7 @@ Location:
 
 Phoenix Convention Center
 
-Room 301 C &amp; D
+Room 301 C  &amp;  D
 
 100 North Third Street
 

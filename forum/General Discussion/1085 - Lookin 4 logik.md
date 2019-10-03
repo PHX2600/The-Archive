@@ -13,7 +13,7 @@ Posted by **Ugly** on Fri August 28th, 2009 04:18:55 PM
 
 You could try the software for Altera FPGAs
 
-[url:1j2hb1ng]http&#58;//www&#46;altera&#46;com/support/software/sof-maxplus2&#46;html[/url:1j2hb1ng]
+<http://www.altera.com/support/software/sof-maxplus2.html>
 
 --------------------------------------------------------------------------------
 

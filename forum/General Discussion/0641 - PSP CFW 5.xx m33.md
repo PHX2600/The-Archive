@@ -21,7 +21,7 @@ Posted by **PHLAK** on Fri October 24th, 2008 10:18:58 AM
 
 I'm pretty sure the automatic update is for the Official firmware only.  The only way I know of upgrading custom firmware is by downloading the new version from the internet and placing it on your memory stick and running the update from there.
 
-Anyway, aside from that, make sure you have the latest 5.00 M33-3 you can find here: [url:ug1fc7nx]http&#58;//pspslimhacks&#46;com/500-m33-3-released/[/url:ug1fc7nx]
+Anyway, aside from that, make sure you have the latest 5.00 M33-3 you can find here: <http://pspslimhacks.com/500-m33-3-released/>
 
 --------------------------------------------------------------------------------
 

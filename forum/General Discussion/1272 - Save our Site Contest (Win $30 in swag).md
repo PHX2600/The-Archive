@@ -3,7 +3,7 @@ Posted by **PHLAK** on Fri July 23rd, 2010 10:03:24 AM
 
 For those of you that don't check out the homepage, you can win $30 in swag via the Save our Site Contest.
 
-       Read about the contest here: [url:4ri4e1yf]http&#58;//url&#46;phx2600&#46;org/sos[/url:4ri4e1yf].
+       Read about the contest here: <http://url.phx2600.org/sos>.
 
 Be sure to contribute!
 
@@ -26,13 +26,13 @@ Posted by **PHLAK** on Mon July 26th, 2010 07:16:23 PM
 
 Four entries so far:
 
-[url=http&#58;//www&#46;phx2600&#46;org/wiki/index&#46;php/Death_Ray_Project:2hgpxvw2]Death Ray wiki entry[/url:2hgpxvw2] by, Penguin
+[url=http://www.phx2600.org/wiki/index.php/Death_Ray_Project:2hgpxvw2]Death Ray wiki entry> by, Penguin
 
-[url=http&#58;//www&#46;phx2600&#46;org/archive/2010/07/24/citizen-journalism-a-media-hacking-primer/:2hgpxvw2]Citizen Journalism (A Media Hacking Primer)[/url:2hgpxvw2] by, Terrordrone
+[url=http://www.phx2600.org/archive/2010/07/24/citizen-journalism-a-media-hacking-primer/:2hgpxvw2]Citizen Journalism (A Media Hacking Primer)> by, Terrordrone
 
-[url=http&#58;//www&#46;phx2600&#46;org/archive/2010/07/24/kool-numberz-quickest-cool/:2hgpxvw2]Kool Numberz: The Quickest Way to Cool![/url:2hgpxvw2] by, dual_parallel
+[url=http://www.phx2600.org/archive/2010/07/24/kool-numberz-quickest-cool/:2hgpxvw2]Kool Numberz: The Quickest Way to Cool!> by, dual_parallel
 
-[url=http&#58;//www&#46;phx2600&#46;org/archive/2010/07/26/joys-rooting-android-phone/:2hgpxvw2]The Joys of Rooting Your Android Phone[/url:2hgpxvw2] by, HalfSight
+[url=http://www.phx2600.org/archive/2010/07/26/joys-rooting-android-phone/:2hgpxvw2]The Joys of Rooting Your Android Phone> by, HalfSight
 
 Keep up the great work guys!
 
@@ -48,4 +48,4 @@ i plan on contributing at least 2 to 3 things a month be it wiki or article if w
 
 Posted by **AltF4** on Mon August 2nd, 2010 01:42:46 PM
 
-Yea, totally. I'll contribute to this. It's a really good format for &quot;Cool things, but not quite so cool that they would get picked up at a conference&quot; items.
+Yea, totally. I'll contribute to this. It's a really good format for "Cool things, but not quite so cool that they would get picked up at a conference" items.

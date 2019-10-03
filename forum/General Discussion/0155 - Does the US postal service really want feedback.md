@@ -12,7 +12,7 @@ I guess this is a good way to avoid all negative feedback.   <!-- s;) --><img sr
 
 Posted by **ThatGuy** on Wed July 23rd, 2008 11:15:53 PM
 
-I hate the post office as far as security goes, like George Carlin said &quot;They don't give a fuck about you&quot;
+I hate the post office as far as security goes, like George Carlin said "They don't give a fuck about you"
 
 --------------------------------------------------------------------------------
 
@@ -24,12 +24,12 @@ Interesting survey.  Here's how I answered part of it:
 
 [quote:3ou4pd7k]What is one thing that the Postal Service could do to improve your experience at the MES-MAIN OFFICE STA Post Office?[/quote:3ou4pd7k]
 
-[code:3ou4pd7k]Increase speed, and not give me weird looks when requesting Media Mail&#46;  Also, in general, clerks should be a little more informative to the customer as to their options&#46;[/code:3ou4pd7k]
+[code:3ou4pd7k]Increase speed, and not give me weird looks when requesting Media Mail.  Also, in general, clerks should be a little more informative to the customer as to their options.[/code:3ou4pd7k]
 
 --------------------------------------------------------------------------------
 
 Posted by **nak** on Thu July 24th, 2008 10:44:22 AM
 
-[quote=&quot;ThatGuy&quot;:3a9pf2xb]I hate the post office as far as security goes, like George Carlin said &quot;They don't give a fuck about you&quot;[/quote:3a9pf2xb]
+[quote="ThatGuy":3a9pf2xb]I hate the post office as far as security goes, like George Carlin said "They don't give a fuck about you"[/quote:3a9pf2xb]
 
 R.I.P

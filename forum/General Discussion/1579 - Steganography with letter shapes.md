@@ -8,4 +8,4 @@ So the above paragraph would be: 001
 I'm not sure why there's a news article about it, as it's not incredibly impressive, but it serves as another example of stego that isn't just images.
 <!-- m --><a class="postlink" href="http://www.theregister.co.uk/2012/03/19/new_steganography_plan/">http://www.theregister.co.uk/2012/03/19 ... aphy_plan/</a><!-- m -->
 
-Oh, BTW, my talk on &quot;Explosive Steganography&quot; was approved for HOPE 9 a little over a week ago. I have coded interesting tools that I haven't really gone over at the meetings. They are very different from normal stego.
+Oh, BTW, my talk on "Explosive Steganography" was approved for HOPE 9 a little over a week ago. I have coded interesting tools that I haven't really gone over at the meetings. They are very different from normal stego.

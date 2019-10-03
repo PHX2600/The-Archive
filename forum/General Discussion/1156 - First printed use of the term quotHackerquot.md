@@ -1,7 +1,7 @@
-## First printed use of the term &quot;Hacker&quot;
+## First printed use of the term "Hacker"
 Posted by **Rax** on Fri November 20th, 2009 02:30:24 PM
 
-November 20, 1963 the term &quot;Hacker&quot; was first used in &quot;TheTech&quot; an MIT publication:
+November 20, 1963 the term "Hacker" was first used in "TheTech" an MIT publication:
 
  <!-- m --><a class="postlink" href="http://bit.ly/7RT9IC">http://bit.ly/7RT9IC</a><!-- m -->
 
@@ -21,8 +21,8 @@ The following was written shortly after my arrest...
                           Written on January 8, 1986
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-        Another one got caught today, it's all over the papers.  &quot;Teenager
-Arrested in Computer Crime Scandal&quot;, &quot;Hacker Arrested after Bank Tampering&quot;...
+        Another one got caught today, it's all over the papers.  "Teenager
+Arrested in Computer Crime Scandal", "Hacker Arrested after Bank Tampering"...
         Damn kids.  They're all alike.
 
         But did you, in your three-piece psychology and 1950's technobrain,
@@ -34,8 +34,8 @@ the other kids, this crap they teach us bores me...
         Damn underachiever.  They're all alike.
 
         I'm in junior high or high school.  I've listened to teachers explain
-for the fifteenth time how to reduce a fraction.  I understand it.  &quot;No, Ms.
-Smith, I didn't show my work.  I did it in my head...&quot;
+for the fifteenth time how to reduce a fraction.  I understand it.  "No, Ms.
+Smith, I didn't show my work.  I did it in my head..."
         Damn kid.  Probably copied it.  They're all alike.
 
         I made a discovery today.  I found a computer.  Wait a second, this is
@@ -50,7 +50,7 @@ screwed it up.  Not because it doesn't like me...
 the phone line like heroin through an addict's veins, an electronic pulse is
 sent out, a refuge from the day-to-day incompetencies is sought... a board is
 found.
-        &quot;This is it... this is where I belong...&quot;
+        "This is it... this is where I belong..."
         I know everyone here... even if I've never met them, never talked to
 them, may never hear from them again... I know you all...
         Damn kid.  Tying up the phone line again.  They're all alike...
@@ -85,6 +85,6 @@ _______________________________________________________________________________
 
 Posted by **Automated Penguin** on Fri November 20th, 2009 10:46:44 PM
 
-First hacked use of the term &quot;printer&quot;.
+First hacked use of the term "printer".
 
-[img:1gxjrvvt]http&#58;//www&#46;gnarlymath&#46;com/caxton33&#46;gif[/img:1gxjrvvt]
+[img:1gxjrvvt]http://www.gnarlymath.com/caxton33.gif[/img:1gxjrvvt]

@@ -1,7 +1,7 @@
 ## Dread Zeppelin - Official Write Up
 Posted by **Ugly** on Mon April 7th, 2008 01:32:21 AM
 
-I've written up a summary of my proposed build for the Kismet Blimp project. It can be viewed [url=http&#58;//www&#46;hackerscouts&#46;com/wiki/index&#46;php/Main_Page:qede6zvv]Here[/url:qede6zvv]
+I've written up a summary of my proposed build for the Kismet Blimp project. It can be viewed [url=http://www.hackerscouts.com/wiki/index.php/Main_Page:qede6zvv]Here>
 
 --------------------------------------------------------------------------------
 
@@ -22,7 +22,7 @@ Posted by **ThatGuy** on Sat May 31st, 2008 01:22:12 AM
 
 Maybe you can build something like this intead.
 
-[img:pt7i5ttl]http&#58;//www&#46;rctoys&#46;com/images/products/DF-SAVS_1&#46;jpg[/img:pt7i5ttl]
+[img:pt7i5ttl]http://www.rctoys.com/images/products/DF-SAVS_1.jpg[/img:pt7i5ttl]
 
 The police use a similar model that is more heavy duty with a larger heavier camera and video glasses.
 
@@ -30,7 +30,7 @@ The police use a similar model that is more heavy duty with a larger heavier cam
 
 Posted by **nak** on Sat May 31st, 2008 09:04:23 AM
 
-Oh yeah those quad-copter things are awesome, Ive seen some videos from the [url=http&#58;//events&#46;ccc&#46;de/camp/2007/Home:ytwtxk0s]CCC camp[/url:ytwtxk0s] I guess they are a popular thing there.
+Oh yeah those quad-copter things are awesome, Ive seen some videos from the [url=http://events.ccc.de/camp/2007/Home:ytwtxk0s]CCC camp> I guess they are a popular thing there.
 
 This might be a good page to look at for balloon stuff:
 <!-- m --><a class="postlink" href="http://www.ansr.org/index.php?title=Main_Page">http://www.ansr.org/index.php?title=Main_Page</a><!-- m -->
@@ -62,6 +62,6 @@ I think I'm going to fall back to my original project of a 3-axis mount for my p
 Posted by **Ugly** on Wed July 23rd, 2008 12:20:11 AM
 
 Looks like someone implemented the idea, though on a smaller scale than I was thinking.
-[url:5tgs0pqn]http&#58;//defcon&#46;org/html/defcon-16/dc-16-speakers&#46;html#Hill[/url:5tgs0pqn]
+<http://defcon.org/html/defcon-16/dc-16-speakers.html#Hill>
 
 I plan on checking that out.

@@ -45,13 +45,13 @@ Hi FM squared <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" ti
 
 Posted by **chespirito** on Tue May 29th, 2012 10:49:48 PM
 
-Hi, I'm *Chesy (&quot;CHEH-zee&quot;), and I generally prefer to do a lot more listening and asking questions than talking. This is possibly because I understand programming and websites, but haven't done more than dabbled in that stuff. I can get around on most popular OSes, but I wish I was as proficient in Linux as I am in Windows (XP). Windows 8 (by repelling) and Android (by attracting) may motivate/nudge me out of my comfort zone.
+Hi, I'm *Chesy ("CHEH-zee"), and I generally prefer to do a lot more listening and asking questions than talking. This is possibly because I understand programming and websites, but haven't done more than dabbled in that stuff. I can get around on most popular OSes, but I wish I was as proficient in Linux as I am in Windows (XP). Windows 8 (by repelling) and Android (by attracting) may motivate/nudge me out of my comfort zone.
 
 My favorite computer game is still Minesweeper.
 
 My netbook used to dual-boot WinXP and Linux, now it dual-boots WinXP and Mac. Hopefully I'll get it to triple-boot soon. Or quad-boot (w/FreeDOS, or something else). Why? Just because, to see if it can be done.
 
-*but Kilo calls me &quot;Teach&quot;
+*but Kilo calls me "Teach"
 
 --------------------------------------------------------------------------------
 
@@ -83,6 +83,6 @@ Hi wook! I don't know if I'll show up this time, but welcome to the forums!
 
 Posted by **DizzyTheGnome** on Thu July 26th, 2012 12:31:45 AM
 
-My name is Dizzy. I am a Datacenter Gnome from the area. I'm hitchhiking to DEFCON with the help of kind strangers and having them post pictures of my travels to my [url=https&#58;//www&#46;facebook&#46;com/pages/Dizzy-The-Datacenter-Gnome/423097177729156:kpz724ym]Facebook page[/url:kpz724ym].
+My name is Dizzy. I am a Datacenter Gnome from the area. I'm hitchhiking to DEFCON with the help of kind strangers and having them post pictures of my travels to my [url=https://www.facebook.com/pages/Dizzy-The-Datacenter-Gnome/423097177729156:kpz724ym]Facebook page>.
 
 I've asked to find my way back to your group when I'm done. If I get there, please let Ugly know.

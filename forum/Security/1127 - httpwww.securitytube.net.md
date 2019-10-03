@@ -1,7 +1,7 @@
 ## http://www.securitytube.net/
 Posted by **TerrorDrone** on Sat October 3rd, 2009 05:54:25 PM
 
-[url:2re86sy8]http&#58;//www&#46;securitytube&#46;net/[/url:2re86sy8]
+<http://www.securitytube.net/>
 seems cool havent really got to check it out but seems liek something that belongs here
 
 --------------------------------------------------------------------------------

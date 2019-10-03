@@ -51,7 +51,7 @@ ROW ROW FIGHT THE POWAH
 
 Posted by **Automated Penguin** on Fri September 12th, 2008 12:13:35 AM
 
-[quote=&quot;dxh&quot;:1fv26ivl]ROW ROW FIGHT THE POWAH[/quote:1fv26ivl]
+[quote="dxh":1fv26ivl]ROW ROW FIGHT THE POWAH[/quote:1fv26ivl]
 
 We Are Legion
 
@@ -59,7 +59,7 @@ We Are Legion
 
 Posted by **TerrorDrone** on Fri September 12th, 2008 09:36:44 AM
 
-[quote=&quot;PHLAK&quot;:tkd53tn5]Yeah... like Penguin.
+[quote="PHLAK":tkd53tn5]Yeah... like Penguin.
 
 BTW, do you know how he's doing that.  I revoked all his access and changed all my passwords and he still seems to have a way in.  Any idea how?  I'm sure it's just something I'm overlooking.[/quote:tkd53tn5]
 that's easy he is a superhuman alien

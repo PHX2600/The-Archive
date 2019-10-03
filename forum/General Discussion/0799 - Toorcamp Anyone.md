@@ -1,7 +1,7 @@
 ## Toorcamp Anyone?
 Posted by **dxh** on Mon May 4th, 2009 12:30:02 AM
 
-Raise your hand if you're going to [url=http&#58;//toorcamp&#46;org/:3vy2sgds]Toorcamp[/url:3vy2sgds]!
+Raise your hand if you're going to [url=http://toorcamp.org/:3vy2sgds]Toorcamp>!
 
 --------------------------------------------------------------------------------
 

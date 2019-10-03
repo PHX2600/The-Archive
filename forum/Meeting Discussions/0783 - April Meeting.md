@@ -33,7 +33,7 @@ Posted by **TerrorDrone** on Wed April 1st, 2009 09:08:54 PM
 
 Posted by **fightgar** on Thu April 2nd, 2009 06:31:25 PM
 
-[quote=&quot;PHLAK&quot;:1j7rju1r]I should be there.  I might be bringing a new friend.[/quote:1j7rju1r]
+[quote="PHLAK":1j7rju1r]I should be there.  I might be bringing a new friend.[/quote:1j7rju1r]
 Am I ur new friend? Just wondering...
 
 --------------------------------------------------------------------------------

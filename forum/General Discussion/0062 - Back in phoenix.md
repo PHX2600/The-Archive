@@ -3,7 +3,7 @@ Posted by **Shadow** on Thu February 14th, 2008 12:43:58 PM
 
 Yo, I'm back! Incase a face doesn't come with this name, I'm Shadow from isoHunt:
 
-[img:218pqr7g]http&#58;//img84&#46;imageshack&#46;us/img84/8192/recent0os&#46;png[/img:218pqr7g]
+[img:218pqr7g]http://img84.imageshack.us/img84/8192/recent0os.png[/img:218pqr7g]
 
 --------------------------------------------------------------------------------
 

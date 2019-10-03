@@ -5,7 +5,7 @@ Hi y'all!
 
 I came across something mighty interesting upon logging out of my email...
 
-[url:2rl78ikh]http&#58;//gmailblog&#46;blogspot&#46;com/2009/05/create-your-google-profile&#46;html[/url:2rl78ikh]
+<http://gmailblog.blogspot.com/2009/05/create-your-google-profile.html>
 
 I hate to point this out to the Googster but this profile thingy makes dropping docs sooo much easier <!-- s:o --><img src="{SMILIES_PATH}/icon_e_surprised.gif" alt=":o" title="Surprised" /><!-- s:o --> 
 

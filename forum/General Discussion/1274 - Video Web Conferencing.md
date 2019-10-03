@@ -21,9 +21,9 @@ Posted by **HalfSight** on Mon August 2nd, 2010 10:23:19 AM
 
 Ok, so after much deliberation I have ruled out most services.
 
-Here was the goal, Video conferencing with &quot;As good as&quot; or &quot;Better than&quot; Skype quality.
+Here was the goal, Video conferencing with "As good as" or "Better than" Skype quality.
 
-Challenge, Must go from 1 to 25 offices for company wide broadcast. They want, and I quote, a &quot;Talking Head&quot;. Pretty much in High def. They say bring me a solution.
+Challenge, Must go from 1 to 25 offices for company wide broadcast. They want, and I quote, a "Talking Head". Pretty much in High def. They say bring me a solution.
 
 SO I researchm Skype, 1 to 6, oovoo, 1 to 12. So Webex and Adobe and the other big 4, crappy vid quality and no fullscreen. Megameeting,  Major latency after a few minutes, Ustream, Ads.
 

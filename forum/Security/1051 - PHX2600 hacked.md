@@ -19,17 +19,17 @@ Posted by **Evil1** on Fri August 7th, 2009 11:21:17 AM
 <!-- e --><a href="mailto:hexatex@gmail.com">hexatex@gmail.com</a><!-- e --> AKA
 Cory Baumer
 38306 N 23 dr Phoenix Arizona 85086
-[url:rox5ptub]http&#58;//local&#46;google&#46;com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=38306+N+23+dr+Phoenix+Arizona+85086&amp;sll=37&#46;0625,-95&#46;677068&amp;sspn=47&#46;349227,79&#46;013672&amp;ie=UTF8&amp;t=h&amp;z=16&amp;iwloc=A[/url:rox5ptub]
+<http://local.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=38306+N+23+dr+Phoenix+Arizona+85086&amp;sll=37.0625,-95.677068&amp;sspn=47.349227,79.013672&amp;ie=UTF8&amp;t=h&amp;z=16&amp;iwloc=A>
 (623)-687-5379 (linked to datastorm PC repair, not registered as an official LLC)
 
 --------------------------------------------------------------------------------
 
 Posted by **hexatex** on Fri August 7th, 2009 11:43:28 AM
 
-[quote=&quot;Evil1&quot;:2gy44dn9]hexatex@gmail.com AKA
+[quote="Evil1":2gy44dn9]hexatex@gmail.com AKA
 Cory Baumer
 38306 N 23 dr Phoenix Arizona 85086
-[url:2gy44dn9]http&#58;//local&#46;google&#46;com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=38306+N+23+dr+Phoenix+Arizona+85086&amp;sll=37&#46;0625,-95&#46;677068&amp;sspn=47&#46;349227,79&#46;013672&amp;ie=UTF8&amp;t=h&amp;z=16&amp;iwloc=A[/url:2gy44dn9]
+<http://local.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=38306+N+23+dr+Phoenix+Arizona+85086&amp;sll=37.0625,-95.677068&amp;sspn=47.349227,79.013672&amp;ie=UTF8&amp;t=h&amp;z=16&amp;iwloc=A>
 (623)-687-5379 (linked to datastorm PC repair, not registered as an official LLC)[/quote:2gy44dn9]
 
 OMG, man you got me, hahaha, I better melt down my computer. 
@@ -58,7 +58,7 @@ omg hahaha I didnt notice that till now, it came with the wordpress template hah
 
 Posted by **hexatex** on Fri August 7th, 2009 03:25:25 PM
 
-[quote=&quot;PHLAK&quot;:r30b2ore]Is there supposed to be a link to Viagra at the top left of your site: <!-- m --><a class="postlink" href="http://hexatex.org">http://hexatex.org</a><!-- m --> ?[/quote:r30b2ore]
+[quote="PHLAK":r30b2ore]Is there supposed to be a link to Viagra at the top left of your site: <!-- m --><a class="postlink" href="http://hexatex.org">http://hexatex.org</a><!-- m --> ?[/quote:r30b2ore]
 ok, penis pill link removed. Damn spammers and their free templates!
 
 --------------------------------------------------------------------------------
@@ -92,6 +92,6 @@ I've never seen this before actually, I just did some research on the different 
 
 Posted by **Valveritas** on Fri October 2nd, 2009 02:48:34 PM
 
-You said yourself &quot;the hoe has been patched&quot; - lol.
+You said yourself "the hoe has been patched" - lol.
 
 But yeah, I was just curious if you've come across this before.  Interesting that you haven't.

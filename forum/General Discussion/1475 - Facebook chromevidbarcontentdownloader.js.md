@@ -8,7 +8,7 @@ Anyone know why chrome&#058;//vidbar/content/downloader.js keeps trying to load 
 Posted by **ArchAngel** on Thu October 20th, 2011 07:12:55 AM
 
 <!-- m --><a class="postlink" href="http://www.google.com/support/forum/p/Chrome/thread?tid=639a8625d5743e88&amp;hl=en">http://www.google.com/support/forum/p/C ... 3e88&amp;hl=en</a><!-- m -->
-[quote:ou1iew5u]I had the same problem and found that once I removed the &quot;YouTube Downloader&quot; add-on I had previously installed on Firefox, that the problems stopped.[/quote:ou1iew5u]
+[quote:ou1iew5u]I had the same problem and found that once I removed the "YouTube Downloader" add-on I had previously installed on Firefox, that the problems stopped.[/quote:ou1iew5u]
 *shrugz*
 
 --------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ Him, thanks AA. I DO use that add-on... but I'd much rather use that add-on than
 
 Posted by **PHLAK** on Thu October 20th, 2011 10:21:14 AM
 
-Firefox has had [url=http&#58;//kb&#46;mozillazine&#46;org/Chrome_URLs:3rmkgq4b]chrome URLs[/url:3rmkgq4b] for XUL components since before the Google Chrome browser existed.  This likely has to do with one of your extensions.  A quick [url=http&#58;//www&#46;google&#46;com/support/forum/p/Chrome/thread?tid=639a8625d5743e88&amp;hl=en:3rmkgq4b]Google search[/url:3rmkgq4b] indicates it may be related to the YouTube Downloader add-on.
+Firefox has had [url=http://kb.mozillazine.org/Chrome_URLs:3rmkgq4b]chrome URLs> for XUL components since before the Google Chrome browser existed.  This likely has to do with one of your extensions.  A quick [url=http://www.google.com/support/forum/p/Chrome/thread?tid=639a8625d5743e88&amp;hl=en:3rmkgq4b]Google search> indicates it may be related to the YouTube Downloader add-on.
 
 --------------------------------------------------------------------------------
 

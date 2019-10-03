@@ -29,7 +29,7 @@ Welcome back!
 
 Posted by **XlogicX** on Fri October 7th, 2011 05:34:09 AM
 
-Totally have not forgot about you dude, glad to hear your plugging back in...I have recently made the same decision. I've remained social I guess, but haven't really been &quot;plugged in&quot; for years, I miss it. I miss the old BinRev community and what it stood for, I miss Radio Freak America, I miss actually reading 2600 and listening to Off the Hook (despite all the needless complaining on the show), lol. I've read the last couple issues though. Not sure what happened, but a lot of us seemed to all drop out around the same time, or so it seems. Maybe that's just my perception since I've been somewhat unplugged.
+Totally have not forgot about you dude, glad to hear your plugging back in...I have recently made the same decision. I've remained social I guess, but haven't really been "plugged in" for years, I miss it. I miss the old BinRev community and what it stood for, I miss Radio Freak America, I miss actually reading 2600 and listening to Off the Hook (despite all the needless complaining on the show), lol. I've read the last couple issues though. Not sure what happened, but a lot of us seemed to all drop out around the same time, or so it seems. Maybe that's just my perception since I've been somewhat unplugged.
 
 --------------------------------------------------------------------------------
 

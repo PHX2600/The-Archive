@@ -9,7 +9,7 @@ With a registered Starbucks card, $5 minimum, used once per month, patrons get t
 
 The service launched 3 June and I tested it Friday morning. Sign up and sign in were quite slow due to server load. The SSID is attwifi and DHCP hands out 10. addresses. The tmobile SSID was still present, though I think they're going away. After sign in, access was fast and reliable, and it seems that no ports are blocked.
 
-AFAIK, the cards are standard 16-digit, 8-digit scratch-off PIN Starbucks cards. The card has a two-track mag stripe. One track has a string of numbers, which we'll call string1, the print run name, here RNASPRINGCARDFY08, and then another string of numbers, string2. The other track has &quot;string1=string2.&quot; The last four digits of string2 are the last four of the card number.
+AFAIK, the cards are standard 16-digit, 8-digit scratch-off PIN Starbucks cards. The card has a two-track mag stripe. One track has a string of numbers, which we'll call string1, the print run name, here RNASPRINGCARDFY08, and then another string of numbers, string2. The other track has "string1=string2." The last four digits of string2 are the last four of the card number.
 
 Without a Starbucks card, only UDP on 53 is allowed, so at least you can use dig. I recommend signing up at home with fake docs. Other than that, make sure to get your coffee in a mug and ask for the cup discount!
 
@@ -17,7 +17,7 @@ Without a Starbucks card, only UDP on 53 is allowed, so at least you can use dig
 
 Posted by **dual** on Sun June 8th, 2008 03:51:52 PM
 
-From Slashdot, [url=http&#58;//wifinetnews&#46;com/archives/008345&#46;html:2rf1qho7]T-Mobile Sues Starbucks over Premature Free Wi-Fi[/url:2rf1qho7].
+From Slashdot, [url=http://wifinetnews.com/archives/008345.html:2rf1qho7]T-Mobile Sues Starbucks over Premature Free Wi-Fi>.
 
 --------------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ Coolio, although I have the luxury of not living next door to a star$s
 
 Posted by ***Hazard** on Sat June 14th, 2008 01:25:05 PM
 
-[quote=&quot;nak&quot;:1kk2zb49]Coolio, although I have the luxury of not living next door to a star$s[/quote:1kk2zb49]
+[quote="nak":1kk2zb49]Coolio, although I have the luxury of not living next door to a star$s[/quote:1kk2zb49]
 
 I do however live near a ?-$'s but I already pay for my HSI service from Cawks. :p
 

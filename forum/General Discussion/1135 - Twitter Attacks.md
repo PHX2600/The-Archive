@@ -7,7 +7,7 @@ A Phoenix video blogger was recently burgled, mimicking a May burglary in items 
 <!-- m --><a class="postlink" href="http://www.azcentral.com/12news/news/articles/2009/05/29/20090529twitterrobbery052909-CR.html">http://www.azcentral.com/12news/news/ar ... 09-CR.html</a><!-- m -->
 
 <!-- m --><a class="postlink" href="http://twitter.com/davebrook/status/4843827376">http://twitter.com/davebrook/status/4843827376</a><!-- m -->
-&quot;My house was just broken into this morning. They to EVERYTHING CenPhoTV needs no camera no MacBook we are absolutely FUCKED.&quot;
+"My house was just broken into this morning. They to EVERYTHING CenPhoTV needs no camera no MacBook we are absolutely FUCKED."
 
 Of course one can protect their tweets, or do what I do, simply intersperse misinformation.
 

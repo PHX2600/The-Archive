@@ -34,6 +34,6 @@ Did you change your user name Nak?
 
 Posted by **PHLAK** on Sat February 14th, 2009 08:48:03 PM
 
-[quote=&quot;CultLeadr&quot;:26k39cvg]Did you change your user name Nak?[/quote:26k39cvg]
+[quote="CultLeadr":26k39cvg]Did you change your user name Nak?[/quote:26k39cvg]
 
 I think Fightgar is a friend of Nak's, maybe he posted for him.

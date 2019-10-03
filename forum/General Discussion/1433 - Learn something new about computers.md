@@ -1,7 +1,7 @@
 ## Learn something new about computers
 Posted by **Valveritas** on Wed June 29th, 2011 06:43:10 PM
 
-[url=http&#58;//www&#46;youtube&#46;com/watch?v=EntiJhQ9z_U:364wb955]LEARN![/url:364wb955]
+[url=http://www.youtube.com/watch?v=EntiJhQ9z_U:364wb955]LEARN!>
 
 --------------------------------------------------------------------------------
 

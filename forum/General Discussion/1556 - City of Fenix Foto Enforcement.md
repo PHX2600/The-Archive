@@ -3,13 +3,13 @@ Posted by **dual** on Sun February 19th, 2012 08:23:24 AM
 
 The host name on the monitor sticker is P H X  S P V N  0 6.
 
-[img:1za9hzsw]https&#58;//getdual&#46;com/fenixfoto/fenixfoto1&#46;jpg[/img:1za9hzsw]
+[img:1za9hzsw]https://getdual.com/fenixfoto/fenixfoto1.jpg[/img:1za9hzsw]
 
-[img:1za9hzsw]https&#58;//getdual&#46;com/fenixfoto/fenixfoto2&#46;jpg[/img:1za9hzsw]
+[img:1za9hzsw]https://getdual.com/fenixfoto/fenixfoto2.jpg[/img:1za9hzsw]
 
-[img:1za9hzsw]https&#58;//getdual&#46;com/fenixfoto/fenixfoto3&#46;jpg[/img:1za9hzsw]
+[img:1za9hzsw]https://getdual.com/fenixfoto/fenixfoto3.jpg[/img:1za9hzsw]
 
-[img:1za9hzsw]https&#58;//getdual&#46;com/fenixfoto/fenixfoto4&#46;jpg[/img:1za9hzsw]
+[img:1za9hzsw]https://getdual.com/fenixfoto/fenixfoto4.jpg[/img:1za9hzsw]
 
 Edit: Linksys WAP is just a neighborhood service apparently.
 Edit 2: Yeah, sorry, poor choice of words on my part. The signal was really strong at the vehicle. There wasn't a WAP on the roof.
@@ -52,7 +52,7 @@ Posted by **Urbal** on Sun February 19th, 2012 09:26:52 PM
 
 Posted by **Junker** on Sat February 25th, 2012 01:38:38 AM
 
-wow, that's almost as bad as the black van that parked up the street a couple years ago, they got there about 3AM, put up one of those paper sun screens in the front window, and nobody got out of the van, simultaneously a new network SSID showed up.... &quot;SurveillanceVan023&quot;. It showed up each night for 3 days, then one morning they raided a house up the street. It was a fencing operation.
+wow, that's almost as bad as the black van that parked up the street a couple years ago, they got there about 3AM, put up one of those paper sun screens in the front window, and nobody got out of the van, simultaneously a new network SSID showed up.... "SurveillanceVan023". It showed up each night for 3 days, then one morning they raided a house up the street. It was a fencing operation.
 
 I never did get up the courage to go knock on the door and offer them coffee and donuts, though I surely was tempted.
 
@@ -60,6 +60,6 @@ I never did get up the courage to go knock on the door and offer them coffee and
 
 Posted by **Urbal** on Mon February 27th, 2012 11:23:24 AM
 
-[quote=&quot;Junker&quot;:ksr7jij4]and nobody got out of the van, simultaneously a new network SSID showed up.... &quot;SurveillanceVan023&quot;. [/quote:ksr7jij4]
+[quote="Junker":ksr7jij4]and nobody got out of the van, simultaneously a new network SSID showed up.... "SurveillanceVan023". [/quote:ksr7jij4]
 
 LOL.... so subtle.

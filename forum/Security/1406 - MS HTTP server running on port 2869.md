@@ -7,45 +7,45 @@ Server: Microsoft-HTTPAPI/1.0
 
 What gives? (those are my files btw, I had filesharing enabled, but turned it off, maybe samba yoinked it, but I've never... will continue research and post results
 
-[code:46q5r542]$GET / 192&#46;168&#46;1&#46;100 2869
-&lt;HTML&gt;
-&lt;HEAD&gt;
-&lt;TITLE&gt;Directory /&lt;/TITLE&gt;
-&lt;BASE HREF=&quot;file&#58;/&quot;&gt;
-&lt;/HEAD&gt;
-&lt;BODY&gt;
-&lt;H1&gt;Directory listing of /&lt;/H1&gt;
-&lt;UL&gt;
-&lt;LI&gt;&lt;A HREF=&quot;&#46;/&quot;&gt;&#46;/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;&#46;&#46;/&quot;&gt;&#46;&#46;/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;bin/&quot;&gt;bin/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;boot/&quot;&gt;boot/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;cdrom/&quot;&gt;cdrom/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;dev/&quot;&gt;dev/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;etc/&quot;&gt;etc/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;home/&quot;&gt;home/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;initrd&#46;img&quot;&gt;initrd&#46;img&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;initrd&#46;img&#46;old&quot;&gt;initrd&#46;img&#46;old&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;justsomesniff&quot;&gt;justsomesniff&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;lib/&quot;&gt;lib/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;lost%2Bfound/&quot;&gt;lost+found/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;media/&quot;&gt;media/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;mnt/&quot;&gt;mnt/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;opt/&quot;&gt;opt/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;proc/&quot;&gt;proc/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;root/&quot;&gt;root/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;sbin/&quot;&gt;sbin/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;selinux/&quot;&gt;selinux/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;srv/&quot;&gt;srv/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;sys/&quot;&gt;sys/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;tmp/&quot;&gt;tmp/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;usr/&quot;&gt;usr/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;var/&quot;&gt;var/&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;vmlinuz&quot;&gt;vmlinuz&lt;/A&gt;
-&lt;LI&gt;&lt;A HREF=&quot;vmlinuz&#46;old&quot;&gt;vmlinuz&#46;old&lt;/A&gt;
-&lt;/UL&gt;
-&lt;/BODY&gt;
-&lt;/HTML&gt;[/code:46q5r542]
+[code:46q5r542]$GET / 192.168.1.100 2869
+<HTML>
+<HEAD>
+<TITLE>Directory /</TITLE>
+<BASE HREF="file:/">
+</HEAD>
+<BODY>
+<H1>Directory listing of /</H1>
+<UL>
+<LI><A HREF="./">./</A>
+<LI><A HREF="../">../</A>
+<LI><A HREF="bin/">bin/</A>
+<LI><A HREF="boot/">boot/</A>
+<LI><A HREF="cdrom/">cdrom/</A>
+<LI><A HREF="dev/">dev/</A>
+<LI><A HREF="etc/">etc/</A>
+<LI><A HREF="home/">home/</A>
+<LI><A HREF="initrd.img">initrd.img</A>
+<LI><A HREF="initrd.img.old">initrd.img.old</A>
+<LI><A HREF="justsomesniff">justsomesniff</A>
+<LI><A HREF="lib/">lib/</A>
+<LI><A HREF="lost%2Bfound/">lost+found/</A>
+<LI><A HREF="media/">media/</A>
+<LI><A HREF="mnt/">mnt/</A>
+<LI><A HREF="opt/">opt/</A>
+<LI><A HREF="proc/">proc/</A>
+<LI><A HREF="root/">root/</A>
+<LI><A HREF="sbin/">sbin/</A>
+<LI><A HREF="selinux/">selinux/</A>
+<LI><A HREF="srv/">srv/</A>
+<LI><A HREF="sys/">sys/</A>
+<LI><A HREF="tmp/">tmp/</A>
+<LI><A HREF="usr/">usr/</A>
+<LI><A HREF="var/">var/</A>
+<LI><A HREF="vmlinuz">vmlinuz</A>
+<LI><A HREF="vmlinuz.old">vmlinuz.old</A>
+</UL>
+</BODY>
+</HTML>[/code:46q5r542]
 
 --------------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ man GET:
        messages are printed on stderr.  The program returns a status value
        indicating the number of URLs that failed.[/quote:3bbkd653]
 
-whoops &gt;.&lt;
+whoops >.<
 
 --------------------------------------------------------------------------------
 

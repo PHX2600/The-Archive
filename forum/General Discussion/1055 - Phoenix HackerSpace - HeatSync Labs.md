@@ -7,7 +7,7 @@ If any of you are interested in this concept we will be hosting our 2nd Public m
 
 Mesa F.O.P. Lodge
 1452 E. Main St., Mesa, AZ 85203
-[url:wwmb9ij6]http&#58;//maps&#46;google&#46;com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1452+E&#46;+Main+St&#46;,+Mesa,+AZ+85203+&amp;ie=UTF8&amp;t=h&amp;z=16[/url:wwmb9ij6]
+<http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=1452+E.+Main+St.,+Mesa,+AZ+85203+&amp;ie=UTF8&amp;t=h&amp;z=16>
 
 We will be discussing:
 
@@ -25,15 +25,15 @@ If you have any questions in the mean time feel free to forward them to:
 <!-- e --><a href="mailto:info@heatsynclabs.org">info@heatsynclabs.org</a><!-- e -->
 
 Our website is:
-[url:wwmb9ij6]http&#58;//www&#46;heatsynclabs&#46;org[/url:wwmb9ij6]
+<http://www.heatsynclabs.org>
 
 We've got a Facebook group at:
 
-[url:wwmb9ij6]http&#58;//www&#46;facebook&#46;com/group&#46;php?gid=108358112346[/url:wwmb9ij6]
+<http://www.facebook.com/group.php?gid=108358112346>
 
 And you can follow us on twitter at:
 @heatsynclabs
-[url:wwmb9ij6]http&#58;//www&#46;twitter&#46;com/heatsynclabs[/url:wwmb9ij6]
+<http://www.twitter.com/heatsynclabs>
 
 --------------------------------------------------------------------------------
 

@@ -11,7 +11,7 @@ Posted by **Rax** on Wed August 3rd, 2011 08:13:10 PM
 
 Diaspora... isn't that the con game that a bunch of students came up with to bilk tens of thousands of dollars out of suckers on Kickstarter?  <!-- s:lol: --><img src="{SMILIES_PATH}/icon_lol.gif" alt=":lol:" title="Laughing" /><!-- s:lol: --> 
 
-I chipped in $5.  I played with it when it came out, but it was way, way &quot;un-ripe.&quot;
+I chipped in $5.  I played with it when it came out, but it was way, way "un-ripe."
 
 It seems almost moot now, especially in light of G+
 
@@ -50,7 +50,7 @@ Posted by **PHLAK** on Mon August 15th, 2011 03:13:12 PM
 
 While I'd love a free and open social networking site/client, it will never happen.  The main target of social networking is the... under-informed.  That being said, I think Facebook has been dead for a long time, and have high hopes for Google+.  It's still not perfect, but I Google has earned my trust over the years and is doing it's best to make it clear that what you post on G+ is open/public, while at the same time, belongs to you, the content creator.
 
-I agree with Rax though, the &quot;kids&quot; making Diaspora really didn't know what they were doing to begin.  Diaspora has gotten a lot better though since early on, but I still think their biggest downfall will be their decision to use Ruby on Rails. Unlike Facebook who uses PHP mostly, Ruby/Rails isn't supported by many typical shared hosting providers, and few people who run a VPS or dedicated box will want to host their own Diaspora clone anyway.  And in Google's case, running mostly Python, they have the dedicated infrastructure already and teams to maintain it.
+I agree with Rax though, the "kids" making Diaspora really didn't know what they were doing to begin.  Diaspora has gotten a lot better though since early on, but I still think their biggest downfall will be their decision to use Ruby on Rails. Unlike Facebook who uses PHP mostly, Ruby/Rails isn't supported by many typical shared hosting providers, and few people who run a VPS or dedicated box will want to host their own Diaspora clone anyway.  And in Google's case, running mostly Python, they have the dedicated infrastructure already and teams to maintain it.
 
 --------------------------------------------------------------------------------
 
@@ -68,7 +68,7 @@ Speaking of Google, I find it extremely annoying that I can't be logged into you
 
 Posted by **PHLAK** on Thu August 18th, 2011 02:17:37 PM
 
-[quote=&quot;CultLeadr&quot;:1siidboa]Speaking of Google, I find it extremely annoying that I can't be logged into youtube and gmail at the same time with different email addresses.[/quote:1siidboa]
+[quote="CultLeadr":1siidboa]Speaking of Google, I find it extremely annoying that I can't be logged into youtube and gmail at the same time with different email addresses.[/quote:1siidboa]
 
 This is because of the way Google uses a single sign on for all their web services and it makes perfect sense.  The majority of their users only have ONE Google account and use it for all their Google services.  Even I (who has a dozen different Google accounts), use ONE primarily and enjoy the fact that I don't have to sign in multiple times to access all their different services.
 
@@ -78,7 +78,7 @@ Is there a specific reason you're using two different accounts? If you think it'
 
 Posted by **Valveritas** on Thu August 18th, 2011 03:16:31 PM
 
-[quote=&quot;PHLAK&quot;:3j4yerdl]
+[quote="PHLAK":3j4yerdl]
 This is because of the way Google uses a single sign on for all their web services and it makes perfect sense.  The majority of their users only have ONE Google account and use it for all their Google services.  Even I (who has a dozen different Google accounts), use ONE primarily and enjoy the fact that I don't have to sign in multiple times to access all their different services. [/quote:3j4yerdl]
 
 With cookies, why would you have to sign in multiple times?  I don't understand what  you mean.  There was nothing wrong with the old method.
@@ -94,9 +94,9 @@ So, if you're someone that likes to lump everything together like the NWO and in
 
 Posted by **PHLAK** on Thu August 25th, 2011 04:19:24 PM
 
-[quote=&quot;CultLeadr&quot;:1b8ikzum]Yeah, some email addresses I use for random signups, some for online ordering, some for banking, and some for personal use.  I don't want my youtube emails to be mixed in with any of those other things.  If any one of my email addresses is comprised in someway, it will not affect everything else I do online.  I already learned a lesson once as far as that goes.[/quote:1b8ikzum]
+[quote="CultLeadr":1b8ikzum]Yeah, some email addresses I use for random signups, some for online ordering, some for banking, and some for personal use.  I don't want my youtube emails to be mixed in with any of those other things.  If any one of my email addresses is comprised in someway, it will not affect everything else I do online.  I already learned a lesson once as far as that goes.[/quote:1b8ikzum]
 
-You may want to consider using Google's [url=http&#58;//googleblog&#46;blogspot&#46;com/2011/02/advanced-sign-in-security-for-your&#46;html:1b8ikzum]two factor authentication[/url:1b8ikzum] then.  This is probably the best thing you can do for securing your Google account security.
+You may want to consider using Google's [url=http://googleblog.blogspot.com/2011/02/advanced-sign-in-security-for-your.html:1b8ikzum]two factor authentication> then.  This is probably the best thing you can do for securing your Google account security.
 
 --------------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ Posted by **Valveritas** on Thu August 25th, 2011 06:08:52 PM
 
 Only problem with that is that I can't be secure from Google itself. 
 
-Keep in mind, &quot;Skynet is the the virus!&quot;
+Keep in mind, "Skynet is the the virus!"
 
 --------------------------------------------------------------------------------
 
@@ -117,27 +117,27 @@ Nak and I are already friends on Diaspora. Come and join the cool kids.
 
 Posted by **Valveritas** on Wed October 19th, 2011 03:14:12 PM
 
-Wow, I came across a work around for logging into gmail and youtube separately that someone had worked out, but they've recently &quot;fixed&quot; it.
+Wow, I came across a work around for logging into gmail and youtube separately that someone had worked out, but they've recently "fixed" it.
 
 --------------------------------------------------------------------------------
 
 Posted by **PHLAK** on Thu October 20th, 2011 10:17:03 AM
 
-[quote=&quot;CultLeadr&quot;:3w12l830]Wow, I came across a work around for logging into gmail and youtube separately that someone had worked out, but they've recently &quot;fixed&quot; it.  I'd just like to say again: [b:3w12l830]this crap is so retarded[/b:3w12l830].[/quote:3w12l830]
+[quote="CultLeadr":3w12l830]Wow, I came across a work around for logging into gmail and youtube separately that someone had worked out, but they've recently "fixed" it.  I'd just like to say again: **this crap is so retarded**.[/quote:3w12l830]
 
-The problem is that you're trying to use the system in a way it is explicitly NOT designed.  And ,while I know we're all &quot;hackers&quot; and love to go against the grain, when you're using a web service like Google, they set the rules.
+The problem is that you're trying to use the system in a way it is explicitly NOT designed.  And ,while I know we're all "hackers" and love to go against the grain, when you're using a web service like Google, they set the rules.
 
 --------------------------------------------------------------------------------
 
 Posted by **Automated Penguin** on Thu October 20th, 2011 11:29:54 AM
 
-[quote=&quot;PHLAK&quot;:ec3kwg6g][quote=&quot;CultLeadr&quot;:ec3kwg6g]Wow, I came across a work around for logging into gmail and youtube separately that someone had worked out, but they've recently &quot;fixed&quot; it.  I'd just like to say again: [b:ec3kwg6g]this crap is so retarded[/b:ec3kwg6g].[/quote:ec3kwg6g]
+[quote="PHLAK":ec3kwg6g][quote="CultLeadr":ec3kwg6g]Wow, I came across a work around for logging into gmail and youtube separately that someone had worked out, but they've recently "fixed" it.  I'd just like to say again: **this crap is so retarded**.[/quote:ec3kwg6g]
 
-The problem is that you're trying to use the system in a way it is explicitly NOT designed.  And ,while I know we're all &quot;hackers&quot; and love to go against the grain, when you're using a web service like Google, they set the rules.[/quote:ec3kwg6g]
+The problem is that you're trying to use the system in a way it is explicitly NOT designed.  And ,while I know we're all "hackers" and love to go against the grain, when you're using a web service like Google, they set the rules.[/quote:ec3kwg6g]
 
 Hackers will find a way.
 
-[img:ec3kwg6g]http&#58;//i248&#46;photobucket&#46;com/albums/gg166/mourning_lemon/jeff_goldblum_2&#46;jpg[/img:ec3kwg6g]
+[img:ec3kwg6g]http://i248.photobucket.com/albums/gg166/mourning_lemon/jeff_goldblum_2.jpg[/img:ec3kwg6g]
 
 --------------------------------------------------------------------------------
 
@@ -181,7 +181,7 @@ Not sure if it's related, but are you by chance just wanting to run multiple GTa
 
 Posted by **Valveritas** on Fri December 16th, 2011 08:38:39 AM
 
-All I'm trying to do is log into youtube and be logged into another gmail simultaneously in the same browser.   This is a user level [i:36ka0ghb]necessity[/i:36ka0ghb], and it still boggles my mind WHY they expect you to use one gmail account for EVERYTHING.  Never mind bots.  Never mind that I could whistle into a phone and cause nuclear war.  This is really about SUB-PAR design interfacing with the user.
+All I'm trying to do is log into youtube and be logged into another gmail simultaneously in the same browser.   This is a user level _necessity_, and it still boggles my mind WHY they expect you to use one gmail account for EVERYTHING.  Never mind bots.  Never mind that I could whistle into a phone and cause nuclear war.  This is really about SUB-PAR design interfacing with the user.
 
 --------------------------------------------------------------------------------
 

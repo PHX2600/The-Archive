@@ -12,7 +12,7 @@ and don't thank me, I found out from Pablo/BoBB (yeah, I remember old handles).
 
 Posted by **Automated Penguin** on Sat December 24th, 2011 04:09:28 PM
 
-[quote=&quot;XlogicX&quot;:31g79asj]I found out from Pablo/BoBB (yeah, I remember old handles).[/quote:31g79asj]
+[quote="XlogicX":31g79asj]I found out from Pablo/BoBB (yeah, I remember old handles).[/quote:31g79asj]
 
 Haven't seen that guy around in a while.
 

@@ -19,7 +19,7 @@ Thanks in advance!  <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt="
 
 Posted by **dxh** on Wed January 14th, 2009 09:11:35 PM
 
-[quote=&quot;*Hazard&quot;:19z2j6gs]So. I have recently discovered online that I am insane for wanting to get a sysdamin job. 
+[quote="*Hazard":19z2j6gs]So. I have recently discovered online that I am insane for wanting to get a sysdamin job. 
 That said, my question to all of you is:
 
 What would be the most expedient route that I can take to becoming a system administrator so that I could then one day become a data center technician/server farmer?
@@ -64,7 +64,7 @@ Thanks again you two.
 
 Posted by **dxh** on Sat January 24th, 2009 05:45:05 PM
 
-[quote=&quot;*Hazard&quot;:1rmdif68]Thanks guys.
+[quote="*Hazard":1rmdif68]Thanks guys.
 
 dxh, you mentioned IPower...I wonder how do I get in contact with them to send them my resumé? I didn't see an employment link on their website. Also, what are some of the other Phoenix area web hosting/data center/domain registrar places? Any recommendations on who to work for?[/quote:1rmdif68]
 

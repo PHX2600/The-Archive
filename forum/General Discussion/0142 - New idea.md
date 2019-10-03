@@ -20,7 +20,7 @@ I think Nak has/had a Ham operating license, you should talk to him.
 
 Posted by **nak** on Mon July 7th, 2008 05:16:03 PM
 
-Yeah I have a technician's license, expires 2011, I really haven't done much with ham radio lately besides [url=http&#58;//youtube&#46;com/watch?v=hby-elbUfkY:1bb7p99i]spin an antenna around for my grandpa.[/url:1bb7p99i]
+Yeah I have a technician's license, expires 2011, I really haven't done much with ham radio lately besides [url=http://youtube.com/watch?v=hby-elbUfkY:1bb7p99i]spin an antenna around for my grandpa.>
 
 --------------------------------------------------------------------------------
 
@@ -34,21 +34,21 @@ just really wanna know what you can do with it
 
 Posted by **nak** on Tue July 8th, 2008 12:28:04 AM
 
-Well if you get a ham radio license, it just means you are legally able to experiment/communicate/and just USE [url=http&#58;//www&#46;radiotimeline&#46;com/n2knl-USbands&#46;gif:3o0fzyht]certain frequencies of the EM spectrum[/url:3o0fzyht].
+Well if you get a ham radio license, it just means you are legally able to experiment/communicate/and just USE [url=http://www.radiotimeline.com/n2knl-USbands.gif:3o0fzyht]certain frequencies of the EM spectrum>.
 
 Some interesting things with ham radio:
-[url=http&#58;//www&#46;hamquick&#46;com/tutorial_index&#46;php?id=14:3o0fzyht]Repeaters[/url:3o0fzyht]
-[url=http&#58;//en&#46;wikipedia&#46;org/wiki/Packet_radio:3o0fzyht]Packet/APRS[/url:3o0fzyht]
-[url=http&#58;//www&#46;amsat&#46;org/amsat-new/index&#46;php:3o0fzyht]Satellite[/url:3o0fzyht]
-[url=http&#58;//www&#46;ansr&#46;org/:3o0fzyht]Arizona Near Space Research[/url:3o0fzyht](balloons with radios and other equipment)
-[url=http&#58;//www&#46;dxzone&#46;com/cgi-bin/dir/jump2&#46;cgi?ID=2949:3o0fzyht]Television[/url:3o0fzyht]
-[url=http&#58;//home&#46;att&#46;net/~jleggio/projects/rdf/rdf&#46;htm:3o0fzyht]Radio direction finding (find the fox transmitter)[/url:3o0fzyht]
+[url=http://www.hamquick.com/tutorial_index.php?id=14:3o0fzyht]Repeaters>
+[url=http://en.wikipedia.org/wiki/Packet_radio:3o0fzyht]Packet/APRS>
+[url=http://www.amsat.org/amsat-new/index.php:3o0fzyht]Satellite>
+[url=http://www.ansr.org/:3o0fzyht]Arizona Near Space Research>(balloons with radios and other equipment)
+[url=http://www.dxzone.com/cgi-bin/dir/jump2.cgi?ID=2949:3o0fzyht]Television>
+[url=http://home.att.net/~jleggio/projects/rdf/rdf.htm:3o0fzyht]Radio direction finding (find the fox transmitter)>
 
 And just like talking to people (phone), chewing bacon... morse code (CW)... other data like RTTY, PSK31
 
 BUT... that's not the limit! The only limit is your WONDERFUL imagination! (as long as you don't break the rules, and get pwnd by the FCC, no music, cuss words, discussing illegal activities etc etc) I really haven't done anything besides voice operation on 2 meters and 440...
 
-You mentioned that you &quot;worked with over the air signals for a while&quot; in the TV hijack thread, I was wondering what kind of work?
+You mentioned that you "worked with over the air signals for a while" in the TV hijack thread, I was wondering what kind of work?
 
 --------------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ i did radio/satillite and various communications when i was in the army. Mainly 
 
 Posted by **nak** on Tue July 8th, 2008 02:57:12 PM
 
-[quote=&quot;TerrorDrone&quot;:2us014sj]i did radio/satillite and various communications when i was in the army. Mainly voice and data over radio signal kinda like running a LAN within a WAn[/quote:2us014sj]
+[quote="TerrorDrone":2us014sj]i did radio/satillite and various communications when i was in the army. Mainly voice and data over radio signal kinda like running a LAN within a WAn[/quote:2us014sj]
 
 Thats really neat!
 
@@ -68,7 +68,7 @@ Thats really neat!
 
 Posted by **TerrorDrone** on Tue July 8th, 2008 03:39:04 PM
 
-[quote=&quot;nak&quot;:2g2opiv8][quote=&quot;TerrorDrone&quot;:2g2opiv8]i did radio/satillite and various communications when i was in the army. Mainly voice and data over radio signal kinda like running a LAN within a WAn[/quote:2g2opiv8]
+[quote="nak":2g2opiv8][quote="TerrorDrone":2g2opiv8]i did radio/satillite and various communications when i was in the army. Mainly voice and data over radio signal kinda like running a LAN within a WAn[/quote:2g2opiv8]
 
 Thats really neat![/quote:2g2opiv8]
 

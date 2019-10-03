@@ -18,7 +18,7 @@ $155/night for a double room.  ($209/night if you try to book online otherwise)
 
 
 
-[color=#FF0000:383r0dx3]** MODS, should we start a new forum for HOPE &amp; Decfon? **[/color:383r0dx3]
+[color=#FF0000:383r0dx3]** MODS, should we start a new forum for HOPE  &amp;  Decfon? **[/color:383r0dx3]
 
 --------------------------------------------------------------------------------
 

@@ -17,7 +17,7 @@ Tesla,
 
 Posted by **TerrorDrone** on Fri July 10th, 2009 11:20:32 PM
 
-[quote=&quot;Automated Penguin&quot;:3iu6logf]Yeah they did a good job.
+[quote="Automated Penguin":3iu6logf]Yeah they did a good job.
 
 Tesla,
 

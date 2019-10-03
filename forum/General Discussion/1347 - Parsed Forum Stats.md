@@ -1,7 +1,7 @@
 ## Parsed Forum Stats
 Posted by **Automated Penguin** on Thu December 9th, 2010 10:47:10 AM
 
-&quot;Forums are slow because its the holiday season!&quot; True or False?
+"Forums are slow because its the holiday season!" True or False?
 Taking into account all the post's on this forum I was able to compile these stats.
 
 Numeric Month and year post counts:
@@ -38,7 +38,7 @@ wed 588
 So back to the original question then Do we see a decline in posts over the winter holiday periods?
 See for yourself.
 
-[img:zxc54ox1]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/JUNK/graph&#46;jpg[/img:zxc54ox1]
+[img:zxc54ox1]http://www.public.asu.edu/~cbock/JUNK/graph.jpg[/img:zxc54ox1]
 
 So if we can bet on this trend then we should see post counts rise going into the holidays after hitting lows in October. Not sure If we are seeing that or not. Maybe phlak could compare my graph to the over all site trafic and see if there is a correlation.
 
@@ -54,14 +54,14 @@ Posted by **AltF4** on Thu December 9th, 2010 05:04:06 PM
 
 That's awesome! 
 
-&quot;The Defcon Peak&quot;
+"The Defcon Peak"
 
 --------------------------------------------------------------------------------
 
 Posted by **Automated Penguin** on Thu December 9th, 2010 06:08:13 PM
 
-[quote=&quot;AltF4&quot;:21n3iez3]That's awesome! 
+[quote="AltF4":21n3iez3]That's awesome! 
 
-&quot;The Defcon Peak&quot;[/quote:21n3iez3]
+"The Defcon Peak"[/quote:21n3iez3]
 
 Exactly.

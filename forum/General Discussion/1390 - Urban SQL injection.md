@@ -1,7 +1,7 @@
 ## Urban SQL injection
 Posted by **alienkid** on Fri February 25th, 2011 11:48:27 AM
 
-[img:2ci3ub6g]http&#58;//30&#46;media&#46;tumblr&#46;com/tumblr_lgb7thGign1qa7bsno1_500&#46;jpg[/img:2ci3ub6g]
+[img:2ci3ub6g]http://30.media.tumblr.com/tumblr_lgb7thGign1qa7bsno1_500.jpg[/img:2ci3ub6g]
 
 --------------------------------------------------------------------------------
 

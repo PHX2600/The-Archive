@@ -27,7 +27,7 @@ PHLAK... FTP access... since there seems to be more interest in the challenge I 
 
 Posted by **Automated Penguin** on Wed September 30th, 2009 01:31:47 PM
 
-[quote=&quot;Zapperlink&quot;:3ktopj9k]PHLAK... FTP access... since there seems to be more interest in the challenge I am doing I will go ahead and upload the bulk images if you do not wish to wait and enter the contest.[/quote:3ktopj9k]
+[quote="Zapperlink":3ktopj9k]PHLAK... FTP access... since there seems to be more interest in the challenge I am doing I will go ahead and upload the bulk images if you do not wish to wait and enter the contest.[/quote:3ktopj9k]
 
 Do Want
 
@@ -37,6 +37,6 @@ Also Hows it going? make any progress on it?
 
 Posted by **Konshu** on Thu October 1st, 2009 10:00:08 AM
 
-[url:1ru2d4op]http&#58;//about&#46;luminaotaku&#46;com/temp/dc3&#46;7z[/url:1ru2d4op]  Size: ~5GB
+<http://about.luminaotaku.com/temp/dc3.7z>  Size: ~5GB
 
 So far its been going good for me and the challenges have been interesting. I will admit I should dedicate more time to it.

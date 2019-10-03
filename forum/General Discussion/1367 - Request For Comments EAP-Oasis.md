@@ -1,7 +1,7 @@
 ## Request For Comments: EAP-Oasis
 Posted by **AltF4** on Mon January 3rd, 2011 04:53:37 PM
 
-So I graduated last May with my masters, and was rather disenfranchised with the whole scholarly paper publication system. I want to publish my Master's thesis online, but I need some peer review. The title is &quot;EAP - Oasis: A Cryptographic Protocol for Open and Secure Wi-Fi Internet Access&quot;. 
+So I graduated last May with my masters, and was rather disenfranchised with the whole scholarly paper publication system. I want to publish my Master's thesis online, but I need some peer review. The title is "EAP - Oasis: A Cryptographic Protocol for Open and Secure Wi-Fi Internet Access". 
 
 So pretty much it's a link layer encryption protocol that you'd use on an open Wi-Fi instead of WPA or (gasp!) WEP. 
 

@@ -1,7 +1,7 @@
 ## What's up everyone
 Posted by **Problem Child** on Fri October 10th, 2008 04:54:02 PM
 
-Just dropping a formal &quot;Hello&quot; to everyone on the forum. I moved to Phoenix about a year ago..but sadly I didn't come across this site until recently.  I was reading 2600 on the airplane and realized there are meetings in Phoenix.  Better late than never!  <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
+Just dropping a formal "Hello" to everyone on the forum. I moved to Phoenix about a year ago..but sadly I didn't come across this site until recently.  I was reading 2600 on the airplane and realized there are meetings in Phoenix.  Better late than never!  <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
 
 --------------------------------------------------------------------------------
 
@@ -29,7 +29,7 @@ Posted by **Problem Child** on Sun October 12th, 2008 04:52:06 PM
 
 Trying to stay out of trouble. <!-- s:lol: --><img src="{SMILIES_PATH}/icon_lol.gif" alt=":lol:" title="Laughing" /><!-- s:lol: --> 
 
-I just picked up an overclocked 9800GTX at Best Buy.  It was on clearance for $150 and I desperately needed to dump my old 7900GS.  With dual dual-link DVI outputs I'm thinking a second 30&quot; monitor would be a good investment..  <!-- s:twisted: --><img src="{SMILIES_PATH}/icon_twisted.gif" alt=":twisted:" title="Twisted Evil" /><!-- s:twisted: -->
+I just picked up an overclocked 9800GTX at Best Buy.  It was on clearance for $150 and I desperately needed to dump my old 7900GS.  With dual dual-link DVI outputs I'm thinking a second 30" monitor would be a good investment..  <!-- s:twisted: --><img src="{SMILIES_PATH}/icon_twisted.gif" alt=":twisted:" title="Twisted Evil" /><!-- s:twisted: -->
 
 --------------------------------------------------------------------------------
 

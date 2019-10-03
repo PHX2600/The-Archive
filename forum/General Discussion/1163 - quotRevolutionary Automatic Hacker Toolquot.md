@@ -1,4 +1,4 @@
-## &quot;Revolutionary Automatic Hacker Tool&quot;
+## "Revolutionary Automatic Hacker Tool"
 Posted by **Valveritas** on Tue December 1st, 2009 02:48:50 PM
 
 This is fake right?  <!-- s:lol: --><img src="{SMILIES_PATH}/icon_lol.gif" alt=":lol:" title="Laughing" /><!-- s:lol: -->  

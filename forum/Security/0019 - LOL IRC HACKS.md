@@ -1,7 +1,7 @@
 ## LOL IRC HACKS!
 Posted by **PHLAK** on Sun January 6th, 2008 02:41:09 PM
 
-[url:3a50rcum]http&#58;//bash&#46;org/?244321[/url:3a50rcum]
+<http://bash.org/?244321>
 
 --------------------------------------------------------------------------------
 

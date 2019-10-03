@@ -1,9 +1,9 @@
-## Wireless AP with &quot;guest&quot; mode
+## Wireless AP with "guest" mode
 Posted by **Rax** on Mon February 22nd, 2010 07:54:08 PM
 
-Does anyone know of a wireless AP (aside from the Cisco Aeronet line) that has a &quot;guest&quot; mode? Basically, looking to set up 2 WLANS in a client office. 1 for employees, 1 for people who come to their office. Guest mode should only have access to the Internet.
+Does anyone know of a wireless AP (aside from the Cisco Aeronet line) that has a "guest" mode? Basically, looking to set up 2 WLANS in a client office. 1 for employees, 1 for people who come to their office. Guest mode should only have access to the Internet.
 
-There's &quot;rumors&quot; of these all over the place, but I can't find a search term.
+There's "rumors" of these all over the place, but I can't find a search term.
 
 Thanx
 

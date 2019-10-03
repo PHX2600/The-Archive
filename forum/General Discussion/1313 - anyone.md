@@ -22,9 +22,9 @@ Posted by **Automated Penguin** on Tue November 9th, 2010 08:55:25 AM
 
 Yeah basically I competed in one of the Defcon bots competitions a while back and I want to try and improve on my design.
 
-for example my last bot was pneumatic and used a sprayer nozzle like  [url:209p3moq]http&#58;//s&#46;shld&#46;net/is/image/Sears/9990000031850311[/url:209p3moq] actuated by a servo as the main valve.
+for example my last bot was pneumatic and used a sprayer nozzle like  <http://s.shld.net/is/image/Sears/9990000031850311> actuated by a servo as the main valve.
 
-So I have been able to get a &quot;for reals&quot; solenoid valve since then and an air compressor instead of a foot pump etc etc.
+So I have been able to get a "for reals" solenoid valve since then and an air compressor instead of a foot pump etc etc.
 
 So I was thinking its time for version 2.
 

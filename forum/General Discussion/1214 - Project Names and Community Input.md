@@ -11,7 +11,7 @@ It has a full TCP/IP stack so its compliant with many many protocols, ARP, DNS, 
 
 I would like to make this a community project if anyone is interested. All the coding is in Microchip C and the TCP/IP stack and file system stack are publicly available from Microchip.
 
-names I have considered include &quot;Aether Tap&quot;, &quot;EEuC&quot; as in Ethernet enabled micro controller and &quot;EXP&quot; as in Experimental Ethernet Platform&quot;
+names I have considered include "Aether Tap", "EEuC" as in Ethernet enabled micro controller and "EXP" as in Experimental Ethernet Platform"
 
 Any input or thoughts would be appreciated,
 
@@ -32,7 +32,7 @@ very interested in this project as im trying to work on something similar
 
 Posted by **Automated Penguin** on Mon February 22nd, 2010 03:22:24 PM
 
-[quote=&quot;TerrorDrone&quot;:aizvd9tz]I like Aether Tap has a nice ring to it 
+[quote="TerrorDrone":aizvd9tz]I like Aether Tap has a nice ring to it 
 very interested in this project as im trying to work on something similar[/quote:aizvd9tz]
 
 Maybe ill just keep the original name then for now... Ill start moving over content to the main word press  blog here then, that way people can see what I'm talking about.
@@ -68,11 +68,11 @@ So, what's the project page?
 
 Posted by **Automated Penguin** on Tue February 23rd, 2010 08:43:59 AM
 
-[quote=&quot;Rax&quot;:35znj6an]So, what's the project page?[/quote:35znj6an]
+[quote="Rax":35znj6an]So, what's the project page?[/quote:35znj6an]
 
 I have been told that we no longer have an actual project page D:
 
-only a &quot;project&quot; category under the word press blog on the front page.
+only a "project" category under the word press blog on the front page.
 
 I think it would be cool to start an actual project wiki for this thing somewhere on this site but I guess I'm not cool enough to be an admin so I dot have the POWER to do such things.
 
@@ -86,7 +86,7 @@ Is a Wiki something you actually want?  I may be able to make that happen.
 
 Posted by **Automated Penguin** on Thu February 25th, 2010 08:22:22 AM
 
-[quote=&quot;PHLAK&quot;:3kz2sxnk]Is a Wiki something you actually want?  I may be able to make that happen.[/quote:3kz2sxnk]
+[quote="PHLAK":3kz2sxnk]Is a Wiki something you actually want?  I may be able to make that happen.[/quote:3kz2sxnk]
 
 I'm not sure,
 

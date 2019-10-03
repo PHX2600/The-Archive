@@ -37,7 +37,7 @@ Places we don't like:
 -Somebodies house
 -Classroom environments (I'm not speaking for everyone on this, but I'm not the only one that gets a bad vibe from these types of locations, such as our experience with UAT)
 -Libraries (I guess the neo-nazi's ruined this for us)
--Food Courts in a Mall (Although this is a fairly universal type of location from looking at the back of a 2600 mag, food courts in a mall suck. We've done it with Arizona Mills, security didn't allow us to do our &quot;business&quot;)
+-Food Courts in a Mall (Although this is a fairly universal type of location from looking at the back of a 2600 mag, food courts in a mall suck. We've done it with Arizona Mills, security didn't allow us to do our "business")
 
 --------------------------------------------------------------------------------
 
@@ -85,7 +85,7 @@ I sure hope you didn't really sign as Batman  <!-- s:? --><img src="{SMILIES_PAT
 
 Posted by **Automated Penguin** on Mon March 5th, 2012 08:57:04 PM
 
-[quote=&quot;XlogicX&quot;:1ttugvf4]I sure hope you didn't really sign as Batman  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? -->[/quote:1ttugvf4]
+[quote="XlogicX":1ttugvf4]I sure hope you didn't really sign as Batman  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? -->[/quote:1ttugvf4]
 
 I gave FOR REALS contact info, didn't actually sign as the batman lol.
 
@@ -97,21 +97,21 @@ Posted by **^SubV** on Tue March 6th, 2012 08:06:08 AM
 
 First off I would like to say I liked Lola's as a location but I didn't like their coffee...at all so I'm excited about new coffee.  
 
-Second, I don't know if this is even possible but I work/live West side so all the locations that I have connection with are over here.  The first one I would suggest is Coffee &amp; Tea express.  The main barista, David, is a former network admin and still a geek.  I asked him a while back if I could use his place for a 2600 type meeting and he was fine with it as long as members bought coffee. I think he would not only appreciate the group but actively participate.  Only down side is the size of the shop...we would probably take it over completely.  I can testify to the amazingness of the coffee since I drink it 4 days a week.  I also know they have wifi since I bought a new router for them a couple of weeks ago. They have a wide variety of fare market tea as well as a full kitchen where they prepare light meals, baked goods, etc.
+Second, I don't know if this is even possible but I work/live West side so all the locations that I have connection with are over here.  The first one I would suggest is Coffee  &amp;  Tea express.  The main barista, David, is a former network admin and still a geek.  I asked him a while back if I could use his place for a 2600 type meeting and he was fine with it as long as members bought coffee. I think he would not only appreciate the group but actively participate.  Only down side is the size of the shop...we would probably take it over completely.  I can testify to the amazingness of the coffee since I drink it 4 days a week.  I also know they have wifi since I bought a new router for them a couple of weeks ago. They have a wide variety of fare market tea as well as a full kitchen where they prepare light meals, baked goods, etc.
 
-[b:2xqks5zz]Coffee &amp; Tea Express
+**Coffee  &amp;  Tea Express
 5835 W. Palmaire Avenue? Ste E ?
-Glendale, AZ 85302[/b:2xqks5zz]
-[url:2xqks5zz]http&#58;//coffeeandteaexpress&#46;com/[/url:2xqks5zz]
+Glendale, AZ 85302**
+<http://coffeeandteaexpress.com/>
 
-The second place that could be good is the Gas Light Inn.  Its a coffee shop with a huge amount of space.  They actually have a whole room that could fit our group and it looks like they aren't even using it right now.  I have never been to the Gas Light Inn...I just walk by it everyday as I go to Coffee and Tea express but it just reopened with new owners so they are probably looking for any opportunity to drum up business.  Lots of space, coffee (I'm told the barista used to work with Dave at Coffee &amp; Tea), a decent sized menu for appetizers and light meals and confections.
+The second place that could be good is the Gas Light Inn.  Its a coffee shop with a huge amount of space.  They actually have a whole room that could fit our group and it looks like they aren't even using it right now.  I have never been to the Gas Light Inn...I just walk by it everyday as I go to Coffee and Tea express but it just reopened with new owners so they are probably looking for any opportunity to drum up business.  Lots of space, coffee (I'm told the barista used to work with Dave at Coffee  &amp;  Tea), a decent sized menu for appetizers and light meals and confections.
 
-[b:2xqks5zz]Gas Light Inn
+**Gas Light Inn
 5747 West Glendale Avenue  
-Glendale, AZ 85301[/b:2xqks5zz]
-[url:2xqks5zz]http&#58;//gaslightinnaz&#46;com/[/url:2xqks5zz]
+Glendale, AZ 85301**
+<http://gaslightinnaz.com/>
 
-Last option I have to offer being an alumni of DeVry and a current student at Keller I could look into using the campus at 19th Ave &amp; Dunlap (Phoenix Campus) or the campus at Westgate (Glendale Campus).  Westgate has plenty of amenities restaurants, bars, shopping, and lots of sheeple to mess with on a Friday night  <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->  Phoenix campus...ummm...not so much.
+Last option I have to offer being an alumni of DeVry and a current student at Keller I could look into using the campus at 19th Ave  &amp;  Dunlap (Phoenix Campus) or the campus at Westgate (Glendale Campus).  Westgate has plenty of amenities restaurants, bars, shopping, and lots of sheeple to mess with on a Friday night  <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->  Phoenix campus...ummm...not so much.
 
 --------------------------------------------------------------------------------
 
@@ -129,9 +129,9 @@ Thanks ^SubV, those coffee shops look good.  Being a DeVry alumni myself I don't
 
 Posted by **^SubV** on Thu March 8th, 2012 01:25:35 AM
 
-Coffee &amp; Tea Express is a shop built into the back side of a brand new parking garage so plenty of parking available.  I actually talked to the head barista Dave today about using his place for our meeting.  He said that they close at 4 PM so they would have to open up for us...which he was more than happy to do but he has to make sure it makes business sense to staff the place...basically if we had 20 people there and only 1 person buys a coffee he can’t justify opening the place up for us.  The capacity for the shop is 32 and Dave and I counted chairs and they have 28 total.  
+Coffee  &amp;  Tea Express is a shop built into the back side of a brand new parking garage so plenty of parking available.  I actually talked to the head barista Dave today about using his place for our meeting.  He said that they close at 4 PM so they would have to open up for us...which he was more than happy to do but he has to make sure it makes business sense to staff the place...basically if we had 20 people there and only 1 person buys a coffee he can’t justify opening the place up for us.  The capacity for the shop is 32 and Dave and I counted chairs and they have 28 total.  
 
-I also contacted the Gas Light Inn and tried their coffee.  The barista there gave me a business card for the owners and told me to contact them but he thought that we would have to rent the room if we wanted dedicated space.  He said to be sure I should contact the owners...with a group our size they may not make us rent. In case you were wondering the Coffee was just okay...but I probably shouldn't pass judgment without giving it a couple of tries.  Parking at the Gas Light Inn shouldn't be an issue since there is all kinds of parking down town Glendale. There are parking lots across the street a few spots in front of the Gas Light Inn and a parking lot behind.  There is also a public parking structure just down the street from the Gas Light Inn between the Glendale City Court and the main Glendale Police station plus the parking structure that Coffee &amp; Tea Express is next too. 
+I also contacted the Gas Light Inn and tried their coffee.  The barista there gave me a business card for the owners and told me to contact them but he thought that we would have to rent the room if we wanted dedicated space.  He said to be sure I should contact the owners...with a group our size they may not make us rent. In case you were wondering the Coffee was just okay...but I probably shouldn't pass judgment without giving it a couple of tries.  Parking at the Gas Light Inn shouldn't be an issue since there is all kinds of parking down town Glendale. There are parking lots across the street a few spots in front of the Gas Light Inn and a parking lot behind.  There is also a public parking structure just down the street from the Gas Light Inn between the Glendale City Court and the main Glendale Police station plus the parking structure that Coffee  &amp;  Tea Express is next too. 
 
 I also talked with a couple of the folks in Glendale IT and found out one of them has actually contributed to 2600 mag on a couple of occasions.  It wouldn't surprise me should we choose one of the Glendale locations if we picked up a few Glendale IT folk as members since we are two minute walk away.  
 
@@ -163,7 +163,7 @@ Posted by **Valveritas** on Mon March 12th, 2012 12:00:32 AM
 
 Posted by **nak** on Sun April 1st, 2012 01:11:58 PM
 
-[quote=&quot;XlogicX&quot;:k6dywq3y]When I get a free moment, I'm going to check out this place:
+[quote="XlogicX":k6dywq3y]When I get a free moment, I'm going to check out this place:
 Fair Trade Cafe?
 1020 North 1st Avenue
 Phoenix, AZ 85003
@@ -178,14 +178,14 @@ It's a coffee shop, wifi, outdoors area with patio furniture, indoors area with 
 Right next to the light rail.
 
 Cons:
-Very close to &quot;First Fridays&quot; art walk, as well as live music during the event.
+Very close to "First Fridays" art walk, as well as live music during the event.
 Tables would be difficult to push together like we do at Lola's, and probably not really possible because it seems like a relatively busy joint.
 
 --------------------------------------------------------------------------------
 
 Posted by **^SubV** on Mon April 2nd, 2012 05:02:35 PM
 
-Any decisions made yet on where we will be meeting this Friday???  Found out that Gas Light Inn won't work...they have a live band on 1st Friday of every month.  Coffee &amp; Tea Express is still a possibility but it may be too late to set it up for this Friday since this is after hours and they would have to open up special for us.
+Any decisions made yet on where we will be meeting this Friday???  Found out that Gas Light Inn won't work...they have a live band on 1st Friday of every month.  Coffee  &amp;  Tea Express is still a possibility but it may be too late to set it up for this Friday since this is after hours and they would have to open up special for us.
 
 --------------------------------------------------------------------------------
 
@@ -205,7 +205,7 @@ Posted by **XlogicX** on Wed April 4th, 2012 01:03:24 AM
 
 If we still have some good candidates that haven't turned into dead ends, maybe we can have an after meeting field trip. We have done this a few times before:
 
-When we used to meet at the AZ Mills food court, security saw our laptops out and told us that we couldn't &quot;do business&quot; in the food court. We started meeting at Borders in the Biltmore that very same day.
+When we used to meet at the AZ Mills food court, security saw our laptops out and told us that we couldn't "do business" in the food court. We started meeting at Borders in the Biltmore that very same day.
 
 When we started to get a little tired of meeting at Nicks Pizza, some of us scoped out Counter Culture right after the meeting; this is where we met the next month.
 
@@ -217,4 +217,4 @@ I look forward to the meeting regardless
 
 Posted by **^SubV** on Wed April 4th, 2012 03:54:24 PM
 
-FYI - Talked to Dave at Coffee &amp; Tea Express he says he is still good if we want to meet there next month.  I didn't ask about this Friday but I can if you want.
+FYI - Talked to Dave at Coffee  &amp;  Tea Express he says he is still good if we want to meet there next month.  I didn't ask about this Friday but I can if you want.
