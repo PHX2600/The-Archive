@@ -21,7 +21,7 @@ I'll very likely be there.
 
 Posted by **dxh** on Tue March 2nd, 2010 08:01:32 PM
 
-Any presentations planned?  I'd like to put something other than &quot;Cool stories, bros!&quot; in the [url=http&#58;//eventification&#46;com:px60cv8f]Eventification[/url:px60cv8f] event.
+Any presentations planned?  I'd like to put something other than "Cool stories, bros!" in the [url=http://eventification.com:px60cv8f]Eventification> event.
 
 --------------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ See the following link for the config information:
 
 Posted by **Rax** on Tue March 2nd, 2010 11:18:56 PM
 
-I'll bring the projector once again, in case we need it. Phlak, Kilo, will either of you have the &quot;screen&quot;?
+I'll bring the projector once again, in case we need it. Phlak, Kilo, will either of you have the "screen"?
 
 --------------------------------------------------------------------------------
 
@@ -65,7 +65,7 @@ Posted by **PHLAK** on Tue March 2nd, 2010 11:21:41 PM
 
 Posted by **Rax** on Wed March 3rd, 2010 12:18:21 AM
 
-[quote=&quot;PHLAK&quot;:24ar700z](and a brain [not that you can have my brain, just the ideas ^_^]).[/quote:24ar700z]
+[quote="PHLAK":24ar700z](and a brain [not that you can have my brain, just the ideas ^_^]).[/quote:24ar700z]
 
 
 BRAINZZZZZZ
@@ -92,7 +92,7 @@ I can relate that you can buy replacement Windows Vista Home Premium install dis
 
 Posted by **Rax** on Thu March 4th, 2010 06:51:41 PM
 
-I'll be bringing an interesting little &quot;toy&quot; that I  got. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
+I'll be bringing an interesting little "toy" that I  got. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
 --------------------------------------------------------------------------------
 
@@ -116,7 +116,7 @@ See you guys in about an hour
 
 Posted by **dxh** on Fri March 5th, 2010 06:09:00 PM
 
-[quote=&quot;Automated Penguin&quot;:2bbx5hc3]Seems I must renig on my original statement, I wont be at this meeting.[/quote:2bbx5hc3]
+[quote="Automated Penguin":2bbx5hc3]Seems I must renig on my original statement, I wont be at this meeting.[/quote:2bbx5hc3]
 
 Ah... First Friday anime cosplay chicks it is, then!
 
@@ -124,7 +124,7 @@ Ah... First Friday anime cosplay chicks it is, then!
 
 Posted by **Syx** on Fri March 5th, 2010 06:31:21 PM
 
-Hey i'm the &quot;new guy&quot;...
+Hey i'm the "new guy"...
 Really wanted to go to this to see what it was all about but sadly my lil box with wheels has no engine, still waiting for the red-top SR20DET to arrive...
 n-e ways, I think it might take a while so if anyone could help me out with a ride for next month's, i'd really appreciate it.
 I'd want a ride for this one but i think tis a liddle too late :S

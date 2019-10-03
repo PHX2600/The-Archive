@@ -8,9 +8,9 @@ I haven't been around lately. Well, I've been around Phoenix, but life keeps get
 Anywho, I have some hardware that I'm looking to find a new home for.
 
 1 Dell PowerEdge 2300 Server.  ID tag 2FJ0N  
-(Go to dell.com/support, and click on &quot;Warranty Information&quot; on the left-hand side. Enter the ID number, and when the results come back, click the &quot;Original System Configuration&quot; to see the specs.  
+(Go to dell.com/support, and click on "Warranty Information" on the left-hand side. Enter the ID number, and when the results come back, click the "Original System Configuration" to see the specs.  
 
-The box has been around for a while, but I thought that someone might want a server-class machine to play with. Keep in mind that as a &quot;server-class&quot; system it's LOUD. The fans move a lot of air!
+The box has been around for a while, but I thought that someone might want a server-class machine to play with. Keep in mind that as a "server-class" system it's LOUD. The fans move a lot of air!
 
 I also have a PII (that's Pentium II for the kiddies out ther) machine that I had in storage.
 

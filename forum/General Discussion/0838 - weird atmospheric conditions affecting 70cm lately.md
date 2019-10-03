@@ -9,7 +9,7 @@ Is there something weird going on atmospherically lately?  Or something else goi
 
 Posted by **fightgar** on Tue July 7th, 2009 01:39:18 AM
 
-[quote=&quot;urbex&quot;:3hxhsvrd]I'm in NW glendale (Arrowhead area), and frequently monitor 70cm freqs at night.  Usually my distance limit is the South Mountain repeaters, unable to get the stuff in Mesa (using a 5 watt HT).  But I've noticed the last couple of nights for about a 30 minute window during late night/early morning times being able to key up the Mt. Ord repeater on that same HT, using the factory rubber ducky antenna.  Haven't been able to make any QSOs, but I am able to key the repeater.  
+[quote="urbex":3hxhsvrd]I'm in NW glendale (Arrowhead area), and frequently monitor 70cm freqs at night.  Usually my distance limit is the South Mountain repeaters, unable to get the stuff in Mesa (using a 5 watt HT).  But I've noticed the last couple of nights for about a 30 minute window during late night/early morning times being able to key up the Mt. Ord repeater on that same HT, using the factory rubber ducky antenna.  Haven't been able to make any QSOs, but I am able to key the repeater.  
 
 Is there something weird going on atmospherically lately?  Or something else going on that would allow this?  Or is this just one of those freak things that happens occasionally?[/quote:3hxhsvrd]
 Cool a ham radio operator <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
@@ -21,7 +21,7 @@ Posted by **Ugly** on Tue July 7th, 2009 05:35:04 AM
 
 My first thought would be ducting, but I'm not a HAM... yet
 
-[url:2xlxpbau]http&#58;//en&#46;wikipedia&#46;org/wiki/Radio_propagation#Tropospheric_ducting_and_enhancement_or_refraction_via_inversion_layer[/url:2xlxpbau]
+<http://en.wikipedia.org/wiki/Radio_propagation#Tropospheric_ducting_and_enhancement_or_refraction_via_inversion_layer>
 
 --------------------------------------------------------------------------------
 
@@ -44,7 +44,7 @@ Yep, I'm an honest to goodness ham <!-- s:D --><img src="{SMILIES_PATH}/icon_e_b
 
 Posted by **Automated Penguin** on Wed July 8th, 2009 09:03:33 AM
 
-[quote=&quot;urbex&quot;:hrlmv55z]
+[quote="urbex":hrlmv55z]
 I was thinking ducting myself, but I was checking the maps, and it looked like almost the entire western half of the country was in unstable signal conditions.  Perhaps the unstability (instability?) just so happened to align things just right for those couple nights, as I haven't seen this behavior since.  
 [/quote:hrlmv55z]
 
@@ -88,7 +88,7 @@ pxh2600 porkys?  I'm down <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gi
 
 Posted by **Automated Penguin** on Thu July 9th, 2009 10:27:29 AM
 
-[quote=&quot;urbex&quot;:w28501uk]pxh2600 porkys?  I'm down <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->[/quote:w28501uk]
+[quote="urbex":w28501uk]pxh2600 porkys?  I'm down <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->[/quote:w28501uk]
 
 
 Well were gonna need to build a repeater from scratch and keep it operational to be official.

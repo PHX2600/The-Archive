@@ -25,7 +25,7 @@ Oooh or a first friday's walk about, I remember doing that once after a 2600 mee
 
 Posted by **PHLAK** on Fri August 26th, 2011 01:04:00 PM
 
-[quote=&quot;nak&quot;:1m5xqv3r]Oooh or a first friday's walk about, I remember doing that once after a 2600 meeting and it was blast.[/quote:1m5xqv3r]
+[quote="nak":1m5xqv3r]Oooh or a first friday's walk about, I remember doing that once after a 2600 meeting and it was blast.[/quote:1m5xqv3r]
 
 Unfortunately Lola's isn't near the First Friday stuff. <!-- s:-( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":-(" title="Sad" /><!-- s:-( -->
 
@@ -57,14 +57,14 @@ Posted by **nak** on Wed August 31st, 2011 12:33:33 PM
 
 Yay ^.^
 Well, I may still try and find a way to hit up first Friday's (via Light Rail perhaps?) ... but will aim to exist at Lola's for the meeting this time around.
-([url=http&#58;//www&#46;youtube&#46;com/watch?v=BX1atmP0Gn0&amp;feature=related:1515ip3g]I love that Kink's song[/url:1515ip3g])
+([url=http://www.youtube.com/watch?v=BX1atmP0Gn0&amp;feature=related:1515ip3g]I love that Kink's song>)
 ...I may have some various electronic music circuits that I could talk about, seeing that I am going to be doing a little talk at heatsync laboratory Thursday (if anyone wants to go, there's gonna be people talking about electronic music projects and methods at HSL)
 
 --------------------------------------------------------------------------------
 
 Posted by **Urbal** on Tue September 6th, 2011 08:12:40 PM
 
-[quote=&quot;nak&quot;:1zjswr1c]heatsync laboratory Thursday (if anyone wants to go, there's gonna be people talking about electronic music projects and methods at HSL)[/quote:1zjswr1c]
+[quote="nak":1zjswr1c]heatsync laboratory Thursday (if anyone wants to go, there's gonna be people talking about electronic music projects and methods at HSL)[/quote:1zjswr1c]
 
 Is that this thursday, 9/8/2011?
 
@@ -72,7 +72,7 @@ Is that this thursday, 9/8/2011?
 
 Posted by **nak** on Fri October 7th, 2011 02:50:24 PM
 
-[quote=&quot;Urbal&quot;:1xb20qyg][quote=&quot;nak&quot;:1xb20qyg]heatsync laboratory Thursday (if anyone wants to go, there's gonna be people talking about electronic music projects and methods at HSL)[/quote:1xb20qyg]
+[quote="Urbal":1xb20qyg][quote="nak":1xb20qyg]heatsync laboratory Thursday (if anyone wants to go, there's gonna be people talking about electronic music projects and methods at HSL)[/quote:1xb20qyg]
 
 Is that this thursday, 9/8/2011?[/quote:1xb20qyg]
 

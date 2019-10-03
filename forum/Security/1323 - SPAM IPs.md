@@ -6,8 +6,8 @@ This forum sees it's fair share of SPAM, and while there are measures in place t
 This list is a CSV in the format of `forum_user_name;email_address;ip_address` (those are back-ticks, the symbol to the left of the number 1).  Often time SPAMMERS use multiple IP addresses, so there may be duplicate user name/email addresses.
 
 [code:10zbpn8r]
-`xidoon;beeforum1@hotmail&#46;com;178&#46;79&#46;138&#46;59`
-`xidoon;beeforum1@hotmail&#46;com;178&#46;79&#46;136&#46;24`
+`xidoon;beeforum1@hotmail.com;178.79.138.59`
+`xidoon;beeforum1@hotmail.com;178.79.136.24`
 [/code:10zbpn8r]
 
 Reminder, this forum does not condone taking potentially harmful action against anyone for any reason.  This list is for informational purposes only.  That being said, nobody like SPAMMERS.
@@ -16,7 +16,7 @@ Reminder, this forum does not condone taking potentially harmful action against 
 
 Posted by **Automated Penguin** on Mon November 15th, 2010 08:58:53 AM
 
-[img:1hb9eosc]http&#58;//4&#46;bp&#46;blogspot&#46;com/_1luLRXKoJM8/Sc4rTB5XnMI/AAAAAAAAPiU/6L3n5DN0KaM/s400/Sylvester-Stallone_Judge_l&#46;jpg[/img:1hb9eosc]
+[img:1hb9eosc]http://4.bp.blogspot.com/_1luLRXKoJM8/Sc4rTB5XnMI/AAAAAAAAPiU/6L3n5DN0KaM/s400/Sylvester-Stallone_Judge_l.jpg[/img:1hb9eosc]
 
 Time for Justice.
 
@@ -35,4 +35,4 @@ Well, I did a great job at keeping this up to date...  <!-- s:? --><img src="{SM
 
 Posted by **chespirito** on Thu May 31st, 2012 04:30:40 AM
 
-I looked for a button to &quot;like&quot; your post.  =D
+I looked for a button to "like" your post.  =D

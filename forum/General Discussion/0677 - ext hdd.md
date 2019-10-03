@@ -23,9 +23,9 @@ Good Luck!
 
 Posted by **dxh** on Wed November 19th, 2008 07:39:15 PM
 
-Its quite possible, and popular with small distros like Damn Small Linux.  See: [url:1t1w49f7]http&#58;//www&#46;damnsmalllinux&#46;org/wiki/index&#46;php/USB_Booting[/url:1t1w49f7] and [url:1t1w49f7]http&#58;//www&#46;pendrivelinux&#46;com/2007/01/25/usb-x-ubuntu-610/[/url:1t1w49f7].
+Its quite possible, and popular with small distros like Damn Small Linux.  See: <http://www.damnsmalllinux.org/wiki/index.php/USB_Booting> and <http://www.pendrivelinux.com/2007/01/25/usb-x-ubuntu-610/>.
 
-Slax, which is based on Slackware, also has a usb-booting specific version on their download page: [url:1t1w49f7]http&#58;//www&#46;slax&#46;org/get_slax&#46;php[/url:1t1w49f7]
+Slax, which is based on Slackware, also has a usb-booting specific version on their download page: <http://www.slax.org/get_slax.php>
 
 --------------------------------------------------------------------------------
 

@@ -25,7 +25,7 @@ There were others, but I can't seems to recall them at the moment.
 
 Posted by **nak** on Thu September 8th, 2011 12:54:52 PM
 
-Also [b:3dguvmg6]urbal[/b:3dguvmg6], and @[b:3dguvmg6]az2600[/b:3dguvmg6] (I know his real name, not sure about the handle... because his real name is the same as my 'real name'), [b:3dguvmg6]Sam[/b:3dguvmg6]uel Adams (aka penguin's S.O.), [b:3dguvmg6]XLogicX[/b:3dguvmg6] and his S.O. - [b:3dguvmg6]uberfemme[/b:3dguvmg6] (completely made that handle up)
+Also **urbal**, and @**az2600** (I know his real name, not sure about the handle... because his real name is the same as my 'real name'), **Sam**uel Adams (aka penguin's S.O.), **XLogicX** and his S.O. - **uberfemme** (completely made that handle up)
 That's all I can remember to add to the list, I was pretty  <!-- s:shock: --><img src="{SMILIES_PATH}/icon_eek.gif" alt=":shock:" title="Shocked" /><!-- s:shock: --> inside that circuit work
 
 --------------------------------------------------------------------------------

@@ -23,7 +23,7 @@ I belieeeeeeeeeve! Or perhaps there will be a Promethean light that will loosen 
 
 Posted by **Urbal** on Fri January 6th, 2012 01:29:18 PM
 
-[quote=&quot;nak&quot;:3a4wgqfi]Hacking + smoking weed = that idea
+[quote="nak":3a4wgqfi]Hacking + smoking weed = that idea
 [/quote:3a4wgqfi]
 
 LOL.

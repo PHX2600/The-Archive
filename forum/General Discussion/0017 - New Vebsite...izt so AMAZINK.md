@@ -7,7 +7,7 @@ You've really outdone yourself!
 
 I really like this layout. It's keeps the good things from before and adds to it.
 
-The word I'm looking for is &quot;hyper-intuitive&quot;. A first timer to this board could just look at it and know where to go.
+The word I'm looking for is "hyper-intuitive". A first timer to this board could just look at it and know where to go.
 
 --------------------------------------------------------------------------------
 

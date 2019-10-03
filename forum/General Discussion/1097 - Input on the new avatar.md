@@ -15,12 +15,12 @@ Posted by **Rax** on Mon September 7th, 2009 05:42:30 PM
 
 Ya know, I thought of meatspin or lemonparty, but that would be to gratuitously obvious. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
-The other idea was a link to YouTube with &quot;Do You Want to Date My Avatar,&quot; but I figured everyone was burned out on that by now.
+The other idea was a link to YouTube with "Do You Want to Date My Avatar," but I figured everyone was burned out on that by now.
 
 --------------------------------------------------------------------------------
 
 Posted by **PHLAK** on Mon September 7th, 2009 05:45:39 PM
 
-[quote=&quot;Rax&quot;:jswo25ri]The other idea was a link to YouTube with &quot;Do You Want to Date My Avatar,&quot; but I figured everyone was burned out on that by now.[/quote:jswo25ri]
+[quote="Rax":jswo25ri]The other idea was a link to YouTube with "Do You Want to Date My Avatar," but I figured everyone was burned out on that by now.[/quote:jswo25ri]
 
 Yeah, I was burnt out on that before I finished the video.  But I do like the avatar.

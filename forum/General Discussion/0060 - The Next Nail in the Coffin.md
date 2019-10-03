@@ -6,7 +6,7 @@ I'm not too sure where this goes, but here goes.....
 I just woke up this morning to find that MxF'er Bush talking on CNN about giving telcom companies retroactive immunity from prosecution in lawsuits over privacy issues stemming eavesdropping on communications. I have also found out that the Senate has passed a bill last night, granting immunity to telcoms that eavesdrop for the government; this involves ISPs, cable companies, telco, etc. The House has to vote on this and some say it faces stiff opposition there. However, Bush has a nasty habit of getting his way. All in the name of fighting t*ism.  <!-- s:evil: --><img src="{SMILIES_PATH}/icon_evil.gif" alt=":evil:" title="Evil or Very Mad" /><!-- s:evil: -->
 
 Google news search for results
-[url:2dskwe0v]http&#58;//news&#46;google&#46;com/news?client=firefox-a&amp;rls=org&#46;mozilla%3Aen-US%3Aofficial&amp;channel=s&amp;hl=en&amp;tab=wn&amp;ie=UTF-8&amp;ncl=1127879014[/url:2dskwe0v]
+<http://news.google.com/news?client=firefox-a&amp;rls=org.mozilla%3Aen-US%3Aofficial&amp;channel=s&amp;hl=en&amp;tab=wn&amp;ie=UTF-8&amp;ncl=1127879014>
 
 Alright people, you know what to do. Congressmen, phone numbers, etc.
 

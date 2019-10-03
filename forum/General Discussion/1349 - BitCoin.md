@@ -31,7 +31,7 @@ check it out.
 
 Posted by **PHLAK** on Mon December 13th, 2010 08:56:25 AM
 
-Just downloaded and installed the program on my home PC.  Here's a question, if I spend lots of time generating bitcoins and my HDD crashes, how do I get those coins back?  I don't see any option to create an account or a way to &quot;backup&quot; my coins or anything.  It all seems to be contained within program itself.  This would prevent me from moving coins from one computer to another as well (if, for instance, I bought a new computer).
+Just downloaded and installed the program on my home PC.  Here's a question, if I spend lots of time generating bitcoins and my HDD crashes, how do I get those coins back?  I don't see any option to create an account or a way to "backup" my coins or anything.  It all seems to be contained within program itself.  This would prevent me from moving coins from one computer to another as well (if, for instance, I bought a new computer).
 
 On another note, have you or anyone else attempted to artificially boost your coins in any way?  If so, what measures do they have in place to prevent this, if any?
 
@@ -39,7 +39,7 @@ On another note, have you or anyone else attempted to artificially boost your co
 
 Posted by **Automated Penguin** on Mon December 13th, 2010 08:59:53 AM
 
-There's a .bitcoin directory in the users home directory that contains your &quot;Wallet&quot; this is a symmetrical key type thing like a private key. As long as you have a copy of it you'll be good. so just back that up to a safe place.
+There's a .bitcoin directory in the users home directory that contains your "Wallet" this is a symmetrical key type thing like a private key. As long as you have a copy of it you'll be good. so just back that up to a safe place.
 
 As far as artificially boosting your income idk. Maybe publish your bit coin address everywhere and hope some dude wants to send you some coin? IDK.
 
@@ -47,17 +47,17 @@ As far as artificially boosting your income idk. Maybe publish your bit coin add
 
 Posted by **Rax** on Mon December 13th, 2010 06:58:20 PM
 
-[quote=&quot;Automated Penguin&quot;:3ik1ctz2]There's a .bitcoin directory in the users home directory that contains your &quot;Wallet&quot; this is a symmetrical key type thing like a private key.[/quote:3ik1ctz2]
+[quote="Automated Penguin":3ik1ctz2]There's a .bitcoin directory in the users home directory that contains your "Wallet" this is a symmetrical key type thing like a private key.[/quote:3ik1ctz2]
 
-I have to check out the BitCoin thing, but I'm confused. If it's a &quot;symmetrical key&quot; both the encryption and decryption is done by the same key.  If it's a public key/private key (PKI), that's a totally different (and much more secure IMHO) solution.
+I have to check out the BitCoin thing, but I'm confused. If it's a "symmetrical key" both the encryption and decryption is done by the same key.  If it's a public key/private key (PKI), that's a totally different (and much more secure IMHO) solution.
 
 --------------------------------------------------------------------------------
 
 Posted by **Automated Penguin** on Mon December 13th, 2010 07:28:09 PM
 
-[quote=&quot;Rax&quot;:16wlu8zt][quote=&quot;Automated Penguin&quot;:16wlu8zt]There's a .bitcoin directory in the users home directory that contains your &quot;Wallet&quot; this is a symmetrical key type thing like a private key.[/quote:16wlu8zt]
+[quote="Rax":16wlu8zt][quote="Automated Penguin":16wlu8zt]There's a .bitcoin directory in the users home directory that contains your "Wallet" this is a symmetrical key type thing like a private key.[/quote:16wlu8zt]
 
-I have to check out the BitCoin thing, but I'm confused. If it's a &quot;symmetrical key&quot; both the encryption and decryption is done by the same key.  If it's a public key/private key (PKI), that's a totally different (and much more secure IMHO) solution.[/quote:16wlu8zt]
+I have to check out the BitCoin thing, but I'm confused. If it's a "symmetrical key" both the encryption and decryption is done by the same key.  If it's a public key/private key (PKI), that's a totally different (and much more secure IMHO) solution.[/quote:16wlu8zt]
 
 
 whoops semetric/asymetric only off by one byte.

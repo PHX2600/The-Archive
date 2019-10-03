@@ -5,13 +5,13 @@ While trying to figure out to hide my youtube subscriptions today, I came across
 
 So just type:
 
-[b:r5v5biod]
+**
 <!-- m --><a class="postlink" href="http://www.youtube.com/profile_subscriptions?user=name">http://www.youtube.com/profile_subscriptions?user=name</a><!-- m -->
-[/b:r5v5biod]
+**
 
 For 'name' you would enter the profile name. Even though you can keep your listed subscriptions out of the layout, it's still there.  
 
-An even lazier way to do is (if you don't have this text in front of you is to click on [b:r5v5biod]Videos |  Favorites  |  Playlists  |  Groups  |  Friends  |  Subscriber[/b:r5v5biod] and change whatever is after the '_' to 'subscriptions'.
+An even lazier way to do is (if you don't have this text in front of you is to click on **Videos |  Favorites  |  Playlists  |  Groups  |  Friends  |  Subscriber** and change whatever is after the '_' to 'subscriptions'.
 
 --------------------------------------------------------------------------------
 

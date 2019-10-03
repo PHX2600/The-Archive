@@ -16,7 +16,7 @@ Deviant is giving a presentation on the bump key countermeasures:
 New Countermeasures to the Bump Key Attack
 Deviant Ollam
 
-If you haven’t yet heard of the physical security risk known as &quot;bump keying&quot; there’s a good chance you’ve either been living under a rock or have no duties that involve oversight of facilities or infrastructure. In a short session, Deviant will cover the basics of the bump key threat and describe the techniques that hardware manufacturers and locksmiths are experimenting with to counter it. Some of these developments have real promise, others may just be smoke and mirrors... don’t invest in one of the wrong solutions that are being rolled out in the face of this highly-charged (and often misunderstood) security concern.
+If you haven’t yet heard of the physical security risk known as "bump keying" there’s a good chance you’ve either been living under a rock or have no duties that involve oversight of facilities or infrastructure. In a short session, Deviant will cover the basics of the bump key threat and describe the techniques that hardware manufacturers and locksmiths are experimenting with to counter it. Some of these developments have real promise, others may just be smoke and mirrors... don’t invest in one of the wrong solutions that are being rolled out in the face of this highly-charged (and often misunderstood) security concern.
 
 It will be interesting to see how things have changed since the 'Medeco meeting' at Defcon last year-
 
@@ -44,17 +44,17 @@ In my case, however, I'll probably be working Defcon into the honeymoon (no joke
 
 Posted by ***Hazard** on Wed February 13th, 2008 08:09:33 AM
 
-[quote=&quot;LosT&quot;:2zfeo198]Deviant is giving a presentation on the bump key countermeasures:
+[quote="LosT":2zfeo198]Deviant is giving a presentation on the bump key countermeasures:
 
 New Countermeasures to the Bump Key Attack
 Deviant Ollam
 
-If you haven’t yet heard of the physical security risk known as &quot;bump keying&quot; there’s a good chance you’ve either been living under a rock or have no duties that involve oversight of facilities or infrastructure. In a short session, Deviant will cover the basics of the bump key threat and describe the techniques that hardware manufacturers and locksmiths are experimenting with to counter it. Some of these developments have real promise, others may just be smoke and mirrors... don’t invest in one of the wrong solutions that are being rolled out in the face of this highly-charged (and often misunderstood) security concern.
+If you haven’t yet heard of the physical security risk known as "bump keying" there’s a good chance you’ve either been living under a rock or have no duties that involve oversight of facilities or infrastructure. In a short session, Deviant will cover the basics of the bump key threat and describe the techniques that hardware manufacturers and locksmiths are experimenting with to counter it. Some of these developments have real promise, others may just be smoke and mirrors... don’t invest in one of the wrong solutions that are being rolled out in the face of this highly-charged (and often misunderstood) security concern.
 
 It will be interesting to see how things have changed since the 'Medeco meeting' at Defcon last year-[/quote:2zfeo198]
 
 
-Interesting thing, LosT. I looked up &quot;bump keying&quot; found some info on Engadget and found that a Youtube video of a locksmith demonstrating bump keying on Engadget has been removed. Curious.
+Interesting thing, LosT. I looked up "bump keying" found some info on Engadget and found that a Youtube video of a locksmith demonstrating bump keying on Engadget has been removed. Curious.
 
 --------------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ Posted by **LosT** on Fri February 22nd, 2008 08:57:44 PM
 
 Bump key attacks are nothing new, nothing secret.
 
-There are, however, some secrets for securing against such attacks, and new attack vectors on specific  lock types (think government facility lock that starts with an &quot;M&quot;)-
+There are, however, some secrets for securing against such attacks, and new attack vectors on specific  lock types (think government facility lock that starts with an "M")-
 
 Shmoo was great as always-  we owned an Animae con that was happening down the road (I managed to get a speaker badge, the equivalent of root in con-space-  and was able to issue 'posse' passes!)
 

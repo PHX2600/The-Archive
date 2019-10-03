@@ -34,4 +34,4 @@ Posted by **tokiya** on Thu September 1st, 2011 02:04:55 AM
 
 Hey Nak, ty.
 
-I just realized I might not make it cause of a scheduling conflict, I'm getting tattooed on Friday &gt;.&lt;  *face palm*
+I just realized I might not make it cause of a scheduling conflict, I'm getting tattooed on Friday >.<  *face palm*

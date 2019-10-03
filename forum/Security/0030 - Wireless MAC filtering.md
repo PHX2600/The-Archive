@@ -11,14 +11,14 @@ MAC filtering is a joke to anyone who knows anything about wireless hacking.
 
 The process I use to getting past this type of security is as follows:
 
-1) [Optional] Use [url=http&#58;//www&#46;netstumbler&#46;com:1kvw4l1h]NetStumbler[/url:1kvw4l1h] to determine the channel of the access point you wish to test.
-2) Use [url=http&#58;//www&#46;aircrack-ng&#46;org/doku&#46;php:1kvw4l1h]Aircrack-NG[/url:1kvw4l1h] to identify a MAC address connected to the access point you wish to connect to.
-3) Use [url=http&#58;//www&#46;klcconsulting&#46;net/smac:1kvw4l1h]SMAC[/url:1kvw4l1h] to spoof your computers MAC address.
+1) [Optional] Use [url=http://www.netstumbler.com:1kvw4l1h]NetStumbler> to determine the channel of the access point you wish to test.
+2) Use [url=http://www.aircrack-ng.org/doku.php:1kvw4l1h]Aircrack-NG> to identify a MAC address connected to the access point you wish to connect to.
+3) Use [url=http://www.klcconsulting.net/smac:1kvw4l1h]SMAC> to spoof your computers MAC address.
 4) Connect
 5) ???
 6) PROFIT!
 
-Best screen shot I currently have: [url:1kvw4l1h]http&#58;//farm3&#46;static&#46;flickr&#46;com/2417/2167807850_fa0bd684cd_o&#46;jpg[/url:1kvw4l1h]
+Best screen shot I currently have: <http://farm3.static.flickr.com/2417/2167807850_fa0bd684cd_o.jpg>
 
 --------------------------------------------------------------------------------
 
@@ -34,7 +34,7 @@ Can you recommend any articles or hardware re: wireless security to me? I'll loo
 
 Posted by **PHLAK** on Mon January 21st, 2008 01:01:11 AM
 
-I just did a quick Google search for &quot;WEP cracking on Windows&quot;, and glanced over this: [url:ov5oe70c]http&#58;//www&#46;tazforum&#46;thetazzone&#46;com/viewtopic&#46;php?t=2069&#46;[/url:ov5oe70c]  It looks like it contains everything you need to know.
+I just did a quick Google search for "WEP cracking on Windows", and glanced over this: <http://www.tazforum.thetazzone.com/viewtopic.php?t=2069.>  It looks like it contains everything you need to know.
 
 WEP cracking and MAC spoofing is fun stuff, and surprisingly easy to accomplish.
 
@@ -46,7 +46,7 @@ Posted by **ArchAngel** on Mon January 21st, 2008 01:08:45 PM
 
 [quote:1t1fwdk0]3) Use SMAC to spoof your computers MAC address.[/quote:1t1fwdk0]
 
-Also remember in windoze you can do this via the registry - start -&gt; run -&gt; &quot;regedit&quot; (without quotes) will get you to the main interface. Then look for one of the GUIDs under &quot;HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\&quot; with a key named &quot;NetworkAddress&quot; that matches your MAC. (Or create the key if it doesn't exist, yet)
+Also remember in windoze you can do this via the registry - start -> run -> "regedit" (without quotes) will get you to the main interface. Then look for one of the GUIDs under "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\" with a key named "NetworkAddress" that matches your MAC. (Or create the key if it doesn't exist, yet)
 
 -ArchAngel
 

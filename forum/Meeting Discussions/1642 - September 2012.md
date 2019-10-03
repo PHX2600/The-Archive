@@ -13,7 +13,7 @@ I'll be there, I got a lot of used modems and routers that a coworker wanted to 
 
 Posted by **PHLAK** on Fri September 7th, 2012 10:31:09 AM
 
-[quote=&quot;XlogicX&quot;:2z1yezhh]I'll be there, I got a lot of used modems and routers that a coworker wanted to give away. I think he got them all at goodwill just to screw around with and is done with it all. I'll be bringing the gear for anyone that wants it.[/quote:2z1yezhh]
+[quote="XlogicX":2z1yezhh]I'll be there, I got a lot of used modems and routers that a coworker wanted to give away. I think he got them all at goodwill just to screw around with and is done with it all. I'll be bringing the gear for anyone that wants it.[/quote:2z1yezhh]
 
 Depending on the gear, I may grab one or two of those.
 

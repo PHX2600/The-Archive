@@ -1,7 +1,7 @@
 ## Backup - Best Practices
 Posted by **HalfSight** on Mon August 2nd, 2010 10:49:50 AM
 
-Symantec Backup Exec 11d &amp; Veritas, hate this software, Pretty sure I need new Tape drives that handle bigger media loads. 
+Symantec Backup Exec 11d  &amp;  Veritas, hate this software, Pretty sure I need new Tape drives that handle bigger media loads. 
 
 Anybody else deal with backups, Is tape still the best practice for huge loads of info any suggestions? Any tips on backup exec? Fuckers keep popping the tapes out and giving errors and failing. I have One running on a second tape now, so that will be a 2 tape backup. <!-- s:evil: --><img src="{SMILIES_PATH}/icon_evil.gif" alt=":evil:" title="Evil or Very Mad" /><!-- s:evil: -->  <!-- s:evil: --><img src="{SMILIES_PATH}/icon_evil.gif" alt=":evil:" title="Evil or Very Mad" /><!-- s:evil: -->  <!-- s:evil: --><img src="{SMILIES_PATH}/icon_evil.gif" alt=":evil:" title="Evil or Very Mad" /><!-- s:evil: -->
 
@@ -13,7 +13,7 @@ This is what a new tape drive costs:
 
 Posted by **Konshu** on Mon August 2nd, 2010 04:09:13 PM
 
-[url:15xsc71i]http&#58;//www&#46;mozy&#46;com[/url:15xsc71i]
+<http://www.mozy.com>
 
 --------------------------------------------------------------------------------
 

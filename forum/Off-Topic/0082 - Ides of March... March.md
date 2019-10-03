@@ -9,7 +9,7 @@ This one is my favorite:
 
 <!-- m --><a class="postlink" href="https://getdual.com/images/idesofmarch08_03.jpg">https://getdual.com/images/idesofmarch08_03.jpg</a><!-- m -->
 
-Here are duelling photos of a picture I took of an &quot;independent observer&quot; and his picture of the protest, which includes me taking a picture of him...  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? --> 
+Here are duelling photos of a picture I took of an "independent observer" and his picture of the protest, which includes me taking a picture of him...  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? --> 
 
 <!-- m --><a class="postlink" href="https://getdual.com/images/idesofmarch08_11.jpg">https://getdual.com/images/idesofmarch08_11.jpg</a><!-- m -->
 
@@ -37,6 +37,6 @@ Oh Lawd. I'm 2 weeks late with this....
 
 anywho here's video from the Co$ protest:
 
-[url:3atnhseg]http&#58;//www&#46;youtube&#46;com/watch?v=qZx-GaE0ZcM[/url:3atnhseg]
+<http://www.youtube.com/watch?v=qZx-GaE0ZcM>
 
 Enjoy!  <!-- s:mrgreen: --><img src="{SMILIES_PATH}/icon_mrgreen.gif" alt=":mrgreen:" title="Mr. Green" /><!-- s:mrgreen: -->

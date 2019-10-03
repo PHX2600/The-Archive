@@ -25,7 +25,7 @@ I love that place it's amazing.
 
 you can also get a printable coupon from their website for 20% off whatever you buy (whole purchase, not just one item)
 
-[url:135ha63r]http&#58;//www&#46;apachereclamation&#46;com/yahoo_site_admin/assets/docs/COUPON_20&#46;167134527&#46;pdf[/url:135ha63r]
+<http://www.apachereclamation.com/yahoo_site_admin/assets/docs/COUPON_20.167134527.pdf>
 
 --------------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ Looks like it would be expired though <!-- s:( --><img src="{SMILIES_PATH}/icon_
 
 Posted by **nak** on Wed January 25th, 2012 05:35:56 PM
 
-[quote=&quot;XlogicX&quot;:38tzq5kv]Looks like it would be expired though <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( -->[/quote:38tzq5kv]
+[quote="XlogicX":38tzq5kv]Looks like it would be expired though <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( -->[/quote:38tzq5kv]
 lol I'm notorious for not clicking hyperlinks <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P --> -- true, it is expired
 
 --------------------------------------------------------------------------------
@@ -58,19 +58,19 @@ Oh well, going to have to head down there this weekend anyway. Need to find some
 
 Posted by **nak** on Mon January 30th, 2012 06:48:55 PM
 
-[quote=&quot;Junker&quot;:gq52qj1u]Sorry, didn't notice the date on it <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( --> 
+[quote="Junker":gq52qj1u]Sorry, didn't notice the date on it <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( --> 
 
 Oh well, going to have to head down there this weekend anyway. Need to find some odds and ends, maybe try to get a nice rackmount signal generator while I'm there too, one of these days I'm going to get their helium laser if 
 it's still there when I have a bunch of money and nothing better to spend it on.[/quote:gq52qj1u]
 
-[url=http&#58;//nakedproof&#46;blogspot&#46;com/2012/01/huge-scr&#46;html:gq52qj1u]I got a deal <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->[/url:gq52qj1u]
+[url=http://nakedproof.blogspot.com/2012/01/huge-scr.html:gq52qj1u]I got a deal <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->>
 
 --------------------------------------------------------------------------------
 
 Posted by **Junker** on Wed February 1st, 2012 07:43:58 AM
 
-[quote=&quot;nak&quot;:33llf6bh]
-[url=http&#58;//nakedproof&#46;blogspot&#46;com/2012/01/huge-scr&#46;html:33llf6bh]I got a deal <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->[/url:33llf6bh][/quote:33llf6bh]
+[quote="nak":33llf6bh]
+[url=http://nakedproof.blogspot.com/2012/01/huge-scr.html:33llf6bh]I got a deal <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->>[/quote:33llf6bh]
 
 WOWSER !!! That thing it HUUUUGE !
 

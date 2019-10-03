@@ -13,7 +13,7 @@ Time: 6-10 pm
 Location: Mesa FOP Lodge 9 (per our usual meetings)
 Tickets: Presale (available at 10/1 meeting) $10 pp and $12 couples, Door $12 pp and $18 couples.
 
-Linkage: [url:34f9y3ya]http&#58;//www&#46;heatsynclabs&#46;org/?p=162[/url:34f9y3ya]
+Linkage: <http://www.heatsynclabs.org/?p=162>
 
 --------------------------------------------------------------------------------
 

@@ -12,7 +12,7 @@ Posted by **skrique** on Mon March 29th, 2010 06:44:04 PM
 Ah, these are cool. Thanks for posting it. 
 
 I was watching the pwn2own challenge last week. Funny how the guys who hacked into IE8 and iPhone wouldn't share how he did it with Microsoft or Apple.
-[url:2lwhk9m2]http&#58;//dvlabs&#46;tippingpoint&#46;com/blog/2010/02/15/pwn2own-2010[/url:2lwhk9m2]
+<http://dvlabs.tippingpoint.com/blog/2010/02/15/pwn2own-2010>
 
 --------------------------------------------------------------------------------
 

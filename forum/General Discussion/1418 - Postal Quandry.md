@@ -13,7 +13,7 @@ I don't understand.  The company sent you a package that you don't want?  If tha
 
 Posted by **Valveritas** on Tue June 14th, 2011 01:43:14 PM
 
-As far as I know a 'decline would be the same thing as a refusal. Are you saying there is a difference? [b:2y0r92i1] A refusal means the company may perceive my order as a cancellation, and may be subject me to strict re-stocking fees. [/b:2y0r92i1]   I'm trying to avoid that.  I expected the post office to return the package to the sender by now as undelivered, per their policy, but they are just holding onto it out of laziness or some other reason.  If the package never returns to the sender I can't really get my money back.
+As far as I know a 'decline would be the same thing as a refusal. Are you saying there is a difference? ** A refusal means the company may perceive my order as a cancellation, and may be subject me to strict re-stocking fees. **   I'm trying to avoid that.  I expected the post office to return the package to the sender by now as undelivered, per their policy, but they are just holding onto it out of laziness or some other reason.  If the package never returns to the sender I can't really get my money back.
 
 I figured there might be a slim possibility someone might have a solution to this, that doesn't result in me losing money or being forced to own something I don't want.
 

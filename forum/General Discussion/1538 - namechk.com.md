@@ -7,7 +7,7 @@ I was reading a lengthy article from sophos on the unravelling of the Koobface n
 
 Posted by **nak** on Thu January 19th, 2012 09:44:13 AM
 
-Neat, I haven't heard of [url:2chrq3qr]http&#58;//www&#46;namechk&#46;com[/url:2chrq3qr] before, what a cool program &lt;3
+Neat, I haven't heard of <http://www.namechk.com> before, what a cool program <3
 
 --------------------------------------------------------------------------------
 
@@ -15,9 +15,9 @@ Posted by **ArchAngel** on Thu January 19th, 2012 11:28:21 AM
 
 Sweet find! Hacking around a little bit with it, it seems to give some definite false-positives, but in general I'd say it's a handy tool to finding out if your handle of choice is in use somewhere or not ... would be sweet if it checked e-mail / instant messenger services, too. 
 
-Also, I can totally see this being (ab?)used to trax down folk by username ... id est, Joe Haxor find a username/password combination for Myspace, run namechk against the username and checks if the password he's got matches other services that user might have an account with. Since a lot of (better-written) login prompts just return &quot;bad username [b:3pk9m0vu]or[/b:3pk9m0vu] password&quot;, something like this would let Joe know that the user most likely existed ...
+Also, I can totally see this being (ab?)used to trax down folk by username ... id est, Joe Haxor find a username/password combination for Myspace, run namechk against the username and checks if the password he's got matches other services that user might have an account with. Since a lot of (better-written) login prompts just return "bad username **or** password", something like this would let Joe know that the user most likely existed ...
 
-[b:3pk9m0vu]Edit[/b:3pk9m0vu]: Here's a list of the domains that seem to be generating false-positives. I got this by telling namechk to search all possible domains and then mashing the keyboard into the username box. The link on the right is to the alleged profile for the username &quot;ba13lknsdnmawlk3jlknadflkjasnlnlsalkdfn&quot;.
+**Edit**: Here's a list of the domains that seem to be generating false-positives. I got this by telling namechk to search all possible domains and then mashing the keyboard into the username box. The link on the right is to the alleged profile for the username "ba13lknsdnmawlk3jlknadflkjasnlnlsalkdfn".
 
 Instructables	<!-- m --><a class="postlink" href="http://www.instructables.com/member/ba13lknsdnmawlk3jlknadflkjasnlnlsalkdfn/">http://www.instructables.com/member/ba1 ... nlsalkdfn/</a><!-- m -->
 plaxo		<!-- m --><a class="postlink" href="http://www.plaxo.com/profile/showPublic/ba13lknsdnmawlk3jlknadflkjasnlnlsalkdfn">http://www.plaxo.com/profile/showPublic ... lnlsalkdfn</a><!-- m -->
@@ -46,6 +46,6 @@ That's pretty informative ArchAngel, with the keyboard mashing results. I wonder
 
 Posted by **eurolancer2** on Tue January 1st, 2013 12:12:54 PM
 
-hey, well i was checkin' this sites and i did find another one with better tools you can check for your brand name or profile name in over 600 social site with half price when you claim it compared to namechk [url:1pgqg3y4]http&#58;//claimbrand&#46;com/[/url:1pgqg3y4]  <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D --> 
+hey, well i was checkin' this sites and i did find another one with better tools you can check for your brand name or profile name in over 600 social site with half price when you claim it compared to namechk <http://claimbrand.com/>  <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D --> 
 
 best luck.

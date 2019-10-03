@@ -48,7 +48,7 @@ hopefully next month ill have my new prototype finished for showing
 
 Posted by **nak** on Sun November 9th, 2008 09:38:28 PM
 
-[quote=&quot;TerrorDrone&quot;:1emloxjz]hopefully next month ill have my new prototype finished for showing[/quote:1emloxjz]
+[quote="TerrorDrone":1emloxjz]hopefully next month ill have my new prototype finished for showing[/quote:1emloxjz]
 
 If you bring beer I'll show up for sure <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 
@@ -60,13 +60,13 @@ Memorable moment from the meeting:
 
 Hanging out picking some locks when a group of middle aged moms came out for a smoke break. They see us with the tools and locks all over the place and one comes up and (not exact quotes) goes:
 
-&quot;Oh! Are you guys cleaning those locks?&quot;
+"Oh! Are you guys cleaning those locks?"
 
 ...
 
 *momentary pause as we look at each other and try to come up with something that will both make her go away AND not make us sound like thieves or something*
 
-ME: &quot;Yes. We're cleaning them.&quot;
+ME: "Yes. We're cleaning them."
 
 *woman looks confused and walks away*
 
@@ -77,7 +77,7 @@ Lol.
 
 Posted by **PHLAK** on Mon November 10th, 2008 10:36:30 PM
 
-LOL @ &quot;cleaning locks&quot;!!!
+LOL @ "cleaning locks"!!!
 
 But seriously, why not tell them the truth, maybe one of them is a closet lock picker, heh.
 
@@ -91,7 +91,7 @@ There was that guitarist who resembled what Nak would look like in 30 years... w
 
 Posted by **PHLAK** on Wed November 12th, 2008 10:25:27 PM
 
-[quote=&quot;Zapperlink&quot;:32evdsen]We will have to wait till they are developed.[/quote:32evdsen]
+[quote="Zapperlink":32evdsen]We will have to wait till they are developed.[/quote:32evdsen]
 
 Wait, what?  Developed?  You are now officially banned from the PHX2600.
 
@@ -105,7 +105,7 @@ Not my camera, I have a cell phone shot but you cant see it well, crappy low res
 
 Posted by **PHLAK** on Wed November 26th, 2008 01:00:57 PM
 
-[quote=&quot;Zapperlink&quot;:1fmewtjh]Not my camera...[/quote:1fmewtjh]
+[quote="Zapperlink":1fmewtjh]Not my camera...[/quote:1fmewtjh]
 
 You are forgiven.
 
@@ -119,8 +119,8 @@ It was me in 30 years actually, I had a dream where I got in a time machine to g
 
 Posted by **taryn** on Sun November 30th, 2008 06:13:55 AM
 
-[quote=&quot;nak&quot;:3iap8cp5]fat free cool whip.[/quote:3iap8cp5]
-that is a gloppy mess because [i:3iap8cp5]somebody[/i:3iap8cp5] sucked all the nitrous out...
+[quote="nak":3iap8cp5]fat free cool whip.[/quote:3iap8cp5]
+that is a gloppy mess because _somebody_ sucked all the nitrous out...
 
 --------------------------------------------------------------------------------
 

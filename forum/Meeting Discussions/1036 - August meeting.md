@@ -37,7 +37,7 @@ I want David to meet the new baby. He likes babies a lot.
 
 Posted by **PHLAK** on Sun July 26th, 2009 01:54:18 AM
 
-[quote=&quot;taryn&quot;:qecfhweu]I want David to meet the new baby. He likes babies a lot.[/quote:qecfhweu]
+[quote="taryn":qecfhweu]I want David to meet the new baby. He likes babies a lot.[/quote:qecfhweu]
 
 It's a baby date!
 
@@ -83,7 +83,7 @@ A copy of the disk would be cool. There are a couple of the presentations that I
 
 Posted by **PHLAK** on Wed August 5th, 2009 04:12:21 PM
 
-[quote=&quot;AltF4Warrior&quot;:22lenyfg]Anyone here willing to barter for their Defcon CD and / or schedule? They ran out of both and I never got one. I have last year's Defcon goodies, as well as more assorted stickers, or maybe even just cash.[/quote:22lenyfg]
+[quote="AltF4Warrior":22lenyfg]Anyone here willing to barter for their Defcon CD and / or schedule? They ran out of both and I never got one. I have last year's Defcon goodies, as well as more assorted stickers, or maybe even just cash.[/quote:22lenyfg]
 
 I should have an extra of each, if I do I'll bring 'em to the meet.
 

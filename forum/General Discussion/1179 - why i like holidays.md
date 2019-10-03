@@ -20,7 +20,7 @@ i got some robot parts and a PICkit
 
 Posted by **dxh** on Wed December 23rd, 2009 09:07:19 PM
 
-I got myself a Larson Scanner kit: [url:1eqfyud5]http&#58;//www&#46;evilmadscientist&#46;com/article&#46;php/larsonkit[/url:1eqfyud5]
+I got myself a Larson Scanner kit: <http://www.evilmadscientist.com/article.php/larsonkit>
 
 --------------------------------------------------------------------------------
 
@@ -32,6 +32,6 @@ I got the flu
 
 Posted by **PHLAK** on Sat December 26th, 2009 11:57:40 AM
 
-[quote=&quot;Automated Penguin&quot;:2bppy9n6]I got the flu[/quote:2bppy9n6]
+[quote="Automated Penguin":2bppy9n6]I got the flu[/quote:2bppy9n6]
 
 MERRY F***ING CHRISTMAS!!!

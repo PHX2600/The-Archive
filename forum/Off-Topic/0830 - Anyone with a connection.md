@@ -15,5 +15,5 @@ I would just contact the game development studios directly that do these games, 
 
 Posted by **nak** on Tue June 30th, 2009 03:46:34 AM
 
-[quote=&quot;CultLeadr&quot;:23odcpfk] I don't think you can really 'gift' such a thing though.[/quote:23odcpfk]
+[quote="CultLeadr":23odcpfk] I don't think you can really 'gift' such a thing though.[/quote:23odcpfk]
 only at burning man

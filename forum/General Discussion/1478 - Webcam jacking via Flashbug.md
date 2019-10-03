@@ -34,7 +34,7 @@ BeEF looks cool, just watched the demo on their website. How is the actually hoo
 
 Posted by **Automated Penguin** on Tue October 25th, 2011 08:42:48 AM
 
-XSS or redirect the user to a site with the &quot;hook&quot; code.
+XSS or redirect the user to a site with the "hook" code.
 
 Its basically a large blob of JavaScript which polls the server for commands and then sends back results.
 

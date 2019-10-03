@@ -3,10 +3,10 @@ Posted by **Automated Penguin** on Tue October 7th, 2008 03:06:09 PM
 
 Just some interesting content that has been surfacing recently.
 
-Olbermann tals about the &quot;Military Commissions Act&quot; and the death of Habeas Corpus:
+Olbermann tals about the "Military Commissions Act" and the death of Habeas Corpus:
 <!-- m --><a class="postlink" href="http://www.youtube.com/watch?v=uqxmPjB0WSs">http://www.youtube.com/watch?v=uqxmPjB0WSs</a><!-- m -->
 
-a little more about the new &quot;Military Commissions Act&quot;:
+a little more about the new "Military Commissions Act":
 <!-- m --><a class="postlink" href="http://www.youtube.com/watch?v=jYxTzDFofZQ">http://www.youtube.com/watch?v=jYxTzDFofZQ</a><!-- m -->
 
 and then this mind fuck:
@@ -16,7 +16,7 @@ and
 
 FEMA has also setup several operational detention camps all over the U.S. manned and ready... why?
 
-you can plop 33°33'57.36&quot;N 83°29'6.26&quot;W into Google earth or just the satellite view on google maps to see some of the above mentioned 
+you can plop 33°33'57.36"N 83°29'6.26"W into Google earth or just the satellite view on google maps to see some of the above mentioned 
 
 I don't want to be a crazy conspiracy theorist but damn, what is going on?
 
@@ -36,7 +36,7 @@ gb2/x/
 
 Posted by **Automated Penguin** on Tue October 7th, 2008 03:10:34 PM
 
-[quote=&quot;Evil1&quot;:ygp8m84x]gb2/x/
+[quote="Evil1":ygp8m84x]gb2/x/
 <!-- m --><a class="postlink" href="http://zip.4chan.org/x/index.html">http://zip.4chan.org/x/index.html</a><!-- m -->[/quote:ygp8m84x]
 
 lol, yeah thats what I was affraid of. 
@@ -46,7 +46,7 @@ I mean..
 ENJOY YOUR IMPRISONMENT IN DETENTION CAMPS AND TRIPLE 
 WIDE COFFINS AMERIKKAN.
 
-[img:ygp8m84x]http&#58;//blastwavelabs&#46;com/Media/Uploads/conspiracy&#46;jpg[/img:ygp8m84x]
+[img:ygp8m84x]http://blastwavelabs.com/Media/Uploads/conspiracy.jpg[/img:ygp8m84x]
 
 --------------------------------------------------------------------------------
 
@@ -58,7 +58,7 @@ They were posting about this shit last week. They make up some new shit every da
 
 Posted by **Automated Penguin** on Tue October 7th, 2008 03:25:56 PM
 
-[quote=&quot;Evil1&quot;:36pl8o3u]They were posting about this shit last week. They make up some new shit every day. One thread told me today 10-7-08 that the economy would collapse and Los Angeles would be nuked. It's all bullshit.[/quote:36pl8o3u]
+[quote="Evil1":36pl8o3u]They were posting about this shit last week. They make up some new shit every day. One thread told me today 10-7-08 that the economy would collapse and Los Angeles would be nuked. It's all bullshit.[/quote:36pl8o3u]
 
 I hope you're right bro.
 
@@ -67,7 +67,7 @@ I hope you're right bro.
 
 THANKS FOR THE NEW AVATAR MODS, ITS GREAT.
 
-[img:36pl8o3u]http&#58;//blastwavelabs&#46;com/Media/Uploads/TinFoilHatArea&#46;jpg[/img:36pl8o3u]
+[img:36pl8o3u]http://blastwavelabs.com/Media/Uploads/TinFoilHatArea.jpg[/img:36pl8o3u]
 
 --------------------------------------------------------------------------------
 

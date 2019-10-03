@@ -40,7 +40,7 @@ Sorry for not showing up, I guess I've just been to busy getting caught up in ot
 
 Posted by **PHLAK** on Mon December 29th, 2008 01:53:15 PM
 
-[quote=&quot;nak&quot;:207r3ghn]Sorry for not showing up, I guess I've just been to busy getting caught up in other activities.  I'll stick around on these forums probably, but I think my last meeting is going to be whenever I attended last  <!-- s:!: --><img src="{SMILIES_PATH}/icon_exclaim.gif" alt=":!:" title="Exclamation" /><!-- s:!: -->[/quote:207r3ghn]
+[quote="nak":207r3ghn]Sorry for not showing up, I guess I've just been to busy getting caught up in other activities.  I'll stick around on these forums probably, but I think my last meeting is going to be whenever I attended last  <!-- s:!: --><img src="{SMILIES_PATH}/icon_exclaim.gif" alt=":!:" title="Exclamation" /><!-- s:!: -->[/quote:207r3ghn]
 
 NOOOOOOOOOOOOOOOOOOOOOOOOO...!
 
@@ -72,7 +72,7 @@ I'm also bringing in my camera / tripod setup to get pics for the monthly meetin
 
 Posted by **PHLAK** on Fri January 2nd, 2009 03:41:29 PM
 
-[quote=&quot;JPerridew&quot;:15doon45]I'm also bringing in my camera / tripod setup to get pics for the monthly meetings update.[/quote:15doon45]
+[quote="JPerridew":15doon45]I'm also bringing in my camera / tripod setup to get pics for the monthly meetings update.[/quote:15doon45]
 
 Kool, I usually bring my camera, but a tripod would be nice.  It would be pretty leet if you wrote a script that took pictures every 5 minutes or so and we could see how the meeting progressed.
 

@@ -3,7 +3,7 @@ Posted by **AltF4** on Tue May 3rd, 2011 09:40:02 PM
 
 (Firstly, I didn't know what room to put this thread in. So maybe move it, I dunno.)
 
-I'm planning on doing the Defcon CTF quals this year. I already registered &quot;Phx2600&quot; as a team. hashtag: a916a3df55dd478149908f342a7c25d4a55b1c3d for anyone who wants to sign up as well. (Signing up is not required. But it's the only way you can submit answers. Obviously at least ONE person on the team has to sign up.)
+I'm planning on doing the Defcon CTF quals this year. I already registered "Phx2600" as a team. hashtag: a916a3df55dd478149908f342a7c25d4a55b1c3d for anyone who wants to sign up as well. (Signing up is not required. But it's the only way you can submit answers. Obviously at least ONE person on the team has to sign up.)
 
 Infos here: <!-- m --><a class="postlink" href="https://forum.defcon.org/showthread.php?t=12076">https://forum.defcon.org/showthread.php?t=12076</a><!-- m -->
 
@@ -27,7 +27,7 @@ Hope to see you!
 
 Posted by **PHLAK** on Fri May 6th, 2011 09:26:50 AM
 
-I'm so totally interested but that's the weekend of [url=http&#58;//www&#46;desertbash&#46;com/:dquxocoy]Desertbash[/url:dquxocoy] which I've already paid for and am obligated to go. =(
+I'm so totally interested but that's the weekend of [url=http://www.desertbash.com/:dquxocoy]Desertbash> which I've already paid for and am obligated to go. =(
 
 --------------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ I sort of want to clear out the cobwebs a bit before doing the 'real one'
 
 Posted by **Automated Penguin** on Thu May 12th, 2011 06:14:01 PM
 
-[quote=&quot;fightgar&quot;:2wf24t7q]that comic on nops r us is reminds me of a comic I drewed once.  Maybe we should get together and bang through somes puzzles from the previous years?
+[quote="fightgar":2wf24t7q]that comic on nops r us is reminds me of a comic I drewed once.  Maybe we should get together and bang through somes puzzles from the previous years?
 I sort of want to clear out the cobwebs a bit before doing the 'real one'[/quote:2wf24t7q]
 
 Yes pleaseeeeeeeee.
@@ -65,7 +65,7 @@ Yes pleaseeeeeeeee.
 
 Posted by **fightgar** on Sun May 15th, 2011 08:43:48 PM
 
-Well once you get back from your honeymoon... penguin... that you didn't tell me about... &gt;:O  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
+Well once you get back from your honeymoon... penguin... that you didn't tell me about... >:O  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 
 --------------------------------------------------------------------------------
 
@@ -86,7 +86,7 @@ VirtualBox is being a nerd when I try to start up a FreeBSD system... I'll figur
 <!-- m --><a class="postlink" href="http://ubuntuforums.org/showthread.php?t=1739768">http://ubuntuforums.org/showthread.php?t=1739768</a><!-- m -->
 
 Then this guys says this: 
-[quote:1oio59ut]So uh... What's the difference between &quot;linux&quot;, &quot;linux-generic&quot;, and &quot;linux-generic-pae&quot;? It seems out of the three I have linux-generic-pae installed.
+[quote:1oio59ut]So uh... What's the difference between "linux", "linux-generic", and "linux-generic-pae"? It seems out of the three I have linux-generic-pae installed.
 
 I had installed the source for the standard linux kernel, but not generic-pae.
 
@@ -166,7 +166,7 @@ UHHH thats all I got so far.
 Posted by **nak** on Mon June 6th, 2011 11:30:49 AM
 
 That was fun.
-Write ups: [url:36dp4l3h]http&#58;//rogunix&#46;com/defconquals19&#46;html[/url:36dp4l3h]
+Write ups: <http://rogunix.com/defconquals19.html>
 
 GB100.
 really ALMOST killed me. FML

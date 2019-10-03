@@ -25,8 +25,8 @@ DARC	Deformed Alkaline Rocks and Carbonatites
 DARC	Drug anf Alcohol Rehabilitation Counselor
 DARC	Data Analysis and Remote Control (Sprint)
 DARC	Denver Adult Rider's Club
-DARC	Defense Acquisition &amp; Reports Control
-DARC	Data Acquisition &amp; Reduction Center
+DARC	Defense Acquisition  &amp;  Reports Control
+DARC	Data Acquisition  &amp;  Reduction Center
 
 DRAC	Dell Remote Assistant Card (Dell Computer)
 DRAC	Directions Regionales des Affaires Culturelles
@@ -41,7 +41,7 @@ DRAC	Digital Ratio Adapter Circuit (ABS brake systems)
 
 I think dues are essential in keeping things going but it also needs to be available to potential members to preview without any commitment. 
 
-&quot;we were thinking of having an online based meeting weds nights at 2030&quot; I think that is a great idea to get new people to see what it is all about and maybe &quot;Break the Ice&quot; before an actual meet. 
+"we were thinking of having an online based meeting weds nights at 2030" I think that is a great idea to get new people to see what it is all about and maybe "Break the Ice" before an actual meet. 
 
 I saw something mentioned about facebook in another thread,maybe more events put on youtube, facebook, myspace, might bring more people or at least let them know all of the badassery going on during a meet.
 
@@ -51,12 +51,12 @@ Posted by **Rax** on Wed October 20th, 2010 08:37:14 PM
 
 Digital Arizona Research Center (DARC) is (or will be) Arizona's second hacker space. 
 
-With the idea in mind that &quot;more is better&quot; DARC is not a competitor to HeatSync Labs, rather it is an additional place for hackers to gather and work on projects of interest to them. Let's face it: &quot;the Valley&quot; is a bit spread out and hauling ass across it can be a pain.
+With the idea in mind that "more is better" DARC is not a competitor to HeatSync Labs, rather it is an additional place for hackers to gather and work on projects of interest to them. Let's face it: "the Valley" is a bit spread out and hauling ass across it can be a pain.
 
 Things are just in the formative stages at this point. You have the the opportunity to help shape the DARC.  As @terrordrone posted, we are going to have a weekly chat to get things rolling. Bring you ideas and join us online on Wednesday evenings at 8:30 PM (or 20:30 for you alternate time format fans).
 
 
-The room for the chat will be posted on the web site:  [url=http&#58;//theDARC&#46;org:tuzn5cf4]theDARC.org[/url:tuzn5cf4].
+The room for the chat will be posted on the web site:  [url=http://theDARC.org:tuzn5cf4]theDARC.org>.
 
 --------------------------------------------------------------------------------
 

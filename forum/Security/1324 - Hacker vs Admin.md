@@ -27,13 +27,13 @@ Posted by **nak** on Tue November 16th, 2010 10:57:17 AM
 
 Posted by **lialdd** on Tue November 16th, 2010 01:44:39 PM
 
-[quote=&quot;nak&quot;:2owhnh4x]:?[/quote:2owhnh4x]
+[quote="nak":2owhnh4x]:?[/quote:2owhnh4x]
 
-is that the &quot;not sure if want 80's bill gates&quot; emoticon?
+is that the "not sure if want 80's bill gates" emoticon?
 
 thanks for the tip, i was thinking about a honeypot but from a practical perspective it wouldn't help aside from the initial stages of an intrusion... once an attack got privileges they would stay mostly within the real network and appear quite legitimate.
 
-any tools to visualize what's &quot;happening&quot; on a network? obviously big holographic datacenters don't exist yet, but being able to say &quot;look! someone is doing _____ right now!&quot; would be quite useful.
+any tools to visualize what's "happening" on a network? obviously big holographic datacenters don't exist yet, but being able to say "look! someone is doing _____ right now!" would be quite useful.
 
 --------------------------------------------------------------------------------
 
@@ -57,14 +57,14 @@ I'd have to agree with Penguin.  While somewhat old and archaic, there's no subs
 
 Posted by **nak** on Fri December 24th, 2010 07:22:11 AM
 
-[quote=&quot;lialdd&quot;:2kdrfwpe][quote=&quot;nak&quot;:2kdrfwpe]:?[/quote:2kdrfwpe]
-is that the &quot;not sure if want 80's bill gates&quot; emoticon?
+[quote="lialdd":2kdrfwpe][quote="nak":2kdrfwpe]:?[/quote:2kdrfwpe]
+is that the "not sure if want 80's bill gates" emoticon?
 [/quote:2kdrfwpe]
 
 Penguin was just telling a story that was hitting close to home and that's the emotion I was feeling at the time  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) --> 
 If you're up for the task of trying to compile EtherApe (not EtheRape) on your windows box, feel free: <!-- m --><a class="postlink" href="http://etherape.sourceforge.net/">http://etherape.sourceforge.net/</a><!-- m -->
 
-It's the only network visualizer I've used.  In flaggy I can bring in an open wifi hotspot, so I like to watch what's going on if I'm doing private thangs like I like to do (and those channels would be encrypted anyway, GPG keys anyone????), etherape and nmap scans while watching my arp table is all I really do... never ran into a problem with devious bastards there... even I behave!  Ettercap (which has a windows binary I believe) can also be used if you wanna fiddle with the other's ARP tables and check out what the jerkroids are really up to in detail on a switched netty... not really an &quot;admin&quot; tool though.
+It's the only network visualizer I've used.  In flaggy I can bring in an open wifi hotspot, so I like to watch what's going on if I'm doing private thangs like I like to do (and those channels would be encrypted anyway, GPG keys anyone????), etherape and nmap scans while watching my arp table is all I really do... never ran into a problem with devious bastards there... even I behave!  Ettercap (which has a windows binary I believe) can also be used if you wanna fiddle with the other's ARP tables and check out what the jerkroids are really up to in detail on a switched netty... not really an "admin" tool though.
 Wireshark isn't really a visualizer, but it's the primo packet sniffer imho.
 
 Did you find a winner? Just curious...

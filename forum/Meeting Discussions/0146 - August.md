@@ -20,9 +20,9 @@ Congrats on your marriage!
 
 Posted by **PHLAK** on Mon July 14th, 2008 12:34:10 AM
 
-[quote=&quot;TerrorDrone&quot;:887dyn2j]Congrats on your marriage![/quote:887dyn2j]
+[quote="TerrorDrone":887dyn2j]Congrats on your marriage![/quote:887dyn2j]
 
-Thanks TD!  BTW, nice icon... &quot;PICK UP THAT CAN!&quot;
+Thanks TD!  BTW, nice icon... "PICK UP THAT CAN!"
 
 --------------------------------------------------------------------------------
 
@@ -41,7 +41,7 @@ will try to put something together by then
 
 Posted by **ThatGuy** on Sat July 19th, 2008 01:59:03 PM
 
-[quote=&quot;PHLAK&quot;:29h0waf9]I'm assuming there will be one. This year Defcon doesn't fall on the first Friday of the month, so it shouldn't interfere.  However, yours truly will not be attending, for I will be out of town getting married, but I'm sure you'll all get along just fine with out me.[/quote:29h0waf9]
+[quote="PHLAK":29h0waf9]I'm assuming there will be one. This year Defcon doesn't fall on the first Friday of the month, so it shouldn't interfere.  However, yours truly will not be attending, for I will be out of town getting married, but I'm sure you'll all get along just fine with out me.[/quote:29h0waf9]
 
 I must have skimmed over this post, congratulations your part of the ring wearers club now.
 
@@ -55,7 +55,7 @@ dont mind me, just faggin up the thread.
 
 Posted by **PHLAK** on Fri July 25th, 2008 01:30:44 AM
 
-[quote=&quot;Evil1&quot;:v3ks3utz]dont mind me, just faggin up the thread.[/quote:v3ks3utz]
+[quote="Evil1":v3ks3utz]dont mind me, just faggin up the thread.[/quote:v3ks3utz]
 
 Typical... <!-- s:roll: --><img src="{SMILIES_PATH}/icon_rolleyes.gif" alt=":roll:" title="Rolling Eyes" /><!-- s:roll: -->
 
@@ -63,7 +63,7 @@ Typical... <!-- s:roll: --><img src="{SMILIES_PATH}/icon_rolleyes.gif" alt=":rol
 
 Posted by **nak** on Fri July 25th, 2008 10:54:36 AM
 
-[quote=&quot;Evil1&quot;:ahtbiakl]dont mind me, just faggin up the thread.[/quote:ahtbiakl]
+[quote="Evil1":ahtbiakl]dont mind me, just faggin up the thread.[/quote:ahtbiakl]
 
 tsk tsk what immature behavior out of the admins here, I'm going to take my children elsewhere...
 
@@ -71,22 +71,22 @@ tsk tsk what immature behavior out of the admins here, I'm going to take my chil
 
 Posted by **TerrorDrone** on Fri July 25th, 2008 12:20:16 PM
 
-[quote=&quot;Evil1&quot;:ihb383vk]dont mind me, just faggin up the thread.[/quote:ihb383vk]
-define &quot;faggin' up&quot;
+[quote="Evil1":ihb383vk]dont mind me, just faggin up the thread.[/quote:ihb383vk]
+define "faggin' up"
 
 --------------------------------------------------------------------------------
 
 Posted by **taryn** on Fri July 25th, 2008 10:17:12 PM
 
-[quote=&quot;TerrorDrone&quot;:2bo4o8wy][quote=&quot;Evil1&quot;:2bo4o8wy]dont mind me, just faggin up the thread.[/quote:2bo4o8wy]
-define &quot;faggin' up&quot;[/quote:2bo4o8wy]
+[quote="TerrorDrone":2bo4o8wy][quote="Evil1":2bo4o8wy]dont mind me, just faggin up the thread.[/quote:2bo4o8wy]
+define "faggin' up"[/quote:2bo4o8wy]
 he's blowing second hand smoke on us
 
 --------------------------------------------------------------------------------
 
 Posted by **ThatGuy** on Sat July 26th, 2008 12:22:00 AM
 
-IN the UK if you are at a PUB and hanging with some Birts having a pint they will &quot;say wanna go blow a fag with me and mates&quot;
+IN the UK if you are at a PUB and hanging with some Birts having a pint they will "say wanna go blow a fag with me and mates"
 
 --------------------------------------------------------------------------------
 
@@ -94,13 +94,13 @@ Posted by **TerrorDrone** on Sat July 26th, 2008 11:49:53 AM
 
 i understood i was just making a joke about the faggin comment.
 I always ask peopele to define things as kind of a private joke.
-My wife will refer to something as a &quot;shit ton&quot; and ill always ask her to define shit ton.
+My wife will refer to something as a "shit ton" and ill always ask her to define shit ton.
 
 --------------------------------------------------------------------------------
 
 Posted by **dxh** on Tue July 29th, 2008 12:01:30 AM
 
-[quote=&quot;Evil1&quot;:37eugsot]dont mind me, just faggin up the thread.[/quote:37eugsot]
+[quote="Evil1":37eugsot]dont mind me, just faggin up the thread.[/quote:37eugsot]
 
 This is why we can't have nice things!
 
@@ -132,7 +132,7 @@ We were at a friends' house. We played Katamari on PS2. Weird fucking game...
 
 Posted by **nak** on Sun August 3rd, 2008 11:46:05 PM
 
-[quote=&quot;taryn&quot;:2zox9d3c]We were at a friends' house. We played Katamari on PS2. Weird fucking game...[/quote:2zox9d3c]
+[quote="taryn":2zox9d3c]We were at a friends' house. We played Katamari on PS2. Weird fucking game...[/quote:2zox9d3c]
 Great fucking game, the first one or second? It doesn't really matter same freaking game.
 
 I didn't go because I got my all electronics order in and had to start working on this: <!-- m --><a class="postlink" href="http://www.youtube.com/watch?v=3MXVMCin_X0">http://www.youtube.com/watch?v=3MXVMCin_X0</a><!-- m -->

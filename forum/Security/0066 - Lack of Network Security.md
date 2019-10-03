@@ -3,7 +3,7 @@ Posted by **Ugly** on Wed February 20th, 2008 12:35:21 AM
 
 A man hacked the live display at a train station in The Netherlands to show his phone's camera view in real time.
 
-[url=http&#58;//www&#46;youtube&#46;com/v/zcmmFQGxMNU&amp;rel=0&amp;border=0&quot;:2r8qyvc3]Check it out here[/url:2r8qyvc3]
+[url=http://www.youtube.com/v/zcmmFQGxMNU&amp;rel=0&amp;border=0":2r8qyvc3]Check it out here>
 
 --------------------------------------------------------------------------------
 
@@ -26,7 +26,7 @@ Both great videos!
 
 Posted by **Ugly** on Fri February 22nd, 2008 07:43:36 PM
 
-[quote=&quot;nak&quot;:20rxbaro]Great vid Ugly, do we know if it's legit or fake/setup?[/quote:20rxbaro]
+[quote="nak":20rxbaro]Great vid Ugly, do we know if it's legit or fake/setup?[/quote:20rxbaro]
 I'm not sure. I'd like to believe though <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 
 --------------------------------------------------------------------------------
@@ -47,6 +47,6 @@ The other one is legit, many news articles and the group actually got awarded $$
 
 Posted by **Shadow** on Fri March 7th, 2008 10:46:06 AM
 
-Doesn't seem like it'd be too hard really. Most signs and shit are left on default configs for &quot;simplicity&quot;, &quot;who would want to hack a sign&quot;? The ones that do video generally grab the content off a windows media server, or a vender specific stream server that's rather trivial to clone(and generally based off HTTP). Change the IP in the config to a friendly server, use J2ME app to stream webcam to server.... and you've got it all going <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
+Doesn't seem like it'd be too hard really. Most signs and shit are left on default configs for "simplicity", "who would want to hack a sign"? The ones that do video generally grab the content off a windows media server, or a vender specific stream server that's rather trivial to clone(and generally based off HTTP). Change the IP in the config to a friendly server, use J2ME app to stream webcam to server.... and you've got it all going <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
 
 There's actually already a J2ME app to stream to a WMS server, but I don't know it's name and forget the link where I saw it.

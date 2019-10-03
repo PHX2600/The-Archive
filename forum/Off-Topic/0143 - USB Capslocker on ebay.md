@@ -3,7 +3,7 @@ Posted by **nak** on Mon July 7th, 2008 01:39:50 PM
 
 I'm selling this dude:
 <!-- m --><a class="postlink" href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=180262464328">http://cgi.ebay.com/ws/eBayISAPI.dll?Vi ... 0262464328</a><!-- m -->
-&lt;/advertisement&gt;
+</advertisement>
 
 Pretty cool huh? <!-- m --><a class="postlink" href="http://macetech.com/blog/?q=node/46">http://macetech.com/blog/?q=node/46</a><!-- m -->
 

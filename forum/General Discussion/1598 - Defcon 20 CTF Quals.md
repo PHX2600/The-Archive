@@ -5,23 +5,23 @@ It's that time of the year again! Defcon CTF Quals. This time, we're getting ser
 
 Some information:
 
-[b:17ak6hwx]Why[/b:17ak6hwx]: Quals is a game, and the purpose of it is to have fun. (It's a relaxed atmosphere. We're all friends!) Hackers are naturally competitive creatures, I think though. So naturally we are trying to play the game as best we can.
+**Why**: Quals is a game, and the purpose of it is to have fun. (It's a relaxed atmosphere. We're all friends!) Hackers are naturally competitive creatures, I think though. So naturally we are trying to play the game as best we can.
 
-[b:17ak6hwx]What[/b:17ak6hwx]: The Defcon CTF Quals is not like the actual CTF. It's a jeopardy style quiz board game with lots of hacking related categories that usually involve things like binary reverse engineering, exploitation, forensics, networking, cryptography, etc...
+**What**: The Defcon CTF Quals is not like the actual CTF. It's a jeopardy style quiz board game with lots of hacking related categories that usually involve things like binary reverse engineering, exploitation, forensics, networking, cryptography, etc...
 
-[b:17ak6hwx]When[/b:17ak6hwx]: The actual competition will be happening from 5:00 PM Az time (if my math is correct) on Friday June 1st through 5:00 PM Sunday June 3rd. Which means that it will be kicking off right at the start of the June Phx2600 meeting!
+**When**: The actual competition will be happening from 5:00 PM Az time (if my math is correct) on Friday June 1st through 5:00 PM Sunday June 3rd. Which means that it will be kicking off right at the start of the June Phx2600 meeting!
 
 There will also be at least one practice session at a time and place yet to be determined.
 
-[b:17ak6hwx]Who[/b:17ak6hwx]: You! One thing I want to really stress is that we need your help even if you don't think you're the 1337'est haxxorz on the block. You might just be surprised just how much an extra head can matter when trying to unravel a tough puzzle. 
+**Who**: You! One thing I want to really stress is that we need your help even if you don't think you're the 1337'est haxxorz on the block. You might just be surprised just how much an extra head can matter when trying to unravel a tough puzzle. 
 
-[b:17ak6hwx]How do I play?[/b:17ak6hwx]: Either post in this thread to let me know that you want to play for the team, or else email me. altf4{at}phx2600.org. I'll send you our team's hash so you can sign up officially on the Defcon website here. This isn't an &quot;application&quot;, nobody will be rejected. I just want a clear list of who the team will be.
+**How do I play?**: Either post in this thread to let me know that you want to play for the team, or else email me. altf4{at}phx2600.org. I'll send you our team's hash so you can sign up officially on the Defcon website here. This isn't an "application", nobody will be rejected. I just want a clear list of who the team will be.
 
 <!-- m --><a class="postlink" href="https://www.ddtek.biz/reg/dc20_reg.jsp">https://www.ddtek.biz/reg/dc20_reg.jsp</a><!-- m -->
 
 Strictly speaking, you don't need to register. But if you don't, then you won't be able to submit answers yourself and maybe not be able to see the questions. 
 
-[b:17ak6hwx]Practice Sessions:[/b:17ak6hwx] [u:17ak6hwx]First:[/u:17ak6hwx] 
+**Practice Sessions:** [u:17ak6hwx]First:[/u:17ak6hwx] 
 Our first practice will be the PlaidCTF. Run by the Plaid Parliament of Pwning. Happening April 27, 2012 21:00 UTC.
 <!-- m --><a class="postlink" href="http://www.plaidctf.com/">http://www.plaidctf.com/</a><!-- m -->
 
@@ -93,10 +93,10 @@ We'll find a place to meet up in person, too. That is pending.
 
 Posted by **PHLAK** on Mon April 23rd, 2012 07:08:41 PM
 
-[quote=&quot;AltF4&quot;:1snv07bc]Go and register for that on their website. Our team name is:
+[quote="AltF4":1snv07bc]Go and register for that on their website. Our team name is:
 Phx2600 + PSSH[/quote:1snv07bc]
 
-When I go to register it's erroring with &quot;Team profile with this Name already exists.&quot; and wont let me register without a team name. Are you sure we all need to register?
+When I go to register it's erroring with "Team profile with this Name already exists." and wont let me register without a team name. Are you sure we all need to register?
 
 --------------------------------------------------------------------------------
 
@@ -108,7 +108,7 @@ I'm actually not sure of that. Kind of assumed that would be how it would work. 
 
 Posted by **Automated Penguin** on Tue April 24th, 2012 08:26:19 AM
 
-[quote=&quot;PHLAK&quot;:tirvxfzm]&quot;Team profile with this Name already exists.&quot; [/quote:tirvxfzm]
+[quote="PHLAK":tirvxfzm]"Team profile with this Name already exists." [/quote:tirvxfzm]
 
 Same.
 
@@ -137,7 +137,7 @@ Anyone and everyone can come! Please do!
 
 Posted by **Urbal** on Tue April 24th, 2012 04:31:33 PM
 
-Sweetness. I'll be there.... in my &quot;Fuck LoLa's&quot; shirt.m <!-- s:shock: --><img src="{SMILIES_PATH}/icon_eek.gif" alt=":shock:" title="Shocked" /><!-- s:shock: -->
+Sweetness. I'll be there.... in my "Fuck LoLa's" shirt.m <!-- s:shock: --><img src="{SMILIES_PATH}/icon_eek.gif" alt=":shock:" title="Shocked" /><!-- s:shock: -->
 
 --------------------------------------------------------------------------------
 
@@ -194,7 +194,7 @@ For space to play the CTF in, we will be using the super-awesome HeatSync Labs H
 So just to clear up any confusion, there are THREE (3) remaining meetups for the CTF and its preparation.
 
 1) Practice Session At Lola's. Saturday, May 19th at Lolas. 1:00Pm - 8:00Pm.
-NOTE: At the last 2600 meeting, I may have accidentally said &quot;next weekend&quot;. Which would have been incorrect. Sorry for any confusion about that. The practice meeting is in fact on the 19th. We'll have lots of tutorials and learning experiences for everyone there.
+NOTE: At the last 2600 meeting, I may have accidentally said "next weekend". Which would have been incorrect. Sorry for any confusion about that. The practice meeting is in fact on the 19th. We'll have lots of tutorials and learning experiences for everyone there.
 
 2) Defcon CTF Quals: Day 1. This coincides nicely with the normal June 1st Phx2600 meeting. So just come to the meeting like normal.
 
@@ -227,4 +227,4 @@ Hey all! One of the CTF people from DC20 wants to set up some CTF infrastructure
 (We'll probably forward the necessary ports so you can participate from home or at the lab).
 
 Please post something in his thread so he can gauge interest and assemble a kickass Phoenix team for next year: 
-[url:16m8uif2]https&#58;//groups&#46;google&#46;com/forum/?fromgroups#!topic/heatsynclabs/lJ9vkvU8OWE[/url:16m8uif2]
+<https://groups.google.com/forum/?fromgroups#!topic/heatsynclabs/lJ9vkvU8OWE>

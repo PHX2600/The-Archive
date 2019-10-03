@@ -17,7 +17,7 @@ The last talk was really fundamental and historical. Vigenere ciphers are cool a
 
 Posted by **PHLAK** on Sun January 10th, 2010 08:05:24 PM
 
-[quote=&quot;AltF4&quot;:bokzdqe3]I'd like to give a follow up presentation to my last crypto talk, if everyone would like that.[/quote:bokzdqe3]
+[quote="AltF4":bokzdqe3]I'd like to give a follow up presentation to my last crypto talk, if everyone would like that.[/quote:bokzdqe3]
 
 Sounds great to me!  I rather enjoyed the last talk.
 
@@ -34,7 +34,7 @@ sorry no welder or drill press although wouldn't mind doing a welding presentati
 
 Posted by **Rax** on Wed January 13th, 2010 09:16:57 PM
 
-[quote=&quot;TerrorDrone&quot;:2a7krsib]... wouldn't mind doing a welding presentation just can't figure out a good way to do it[/quote:2a7krsib]
+[quote="TerrorDrone":2a7krsib]... wouldn't mind doing a welding presentation just can't figure out a good way to do it[/quote:2a7krsib]
 
 Video tape it, then play it?
 
@@ -42,7 +42,7 @@ Video tape it, then play it?
 
 Posted by **chespirito** on Mon January 18th, 2010 12:27:59 PM
 
-[quote=&quot;AltF4&quot;:d8xrxhed]I'd like to give a follow up presentation to my last crypto talk, if everyone would like that. 
+[quote="AltF4":d8xrxhed]I'd like to give a follow up presentation to my last crypto talk, if everyone would like that. 
 
 It would be: Cryptography for Hackers 0x02: How to actually break stuff
 
@@ -65,13 +65,13 @@ If this meeting is already occupied with the crypto talk I could wait till next 
 
 Posted by **twitterkilo** on Wed January 20th, 2010 11:28:17 PM
 
-In my continuing quest to clean out my closet, would anyone be interested in a CRT 17&quot; beige Monitor? I plan to bring it to the meeting along with the &quot;screen&quot; for presentations.
+In my continuing quest to clean out my closet, would anyone be interested in a CRT 17" beige Monitor? I plan to bring it to the meeting along with the "screen" for presentations.
 
 --------------------------------------------------------------------------------
 
 Posted by **PHLAK** on Thu January 21st, 2010 08:04:52 PM
 
-[quote=&quot;Automated Penguin&quot;:yukdg1ah]I would like to give a presentation on the basics of reverse engineering software.[/quote:yukdg1ah]
+[quote="Automated Penguin":yukdg1ah]I would like to give a presentation on the basics of reverse engineering software.[/quote:yukdg1ah]
 
 Do it!  But probably for the March meeting.  One presentation usually takes up a good portion of the meeting, no need to cram if you don't have to.
 
@@ -85,7 +85,7 @@ Do we think we could hook up that awesome projector and screen setup again that 
 
 Posted by **PHLAK** on Wed January 27th, 2010 09:14:07 AM
 
-[quote=&quot;AltF4&quot;:9xcf10ij]Do we think we could hook up that awesome projector and screen setup again that we had last time?[/quote:9xcf10ij]
+[quote="AltF4":9xcf10ij]Do we think we could hook up that awesome projector and screen setup again that we had last time?[/quote:9xcf10ij]
 
 Contact Rax, he's the one that brings it, though I'm sure he'll bring it if requested.
 
@@ -93,7 +93,7 @@ Contact Rax, he's the one that brings it, though I'm sure he'll bring it if requ
 
 Posted by **Rax** on Thu January 28th, 2010 06:05:05 PM
 
-Yeah, I can bring the projector. The &quot;screen&quot; is supplied by Kilo (I think Phack has the backup screen).
+Yeah, I can bring the projector. The "screen" is supplied by Kilo (I think Phack has the backup screen).
 
 --------------------------------------------------------------------------------
 
@@ -111,7 +111,7 @@ And I should be there with my screen as well.
 
 Posted by **Rax** on Thu February 4th, 2010 06:56:54 AM
 
-[quote=&quot;PHLAK&quot;:1b213v1y]Who is Phack?[/quote:1b213v1y]
+[quote="PHLAK":1b213v1y]Who is Phack?[/quote:1b213v1y]
 
 Phack is the evil alter-ego of Phlak. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
@@ -137,7 +137,7 @@ So, is the projector needed at the Feb meeting?
 
 Posted by **Automated Penguin** on Thu February 4th, 2010 10:04:17 PM
 
-[quote=&quot;Rax&quot;:m3lj12ax]So, is the projector needed at the Feb meeting?[/quote:m3lj12ax]
+[quote="Rax":m3lj12ax]So, is the projector needed at the Feb meeting?[/quote:m3lj12ax]
 
 Yes, for the crypto presentation.
 
@@ -159,27 +159,27 @@ I will be bringing my TI-92 Calculator and attempt to Overclock it from 10mhz to
 
 Posted by **PHLAK** on Fri February 5th, 2010 08:38:04 AM
 
-[quote=&quot;Okawa&quot;:1zgchhe1]I will be bringing my TI-92 Calculator and attempt to Overclock it from 10mhz to 20 =P[/quote:1zgchhe1]
+[quote="Okawa":1zgchhe1]I will be bringing my TI-92 Calculator and attempt to Overclock it from 10mhz to 20 =P[/quote:1zgchhe1]
 
-HA!  I remember when Penguin overclocked his TI-83+ when we were in high school.  Fun little hack (one of those, &quot;look what I did&quot; hacks), but doesn't provide much benefit that I remember.
+HA!  I remember when Penguin overclocked his TI-83+ when we were in high school.  Fun little hack (one of those, "look what I did" hacks), but doesn't provide much benefit that I remember.
 
 --------------------------------------------------------------------------------
 
 Posted by **Okawa** on Fri February 5th, 2010 01:08:44 PM
 
-[quote=&quot;PHLAK&quot;:38tmw17l][quote=&quot;Okawa&quot;:38tmw17l]I will be bringing my TI-92 Calculator and attempt to Overclock it from 10mhz to 20 =P[/quote:38tmw17l]
+[quote="PHLAK":38tmw17l][quote="Okawa":38tmw17l]I will be bringing my TI-92 Calculator and attempt to Overclock it from 10mhz to 20 =P[/quote:38tmw17l]
 
-HA!  I remember when Penguin overclocked his TI-83+ when we were in high school.  Fun little hack (one of those, &quot;look what I did&quot; hacks), but doesn't provide much benefit that I remember.[/quote:38tmw17l]
+HA!  I remember when Penguin overclocked his TI-83+ when we were in high school.  Fun little hack (one of those, "look what I did" hacks), but doesn't provide much benefit that I remember.[/quote:38tmw17l]
 
 I guess it speeds up Graphing and figuring out longer equations. Doesnt do to much else though. They suggest to add a switch to it though so I guess I will be adding that also so I can restore the clock speed to normal.
 
-Only reason why I picked up this TI-92 was I lost my beloved TI-83+ &gt;.&lt;
+Only reason why I picked up this TI-92 was I lost my beloved TI-83+ >.<
 
 --------------------------------------------------------------------------------
 
 Posted by **chespirito** on Fri February 5th, 2010 04:50:26 PM
 
-[quote=&quot;saltthefries&quot;:11fbcw0u]I'm going to bring my WPA tables to the meeting. Anybody that wants them should try and catch me early on, since they're 33.5 gb and take a long time to copy.[/quote:11fbcw0u]
+[quote="saltthefries":11fbcw0u]I'm going to bring my WPA tables to the meeting. Anybody that wants them should try and catch me early on, since they're 33.5 gb and take a long time to copy.[/quote:11fbcw0u]
 I'll bring a 16-port 10/100 switch to make the copying easier, plus a couple extra Cat5 cables.
 ~Chesy
 
@@ -213,7 +213,7 @@ then kick their ass for me.
 
 Posted by **dxh** on Sun February 7th, 2010 01:19:46 PM
 
-[quote=&quot;AltF4&quot;:2n907dkj]So after I got some on Friday night (not at the meeting) someone broke into my car and stole a bunch of stuff, including my laptop. <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( --> It was really quite unfortunate that this happened the ONE time I manage to accidentally forget my laptop in the car, too. 
+[quote="AltF4":2n907dkj]So after I got some on Friday night (not at the meeting) someone broke into my car and stole a bunch of stuff, including my laptop. <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( --> It was really quite unfortunate that this happened the ONE time I manage to accidentally forget my laptop in the car, too. 
 
 I've already registered the serial # on it as stolen, but if anyone here sees the red Dell laptop in this picture:
 
@@ -245,7 +245,7 @@ Lol, he probably thought he stole a secret agent's bag. <!-- s:) --><img src="{S
 
 Posted by **TerrorDrone** on Tue February 9th, 2010 05:19:15 PM
 
-[quote=&quot;AltF4&quot;:2lu75uh8]Lawl. I'd love to see the look on the theif's face when he opens my bag and turns on the computer. The bag says UNSC and look all military-like. (UNSC from Halo, of course) My lockpick was in there and a bunch of live boot cracking cd's.
+[quote="AltF4":2lu75uh8]Lawl. I'd love to see the look on the theif's face when he opens my bag and turns on the computer. The bag says UNSC and look all military-like. (UNSC from Halo, of course) My lockpick was in there and a bunch of live boot cracking cd's.
 
 Then when you turn on the laptop, I had set the grub splash screen to be the EFF NSA wiretapping symbol. But if you didn't know better, you'd just see a big NSA symbol in front of you with one of the menu options set to:
 

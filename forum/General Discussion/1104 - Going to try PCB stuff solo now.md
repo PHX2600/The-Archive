@@ -59,9 +59,9 @@ Posted by **Automated Penguin** on Wed September 16th, 2009 11:36:25 PM
 
 These instructions are pretty similar to what I did.
 
-&quot;Now we must produce 16 Oz. of Dextrin glue. This is done by reducing a 10% Dextrin solution. 10% of 16 Oz. is equal to 1.6 Oz. (approximately 3 tablespoons which is 44 ml. metric) Place 3 tablespoons of Dextrin into your kitchen pot. Now we subtract 1.6 Oz. from 16 Oz. to get 14.4 Oz. (approximately 2 Cups.) Place 2 cups of water into our kitchen pot with the Dextrin. Stir the solution with our temperature and Teflon safe mixing spoon and bring to a boil stirring occasionally until most of the water has dissipated (in chemistry this is known as “reducing” a solution.)
+"Now we must produce 16 Oz. of Dextrin glue. This is done by reducing a 10% Dextrin solution. 10% of 16 Oz. is equal to 1.6 Oz. (approximately 3 tablespoons which is 44 ml. metric) Place 3 tablespoons of Dextrin into your kitchen pot. Now we subtract 1.6 Oz. from 16 Oz. to get 14.4 Oz. (approximately 2 Cups.) Place 2 cups of water into our kitchen pot with the Dextrin. Stir the solution with our temperature and Teflon safe mixing spoon and bring to a boil stirring occasionally until most of the water has dissipated (in chemistry this is known as “reducing” a solution.)
 The resultant product of this process should be 4 Oz. of Dextrin based glue. Store your product in your empty container and secure it with the lid.
-Only yields 4 ounces? We have a 16 Oz. container. I see your point. 16 divided by four is four. So you can repeat the reduction process four times to produce 16 Oz. or multiply your 10% solution ingredients by four. Therefore use 8 cups of water to 12 tablespoons of Dextrin (which is approximately equal to 176 ml.) to produce 16 Oz. of Dextrin based glue. You should note that you will be placing 70 Oz. of 10% Dextrin solution into your pot at this point. 70 Oz. is equal to 2.2 quarts so you will need a 2.5 quart pot or larger to avoid spills from boiling the solution during reduction. In case you are wondering, 70 Oz. is approximately 2 liters. ?&quot;
+Only yields 4 ounces? We have a 16 Oz. container. I see your point. 16 divided by four is four. So you can repeat the reduction process four times to produce 16 Oz. or multiply your 10% solution ingredients by four. Therefore use 8 cups of water to 12 tablespoons of Dextrin (which is approximately equal to 176 ml.) to produce 16 Oz. of Dextrin based glue. You should note that you will be placing 70 Oz. of 10% Dextrin solution into your pot at this point. 70 Oz. is equal to 2.2 quarts so you will need a 2.5 quart pot or larger to avoid spills from boiling the solution during reduction. In case you are wondering, 70 Oz. is approximately 2 liters. ?"
 
 *EDIT*
 
@@ -101,7 +101,7 @@ Posted by **Automated Penguin** on Fri October 16th, 2009 11:37:59 AM
 
 Holy Sh*t yeah that long in etchant is bound to have a poor effect on your etch resist ( the toner ),
 
-maybe next time pick up some Ferric Chloride from &quot;The Shack&quot; or something, usually only takes about 15 minutes to do a complete etch, even if its cold.
+maybe next time pick up some Ferric Chloride from "The Shack" or something, usually only takes about 15 minutes to do a complete etch, even if its cold.
 
 I cant remember if I have the free version of eagle or not, I think its a student type version with restrictions on making commercial designs but it does auto-route and stuff. I thought I downloaded it from their site but maybe I torrented it I cant really remember.
 
@@ -111,9 +111,9 @@ Pics of the board you etched?
 
 Posted by **dxh** on Mon October 19th, 2009 08:37:56 AM
 
-[quote=&quot;Automated Penguin&quot;:okq1wkb2]maybe next time pick up some Ferric Chloride from &quot;The Shack&quot; or something, usually only takes about 15 minutes to do a complete etch, even if its cold.?[/quote:okq1wkb2]
+[quote="Automated Penguin":okq1wkb2]maybe next time pick up some Ferric Chloride from "The Shack" or something, usually only takes about 15 minutes to do a complete etch, even if its cold.?[/quote:okq1wkb2]
 
-loltheshack: [url:okq1wkb2]http&#58;//hijinksensue&#46;com/2009/08/25/the-casualties-of-rebranding/[/url:okq1wkb2]
+loltheshack: <http://hijinksensue.com/2009/08/25/the-casualties-of-rebranding/>
 
 --------------------------------------------------------------------------------
 

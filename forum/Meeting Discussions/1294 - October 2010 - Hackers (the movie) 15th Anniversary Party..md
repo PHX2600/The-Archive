@@ -1,18 +1,18 @@
 ## October 2010 - Hackers (the movie) 15th Anniversary Party.
 Posted by **PHLAK** on Fri September 17th, 2010 01:46:28 PM
 
-It has been brought to my attention that this coming October 2nd marks the 15th anniversary of Hackers the movie.  Seeing as the October meeting falls on the 1st, I am declaring this meeting the official [b:3jhan7hi]Hackers (the movie) 15th Anniversary Party[/b:3jhan7hi].
+It has been brought to my attention that this coming October 2nd marks the 15th anniversary of Hackers the movie.  Seeing as the October meeting falls on the 1st, I am declaring this meeting the official **Hackers (the movie) 15th Anniversary Party**.
 
 As such, I would like to find a way for us to play the movie for the group at this meeting.  I own the movie on DVD so I will be able to provide that, I know Rax has a projector and would hope he is able to provide that this meeting.  Anyone can use their laptop or if someone would like to, they can bring an actual DVD player to be used (if you do, talk to Rax in regards to the type of input the projector uses).  What I'm unsure of is location.  We're currently planning on meeting at Mama Java's, though I have a few questions:
 
-[list:3jhan7hi][*:3jhan7hi]Do they have a wall or way we can hang our &quot;screen&quot;?[/*:m:3jhan7hi]
+[list:3jhan7hi][*:3jhan7hi]Do they have a wall or way we can hang our "screen"?[/*:m:3jhan7hi]
 [*:3jhan7hi]Do they have readily available power outlets for our equipment.[/*:m:3jhan7hi]
 [*:3jhan7hi]Will they mind us playing a copyrighted movie in their establishment?[/*:m:3jhan7hi]
 [*:3jhan7hi]If something wont work with them does anyone have a proposed alternative?[/*:m:3jhan7hi][/list:u:3jhan7hi]
 
 I would really like to see this come together.  If anyone has any recommendations/ideas that may help, please speak up.  In the event this does happen, my plan would be to start the meeting at 6pm as usual and start the movie around 7pm, allowing people to get there on time.  Let me know what you think.
 
-[b:3jhan7hi]LET'S MAKE THIS HAPPEN!!![/b:3jhan7hi]
+**LET'S MAKE THIS HAPPEN!!!**
 
 [youtube:3jhan7hi]Ql1uLyuWra8[/youtube:3jhan7hi]
 
@@ -58,7 +58,7 @@ I already promised the professor we wouldn't break anything.
 Polytechnic Campus
 
 Google Directions:
-[url:2ymqpad6]http&#58;//maps&#46;google&#46;com/maps?f=d&amp;hl=en&amp;saddr=&amp;daddr=7001+E+Williams+Field+Rd+Mesa+AZ&amp;layer=t&amp;sll=37&#46;0625,-95&#46;677068&amp;sspn=62&#46;74193,109&#46;863281&amp;ie=UTF8&amp;z=14&amp;ll=33&#46;307434,-111&#46;682034&amp;spn=0&#46;065922,0&#46;107288&amp;iwloc=addr[/url:2ymqpad6]
+<http://maps.google.com/maps?f=d&amp;hl=en&amp;saddr=&amp;daddr=7001+E+Williams+Field+Rd+Mesa+AZ&amp;layer=t&amp;sll=37.0625,-95.677068&amp;sspn=62.74193,109.863281&amp;ie=UTF8&amp;z=14&amp;ll=33.307434,-111.682034&amp;spn=0.065922,0.107288&amp;iwloc=addr>
 
 From Phoenix Sky Harbor Airport
     Take I-10 East to 202 East.
@@ -88,7 +88,7 @@ From Southeast Valley
 
 Posted by **PHLAK** on Fri September 17th, 2010 03:47:43 PM
 
-Unless there is major outcry against this, or someone comes up with something better, this will be our October meeting location.  [b:274lr9so]Meeting will start at 6pm as usual and we'll start the movie around 7pm.[/b:274lr9so]
+Unless there is major outcry against this, or someone comes up with something better, this will be our October meeting location.  **Meeting will start at 6pm as usual and we'll start the movie around 7pm.**
 
 Also, is it okay to bring food/drinks here?  Was thinking people could bring in snacks (chips, crackers, soda, etc.) if that's allowed.
 
@@ -118,7 +118,7 @@ i live fairly close to polytech about 10 minutes away actually so if limited par
 
 Posted by **PHLAK** on Fri September 17th, 2010 07:38:59 PM
 
-I'm willing to pick someone up if they're on the way.  I'll be coming from Central &amp; Thomas so if you're between there and Polytech and need a ride, let me know.
+I'm willing to pick someone up if they're on the way.  I'll be coming from Central  &amp;  Thomas so if you're between there and Polytech and need a ride, let me know.
 
 --------------------------------------------------------------------------------
 
@@ -140,7 +140,7 @@ Are we allowed to rollerblade down the halls?  <!-- s:lol: --><img src="{SMILIES
 
 Posted by **PHLAK** on Sat September 18th, 2010 07:43:30 PM
 
-[quote=&quot;Konshu&quot;:wt4v5ucm]Are we allowed to rollerblade down the halls?  <!-- s:lol: --><img src="{SMILIES_PATH}/icon_lol.gif" alt=":lol:" title="Laughing" /><!-- s:lol: -->[/quote:wt4v5ucm]
+[quote="Konshu":wt4v5ucm]Are we allowed to rollerblade down the halls?  <!-- s:lol: --><img src="{SMILIES_PATH}/icon_lol.gif" alt=":lol:" title="Laughing" /><!-- s:lol: -->[/quote:wt4v5ucm]
 
 And spring a leak in the swimming pool on the roof?
 
@@ -162,7 +162,7 @@ So after the movie are we gonna hack the gibson?
 
 Posted by **PHLAK** on Mon September 20th, 2010 11:30:14 PM
 
-[quote=&quot;TerrorDrone&quot;:1j6w2sfc]So after the movie are we gonna hack the gibson?[/quote:1j6w2sfc]
+[quote="TerrorDrone":1j6w2sfc]So after the movie are we gonna hack the gibson?[/quote:1j6w2sfc]
 
 No... unfortunately we can't be as cool as Joey.  /sigh
 
@@ -170,7 +170,7 @@ No... unfortunately we can't be as cool as Joey.  /sigh
 
 Posted by **TerrorDrone** on Tue September 21st, 2010 09:53:49 PM
 
-[quote=&quot;PHLAK&quot;:2aripbr1][quote=&quot;TerrorDrone&quot;:2aripbr1]So after the movie are we gonna hack the gibson?[/quote:2aripbr1]
+[quote="PHLAK":2aripbr1][quote="TerrorDrone":2aripbr1]So after the movie are we gonna hack the gibson?[/quote:2aripbr1]
 
 No... unfortunately we can't be as cool as Joey.  /sigh[/quote:2aripbr1]
 
@@ -194,7 +194,7 @@ We should play this too. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" 
 
 Posted by **Rax** on Tue September 28th, 2010 09:16:01 PM
 
-And this &quot;movie&quot; too:
+And this "movie" too:
 
 Hackers Wanted:
 
@@ -204,9 +204,9 @@ Hackers Wanted:
 
 Posted by **Rax** on Tue September 28th, 2010 09:19:03 PM
 
-And I have &quot;Freedom Downtime&quot; (on VHS, though).
+And I have "Freedom Downtime" (on VHS, though).
 
-Then there's &quot;Hackers 2&quot; the fictionalized Mitnick story.
+Then there's "Hackers 2" the fictionalized Mitnick story.
 
 --------------------------------------------------------------------------------
 
@@ -271,7 +271,7 @@ I won't be able to make it; Got a lot of code to write over the weekend.
 
 Posted by **Automated Penguin** on Fri October 1st, 2010 07:07:46 PM
 
-[quote=&quot;dxh&quot;:6rhs1ce8]I won't be able to make it; Got a lot of code to write over the weekend.[/quote:6rhs1ce8]
+[quote="dxh":6rhs1ce8]I won't be able to make it; Got a lot of code to write over the weekend.[/quote:6rhs1ce8]
 
 Lame.
 

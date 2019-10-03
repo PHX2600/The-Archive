@@ -15,15 +15,15 @@ This guide was written for Ubuntu 10.04. But I don't see why any other Linux dis
 
 1) Turns out there is an excellent tool for streaming from VLC to Justin.tv: jtvlc. <!-- m --><a class="postlink" href="http://apiwiki.justin.tv/mediawiki/index.php/Linux_Broadcasting_API">http://apiwiki.justin.tv/mediawiki/inde ... asting_API</a><!-- m --> Go ahead and download that. 
 
-2) Now make an account on Justin.tv. In particular, you're going to need the &quot;streaming key&quot; that it gives you. We'll use it in just a sec.
+2) Now make an account on Justin.tv. In particular, you're going to need the "streaming key" that it gives you. We'll use it in just a sec.
 
 3) Get VLC to capture what you want, and stream it out to an SDP file over RTP. In my case, I'm going to stream from a Dazzle video capture device. It's recognized by 4vl as /dev/video1. The command looks like:
 
-[code:11x81kcr]vlc v4l2&#58;///dev/video1 &#58;input-slave=alsa&#58;// -vvv input_stream --sout='#duplicate{dst=&quot;transcode{deinterlace,venc=x264{keyint=60,idrint=2},vcodec=h264,vb=600,acodec=mp4a,ab=48,channels=2,samplerate=22050}&#58;rtp{dst=127&#46;0&#46;0&#46;1,port=1234,sdp=file&#58;///home/altf4/vlc&#46;sdp}&quot;}'[/code:11x81kcr]
+[code:11x81kcr]vlc v4l2:///dev/video1 :input-slave=alsa:// -vvv input_stream --sout='#duplicate{dst="transcode{deinterlace,venc=x264{keyint=60,idrint=2},vcodec=h264,vb=600,acodec=mp4a,ab=48,channels=2,samplerate=22050}:rtp{dst=127.0.0.1,port=1234,sdp=file:///home/altf4/vlc.sdp}"}'[/code:11x81kcr]
 
-Obviously, replace &quot;AltF4&quot; with your username.
+Obviously, replace "AltF4" with your username.
 
-You may want to adjust the video and audio bitrates. They are the &quot;vb=&quot; and &quot;ab=&quot; options within. 
+You may want to adjust the video and audio bitrates. They are the "vb=" and "ab=" options within. 
 
 If you want to stream the entire desktop, you use ://screen instead of :///dev/video1
 
@@ -31,16 +31,16 @@ If you want to stream the entire desktop, you use ://screen instead of :///dev/v
 
 First is the game sounds from my Dazzle:
 
-[code:11x81kcr]pacat -r --latency-msec=1 -d alsa_input&#46;usb-Pinnacle_Systems_GmbH_DVC100-01-DVC100&#46;analog-stereo | pacat -p --latency-msec=1 -d alsa_output&#46;pci-0000_00_1b&#46;0&#46;analog-stereo[/code:11x81kcr]
+[code:11x81kcr]pacat -r --latency-msec=1 -d alsa_input.usb-Pinnacle_Systems_GmbH_DVC100-01-DVC100.analog-stereo | pacat -p --latency-msec=1 -d alsa_output.pci-0000_00_1b.0.analog-stereo[/code:11x81kcr]
 
 Next, I redirect the input from my USB headset micorphone:
 
-[code:11x81kcr]pacat -r --latency-msec=1 -d alsa_input&#46;usb-Logitech_Logitech_USB_Headset-00-Headset&#46;analog-mono | pacat -p --latency-msec=1 -d alsa_output&#46;pci-0000_00_1b&#46;0&#46;analog-stereo[/code:11x81kcr]
+[code:11x81kcr]pacat -r --latency-msec=1 -d alsa_input.usb-Logitech_Logitech_USB_Headset-00-Headset.analog-mono | pacat -p --latency-msec=1 -d alsa_output.pci-0000_00_1b.0.analog-stereo[/code:11x81kcr]
 
-But! This only redirects these two [b:11x81kcr]inputs[/b:11x81kcr] to the alsa [b:11x81kcr]output[/b:11x81kcr]. How do we then pipe the alsa output to alsa input?
+But! This only redirects these two **inputs** to the alsa **output**. How do we then pipe the alsa output to alsa input?
 
 With one of these!
-[img:11x81kcr]http&#58;//www&#46;topchinashop&#46;com/images/AUD-014&#46;jpg[/img:11x81kcr]
+[img:11x81kcr]http://www.topchinashop.com/images/AUD-014.jpg[/img:11x81kcr]
 
 Plug one end into your PC's speaker out, and the other end into the Microphone-in! 
 
@@ -48,9 +48,9 @@ lawl
 
 5) Stream to Justin.tv using jtvlc. 
 
-[code:11x81kcr]&#46;/jtvlc throw_away $YOUR_STREAM_KEY_HERE /home/altf4/vlc&#46;sdp -d[/code:11x81kcr]
+[code:11x81kcr]./jtvlc throw_away $YOUR_STREAM_KEY_HERE /home/altf4/vlc.sdp -d[/code:11x81kcr]
 
-Obviously, replace &quot;AltF4&quot; with your username.
+Obviously, replace "AltF4" with your username.
 
 6) Image overlay. (For awesome logos and stuff like that)
 

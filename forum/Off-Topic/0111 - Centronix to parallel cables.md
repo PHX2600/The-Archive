@@ -18,7 +18,7 @@ I tend to collect various wires and so on, but haven't really moved into cabling
 Posted by **nak** on Fri May 30th, 2008 12:33:11 AM
 
 They are old printer cables, maybe other uses too (dunno)
-[img:10kf0g6l]http&#58;//www&#46;superwarehouse&#46;com/images/products/cables/belkin/F2A046-06&#46;jpg[/img:10kf0g6l]
+[img:10kf0g6l]http://www.superwarehouse.com/images/products/cables/belkin/F2A046-06.jpg[/img:10kf0g6l]
 ^^HOTLINK^^ *tsssssssssssss*
 
 Used on HP printers I know, others as well.
@@ -51,7 +51,7 @@ That's kind of twisted.  Some lone wall eh?   I suppose you could form one of th
 
 Posted by **nak** on Sat May 31st, 2008 09:13:54 AM
 
-The teddy bear represents the learned helplessness and comfort the Institution brings to their citizens, the piece screams how far are people willing to go for &quot;peace of mind&quot;?  How many more basic rights are people willing to give up?  The reason we use the computer cable is to describe how technology has been turned against us and what we once thought was a god send, is now strangling us.
+The teddy bear represents the learned helplessness and comfort the Institution brings to their citizens, the piece screams how far are people willing to go for "peace of mind"?  How many more basic rights are people willing to give up?  The reason we use the computer cable is to describe how technology has been turned against us and what we once thought was a god send, is now strangling us.
 
 That's not as good as I hoped, my artfag speech synthesizer isn't at full clock speed this morning.
 
@@ -72,9 +72,9 @@ Sorry, did I kill the thread?  <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gi
 Posted by **nak** on Sat June 14th, 2008 11:25:39 PM
 
 Oh no no, I just haven't done anything, my friend just made a stencil of his dad for fathers day:
-[img:2u886b5a]http&#58;//img233&#46;imageshack&#46;us/img233/9117/dscf1827uw1&#46;jpg[/img:2u886b5a]
+[img:2u886b5a]http://img233.imageshack.us/img233/9117/dscf1827uw1.jpg[/img:2u886b5a]
 
-I might sketch something out sometime, but I've been &quot;busy&quot; doing nothing lately, pretty crazy how that happens?
+I might sketch something out sometime, but I've been "busy" doing nothing lately, pretty crazy how that happens?
 
 --------------------------------------------------------------------------------
 

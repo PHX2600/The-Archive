@@ -21,6 +21,6 @@ have a great time and stay away from the naked hippies
 
 Posted by **nak** on Sat August 23rd, 2008 01:07:12 PM
 
-[quote=&quot;TerrorDrone&quot;:1vzxbzou]have a great time and stay away from the naked hippies[/quote:1vzxbzou]
+[quote="TerrorDrone":1vzxbzou]have a great time and stay away from the naked hippies[/quote:1vzxbzou]
 
 I can't run away from myself <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->

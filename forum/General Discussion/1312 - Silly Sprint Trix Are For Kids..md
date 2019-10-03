@@ -5,7 +5,7 @@ Hi all so spunk-tastic sprint holds a competition to harvest free commercial wor
 
 Don't worry about the voting and all that crap I just thought you guys might enjoy the clip.
 
-[url:23drlij9]http&#58;//now&#46;sprint&#46;com/e?AI52U1o1CuI[/url:23drlij9]
+<http://now.sprint.com/e?AI52U1o1CuI>
 
 --------------------------------------------------------------------------------
 

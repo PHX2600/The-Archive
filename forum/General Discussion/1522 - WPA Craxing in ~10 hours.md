@@ -11,7 +11,7 @@ Also ... wasn't sure where this kind of post belonged; move as appropriate pleas
 Posted by **nak** on Fri December 30th, 2011 02:11:44 PM
 
 Ok so I tried it out, expect an angry (or excited post at 1 AM)
-[url:1qlw598e]http&#58;//nakedproof&#46;blogspot&#46;com/2011/12/installing-reaver-12-on-ubuntu&#46;html[/url:1qlw598e]
+<http://nakedproof.blogspot.com/2011/12/installing-reaver-12-on-ubuntu.html>
 
 ~edit:
 I don't have injection support on any of my interfaces... I've never done a classy attack with packet injection... <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( -->

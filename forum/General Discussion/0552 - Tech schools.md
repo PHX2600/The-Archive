@@ -28,7 +28,7 @@ Bottom line, if you're easily bored of typical teachers trying to teach and are 
 
 Posted by **dxh** on Sat September 27th, 2008 12:34:30 AM
 
-I'd say it depends on the tech school.  I'd rank UAT just as high as I would any 4-year college, however, ITT Tech, well, not as much.  DeVry has been on the decline for a while now, and their basically squandering their tarnishing reputation for as long as they can until they can completely transform into a UoP knockoff.  After graduating from DeVry, I did have a small, but decent network of older DeVry alumni to forge connections with.  I got mixed views of the school's reputation from co-workers, half saying it was a challenging, fast-paced school, while the other half regarding it as an assembly line of rushed and incomplete education.  ITT/UoP/WIU were pretty much informly regarded as diploma mills everywhere I've worked, though.  Then there's Westwood College, where you can learn to program games with a controller.  [url=http&#58;//www&#46;youtube&#46;com/watch?v=7BkHt8ybWkg:172l86e6]That is leetsauce[/url:172l86e6].
+I'd say it depends on the tech school.  I'd rank UAT just as high as I would any 4-year college, however, ITT Tech, well, not as much.  DeVry has been on the decline for a while now, and their basically squandering their tarnishing reputation for as long as they can until they can completely transform into a UoP knockoff.  After graduating from DeVry, I did have a small, but decent network of older DeVry alumni to forge connections with.  I got mixed views of the school's reputation from co-workers, half saying it was a challenging, fast-paced school, while the other half regarding it as an assembly line of rushed and incomplete education.  ITT/UoP/WIU were pretty much informly regarded as diploma mills everywhere I've worked, though.  Then there's Westwood College, where you can learn to program games with a controller.  [url=http://www.youtube.com/watch?v=7BkHt8ybWkg:172l86e6]That is leetsauce>.
 
 I honestly do think Google has a filter in their job applicant queue against DeVry in particular.  Not a single person I know to have graduated from DeVry has ever even made it to a phone interview with them.
 
@@ -76,7 +76,7 @@ As long as you're not going to the Univerisity of Phoenix I think you're fine.  
 
 Posted by **Evil1** on Sun October 12th, 2008 08:12:53 PM
 
-[quote=&quot;Problem Child&quot;:2qiy2ilw]As long as you're not going to the University of Phoenix I think you're fine.  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->[/quote:2qiy2ilw]
+[quote="Problem Child":2qiy2ilw]As long as you're not going to the University of Phoenix I think you're fine.  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->[/quote:2qiy2ilw]
 I used to work there. Logic, our site admin has degrees from there and works there as well.....
 
 --------------------------------------------------------------------------------
@@ -134,11 +134,11 @@ Posted by **Nrezinorn** on Thu January 8th, 2009 05:51:46 PM
 *bump*
 
 UAT, UoP, Devry, Collins..
-I've been tainted with &quot;throwing&quot; away 60K into a degree from UAT.  There were a small hand full of teachers that were knowledgeable, but I'd have to say most of the classes were &quot;self-taught&quot; and the teacher didn't give a turd about your questions.
+I've been tainted with "throwing" away 60K into a degree from UAT.  There were a small hand full of teachers that were knowledgeable, but I'd have to say most of the classes were "self-taught" and the teacher didn't give a turd about your questions.
 
 I regret not doing CC before xfering.
 
-Don't get me started on the other schools, I've seen people get degrees from there and are dumb as a post.  Someone mentioned above about &quot;simply getting a programming degree and not understanding what is learned&quot;:  That pretty much sums up *most* programming jobs - I've known several people who quit jobs like that because the other SENIOR programmers had no idea what to do.
+Don't get me started on the other schools, I've seen people get degrees from there and are dumb as a post.  Someone mentioned above about "simply getting a programming degree and not understanding what is learned":  That pretty much sums up *most* programming jobs - I've known several people who quit jobs like that because the other SENIOR programmers had no idea what to do.
 
 Degree != a full understanding.
 
@@ -152,9 +152,9 @@ So... my experience with tech schools and higher education in general. :::sigh::
 
 The first thing is to know what you want and what you want to do in your a career. That was my first mistake about higher learning. It doesn't really matter where one goes to get the knowledge they seek as long as one knows what type of knowledge they want. A person should not spend 6 years at 2 year f**king CC! 
 
-With that out of the way, my advice is to pick the school that is right for you. Looking to become a SysAdmin? Maybe all you need is an AS degree from a community college. Looking to program? A BS degree from an **accredited** university will do the trick, one that might have an accelerated program if you're up to it. Supporting yourself or a family? Maybe you should look into online degrees in Software Engineering and have a portfolio of programs you made on your spare time. If all you want is to have the &quot;prestige&quot; :::snickering::: of working in IT, then just get a general BS degree, maybe in Lib Arts and/or have a cert and some experience in like PC repair under your belt. 
+With that out of the way, my advice is to pick the school that is right for you. Looking to become a SysAdmin? Maybe all you need is an AS degree from a community college. Looking to program? A BS degree from an **accredited** university will do the trick, one that might have an accelerated program if you're up to it. Supporting yourself or a family? Maybe you should look into online degrees in Software Engineering and have a portfolio of programs you made on your spare time. If all you want is to have the "prestige" :::snickering::: of working in IT, then just get a general BS degree, maybe in Lib Arts and/or have a cert and some experience in like PC repair under your belt. 
 
-For those considering the school option, the way NOT to do it is what I've done. Namely, going to school part time at a CC taking every class, not really choosing a program of study, wasting time paying out of pocket because of ignorance of financial aid options (&quot;lol, isn't financial aid for poor kids?&quot; DUMBASS!), and just going for higher education because its what everyone else is doing and a mind is terrible thing to waste. BAH! Don't do school my way.
+For those considering the school option, the way NOT to do it is what I've done. Namely, going to school part time at a CC taking every class, not really choosing a program of study, wasting time paying out of pocket because of ignorance of financial aid options ("lol, isn't financial aid for poor kids?" DUMBASS!), and just going for higher education because its what everyone else is doing and a mind is terrible thing to waste. BAH! Don't do school my way.
 
 Really I like to fix things. I'm damn good at it too and can tell anyone else with patience how to fix something. Fixing a PC is like a zen exercise to me and running a server farm would be like my dream job. But alas, here I am at 31 with shit to show for anything, let alone a dream job. I f**ked up on the way to an IT job (remind me - how the hell do I go from working on a Comp Sci degree to working on a Mech Eng Tech degree in 12 years? Just ask me that). Now with the economy in dire straits (it's gonna get worse boys and girls) I don't know if I can get an IT job. 
 

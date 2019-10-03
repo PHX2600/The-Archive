@@ -30,7 +30,7 @@ i know its not the 1337 hacker way but it prolly is your best bet to cover you a
 
 Posted by **TerrorDrone** on Wed June 10th, 2009 05:43:36 PM
 
-but then again [img:2usdok5z]http&#58;//www&#46;freewebs&#46;com/maverickinuyasha423/Messed%20up%20images%20lol/Barrel%20Rolls&#46;jpg[/img:2usdok5z]
+but then again [img:2usdok5z]http://www.freewebs.com/maverickinuyasha423/Messed%20up%20images%20lol/Barrel%20Rolls.jpg[/img:2usdok5z]
 
 --------------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ Posted by **TerrorDrone** on Wed June 10th, 2009 06:49:39 PM
 hey i gave you the best advice possible for your situation in an attempt to help you with a problem 
 what you do with said advice is your prerogative 
 but what you are seeking is illegal  
-[url:1dge6rm3]http&#58;//www&#46;phx2600&#46;org/forum/viewtopic&#46;php?f=4&amp;t=2[/url:1dge6rm3]
+<http://www.phx2600.org/forum/viewtopic.php?f=4&amp;t=2>
 see rule number 1
 
 i know i don't speak for everyone but i feel it is safe to say we are not criminals for hire
@@ -78,7 +78,7 @@ poetry
 
 Posted by **PHLAK** on Sat June 13th, 2009 09:20:22 PM
 
-Please don't post on this board asking for help &quot;hacking&quot; into someones email/facebook/computer/network/etc.  Consider this a warning.
+Please don't post on this board asking for help "hacking" into someones email/facebook/computer/network/etc.  Consider this a warning.
 
 Please research the definition of a hacker (vs a cracker) before making any more posts.... then do a barrel roll!
 
@@ -86,7 +86,7 @@ Please research the definition of a hacker (vs a cracker) before making any more
 
 Posted by **AltF4Warrior** on Sun June 21st, 2009 03:12:49 PM
 
-[img:yj0lfwxl]http&#58;//www&#46;halolz&#46;com/wp-content/uploads/2009/06/halolz-dot-com-pokemondiamondpearlplatinum-starfox-doabibarelroll&#46;jpg[/img:yj0lfwxl]
+[img:yj0lfwxl]http://www.halolz.com/wp-content/uploads/2009/06/halolz-dot-com-pokemondiamondpearlplatinum-starfox-doabibarelroll.jpg[/img:yj0lfwxl]
 
 Barrel Rolls are overrated. :p
 
@@ -94,7 +94,7 @@ Barrel Rolls are overrated. :p
 
 Posted by **fightgar** on Sun June 21st, 2009 04:56:54 PM
 
-[quote=&quot;AltF4Warrior&quot;:3sqcnxkg][img:3sqcnxkg]http&#58;//www&#46;halolz&#46;com/wp-content/uploads/2009/06/halolz-dot-com-pokemondiamondpearlplatinum-starfox-doabibarelroll&#46;jpg[/img:3sqcnxkg]
+[quote="AltF4Warrior":3sqcnxkg][img:3sqcnxkg]http://www.halolz.com/wp-content/uploads/2009/06/halolz-dot-com-pokemondiamondpearlplatinum-starfox-doabibarelroll.jpg[/img:3sqcnxkg]
 
 Barrel Rolls are overrated. :p[/quote:3sqcnxkg]
 

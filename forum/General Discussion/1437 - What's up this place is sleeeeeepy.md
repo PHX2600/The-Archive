@@ -27,7 +27,7 @@ I'm experimenting with reducing my sleep per day, primarily using micro-naps.  I
 
 Posted by **Rax** on Wed August 3rd, 2011 08:14:54 PM
 
-[quote=&quot;CultLeadr&quot;:1ouwzlzj]I'm experimenting with reducing my sleep per day...[/quote:1ouwzlzj]
+[quote="CultLeadr":1ouwzlzj]I'm experimenting with reducing my sleep per day...[/quote:1ouwzlzj]
 
 Polyphasic sleep? I started doing that as well, but my schedule wasn't very flexible.  I did like it, however...
 
@@ -41,9 +41,9 @@ Well, I just read one article on the subject of sleeping 5 hours and decided to 
 
 Posted by **nak** on Mon August 8th, 2011 11:12:47 PM
 
-[quote=&quot;GTKlondike&quot;:25mvv9n0]Well I've tried to post some stuff but I have to get admin approval or somethin's like that. I kinda left after checking this place for 2 weeks and not feeling any sort of social attitude. I'm only looking at this (and replying) because I saw some of my posts got approved.[/quote:25mvv9n0]
+[quote="GTKlondike":25mvv9n0]Well I've tried to post some stuff but I have to get admin approval or somethin's like that. I kinda left after checking this place for 2 weeks and not feeling any sort of social attitude. I'm only looking at this (and replying) because I saw some of my posts got approved.[/quote:25mvv9n0]
 
-Well shucks! Welcome friend!  Are you in the Phoenix area? I'll have to check around to see if you have an &quot;Hi, this is me and my introduction thread&quot; -- most members seem to have twitter accounts if you're into that sort of thing.
+Well shucks! Welcome friend!  Are you in the Phoenix area? I'll have to check around to see if you have an "Hi, this is me and my introduction thread" -- most members seem to have twitter accounts if you're into that sort of thing.
 
 The forums maybe locked down a bit to keep out spam-bots, talk to PHLAK about getting to post without admin approval (you seem pretty human to me so far <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) --> )
 
@@ -51,7 +51,7 @@ The forums maybe locked down a bit to keep out spam-bots, talk to PHLAK about ge
 
 Posted by **nak** on Mon August 8th, 2011 11:13:38 PM
 
-[quote=&quot;XlogicX&quot;:10a6j6gm]Not yet, just learning crap over here. I'd like to get good with perl still. May poke back into ASM again[/quote:10a6j6gm]
+[quote="XlogicX":10a6j6gm]Not yet, just learning crap over here. I'd like to get good with perl still. May poke back into ASM again[/quote:10a6j6gm]
 
 Yah, me too learning crap as well, Python instead of Perl and ASM is always going to be there wagging it's sexy tail
 
@@ -68,9 +68,9 @@ Posted by **XlogicX** on Sat September 3rd, 2011 03:00:37 AM
 @CultLeader; sleep paralysis is no fun, I've had it for over a decade now, and started getting it right after experimenting with sleep myself. However, I have noticed patterns that increase the likelihood of an episode (being that I've had paralysis several hundreds of times). There are 2 main things that will make it more likely that I will have an episode: sporadic sleep patterns, and sleeping in a high alert state.
 
 So, if I take some oddly timed naps, it's likely I'll get paralysis in one or all of them.
-If I fall asleep knowing that I need to wake up on short notice at any arbitrary time, or am sleeping when I know I shouldn't or something along those lines that I call &quot;paranoid mode,&quot; I am more likely to have an episode.
+If I fall asleep knowing that I need to wake up on short notice at any arbitrary time, or am sleeping when I know I shouldn't or something along those lines that I call "paranoid mode," I am more likely to have an episode.
 
-So, if I'm taking a &quot;forbidden nap,&quot; I pay.
+So, if I'm taking a "forbidden nap," I pay.
 
 However, I'm desensitized now, I have sleep paralysis for the lulz these days. I actually figured out strategies to stay in the nightmare of a state longer (the secret is to fight it; conversely, if you want to escape an episode, accept the state that you are in, don't fight).
 
@@ -86,7 +86,7 @@ Posted by **Valveritas** on Sun September 4th, 2011 11:24:09 AM
 
 Posted by **nak** on Mon September 5th, 2011 09:19:25 PM
 
-Funny how the conversation is all about sleep... this place [i:maokvzb5]really is[/i:maokvzb5] sleepy <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
+Funny how the conversation is all about sleep... this place _really is_ sleepy <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
 --------------------------------------------------------------------------------
 

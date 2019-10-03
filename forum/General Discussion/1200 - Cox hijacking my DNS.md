@@ -31,15 +31,15 @@ Posted by **PHLAK** on Fri January 29th, 2010 08:28:39 AM
 
 Google Public DNS  - 8.8.8.8, 8.8.4.4
 
-Just plug those into your router as static DNS. I hate relying on my ISP's DNS, it's always slow and goes down all the time.  If not Google, try [url:3sdx11mr]http&#58;//opendns&#46;org[/url:3sdx11mr].  Those are your two best options.
+Just plug those into your router as static DNS. I hate relying on my ISP's DNS, it's always slow and goes down all the time.  If not Google, try <http://opendns.org>.  Those are your two best options.
 
 --------------------------------------------------------------------------------
 
 Posted by **Automated Penguin** on Fri January 29th, 2010 02:47:30 PM
 
-[quote=&quot;PHLAK&quot;:ozdno9hw]Google Public DNS  - 8.8.8.8, 8.8.4.4
+[quote="PHLAK":ozdno9hw]Google Public DNS  - 8.8.8.8, 8.8.4.4
 
-Just plug those into your router as static DNS. I hate relying on my ISP's DNS, it's always slow and goes down all the time.  If not Google, try [url:ozdno9hw]http&#58;//opendns&#46;org[/url:ozdno9hw].  Those are your two best options.[/quote:ozdno9hw]
+Just plug those into your router as static DNS. I hate relying on my ISP's DNS, it's always slow and goes down all the time.  If not Google, try <http://opendns.org>.  Those are your two best options.[/quote:ozdno9hw]
 
 
 
@@ -55,7 +55,7 @@ I have used OpenDNS (<!-- m --><a class="postlink" href="http://www.opendns.com"
 
 Here are some others you could use, depending on context:
 
-current Cox cable (residential &amp; business):
+current Cox cable (residential  &amp;  business):
 68.105.28.16
 68.105.29.16
 

@@ -13,7 +13,7 @@ Naming critical systems after movie characters
 <!-- m --><a class="postlink" href="https://y">https://y</a><!-- m --> oda.y gnition.com/
 
 With an expired cert
-[img:18dq3mbe]https&#58;//getdual&#46;com/images/yoda_expired&#46;png[/img:18dq3mbe]
+[img:18dq3mbe]https://getdual.com/images/yoda_expired.png[/img:18dq3mbe]
 
 Allowing internal docs accessible to the net
 <!-- m --><a class="postlink" href="https://y">https://y</a><!-- m --> gnition.com/cc

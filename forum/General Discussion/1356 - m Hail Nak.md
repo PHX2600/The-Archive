@@ -32,9 +32,9 @@ Back on the Street
 
 Posted by **nak** on Fri December 24th, 2010 03:21:02 PM
 
-[quote=&quot;Automated Penguin&quot;:1enamj7f]Back on the Street[/quote:1enamj7f]
+[quote="Automated Penguin":1enamj7f]Back on the Street[/quote:1enamj7f]
 
-[img:1enamj7f]http&#58;//i&#46;imgur&#46;com/W8JvB&#46;jpg[/img:1enamj7f]
+[img:1enamj7f]http://i.imgur.com/W8JvB.jpg[/img:1enamj7f]
 
 --------------------------------------------------------------------------------
 
@@ -46,6 +46,6 @@ Wow. Brag-hole.  <!-- s:roll: --><img src="{SMILIES_PATH}/icon_rolleyes.gif" alt
 
 Posted by **dxh** on Sat December 25th, 2010 01:53:42 PM
 
-[quote=&quot;nak&quot;:1tzx0f3v]FPGA, Garnet OS, Treo 755P[/quote:1tzx0f3v]
+[quote="nak":1tzx0f3v]FPGA, Garnet OS, Treo 755P[/quote:1tzx0f3v]
 
-My N900 is interested in this Garnet OS: [url:1tzx0f3v]http&#58;//www&#46;youtube&#46;com/watch?v=BtVBZbMYW98[/url:1tzx0f3v]
+My N900 is interested in this Garnet OS: <http://www.youtube.com/watch?v=BtVBZbMYW98>

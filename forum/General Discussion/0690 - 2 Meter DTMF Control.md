@@ -5,7 +5,7 @@ Just some updates,
 
 Started working on a DTMF link for my radio with the ultimate goal of being able to place and receive calls on it, heres some video to please your eyes and brain.
 
-[url:34b8nbvx]http&#58;//www&#46;youtube&#46;com/watch?v=lTWlZLyo1lc[/url:34b8nbvx]
+<http://www.youtube.com/watch?v=lTWlZLyo1lc>
 
 this method could be used to control just about anything over the radio, get information, make phone calls, issue a command, use your imagination...
 
@@ -20,7 +20,7 @@ Awesome!
 Ideas:
 
 1) Text to speech program to read back things (google results, phone #'s, driving instructions...)
-2) Interface with skype seems like it would be the next step, good for outgoing calls from the handi talkie, just have to figure out an &quot;over&quot; system...
+2) Interface with skype seems like it would be the next step, good for outgoing calls from the handi talkie, just have to figure out an "over" system...
 3) Home automation
 
 MORE IDEAS

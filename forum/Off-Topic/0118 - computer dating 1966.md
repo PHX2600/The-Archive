@@ -1,7 +1,7 @@
 ## computer dating 1966!
 Posted by **taryn** on Thu June 12th, 2008 07:23:16 AM
 
-[url:2tgzyh1q]http&#58;//blog&#46;modernmechanix&#46;com/2008/04/08/boy-girl-computer/[/url:2tgzyh1q]
+<http://blog.modernmechanix.com/2008/04/08/boy-girl-computer/>
 
 matchmaking stuff
 

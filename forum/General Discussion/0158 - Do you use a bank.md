@@ -3,7 +3,7 @@ Posted by **PHLAK** on Sat July 26th, 2008 08:08:07 PM
 
 I just read the following article, and this scared the shit out of me for two reasons, 1) I use BofA, and 2) like most of you, I LIVE IN PHONENIX, AZ!!!
 
-[url:3rr1756q]http&#58;//www&#46;chris-hooley&#46;com/2008/07/24/howto-identity-theft/[/url:3rr1756q]
+<http://www.chris-hooley.com/2008/07/24/howto-identity-theft/>
 
 So this got me thinking, do you guys use banks, and if so what bank do you use?  Also, how much do you trust the bank that you use?  With the economy on a downward plunge, do you think we should start moving away from using banks, or do you think the FDIC insurance will cover you in the event of a bank crash?  Let's hear your thoughts?
 
@@ -21,7 +21,7 @@ Posted by **nak** on Sat July 26th, 2008 10:58:17 PM
 
 Yeah I saw that one the news, interesting.  Thank your fellow citizens for not living within their means, and thank the man for training people to get into debt.  A necessary cycle  <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P --> 
 
-I guess I have &gt;50% of my money in the bank, it's hard to say because stocks are sorta like money, but not really...Do you mean the alternative to having money in the bank would be either cold hard cash? or in equipment? commodities (gold/silver under your bed)?  Pretty weird question lol or could be worded with an example of money 'not in the bank'.
+I guess I have >50% of my money in the bank, it's hard to say because stocks are sorta like money, but not really...Do you mean the alternative to having money in the bank would be either cold hard cash? or in equipment? commodities (gold/silver under your bed)?  Pretty weird question lol or could be worded with an example of money 'not in the bank'.
 
 Anyway, FDIC is supposed to secure your money, if you believe in the dollar you believe in the FDIC.
 

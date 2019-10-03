@@ -1,4 +1,4 @@
-## 8 People Buy &quot;I Am Rich&quot; iPhone App For $1,000
+## 8 People Buy "I Am Rich" iPhone App For $1,000
 Posted by **Ghostshell** on Fri August 8th, 2008 11:42:26 AM
 
 <!-- m --><a class="postlink" href="http://entertainment.slashdot.org/article.pl?sid=08/08/08/1347212&amp;from=rss">http://entertainment.slashdot.org/artic ... 2&amp;from=rss</a><!-- m -->

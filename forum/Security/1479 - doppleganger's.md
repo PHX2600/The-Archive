@@ -11,137 +11,137 @@ Anyway, here's how our site turns up:
 
 [code:246epmf4]
 
-xlogicx@XlogicX-UD&#58;~/Desktop/urlcrazy-0&#46;4$ &#46;/urlcrazy www&#46;phx2600&#46;org
+xlogicx@XlogicX-UD:~/Desktop/urlcrazy-0.4$ ./urlcrazy www.phx2600.org
 URLCrazy Domainname Typo Report
-For       &#58; www&#46;phx2600&#46;org
-Keyboard  &#58; qwerty
-At        &#58; Sat Oct 22 01&#58;44&#58;55 -0700 2011
+For       : www.phx2600.org
+Keyboard  : qwerty
+At        : Sat Oct 22 01:44:55 -0700 2011
 
-# Please wait&#46; 122 hostnames to process
+# Please wait. 122 hostnames to process
 Typo Type              Typo                Pop     DNS-A           DNS-MX                 Extn  
 ------------------------------------------------------------------------------------------------
-Character Omission     ww&#46;phx2600&#46;org      44200   72&#46;215&#46;225&#46;9                           org   
-Character Omission     www&#46;hx2600&#46;org      13400   72&#46;215&#46;225&#46;9                           org   
-Character Omission     www&#46;ph2600&#46;org      14600   72&#46;215&#46;225&#46;9                           org   
-Character Omission     www&#46;phx200&#46;org      924     72&#46;215&#46;225&#46;9                           org   
-Character Omission     www&#46;phx260&#46;org      85      72&#46;215&#46;225&#46;9                           org   
-Character Omission     www&#46;phx600&#46;org      1090    72&#46;215&#46;225&#46;9                           org   
-Character Omission     www&#46;px2600&#46;org      1260    72&#46;215&#46;225&#46;9                           org   
-Character Omission     wwwphx2600&#46;org              72&#46;215&#46;225&#46;9                           org   
-Character Repeat       www&#46;phhx2600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Repeat       www&#46;phx22600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Repeat       www&#46;phx26000&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Repeat       www&#46;phx26600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Repeat       www&#46;phxx2600&#46;org    12600   72&#46;215&#46;225&#46;9                           org   
-Character Repeat       www&#46;pphx2600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Repeat       wwww&#46;phx2600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Swap         ww&#46;wphx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Swap         www&#46;hpx2600&#46;org     20      72&#46;215&#46;225&#46;9                           org   
-Character Swap         www&#46;ph2x600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Swap         www&#46;phx2060&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Swap         www&#46;phx6200&#46;org     68      72&#46;215&#46;225&#46;9                           org   
-Character Swap         www&#46;pxh2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Swap         wwwp&#46;hx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Replacement  eww&#46;phx2600&#46;org     190     72&#46;215&#46;225&#46;9                           org   
-Character Replacement  qww&#46;phx2600&#46;org     42700   72&#46;215&#46;225&#46;9                           org   
-Character Replacement  wew&#46;phx2600&#46;org     10900   72&#46;215&#46;225&#46;9                           org   
-Character Replacement  wqw&#46;phx2600&#46;org     42800   72&#46;215&#46;225&#46;9                           org   
-Character Replacement  wwe&#46;phx2600&#46;org     201     72&#46;215&#46;225&#46;9                           org   
-Character Replacement  wwq&#46;phx2600&#46;org     42700   72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;ohx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;pgx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phc2600&#46;org     86      72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phx1600&#46;org     107     72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phx2500&#46;org     71      72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phx26-0&#46;org     297     72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phx260-&#46;org     22      72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phx2609&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phx2690&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phx2700&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phx3600&#46;org     23      72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;phz2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Replacement  www&#46;pjx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Character Insertion    weww&#46;phx2600&#46;org    42700   72&#46;215&#46;225&#46;9                           org   
-Character Insertion    wqww&#46;phx2600&#46;org    44200   72&#46;215&#46;225&#46;9                           org   
-Character Insertion    wwew&#46;phx2600&#46;org    44300   72&#46;215&#46;225&#46;9                           org   
-Character Insertion    wwqw&#46;phx2600&#46;org    44200   72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phgx2600&#46;org    661     72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phjx2600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phx21600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phx23600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phx260-0&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phx2600-&#46;org    169000  72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phx26009&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phx26090&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phx26500&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phx26700&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phxc2600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;phxz2600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    www&#46;pohx2600&#46;org            72&#46;215&#46;225&#46;9                           org   
-Character Insertion    wwwe&#46;phx2600&#46;org    42800   72&#46;215&#46;225&#46;9                           org   
-Character Insertion    wwwq&#46;phx2600&#46;org    42700   72&#46;215&#46;225&#46;9                           org   
-Missing Dot            wwwwww&#46;phx2600&#46;org  42700   72&#46;215&#46;225&#46;9                           org   
-Singular or Pluralise  phx2600&#46;org         44400   96&#46;126&#46;115&#46;54   ASPMX&#46;L&#46;GOOGLE&#46;COM     org   
-Singular or Pluralise  phx2600s&#46;org        15400   72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           7ww&#46;phx2600&#46;org                                                    org   
-Bit Flipping           gww&#46;phx2600&#46;org     634     72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           sww&#46;phx2600&#46;org     4930    72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           uww&#46;phx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           vww&#46;phx2600&#46;org     42700   72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           w7w&#46;phx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wgw&#46;phx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wsw&#46;phx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wuw&#46;phx2600&#46;org     1900    72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wvw&#46;phx2600&#46;org     428     72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           ww7&#46;phx2600&#46;org     29      72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wwg&#46;phx2600&#46;org     789     72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wws&#46;phx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wwu&#46;phx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wwv&#46;phx2600&#46;org     1470    72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;0hx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;ph82600&#46;org     22      72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phh2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;php2600&#46;org     24900   72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx0600&#46;org     27      72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2200&#46;org     33      72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2400&#46;org     69      72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2601&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2602&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2604&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2608&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx260p&#46;org     59      72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2610&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2620&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2640&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2680&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx26p0&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx2v00&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phx6600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phxr600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;phy2600&#46;org     33      72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;pix2600&#46;org     288     72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;plx2600&#46;org     45      72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;pxx2600&#46;org     30600   72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;qhx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;rhx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;thx2600&#46;org     156     72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           www&#46;xhx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Bit Flipping           wwwnphx2600&#46;org             72&#46;215&#46;225&#46;9                           org   
-Wrong TLD              phx2600&#46;ca          45400   72&#46;215&#46;225&#46;9                           ca    
-Wrong TLD              phx2600&#46;ch          43900   72&#46;215&#46;225&#46;9                           ch    
-Wrong TLD              phx2600&#46;com         132     64&#46;202&#46;189&#46;170  smtp&#46;secureserver&#46;net  com   
-Wrong TLD              phx2600&#46;de          44000   72&#46;215&#46;225&#46;9                           de    
-Wrong TLD              phx2600&#46;edu         48000   72&#46;215&#46;225&#46;9                           edu   
-Wrong TLD              phx2600&#46;es          45300   72&#46;215&#46;225&#46;9                           es    
-Wrong TLD              phx2600&#46;fr          44000   72&#46;215&#46;225&#46;9                           fr    
-Wrong TLD              phx2600&#46;it          48100   72&#46;215&#46;225&#46;9                           it    
-Wrong TLD              phx2600&#46;jp          43900   72&#46;215&#46;225&#46;9                           jp    
-Wrong TLD              phx2600&#46;net         77      72&#46;215&#46;225&#46;9                           net   
-Wrong TLD              phx2600&#46;nl          45400   72&#46;215&#46;225&#46;9                           nl    
-Wrong TLD              phx2600&#46;no                  72&#46;215&#46;225&#46;9                           no    
-Wrong TLD              phx2600&#46;ru          43900   72&#46;215&#46;225&#46;9                           ru    
-Wrong TLD              phx2600&#46;se                  72&#46;215&#46;225&#46;9                           se    
-Wrong TLD              phx2600&#46;us                  72&#46;215&#46;225&#46;9                           us    
+Character Omission     ww.phx2600.org      44200   72.215.225.9                           org   
+Character Omission     www.hx2600.org      13400   72.215.225.9                           org   
+Character Omission     www.ph2600.org      14600   72.215.225.9                           org   
+Character Omission     www.phx200.org      924     72.215.225.9                           org   
+Character Omission     www.phx260.org      85      72.215.225.9                           org   
+Character Omission     www.phx600.org      1090    72.215.225.9                           org   
+Character Omission     www.px2600.org      1260    72.215.225.9                           org   
+Character Omission     wwwphx2600.org              72.215.225.9                           org   
+Character Repeat       www.phhx2600.org            72.215.225.9                           org   
+Character Repeat       www.phx22600.org            72.215.225.9                           org   
+Character Repeat       www.phx26000.org            72.215.225.9                           org   
+Character Repeat       www.phx26600.org            72.215.225.9                           org   
+Character Repeat       www.phxx2600.org    12600   72.215.225.9                           org   
+Character Repeat       www.pphx2600.org            72.215.225.9                           org   
+Character Repeat       wwww.phx2600.org            72.215.225.9                           org   
+Character Swap         ww.wphx2600.org             72.215.225.9                           org   
+Character Swap         www.hpx2600.org     20      72.215.225.9                           org   
+Character Swap         www.ph2x600.org             72.215.225.9                           org   
+Character Swap         www.phx2060.org             72.215.225.9                           org   
+Character Swap         www.phx6200.org     68      72.215.225.9                           org   
+Character Swap         www.pxh2600.org             72.215.225.9                           org   
+Character Swap         wwwp.hx2600.org             72.215.225.9                           org   
+Character Replacement  eww.phx2600.org     190     72.215.225.9                           org   
+Character Replacement  qww.phx2600.org     42700   72.215.225.9                           org   
+Character Replacement  wew.phx2600.org     10900   72.215.225.9                           org   
+Character Replacement  wqw.phx2600.org     42800   72.215.225.9                           org   
+Character Replacement  wwe.phx2600.org     201     72.215.225.9                           org   
+Character Replacement  wwq.phx2600.org     42700   72.215.225.9                           org   
+Character Replacement  www.ohx2600.org             72.215.225.9                           org   
+Character Replacement  www.pgx2600.org             72.215.225.9                           org   
+Character Replacement  www.phc2600.org     86      72.215.225.9                           org   
+Character Replacement  www.phx1600.org     107     72.215.225.9                           org   
+Character Replacement  www.phx2500.org     71      72.215.225.9                           org   
+Character Replacement  www.phx26-0.org     297     72.215.225.9                           org   
+Character Replacement  www.phx260-.org     22      72.215.225.9                           org   
+Character Replacement  www.phx2609.org             72.215.225.9                           org   
+Character Replacement  www.phx2690.org             72.215.225.9                           org   
+Character Replacement  www.phx2700.org             72.215.225.9                           org   
+Character Replacement  www.phx3600.org     23      72.215.225.9                           org   
+Character Replacement  www.phz2600.org             72.215.225.9                           org   
+Character Replacement  www.pjx2600.org             72.215.225.9                           org   
+Character Insertion    weww.phx2600.org    42700   72.215.225.9                           org   
+Character Insertion    wqww.phx2600.org    44200   72.215.225.9                           org   
+Character Insertion    wwew.phx2600.org    44300   72.215.225.9                           org   
+Character Insertion    wwqw.phx2600.org    44200   72.215.225.9                           org   
+Character Insertion    www.phgx2600.org    661     72.215.225.9                           org   
+Character Insertion    www.phjx2600.org            72.215.225.9                           org   
+Character Insertion    www.phx21600.org            72.215.225.9                           org   
+Character Insertion    www.phx23600.org            72.215.225.9                           org   
+Character Insertion    www.phx260-0.org            72.215.225.9                           org   
+Character Insertion    www.phx2600-.org    169000  72.215.225.9                           org   
+Character Insertion    www.phx26009.org            72.215.225.9                           org   
+Character Insertion    www.phx26090.org            72.215.225.9                           org   
+Character Insertion    www.phx26500.org            72.215.225.9                           org   
+Character Insertion    www.phx26700.org            72.215.225.9                           org   
+Character Insertion    www.phxc2600.org            72.215.225.9                           org   
+Character Insertion    www.phxz2600.org            72.215.225.9                           org   
+Character Insertion    www.pohx2600.org            72.215.225.9                           org   
+Character Insertion    wwwe.phx2600.org    42800   72.215.225.9                           org   
+Character Insertion    wwwq.phx2600.org    42700   72.215.225.9                           org   
+Missing Dot            wwwwww.phx2600.org  42700   72.215.225.9                           org   
+Singular or Pluralise  phx2600.org         44400   96.126.115.54   ASPMX.L.GOOGLE.COM     org   
+Singular or Pluralise  phx2600s.org        15400   72.215.225.9                           org   
+Bit Flipping           7ww.phx2600.org                                                    org   
+Bit Flipping           gww.phx2600.org     634     72.215.225.9                           org   
+Bit Flipping           sww.phx2600.org     4930    72.215.225.9                           org   
+Bit Flipping           uww.phx2600.org             72.215.225.9                           org   
+Bit Flipping           vww.phx2600.org     42700   72.215.225.9                           org   
+Bit Flipping           w7w.phx2600.org             72.215.225.9                           org   
+Bit Flipping           wgw.phx2600.org             72.215.225.9                           org   
+Bit Flipping           wsw.phx2600.org             72.215.225.9                           org   
+Bit Flipping           wuw.phx2600.org     1900    72.215.225.9                           org   
+Bit Flipping           wvw.phx2600.org     428     72.215.225.9                           org   
+Bit Flipping           ww7.phx2600.org     29      72.215.225.9                           org   
+Bit Flipping           wwg.phx2600.org     789     72.215.225.9                           org   
+Bit Flipping           wws.phx2600.org             72.215.225.9                           org   
+Bit Flipping           wwu.phx2600.org             72.215.225.9                           org   
+Bit Flipping           wwv.phx2600.org     1470    72.215.225.9                           org   
+Bit Flipping           www.0hx2600.org             72.215.225.9                           org   
+Bit Flipping           www.ph82600.org     22      72.215.225.9                           org   
+Bit Flipping           www.phh2600.org             72.215.225.9                           org   
+Bit Flipping           www.php2600.org     24900   72.215.225.9                           org   
+Bit Flipping           www.phx0600.org     27      72.215.225.9                           org   
+Bit Flipping           www.phx2200.org     33      72.215.225.9                           org   
+Bit Flipping           www.phx2400.org     69      72.215.225.9                           org   
+Bit Flipping           www.phx2601.org             72.215.225.9                           org   
+Bit Flipping           www.phx2602.org             72.215.225.9                           org   
+Bit Flipping           www.phx2604.org             72.215.225.9                           org   
+Bit Flipping           www.phx2608.org             72.215.225.9                           org   
+Bit Flipping           www.phx260p.org     59      72.215.225.9                           org   
+Bit Flipping           www.phx2610.org             72.215.225.9                           org   
+Bit Flipping           www.phx2620.org             72.215.225.9                           org   
+Bit Flipping           www.phx2640.org             72.215.225.9                           org   
+Bit Flipping           www.phx2680.org             72.215.225.9                           org   
+Bit Flipping           www.phx26p0.org             72.215.225.9                           org   
+Bit Flipping           www.phx2v00.org             72.215.225.9                           org   
+Bit Flipping           www.phx6600.org             72.215.225.9                           org   
+Bit Flipping           www.phxr600.org             72.215.225.9                           org   
+Bit Flipping           www.phy2600.org     33      72.215.225.9                           org   
+Bit Flipping           www.pix2600.org     288     72.215.225.9                           org   
+Bit Flipping           www.plx2600.org     45      72.215.225.9                           org   
+Bit Flipping           www.pxx2600.org     30600   72.215.225.9                           org   
+Bit Flipping           www.qhx2600.org             72.215.225.9                           org   
+Bit Flipping           www.rhx2600.org             72.215.225.9                           org   
+Bit Flipping           www.thx2600.org     156     72.215.225.9                           org   
+Bit Flipping           www.xhx2600.org             72.215.225.9                           org   
+Bit Flipping           wwwnphx2600.org             72.215.225.9                           org   
+Wrong TLD              phx2600.ca          45400   72.215.225.9                           ca    
+Wrong TLD              phx2600.ch          43900   72.215.225.9                           ch    
+Wrong TLD              phx2600.com         132     64.202.189.170  smtp.secureserver.net  com   
+Wrong TLD              phx2600.de          44000   72.215.225.9                           de    
+Wrong TLD              phx2600.edu         48000   72.215.225.9                           edu   
+Wrong TLD              phx2600.es          45300   72.215.225.9                           es    
+Wrong TLD              phx2600.fr          44000   72.215.225.9                           fr    
+Wrong TLD              phx2600.it          48100   72.215.225.9                           it    
+Wrong TLD              phx2600.jp          43900   72.215.225.9                           jp    
+Wrong TLD              phx2600.net         77      72.215.225.9                           net   
+Wrong TLD              phx2600.nl          45400   72.215.225.9                           nl    
+Wrong TLD              phx2600.no                  72.215.225.9                           no    
+Wrong TLD              phx2600.ru          43900   72.215.225.9                           ru    
+Wrong TLD              phx2600.se                  72.215.225.9                           se    
+Wrong TLD              phx2600.us                  72.215.225.9                           us    
 
 [/code:246epmf4]
 
@@ -163,9 +163,9 @@ Anyway I heard about those attacks as well, quite clever and entertaining.
 
 Posted by **PHLAK** on Tue November 1st, 2011 10:48:47 AM
 
-72.215.225.9 is just Cox's &quot;page not found&quot; proxy.  Whenever you hit a site that doesn't exist, Cox may intercept this and show you a page with sponsored links like this:
+72.215.225.9 is just Cox's "page not found" proxy.  Whenever you hit a site that doesn't exist, Cox may intercept this and show you a page with sponsored links like this:
 
-[url=http&#58;//dl&#46;dropbox&#46;com/u/785103/Screenshots/permalinks/225838&#46;png:1zrte3pv][img:1zrte3pv]http&#58;//dl&#46;dropbox&#46;com/u/785103/Screenshots/permalinks/225838_640&#46;png[/img:1zrte3pv][/url:1zrte3pv]
+[url=http://dl.dropbox.com/u/785103/Screenshots/permalinks/225838.png:1zrte3pv][img:1zrte3pv]http://dl.dropbox.com/u/785103/Screenshots/permalinks/225838_640.png[/img:1zrte3pv]>
 
 So it appears that every domain in that list other than phx2600.org and phx2600.com are not in use.
 

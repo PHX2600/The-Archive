@@ -13,4 +13,4 @@ Posted by **PHLAK** on Thu June 25th, 2009 12:08:49 AM
 
 MCP = Master Control Program?
 
-[img:4e2cxrxa]http&#58;//images1&#46;wikia&#46;nocookie&#46;net/kingdomhearts/images/thumb/f/f4/Master_control_program&#46;jpg/300px-Master_control_program&#46;jpg[/img:4e2cxrxa]
+[img:4e2cxrxa]http://images1.wikia.nocookie.net/kingdomhearts/images/thumb/f/f4/Master_control_program.jpg/300px-Master_control_program.jpg[/img:4e2cxrxa]

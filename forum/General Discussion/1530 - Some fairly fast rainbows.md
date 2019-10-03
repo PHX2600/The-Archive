@@ -12,7 +12,7 @@ News article about it:
 Posted by **Junker** on Wed January 11th, 2012 01:48:23 AM
 
 Honestly that's about the same speed I am getting off of magnetic media with a modest RAID array. I recommend anyone that has a spare TB or so to grab the NTLM rainbow table for yourself and try it out. 
-Can get NTLM(879 GB) here: [url:cvj8wj44]http&#58;//www&#46;freerainbowtables&#46;com/tables/[/url:cvj8wj44]
+Can get NTLM(879 GB) here: <http://www.freerainbowtables.com/tables/>
 There are also links to LM, MD5, SHA1, and HALFLMCHALL tables.
 
 --------------------------------------------------------------------------------
@@ -31,6 +31,6 @@ Thank you haven't seen the local scene for about 15 years now, got curious on ho
 
 Posted by **Automated Penguin** on Wed January 11th, 2012 02:02:13 PM
 
-[img:3fmei36k]http&#58;//images&#46;wikia&#46;com/mlp/images/6/60/Rainbow_dash_S01E13&#46;png[/img:3fmei36k]
+[img:3fmei36k]http://images.wikia.com/mlp/images/6/60/Rainbow_dash_S01E13.png[/img:3fmei36k]
 
 Fast Rainbows.

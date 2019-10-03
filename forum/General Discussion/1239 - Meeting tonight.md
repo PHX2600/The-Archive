@@ -13,7 +13,7 @@ See you there.
 
 Posted by **dxh** on Sat May 15th, 2010 06:32:13 PM
 
-[quote=&quot;Automated Penguin&quot;:16n9kkcm]HSL (<!-- m --><a class="postlink" href="http://www.heatsynclabs.org/">http://www.heatsynclabs.org/</a><!-- m -->) meeting tonight.
+[quote="Automated Penguin":16n9kkcm]HSL (<!-- m --><a class="postlink" href="http://www.heatsynclabs.org/">http://www.heatsynclabs.org/</a><!-- m -->) meeting tonight.
 
 Any takers?
 
@@ -23,4 +23,4 @@ See you there.[/quote:16n9kkcm]
 
 Actually its in Chandler, but close enough to Gilbert to legitimize a visit to the e61 espresso bar at Liberty Market. :9
 
-I missed out on this one, due to Idaho, but I heard there was much papercrafting and [url=http&#58;//www&#46;flickr&#46;com/photos/teamdroid/4586716486/in/pool-heatsynclabs:16n9kkcm]hexapod robots[/url:16n9kkcm] to be had.
+I missed out on this one, due to Idaho, but I heard there was much papercrafting and [url=http://www.flickr.com/photos/teamdroid/4586716486/in/pool-heatsynclabs:16n9kkcm]hexapod robots> to be had.

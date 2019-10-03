@@ -11,13 +11,13 @@ Agreed. I updated meeting history for this last month and plan to keep up on tha
 
 As far as pictures, if nobody is taking any, I will try to take some more.
 
-As far as the shirt: [url:3b9db6ji]http&#58;//shop&#46;cafepress&#46;com/phoenix-2600[/url:3b9db6ji]
+As far as the shirt: <http://shop.cafepress.com/phoenix-2600>
 
 --------------------------------------------------------------------------------
 
 Posted by **PHLAK** on Mon August 11th, 2008 04:20:45 PM
 
-Do we want to update the shirt with [b:2xeg4ify]PHX2600.ORG[/b:2xeg4ify] logo rather than .com?
+Do we want to update the shirt with **PHX2600.ORG** logo rather than .com?
 
 Just a thought, we don't have to, .com redirects to .org anyway.
 

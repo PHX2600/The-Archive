@@ -3,7 +3,7 @@ Posted by **AltF4** on Fri June 8th, 2012 09:04:37 PM
 
 Dudes! I got accepted to talk at both Defcon and Hope!!! So epic!
 
-I'll be talking about Nova ([url:3a569vez]https&#58;//github&#46;com/DataSoft/Nova[/url:3a569vez]) and network anti-reconnaissance generally. For those who were there, it will be similar to the BSides talk I gave. But more epic. At Defcon, I'll be doing a 20 time slot talk on Thursday. But Hope is one of their regular slots. 
+I'll be talking about Nova (<https://github.com/DataSoft/Nova>) and network anti-reconnaissance generally. For those who were there, it will be similar to the BSides talk I gave. But more epic. At Defcon, I'll be doing a 20 time slot talk on Thursday. But Hope is one of their regular slots. 
 
 With Logic also doing a Hope talk, the Phx2600 will have good representation around the conference circuit this year!
 
@@ -33,15 +33,15 @@ Posted by **XlogicX** on Sat June 23rd, 2012 10:24:28 PM
 
 Hey ALTF4, what time/room slot did you get?
 
-I got 4pm on Sunday in the &quot;Dennis&quot; room, not sure how to take that...&quot;Dennis,&quot; I wonder what the reference is. Last time it was easier names like Tesla, Babbage, and Lovelace (Or something like that).
+I got 4pm on Sunday in the "Dennis" room, not sure how to take that..."Dennis," I wonder what the reference is. Last time it was easier names like Tesla, Babbage, and Lovelace (Or something like that).
 
 --------------------------------------------------------------------------------
 
 Posted by **nak** on Sun June 24th, 2012 09:23:23 PM
 
-[quote=&quot;XlogicX&quot;:27lhwzmo]Hey ALTF4, what time/room slot did you get?
+[quote="XlogicX":27lhwzmo]Hey ALTF4, what time/room slot did you get?
 
-I got 4pm on Sunday in the &quot;Dennis&quot; room, not sure how to take that...&quot;Dennis,&quot; I wonder what the reference is. Last time it was easier names like Tesla, Babbage, and Lovelace (Or something like that).[/quote:27lhwzmo]
+I got 4pm on Sunday in the "Dennis" room, not sure how to take that..."Dennis," I wonder what the reference is. Last time it was easier names like Tesla, Babbage, and Lovelace (Or something like that).[/quote:27lhwzmo]
 
 <!-- m --><a class="postlink" href="https://en.wikipedia.org/wiki/Dennis_Ritchie">https://en.wikipedia.org/wiki/Dennis_Ritchie</a><!-- m -->
 ?? maybe? Dead programmers?
@@ -76,7 +76,7 @@ Posted by **AltF4** on Tue July 3rd, 2012 05:32:15 PM
 
 Thanks guys!!
 
-1) HOPE rooms are named after &quot;famous persons who have demonstrated the hacker spirit.&quot;
+1) HOPE rooms are named after "famous persons who have demonstrated the hacker spirit."
 <!-- m --><a class="postlink" href="http://www.hopenumbernine.net/schedule/presentation-rooms-at-hope-number-nine/">http://www.hopenumbernine.net/schedule/ ... mber-nine/</a><!-- m -->
 
 2) For HOPE, I will be in room Nutt on Friday at noon:

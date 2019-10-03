@@ -15,6 +15,6 @@ Well, I've not yet had to reformat my cellphone in order to get it to work, and 
 
 Posted by **PHLAK** on Mon September 8th, 2008 10:20:00 PM
 
-[quote=&quot;zaphraud&quot;:2ci431ys]Well, I've not yet had to reformat my cellphone in order to get it to work, and I'm not eager to hasten the day this task becomes necessary.[/quote:2ci431ys]
+[quote="zaphraud":2ci431ys]Well, I've not yet had to reformat my cellphone in order to get it to work, and I'm not eager to hasten the day this task becomes necessary.[/quote:2ci431ys]
 
 LOL!  That's a good point.

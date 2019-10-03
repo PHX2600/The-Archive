@@ -11,4 +11,4 @@ Posted by **tprime** on Fri September 14th, 2012 08:04:09 PM
 
 I am planning on organizing this with several other UAT students. I am entirely open to suggestions on content, location, etc. UAT would be a good place since it is spacious and available with big screens, etc.
 
-[img:d52h2p78]https&#58;//p&#46;twimg&#46;com/A1EFT7KCQAATeXE&#46;jpg[/img:d52h2p78]
+[img:d52h2p78]https://p.twimg.com/A1EFT7KCQAATeXE.jpg[/img:d52h2p78]

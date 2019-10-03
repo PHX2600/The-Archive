@@ -25,7 +25,7 @@ Yep I'll try and make it.
 
 Posted by **Ugly** on Mon February 14th, 2011 10:57:35 PM
 
-For the life of me, I keep parsing this thread as [url=http&#58;//en&#46;wikipedia&#46;org/wiki/Key_party:2c4tipo6]Key Party[/url:2c4tipo6]
+For the life of me, I keep parsing this thread as [url=http://en.wikipedia.org/wiki/Key_party:2c4tipo6]Key Party>
 
 Very different
 
@@ -33,7 +33,7 @@ Very different
 
 Posted by **fightgar** on Fri March 4th, 2011 10:50:26 AM
 
-[quote=&quot;Ugly&quot;:349h0uvb]For the life of me, I keep parsing this thread as [url=http&#58;//en&#46;wikipedia&#46;org/wiki/Key_party:349h0uvb]Key Party[/url:349h0uvb]
+[quote="Ugly":349h0uvb]For the life of me, I keep parsing this thread as [url=http://en.wikipedia.org/wiki/Key_party:349h0uvb]Key Party>
 
 Very different[/quote:349h0uvb]
 

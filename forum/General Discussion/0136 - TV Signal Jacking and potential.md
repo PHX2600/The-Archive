@@ -20,7 +20,7 @@ Posted by **nak** on Fri July 4th, 2008 08:55:42 AM
 
 I never heard of that first video, very cool.
 Would this be considered cracking/cyber crime? lol.
-Anyway, I made a post about [url=http&#58;//www&#46;phx2600&#46;org/forum2/viewtopic&#46;php?f=13&amp;t=31:145cgjpd]gnu radio and the USRP[/url:145cgjpd]
+Anyway, I made a post about [url=http://www.phx2600.org/forum2/viewtopic.php?f=13&amp;t=31:145cgjpd]gnu radio and the USRP>
 
 It would be possible to mess with (hijack) digital TV signals with some know how, probably a lot of reading and programming and reversing the signals coming in.
 

@@ -25,7 +25,7 @@ Posted by **Ugly** on Mon August 17th, 2009 05:23:23 AM
 
 Where have I seen this posted before...
 
-[url:7sbovfr0]http&#58;//www&#46;phx2600&#46;org/forum-archive/viewtopic&#46;php?t=1362[/url:7sbovfr0]
+<http://www.phx2600.org/forum-archive/viewtopic.php?t=1362>
 
 hmm...
 
@@ -87,7 +87,7 @@ nice pics, I don't know whats happening in my pants right now... I think I'm goi
 
 Posted by **TerrorDrone** on Tue August 18th, 2009 02:23:50 PM
 
-[quote=&quot;nak&quot;:3mrkiiwh]nice pics, I don't know whats happening in my pants right now... I think I'm going through puberty  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? -->[/quote:3mrkiiwh]
+[quote="nak":3mrkiiwh]nice pics, I don't know whats happening in my pants right now... I think I'm going through puberty  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? -->[/quote:3mrkiiwh]
 congrats
 
 --------------------------------------------------------------------------------
@@ -100,7 +100,7 @@ So, who is going to be at the meeting.
 
 Posted by **Konshu** on Mon August 24th, 2009 05:34:37 PM
 
-[quote=&quot;nak&quot;:28s0i73e]nice pics, I don't know whats happening in my pants right now... I think I'm going through puberty  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? -->[/quote:28s0i73e]
+[quote="nak":28s0i73e]nice pics, I don't know whats happening in my pants right now... I think I'm going through puberty  <!-- s:? --><img src="{SMILIES_PATH}/icon_e_confused.gif" alt=":?" title="Confused" /><!-- s:? -->[/quote:28s0i73e]
 
 Quoted this for pure epic post.
 
@@ -136,7 +136,7 @@ Any image format will work but if its a lossy format ( jpg, etc. ) that has blur
 
 Posted by **PHLAK** on Wed August 26th, 2009 09:18:21 PM
 
-[img:3ct0td1k]http&#58;//www&#46;chriskankiewicz&#46;com/documents/phx2600/Phx2600_Logo&#46;png[/img:3ct0td1k]
+[img:3ct0td1k]http://www.chriskankiewicz.com/documents/phx2600/Phx2600_Logo.png[/img:3ct0td1k]
 
 --------------------------------------------------------------------------------
 
@@ -166,7 +166,7 @@ Posted by **t0rX** on Thu August 27th, 2009 01:50:17 AM
 
 Peng.. we can just wear the pcbs as badges.. 
 
-[img:3vb9mffi]http&#58;//img357&#46;imageshack&#46;us/img357/3269/flavbadges&#46;png[/img:3vb9mffi]
+[img:3vb9mffi]http://img357.imageshack.us/img357/3269/flavbadges.png[/img:3vb9mffi]
 
 --------------------------------------------------------------------------------
 
@@ -197,7 +197,7 @@ Having them as a badge sounds cool too, but I'm not so sure Penguin has the reso
 
 Posted by **Automated Penguin** on Fri August 28th, 2009 09:01:29 AM
 
-[quote=&quot;XlogicX&quot;:27b7c1fl]I would like to 2nd the proposal of a mass (to a reasonable degree) amount of the phx2600 logo boards, and I want dibs on one (of course).
+[quote="XlogicX":27b7c1fl]I would like to 2nd the proposal of a mass (to a reasonable degree) amount of the phx2600 logo boards, and I want dibs on one (of course).
 
 Having them as a badge sounds cool too, but I'm not so sure Penguin has the resources for something like that amount.[/quote:27b7c1fl]
 
@@ -225,7 +225,7 @@ sweet
 
 Posted by **PHLAK** on Fri August 28th, 2009 07:59:52 PM
 
-[quote=&quot;Ugly&quot;:1xc4teww]So instead of badges we get PHX2600 keychains[/quote:1xc4teww]
+[quote="Ugly":1xc4teww]So instead of badges we get PHX2600 keychains[/quote:1xc4teww]
 
 I'm down with a keychain-sized one.  Also, dibs on 2 (the wife and I) for the idea of using the logo!
 
@@ -239,9 +239,9 @@ I was thinking this could be way more awesome if we turn that logo into an actua
 
 Anyone else interested in that? or do we just want to keep it like it is?
 
-Here's a pre-run of how its gonna look, the &quot;pittedness&quot; of the solid regions comes from an inherent flaw in toner transfer that is toner is basically porous at the microscopic level, also I failed to mirror the image D: Don't mind my gross fingers.
+Here's a pre-run of how its gonna look, the "pittedness" of the solid regions comes from an inherent flaw in toner transfer that is toner is basically porous at the microscopic level, also I failed to mirror the image D: Don't mind my gross fingers.
 
-[img:25omwas7]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/p26kboard/IMG_1367s&#46;JPG[/img:25omwas7]
+[img:25omwas7]http://www.public.asu.edu/~cbock/p26kboard/IMG_1367s.JPG[/img:25omwas7]
 
 Larger versions:
 <!-- m --><a class="postlink" href="http://www.public.asu.edu/~cbock/p26kboard/">http://www.public.asu.edu/~cbock/p26kboard/</a><!-- m -->
@@ -319,7 +319,7 @@ That. Is so. Cool!
 
 Posted by **PHLAK** on Sat August 29th, 2009 09:57:47 PM
 
-[quote=&quot;taryn&quot;:3i0o2ymy]That. Is so. Cool![/quote:3i0o2ymy]
+[quote="taryn":3i0o2ymy]That. Is so. Cool![/quote:3i0o2ymy]
 
 But are you going to ACTUALLY be at this meeting?  Myself, the wife and Breach (the baby's handle if you didn't already know) will be there.
 
@@ -327,7 +327,7 @@ But are you going to ACTUALLY be at this meeting?  Myself, the wife and Breach (
 
 Posted by **Automated Penguin** on Sat August 29th, 2009 10:31:15 PM
 
-[img:b031ze4m]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/p26kboard/IMG_1376s&#46;JPG[/img:b031ze4m]
+[img:b031ze4m]http://www.public.asu.edu/~cbock/p26kboard/IMG_1376s.JPG[/img:b031ze4m]
 
 Do want?
 
@@ -345,7 +345,7 @@ Larger Images:
 
 Posted by **taryn** on Sun August 30th, 2009 12:58:36 AM
 
-[quote=&quot;PHLAK&quot;:2cthxa8n][quote=&quot;taryn&quot;:2cthxa8n]That. Is so. Cool![/quote:2cthxa8n]
+[quote="PHLAK":2cthxa8n][quote="taryn":2cthxa8n]That. Is so. Cool![/quote:2cthxa8n]
 
 But are you going to ACTUALLY be at this meeting?  Myself, the wife and Breach (the baby's handle if you didn't already know) will be there.[/quote:2cthxa8n]
 I hope so! In August Jason was sick, in July we had friends over, we actually attended in June but there weren't many people there. At the June meeting Jargon let David fuck around with his laptop. <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
@@ -373,13 +373,13 @@ hey penguin can you post the cad file i would like to play around with it and se
 
 Posted by **dxh** on Sun August 30th, 2009 09:15:01 PM
 
-[quote=&quot;Automated Penguin&quot;:2r7rlyoo]I was thinking this could be way more awesome if we turn that logo into an actual breakout board for SOMETHING or at least some through holes like a perf-board.
+[quote="Automated Penguin":2r7rlyoo]I was thinking this could be way more awesome if we turn that logo into an actual breakout board for SOMETHING or at least some through holes like a perf-board.
 
 Anyone else interested in that? or do we just want to keep it like it is?
 
-Here's a pre-run of how its gonna look, the &quot;pittedness&quot; of the solid regions comes from an inherent flaw in toner transfer that is toner is basically porous at the microscopic level, also I failed to mirror the image D: Don't mind my gross fingers.
+Here's a pre-run of how its gonna look, the "pittedness" of the solid regions comes from an inherent flaw in toner transfer that is toner is basically porous at the microscopic level, also I failed to mirror the image D: Don't mind my gross fingers.
 
-[img:2r7rlyoo]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/p26kboard/IMG_1367s&#46;JPG[/img:2r7rlyoo]
+[img:2r7rlyoo]http://www.public.asu.edu/~cbock/p26kboard/IMG_1367s.JPG[/img:2r7rlyoo]
 
 Larger versions:
 <!-- m --><a class="postlink" href="http://www.public.asu.edu/~cbock/p26kboard/">http://www.public.asu.edu/~cbock/p26kboard/</a><!-- m -->[/quote:2r7rlyoo]
@@ -390,7 +390,7 @@ I like it, although I noticed the text was mirrored backwards, and its Comic San
 
 Posted by **dxh** on Sun August 30th, 2009 09:22:52 PM
 
-[quote=&quot;Automated Penguin&quot;:1mtu09qy][img:1mtu09qy]http&#58;//www&#46;public&#46;asu&#46;edu/~cbock/p26kboard/IMG_1376s&#46;JPG[/img:1mtu09qy]
+[quote="Automated Penguin":1mtu09qy][img:1mtu09qy]http://www.public.asu.edu/~cbock/p26kboard/IMG_1376s.JPG[/img:1mtu09qy]
 
 Do want?
 
@@ -422,7 +422,7 @@ also epic 5 page thread.
 
 Posted by **PHLAK** on Sun August 30th, 2009 09:33:40 PM
 
-[quote=&quot;Automated Penguin&quot;:c3mqa0gg]also epic 5 page thread.[/quote:c3mqa0gg]
+[quote="Automated Penguin":c3mqa0gg]also epic 5 page thread.[/quote:c3mqa0gg]
 
 No kidding, longest meeting discussion thread EVER!
 
@@ -430,13 +430,13 @@ No kidding, longest meeting discussion thread EVER!
 
 Posted by **dxh** on Sun August 30th, 2009 09:59:46 PM
 
-[quote=&quot;Automated Penguin&quot;:1c683y31]And Ill bring a special one just for you with a lower case p.
+[quote="Automated Penguin":1c683y31]And Ill bring a special one just for you with a lower case p.
 
 also epic 5 page thread.[/quote:1c683y31]
 
 Awesomeness!  Many free internets to you, good sir.  Also:
 
-[img:1c683y31]http&#58;//www&#46;roflcat&#46;com/images/cats/270913943_d775923b1a&#46;jpg[/img:1c683y31]
+[img:1c683y31]http://www.roflcat.com/images/cats/270913943_d775923b1a.jpg[/img:1c683y31]
 
 --------------------------------------------------------------------------------
 
@@ -464,7 +464,7 @@ I will be there, if you need anything let me know.
 
 Posted by **Automated Penguin** on Fri September 4th, 2009 11:56:23 AM
 
-[quote=&quot;Zapperlink&quot;:2qu2rgrz]I will be there, if you need anything let me know.[/quote:2qu2rgrz]
+[quote="Zapperlink":2qu2rgrz]I will be there, if you need anything let me know.[/quote:2qu2rgrz]
 
 Bring me a lasagna.
 
@@ -478,7 +478,7 @@ I don't even know how to cook that..
 
 Posted by **dxh** on Fri September 4th, 2009 03:21:27 PM
 
-[quote=&quot;Automated Penguin&quot;:1kdcdvin][quote=&quot;Zapperlink&quot;:1kdcdvin]I will be there, if you need anything let me know.[/quote:1kdcdvin]
+[quote="Automated Penguin":1kdcdvin][quote="Zapperlink":1kdcdvin]I will be there, if you need anything let me know.[/quote:1kdcdvin]
 
 Bring me a lasagna.[/quote:1kdcdvin]
 
@@ -507,7 +507,7 @@ I'm at the meeting already and the wife and baby are on their way.  See you when
 
 Posted by **PHLAK** on Sat September 5th, 2009 12:41:19 PM
 
-Meeting history is up: [url:2m04k4vr]http&#58;//www&#46;phx2600&#46;org/archive/2009/09/05/september-2009-meeting-history/[/url:2m04k4vr]
+Meeting history is up: <http://www.phx2600.org/archive/2009/09/05/september-2009-meeting-history/>
 
 Contains photos and video of Penguins EPIC PCB acid etching presentation.
 

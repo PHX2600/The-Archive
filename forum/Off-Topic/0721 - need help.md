@@ -21,4 +21,4 @@ last time i drank them somehow i unraveled the carpet in my house still dont kno
 
 Posted by **ThatGuy** on Sun January 11th, 2009 12:42:51 AM
 
-YES Yes yes yes yes! Watch this little video about solving problems and I am sure it will solve whatever is going on in your life [url:2gqsrxf8]http&#58;//www&#46;youtube&#46;com/watch?v=eyqUj3PGHv4[/url:2gqsrxf8]
+YES Yes yes yes yes! Watch this little video about solving problems and I am sure it will solve whatever is going on in your life <http://www.youtube.com/watch?v=eyqUj3PGHv4>

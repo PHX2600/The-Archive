@@ -39,7 +39,7 @@ I want to contract out some PHX2600 Window decals, plz kthx!  (will pay for mate
 
 Posted by **TerrorDrone** on Thu March 18th, 2010 04:20:48 PM
 
-[quote=&quot;PHLAK&quot;:23oxcvkt]I want to contract out some PHX2600 Window decals, plz kthx!  (will pay for materials)[/quote:23oxcvkt]
+[quote="PHLAK":23oxcvkt]I want to contract out some PHX2600 Window decals, plz kthx!  (will pay for materials)[/quote:23oxcvkt]
 i'll throw in on mats
 
 --------------------------------------------------------------------------------

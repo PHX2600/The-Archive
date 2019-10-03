@@ -1,22 +1,22 @@
 ## TV Converter Box Coupons
 Posted by **nak** on Tue May 27th, 2008 12:10:17 PM
 
-[img:3ibyo8d0]http&#58;//www&#46;wetwarehacks&#46;com/coupons&#46;jpg[/img:3ibyo8d0]
+[img:3ibyo8d0]http://www.wetwarehacks.com/coupons.jpg[/img:3ibyo8d0]
 
 Example of one card:
 [quote:3ibyo8d0]
-[b:3ibyo8d0]Magstripe:[/b:3ibyo8d0]
+**Magstripe:**
 Track 1:
 B5897325001066303^LASTNAME/FIRSTNAME             ^0807121000000000000000189000000
 
 Track 2:
 5897325001066303=08071210000018900000
 
-[b:3ibyo8d0]Front of card:[/b:3ibyo8d0]
+**Front of card:**
 58 9732500 106 6303
 VALID THROUGH 07/30/2008
 
-[b:3ibyo8d0]Back:[/b:3ibyo8d0]
+**Back:**
 Upper right: 75700000000
 Sec. Code: 526
 [/quote:3ibyo8d0]
@@ -61,7 +61,7 @@ As for reporting back, if it's OTA digital they'd have to either plug the conver
 
 Posted by **Valveritas** on Tue June 17th, 2008 02:39:49 PM
 
-[quote=&quot;Ugly&quot;:vxyll9b9][quote:vxyll9b9]Why else would the government offer $40 coupons for all the poor folks?[/quote:vxyll9b9]
+[quote="Ugly":vxyll9b9][quote:vxyll9b9]Why else would the government offer $40 coupons for all the poor folks?[/quote:vxyll9b9]
 Because companies get a kick out of funneling tax revenue from the govt to their bottom line. [/quote:vxyll9b9]
 
 Can you elaborate on that?  The $40 coupon isn't a tax, it's an expense.  It's also fiscally irresponsible IMO.   Do we really need TV that bad to function  as a society?  Of course not.  But it is needed to keep the established order, and the propaganda flowing.
@@ -102,7 +102,7 @@ While they still do the emergency broadcasts over radio, at any given moment, I'
 
 Posted by **alienkid** on Thu July 3rd, 2008 02:24:47 AM
 
-[quote=&quot;nak&quot;:1a0t379m]Who's up for some pirate digital TV!!?![/quote:1a0t379m]
+[quote="nak":1a0t379m]Who's up for some pirate digital TV!!?![/quote:1a0t379m]
 
 Hells yeah!!
 
@@ -110,7 +110,7 @@ Hells yeah!!
 
 Posted by **TerrorDrone** on Thu July 3rd, 2008 08:34:51 AM
 
-[quote=&quot;*Hazard&quot;:3nrpd3ie]Hey NaK,
+[quote="*Hazard":3nrpd3ie]Hey NaK,
 
 Has you or anyone else in the group bought one of these converters? Has anyone opened up a converter box and looked inside of it?
 

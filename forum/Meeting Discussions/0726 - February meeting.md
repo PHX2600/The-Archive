@@ -108,7 +108,7 @@ no more friday night classes after the 28 so i shoudl make the next one pending 
 
 Posted by **dxh** on Tue February 17th, 2009 08:33:36 PM
 
-[quote=&quot;XlogicX&quot;:1pbnaauz]:(, wasn't there this time. Ordered parts to get some i7 hardware into my box, got the parts the day of the meeting. Started putting it together and ran into troubles. I was really only about an hour away from getting it going when the meeting started, and I couldn't just leave the box hanging there like that. The reason I didn't come at all, the next step after installing OS, installing GTA4, so the next step from there was playing it... haven't stopped yet. I will make it to the next meeting though.[/quote:1pbnaauz]
+[quote="XlogicX":1pbnaauz]:(, wasn't there this time. Ordered parts to get some i7 hardware into my box, got the parts the day of the meeting. Started putting it together and ran into troubles. I was really only about an hour away from getting it going when the meeting started, and I couldn't just leave the box hanging there like that. The reason I didn't come at all, the next step after installing OS, installing GTA4, so the next step from there was playing it... haven't stopped yet. I will make it to the next meeting though.[/quote:1pbnaauz]
 
 Wanna take a gander at my forum idea I sent via PM after GTA?  <!-- s:mrgreen: --><img src="{SMILIES_PATH}/icon_mrgreen.gif" alt=":mrgreen:" title="Mr. Green" /><!-- s:mrgreen: -->
 

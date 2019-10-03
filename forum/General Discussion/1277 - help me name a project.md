@@ -2,7 +2,7 @@
 Posted by **TerrorDrone** on Fri July 30th, 2010 07:17:15 PM
 
 working on a radio bug that transmits on a frs frequency help me come up with a good name.
-see it here [url:ygpwtfie]http&#58;//www&#46;phx2600&#46;org/wiki/index&#46;php/FRS_radio_bug[/url:ygpwtfie]
+see it here <http://www.phx2600.org/wiki/index.php/FRS_radio_bug>
 
 --------------------------------------------------------------------------------
 

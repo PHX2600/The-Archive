@@ -25,7 +25,7 @@ Specific areas of interest are:
 * SMB / SME
 * Education
 * Multimedia
-* Toys &amp; Games
+* Toys  &amp;  Games
 * Ecofriendly computing
 * Local businesses using Free Software
 * Multi-platform Free Software
@@ -45,4 +45,4 @@ I just watched RevolutionOS. What an awesome movie.
 
 Posted by **dxh** on Thu September 18th, 2008 11:41:18 PM
 
-Presentation Schedule now up: [url:j7sjs2yg]http&#58;//ableconf&#46;com/presentations[/url:j7sjs2yg]
+Presentation Schedule now up: <http://ableconf.com/presentations>

@@ -25,7 +25,7 @@ That would work. I'd like to see it again. <!-- s:) --><img src="{SMILIES_PATH}/
 
 Posted by **dxh** on Thu December 17th, 2009 06:21:55 PM
 
-[quote=&quot;TerrorDrone&quot;:366nb1tx]Phlaks time frame sounds good[/quote:366nb1tx]
+[quote="TerrorDrone":366nb1tx]Phlaks time frame sounds good[/quote:366nb1tx]
 
 I second this motion.
 

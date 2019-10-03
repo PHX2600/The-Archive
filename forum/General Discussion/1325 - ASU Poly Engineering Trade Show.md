@@ -31,7 +31,7 @@ Full details below as sent to me.
 
   We'll use Peralta 213 for the demonstrations. Students, please plan to setup your demonstrations beginning at noon on Friday. You may use any of the group tables in the room. Please setup one project per table. If you have any special needs, please let me know. Most students prepare a poster board with roughly (the equivalent of) 10 powerpoint slides. Also setup whatever computers and/or devices that you need to show your software. Sean Dengler (who is the department's shop supervisor) can help printing your poster. He can be contacted via email.
 
-   Graduate students, if you haven't provided your committee with a copy of your project report (paper) please do so as soon as your advisor OK's its distribution. Also, please bring the completed form: &quot;Report of Final Master's Culminating Experience&quot; which can be found at the web site: 
+   Graduate students, if you haven't provided your committee with a copy of your project report (paper) please do so as soon as your advisor OK's its distribution. Also, please bring the completed form: "Report of Final Master's Culminating Experience" which can be found at the web site: 
 You should complete your name information as well as your committee members names.
 
 Thanks,
@@ -54,12 +54,12 @@ One of the others was a honeynet which is pretty cool.
 
 Here's the list I got.
 
-[b:221x7zji]Masters Projects[/b:221x7zji]  	   	   	   	 
+**Masters Projects**  	   	   	   	 
 E-Portfolio Application
 A Simple Honeynet
 2D Game Development Environment using GNUstep and Objective-C
 	  	  	  	  	  	 
-[b:221x7zji]Independent Study and Capstone Projects[/b:221x7zji]	  	  	  	 
+**Independent Study and Capstone Projects**	  	  	  	 
 Gene Analysis Tool 	
 GPS Tracker 	
 Ethernet Enabled Microcontroller Platform [Me]
