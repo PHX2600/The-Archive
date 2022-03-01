@@ -3,7 +3,7 @@ Posted by **Rax** on Tue July 28th, 2009 09:43:09 PM
 
 BinRev.com has been owned.  See Stank's post about it [http://binrevstatus.blogspot.com/](here).
 
-See the article about it (and other shit) at this [http://www.leetupload.com/zf05.txt](urber leetzor magazine).  Since it's a text file, you'll need to scroll down to (and / or search for) [code:a9aizain]Binary revolution [/code:a9aizain] (with the lower case "R").
+See the article about it (and other shit) at this [http://www.leetupload.com/zf05.txt](urber leetzor magazine).  Since it's a text file, you'll need to scroll down to (and / or search for) ```Binary revolution ``` (with the lower case "R").
 
 The authors were even so kind as to attempt a password hash crack.  I'm pretty sure I didn't put "dick" for my password. It would have been something more like "Ihaveareallybigdick" or something. LOL
 

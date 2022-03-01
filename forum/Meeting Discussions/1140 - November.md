@@ -148,31 +148,31 @@ Note that the first bunch are so easy that I can't tell you the name of the ciph
 Cipher #1
 Difficulty: 1
 Ciphertext:
-[code:7g5tp55f]C-mao.bcrpayJ.oapJdak.;dcidcbOabUpabjcojr-oogbbfMcoocrbecoypcjywabeydaymat.om.rb.ruyd.mroyogpk.cnn.el.rln.cbyd.,rpnevMfbam.coMapjgoFannr,wxgyxajt,d.bydcooyrpfoyapyowC,aoircbixf,1b5y0bvLprbrgbj.e_<cboyrbv_*Bry*lprbrgbj.e_Ergxn.[frg[rb.[.bb[uck.[y..[;.pr[.bb_[[gbn.oofrg-p.ajng.n.ooecojclncbapfruucj.p,dr-ouap.brgidx.dcbeyd.jgpk.ydayfrgoycnnjannyd.Cby.pb.y_yd.cburpmaycrbogl.pdcid,afv_Ctbr,hgoyogjdajng.n.ool.porbwabedcobam.coUp.eX.borbwrb.ruydp..kcj.[lpcbjclanoayJ.oapJdak.;vD.-oaogjtcbijd.oy,rgberuadgmabx.cbivXgycufrg-p.ircbiyrdak.ahacn.pwx.yy.pajng.n.oorb.ydabrb.,dr-op.annfrbyd.xannv_MapjgoFannr,w_d.oacerk.pyd.LArb.UpceafmrpbcbivYd.LAcob-yk.pfirreyrx.icb,cydwabe,d.bfrgjrmxcb.yday,cydX.borb-odaxcyganmgmxn.wfrgi.yorm.ydcbiydayorgbeomrp.nct.orm.rb.oypgiincbiyreci.oyaxaexgppcyrydabaojdrrnabbrgbj.m.byvXgydgmabx.cbioap.irreaylcjtcbiyd.cpbam.orgyruagecrjrbugocrb[[cy-oaogpkckanypacyvCipaxx.emfxaiabeurne.emfnalyrlydp..['gapy.poodgy[[Ceceb-y,abyyrxnr,mfer,bnraeo[[abeiryp.aefurpyd.cb.kcyaxn.v_P.lrpyyryd.aemcbcoypaycrbruucj.cmm.ecay.nfv_[/code:7g5tp55f]
+```C-mao.bcrpayJ.oapJdak.;dcidcbOabUpabjcojr-oogbbfMcoocrbecoypcjywabeydaymat.om.rb.ruyd.mroyogpk.cnn.el.rln.cbyd.,rpnevMfbam.coMapjgoFannr,wxgyxajt,d.bydcooyrpfoyapyowC,aoircbixf,1b5y0bvLprbrgbj.e_<cboyrbv_*Bry*lprbrgbj.e_Ergxn.[frg[rb.[.bb[uck.[y..[;.pr[.bb_[[gbn.oofrg-p.ajng.n.ooecojclncbapfruucj.p,dr-ouap.brgidx.dcbeyd.jgpk.ydayfrgoycnnjannyd.Cby.pb.y_yd.cburpmaycrbogl.pdcid,afv_Ctbr,hgoyogjdajng.n.ool.porbwabedcobam.coUp.eX.borbwrb.ruydp..kcj.[lpcbjclanoayJ.oapJdak.;vD.-oaogjtcbijd.oy,rgberuadgmabx.cbivXgycufrg-p.ircbiyrdak.ahacn.pwx.yy.pajng.n.oorb.ydabrb.,dr-op.annfrbyd.xannv_MapjgoFannr,w_d.oacerk.pyd.LArb.UpceafmrpbcbivYd.LAcob-yk.pfirreyrx.icb,cydwabe,d.bfrgjrmxcb.yday,cydX.borb-odaxcyganmgmxn.wfrgi.yorm.ydcbiydayorgbeomrp.nct.orm.rb.oypgiincbiyreci.oyaxaexgppcyrydabaojdrrnabbrgbj.m.byvXgydgmabx.cbioap.irreaylcjtcbiyd.cpbam.orgyruagecrjrbugocrb[[cy-oaogpkckanypacyvCipaxx.emfxaiabeurne.emfnalyrlydp..['gapy.poodgy[[Ceceb-y,abyyrxnr,mfer,bnraeo[[abeiryp.aefurpyd.cb.kcyaxn.v_P.lrpyyryd.aemcbcoypaycrbruucj.cmm.ecay.nfv_```
 
 
 Cipher #2
 Difficulty: 1.2
 Ciphertext:
-[code:7g5tp55f]zvczepojmbxpyyzvikkocsxbyyzvirytpyxcmxrriuyvjnjpyqbozycxydmmxxmergdiyvpnosnviqgmrrmlyypxerssldsbormeraoxfoitspqyjrbyrrelnpmfiryivdilnssbvckgfdsrriqdepcezyzctiqcmctekowroekbsauirlpycxmpjydxfownoibyjjskfdwsbvcxhcbrmgspzvczepoxmpmerxkosudlrrercvgqlr[/code:7g5tp55f]
+```zvczepojmbxpyyzvikkocsxbyyzvirytpyxcmxrriuyvjnjpyqbozycxydmmxxmergdiyvpnosnviqgmrrmlyypxerssldsbormeraoxfoitspqyjrbyrrelnpmfiryivdilnssbvckgfdsrriqdepcezyzctiqcmctekowroekbsauirlpycxmpjydxfownoibyjjskfdwsbvcxhcbrmgspzvczepoxmpmerxkosudlrrercvgqlr```
 
 
 Cipher #3
 Difficulty: 1
 Ciphertext:
-[code:7g5tp55f]KzhhdliwhzivorpvfmwvidvziBlfhslfowmgovzevgsvnlfgdsvivkvlkovxzmhvvgsvnBlfhslfowxszmtvgsvnivtfoziobZmwblfhslfowmgolzmgsvnlfgglhgizmtvihKvlkovhzbgszgrublfkozbNrxilhlugXWhyzxpdziwhblfsvzihzgzmrxgsrmthyfggszghmlgsrmtyvxzfhvrublfkozbgsvnulidziwhgsvbrmhgzooDrmwldh[/code:7g5tp55f]
+```KzhhdliwhzivorpvfmwvidvziBlfhslfowmgovzevgsvnlfgdsvivkvlkovxzmhvvgsvnBlfhslfowxszmtvgsvnivtfoziobZmwblfhslfowmgolzmgsvnlfgglhgizmtvihKvlkovhzbgszgrublfkozbNrxilhlugXWhyzxpdziwhblfsvzihzgzmrxgsrmthyfggszghmlgsrmtyvxzfhvrublfkozbgsvnulidziwhgsvbrmhgzooDrmwldh```
 
 
 Cipher #4:
 Difficulty: 2.5
 Ciphertext:
-[code:7g5tp55f]PGEPSLBDHORGXKCPKRVXVVEDRWMBDRSGFVWPIXPGEPSLPGVFJVVDHXGEPSTFQDRGERHFSSFGRKXGEFGGEXDSWJIDKHDIWPIXNXEFCXBKXFGXMVDIFKPVORKXWJMXVGKRBGPCXNXCXBKXFGXMWPIXPSDRKDNSPHFTX[/code:7g5tp55f]
+```PGEPSLBDHORGXKCPKRVXVVEDRWMBDRSGFVWPIXPGEPSLPGVFJVVDHXGEPSTFQDRGERHFSSFGRKXGEFGGEXDSWJIDKHDIWPIXNXEFCXBKXFGXMVDIFKPVORKXWJMXVGKRBGPCXNXCXBKXFGXMWPIXPSDRKDNSPHFTX```
 
 
 Cipher #5: The Vigenere Cipher
 Difficulty: 5
 Ciphertext:
-[code:7g5tp55f]mvwjbgclkkcierbfphvvpcfcwctkasscxqhihboewhvvlkwkvvhyxpsrnhmfyhvvuoiupssobghnbhvfnhbrmwcetzwkrgyzgqcchfcikszzzwcllpwrlmclpouvpofjfifuxfqyxohcbshfngoewhfpmcardsijuszzxjszmgtfkciihkbxhcrpxhkvkshyxqfzfwbregmvlwodtqfzfwbreamtkwavbghythcwvifzhgwkrwodtvotdsfrgrhybgwjfmargwtvlhc[/code:7g5tp55f]
+```mvwjbgclkkcierbfphvvpcfcwctkasscxqhihboewhvvlkwkvvhyxpsrnhmfyhvvuoiupssobghnbhvfnhbrmwcetzwkrgyzgqcchfcikszzzwcllpwrlmclpouvpofjfifuxfqyxohcbshfngoewhfpmcardsijuszzxjszmgtfkciihkbxhcrpxhkvkshyxqfzfwbregmvlwodtqfzfwbreamtkwavbghythcwvifzhgwkrwodtvotdsfrgrhybgwjfmargwtvlhc```
 
 
 Cipher #6: AES-256
@@ -203,7 +203,7 @@ cba8b5e088ae461a2a2677feb30690d7
 Cipher #7: One Time Pad
 Difficulty: Provably Impossible (don't spend a whole lot of time on this one!)
 Ciphertext:
-[code:7g5tp55f]qquhcpjidozzzmygppngrvdtsfemchclgjvkttgmumuflkzkibtzvqmisydikabdujuchgqffyxinjukznqnkhtaitpxcpcgvddayunjdksaexujhateciqgqkizibpunsthjckmrfjabdrxqjaecrczefzidnwuciyfdefmahpjzumuselqcyffmraebcudfexqdfaydpuditncstvzqtkollxmsupvxcymejalfqfsmgqoaqonktnsfwlftamublnihzbjsfoekfctwxpehzacqiubribcyhnbbigusydcogxjolcgdesdhexozbuefvqlcpjyctxxktemlflqwyjpnyaastedvkdicqwouyuhyvfwrstxtgemtvnydfzzgxwqkbctmzvgbhiogqmxnslkmjtfvmaakqhwayfxqjqqvsqzdadobpoefrm[/code:7g5tp55f]
+```qquhcpjidozzzmygppngrvdtsfemchclgjvkttgmumuflkzkibtzvqmisydikabdujuchgqffyxinjukznqnkhtaitpxcpcgvddayunjdksaexujhateciqgqkizibpunsthjckmrfjabdrxqjaecrczefzidnwuciyfdefmahpjzumuselqcyffmraebcudfexqdfaydpuditncstvzqtkollxmsupvxcymejalfqfsmgqoaqonktnsfwlftamublnihzbjsfoekfctwxpehzacqiubribcyhnbbigusydcogxjolcgdesdhexozbuefvqlcpjyctxxktemlflqwyjpnyaastedvkdicqwouyuhyvfwrstxtgemtvnydfzzgxwqkbctmzvgbhiogqmxnslkmjtfvmaakqhwayfxqjqqvsqzdadobpoefrm```
 
 
 SOLUTIONS:

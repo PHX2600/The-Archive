@@ -110,7 +110,7 @@ I had a brief look around the code and didn't see where it was generating the em
 [/quote:1yflhaq1]
 
 This is an example with the XAMPP httpd using the default install, with PHPBB installed using default folder name:
-[code:1yflhaq1]C:\xampp\htdocs\phpBB3\language\en\email\user_activate_passwd.txt[/code:1yflhaq1]
+```C:\xampp\htdocs\phpBB3\language\en\email\user_activate_passwd.txt```
 
 Here is that document:
 [code:1yflhaq1]

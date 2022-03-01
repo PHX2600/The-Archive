@@ -75,11 +75,11 @@ Posted by **nak** on Thu January 31st, 2008 07:13:20 PM
 The contest was a while back so there aren't any 'contest' tagged blog posts at the moment!
 ...but if we changed:
 
-[code:12gq0d7c]myRegExp = re&#46;compile('&lt;a href=&quot;http&#58;//kotaku&#46;com/gaming/contest/&#46;*&lt;/a&gt;')[/code:12gq0d7c]
+```myRegExp = re&#46;compile('&lt;a href=&quot;http&#58;//kotaku&#46;com/gaming/contest/&#46;*&lt;/a&gt;')```
 
 to
 
-[code:12gq0d7c]myRegExp = re&#46;compile('&lt;a href=&quot;http&#58;//kotaku&#46;com/&#46;*&lt;/a&gt;')[/code:12gq0d7c]
+```myRegExp = re&#46;compile('&lt;a href=&quot;http&#58;//kotaku&#46;com/&#46;*&lt;/a&gt;')```
 
 it should work, but it will send a text message because the original contest post isnt there anymore, then it wont send anything until another update happens if you leave the script running.
 
@@ -103,7 +103,7 @@ p.s. It bugs me that there is no horizontal scroll bar for the Python editor.  A
 
 Posted by **phigan** on Fri February 1st, 2008 11:01:28 AM
 
-[code:3fqi7zl3]params = urllib&#46;urlencode({'number'&#58; '##########', 'message'&#58; link&#91;0&#93; + '%21%21', 'provider'&#58;'vtext&#46;com', 'submit'&#58; 'Send+Message%21'}) #parameters for the SMS post to txtmsgpro, change the ########## to your number[/code:3fqi7zl3]
+```params = urllib&#46;urlencode({'number'&#58; '##########', 'message'&#58; link&#91;0&#93; + '%21%21', 'provider'&#58;'vtext&#46;com', 'submit'&#58; 'Send+Message%21'}) #parameters for the SMS post to txtmsgpro, change the ########## to your number```
 
 Well, notice the provider part.. Are you using Verizon? If so, vtext.com should work. Otherwise, you might need other info.
 

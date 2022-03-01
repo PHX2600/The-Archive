@@ -5,10 +5,10 @@ Firstly, I love Perl, but I don't favor higher level languages in general, and I
 
 The long story:
 I could write a line like below:
-[code:2iye811l]my $string = &quot;\x58\x59&quot;;[/code:2iye811l]
+```my $string = &quot;\x58\x59&quot;;```
 
 If I printed this:
-[code:2iye811l]print $string;[/code:2iye811l]
+```print $string;```
 I would actually get: XY
 That's fine, that's actually what I'm going for; a true hex output.
 

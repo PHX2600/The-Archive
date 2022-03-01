@@ -5,7 +5,7 @@ I thought it would be cool if I could have a spreadsheet get automatically popul
 
 Not really &quot;code&quot; so much as a one-liner:
 
-[code:14z6f8mb]date | awk '{print $1&quot;, &quot;$2&quot;, &quot;$3&quot;, &quot;$4&quot;, &quot;$6&quot;, &quot;}'| head -c -1 | cat &gt;&gt; /home/xlogicx/logs/server_usage&#46;csv; df --total | tail -n 1 | awk '{print $2&quot;, &quot;$3&quot;, &quot;$4&quot;, &quot;$5}' | cat &gt;&gt; /home/xlogicx/logs/server_usage&#46;csv[/code:14z6f8mb]
+```date | awk '{print $1&quot;, &quot;$2&quot;, &quot;$3&quot;, &quot;$4&quot;, &quot;$6&quot;, &quot;}'| head -c -1 | cat &gt;&gt; /home/xlogicx/logs/server_usage&#46;csv; df --total | tail -n 1 | awk '{print $2&quot;, &quot;$3&quot;, &quot;$4&quot;, &quot;$5}' | cat &gt;&gt; /home/xlogicx/logs/server_usage&#46;csv```
 
 server_usage.csv just starts off as a file with the following content:
 Weekday, Month, Day, Time, Year, Total, Used, Free, Percentage
@@ -15,7 +15,7 @@ Those are the columns, the command populates them. You could use df -h, but I pr
 So I just added this to my crontab so I can start tracking trends!
 
 Oh, and if I was only concerned with my local disk, I would just use:
-[code:14z6f8mb]date | awk '{print $1&quot;, &quot;$2&quot;, &quot;$3&quot;, &quot;$4&quot;, &quot;$6&quot;, &quot;}'| head -c -1 | cat &gt;&gt; /home/xlogicx/logs/local_usage&#46;csv; df | grep /dev/sdb1 | awk '{print $2&quot;, &quot;$3&quot;, &quot;$4&quot;, &quot;$5}' | cat &gt;&gt; /home/xlogicx/logs/local_usage&#46;csv[/code:14z6f8mb]
+```date | awk '{print $1&quot;, &quot;$2&quot;, &quot;$3&quot;, &quot;$4&quot;, &quot;$6&quot;, &quot;}'| head -c -1 | cat &gt;&gt; /home/xlogicx/logs/local_usage&#46;csv; df | grep /dev/sdb1 | awk '{print $2&quot;, &quot;$3&quot;, &quot;$4&quot;, &quot;$5}' | cat &gt;&gt; /home/xlogicx/logs/local_usage&#46;csv```
 
 (Where /dev/sdb1 is my linux drive. Likely to be /dev/sda1 in a box with one drive)
 

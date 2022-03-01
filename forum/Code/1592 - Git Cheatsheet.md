@@ -64,7 +64,7 @@ Posted by **AltF4** on Sat April 7th, 2012 09:50:01 PM
 Also:
 
 To turn on all color options by default
-[code:uv11zuo8]git config --global color&#46;ui true[/code:uv11zuo8]
+```git config --global color&#46;ui true```
 
 Another really super handy thing is to switch to a nicer diff viewer, like meld. Got instructions from here:
 <!-- m --><a class="postlink" href="http://nathanhoad.net/how-to-meld-for-git-diffs-in-ubuntu-hardy">http://nathanhoad.net/how-to-meld-for-g ... untu-hardy</a><!-- m -->
@@ -84,10 +84,10 @@ os&#46;system('meld &quot;%s&quot; &quot;%s&quot;' % (sys&#46;argv&#91;2&#93;, s
 
 Then tell git to use your python script for diffs:
 
-[code:uv11zuo8]git config --global diff&#46;external /home/YOURNAME/diff&#46;py[/code:uv11zuo8]
+```git config --global diff&#46;external /home/YOURNAME/diff&#46;py```
 
 To test it, make a change on some files and then run:
-[code:uv11zuo8]git diff[/code:uv11zuo8]
+```git diff```
 
 --------------------------------------------------------------------------------
 

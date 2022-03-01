@@ -19,7 +19,7 @@ This guide was written for Ubuntu 10.04. But I don't see why any other Linux dis
 
 3) Get VLC to capture what you want, and stream it out to an SDP file over RTP. In my case, I'm going to stream from a Dazzle video capture device. It's recognized by 4vl as /dev/video1. The command looks like:
 
-[code:11x81kcr]vlc v4l2:///dev/video1 :input-slave=alsa:// -vvv input_stream --sout='#duplicate{dst="transcode{deinterlace,venc=x264{keyint=60,idrint=2},vcodec=h264,vb=600,acodec=mp4a,ab=48,channels=2,samplerate=22050}:rtp{dst=127.0.0.1,port=1234,sdp=file:///home/altf4/vlc.sdp}"}'[/code:11x81kcr]
+```vlc v4l2:///dev/video1 :input-slave=alsa:// -vvv input_stream --sout='#duplicate{dst="transcode{deinterlace,venc=x264{keyint=60,idrint=2},vcodec=h264,vb=600,acodec=mp4a,ab=48,channels=2,samplerate=22050}:rtp{dst=127.0.0.1,port=1234,sdp=file:///home/altf4/vlc.sdp}"}'```
 
 Obviously, replace "AltF4" with your username.
 
@@ -31,11 +31,11 @@ If you want to stream the entire desktop, you use ://screen instead of :///dev/v
 
 First is the game sounds from my Dazzle:
 
-[code:11x81kcr]pacat -r --latency-msec=1 -d alsa_input.usb-Pinnacle_Systems_GmbH_DVC100-01-DVC100.analog-stereo | pacat -p --latency-msec=1 -d alsa_output.pci-0000_00_1b.0.analog-stereo[/code:11x81kcr]
+```pacat -r --latency-msec=1 -d alsa_input.usb-Pinnacle_Systems_GmbH_DVC100-01-DVC100.analog-stereo | pacat -p --latency-msec=1 -d alsa_output.pci-0000_00_1b.0.analog-stereo```
 
 Next, I redirect the input from my USB headset micorphone:
 
-[code:11x81kcr]pacat -r --latency-msec=1 -d alsa_input.usb-Logitech_Logitech_USB_Headset-00-Headset.analog-mono | pacat -p --latency-msec=1 -d alsa_output.pci-0000_00_1b.0.analog-stereo[/code:11x81kcr]
+```pacat -r --latency-msec=1 -d alsa_input.usb-Logitech_Logitech_USB_Headset-00-Headset.analog-mono | pacat -p --latency-msec=1 -d alsa_output.pci-0000_00_1b.0.analog-stereo```
 
 But! This only redirects these two **inputs** to the alsa **output**. How do we then pipe the alsa output to alsa input?
 
@@ -48,7 +48,7 @@ lawl
 
 5) Stream to Justin.tv using jtvlc. 
 
-[code:11x81kcr]./jtvlc throw_away $YOUR_STREAM_KEY_HERE /home/altf4/vlc.sdp -d[/code:11x81kcr]
+```./jtvlc throw_away $YOUR_STREAM_KEY_HERE /home/altf4/vlc.sdp -d```
 
 Obviously, replace "AltF4" with your username.
 

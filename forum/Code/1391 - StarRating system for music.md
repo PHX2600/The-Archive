@@ -21,19 +21,19 @@ Here's my method of Back-up/Restoration/Maintenance
 
 [b:2amych1p]Backup:[/b:2amych1p]
 I use the querying system in the Media Library of WinAmp. I backup 1, 2, 3, 4, and 5 star items seperately. So for all 1 star rated songs, I would query:
-	[code:2amych1p]?rating=1[/code:2amych1p]
+	```?rating=1```
 I would do a 'select-all' on those items and edit the meta-data and change the comment to &quot;*&quot;. I would do this for rating 2, 3, 4, and 5 with **, ***, ****, and ***** (respectively).
 
 [b:2amych1p]Restore:[/b:2amych1p]
 This is very similar; query:
-	[code:2amych1p]?comment=*[/code:2amych1p]
+	```?comment=*```
 Select-all on the items that come up and change the rating to 1-star. Repeat for **, ***, ****, and ***** to 2-star, 3-star, 4-star, and 5-star (respectively).
 
 [b:2amych1p]Maintenance:[/b:2amych1p]
 Eventually, all of your songs will have *'s in the comments, and depending on if you've backed up, some/most will have ratings. Sometimes I'm at a computer system where I know I'm not going to listen for very long, or don't want to install winamp (or import the music to the library). As a quicky, I will just put the *'s in the comment manually. Sometimes this practice can make the star to * balance inconnsistent. A quick check for this would be (using 5 stars for exampe)
-	[code:2amych1p]?comment=***** AND !rating=5[/code:2amych1p]
+	```?comment=***** AND !rating=5```
 Everything that comes up is inconsistent
-	[code:2amych1p]?rating=5 and !comment=&quot;*****&quot; OR rating=4 and !comment=&quot;****&quot; OR rating=3 and !comment=&quot;***&quot; OR rating=2 and !comment=&quot;**&quot; OR rating=1 and !comment=&quot;*&quot;[/code:2amych1p] should work as well (for a complete inconsistency check)
+	```?rating=5 and !comment=&quot;*****&quot; OR rating=4 and !comment=&quot;****&quot; OR rating=3 and !comment=&quot;***&quot; OR rating=2 and !comment=&quot;**&quot; OR rating=1 and !comment=&quot;*&quot;``` should work as well (for a complete inconsistency check)
 
 
 I know this may look overcomplicated, but it is actually really quick and simple. There may be a more elegant way to do this (but I haven't found it), but this is a hacker forum, this was my hack.

@@ -5,14 +5,14 @@ Hey everyone,
 
 I'm working on getting clickthrough obfuscation working for Haystack Project, but alas, that part is a bit harder than I figured it would be.  As it turns out, simply going to the link with a Google cookie enabled isn't enough to register a clickthrough in your Google Search History.  After grabbing the generated (read: optimized to the point of being nightmarish to read) html source code, it seems that they have a JavaScript function that rewrites the URL of a search result when clicked (left or right click, it happens on the onmousedown event).  For example, before you click on a search result link, it looks like this:
 
-[code:s2130li0]
+```
 &lt;a class=&quot;l&quot; onmousedown=&quot;return rwt(this,'','','res','2','AFQjCNES_tkCImLOf7awY5kS_uhn9a3Ryg','&amp;sig2=o9xmv5ZAf-z4w1bYl7nbUQ','0CAsQFjAB')&quot; href=&quot;http&#58;//helderribeiro&#46;net/?tag=gpl&quot; realurl=&quot;http&#58;//helderribeiro&#46;net/?tag=gpl&quot;&gt;
-[/code:s2130li0]			
+```			
 After clicking on it (left or right), it looks like this.
 
-[code:s2130li0]
+```
 &lt;a class=&quot;l&quot; onmousedown=&quot;return rwt(this,'','','res','2','AFQjCNES_tkCImLOf7awY5kS_uhn9a3Ryg','&amp;sig2=o9xmv5ZAf-z4w1bYl7nbUQ','0CAsQFjAB')&quot; href=&quot;/url?sa=t&amp;source=web&amp;ct=res&amp;cd=2&amp;ved=0CAsQFjAB&amp;url=http%3A%2F%2Fhelderribeiro&#46;net%2F%3Ftag%3Dgpl&amp;ei=PZP_St_PDYy8sgPR2N2eCg&amp;usg=AFQjCNES_tkCImLOf7awY5kS_uhn9a3Ryg&amp;sig2=o9xmv5ZAf-z4w1bYl7nbUQ&quot; realurl=&quot;http&#58;//helderribeiro&#46;net/?tag=gpl&quot;&gt;
-[/code:s2130li0]
+```
 My goal is to fake-navigate (set the source of an invisible iframe) to the URL in the second code block, but I have no idea where the rwt() fucntion is defined, and thus can't .click() the search result &lt;a&gt; element with only the generated html, which doesn't mention rwt() or even a .js file that might include it, thus driving me bananas.
 
 Any ideas, leet haxors?  <!-- s:geek: --><img src="{SMILIES_PATH}/icon_e_geek.gif" alt=":geek:" title="Geek" /><!-- s:geek: -->

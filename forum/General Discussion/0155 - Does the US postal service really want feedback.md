@@ -24,7 +24,7 @@ Interesting survey.  Here's how I answered part of it:
 
 [quote:3ou4pd7k]What is one thing that the Postal Service could do to improve your experience at the MES-MAIN OFFICE STA Post Office?[/quote:3ou4pd7k]
 
-[code:3ou4pd7k]Increase speed, and not give me weird looks when requesting Media Mail.  Also, in general, clerks should be a little more informative to the customer as to their options.[/code:3ou4pd7k]
+```Increase speed, and not give me weird looks when requesting Media Mail.  Also, in general, clerks should be a little more informative to the customer as to their options.```
 
 --------------------------------------------------------------------------------
 
