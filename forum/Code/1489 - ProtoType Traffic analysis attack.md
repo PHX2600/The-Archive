@@ -42,7 +42,7 @@ I don't know C++, barely have touched C... but sounds like a neat project. I've 
 
 I am interesting in seeing this mature along with logic <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
-Maybe this would be of interest for you? To get more packets, different encryption schemes etc: [url:392cqdzi]http&#58;//pcapr&#46;net/home[/url:392cqdzi] -- I haven't used it myself, let me know if it's awesome and I might sign up <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
+Maybe this would be of interest for you? To get more packets, different encryption schemes etc: <http&#58;//pcapr&#46;net/home> -- I haven't used it myself, let me know if it's awesome and I might sign up <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 
 --------------------------------------------------------------------------------
 

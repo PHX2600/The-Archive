@@ -47,7 +47,7 @@ PS: Please put code in [Code] blocks to preserve spacing and make it easier to r
 
 Posted by **PHLAK** on Fri June 25th, 2010 10:53:33 AM
 
-That first problem reminds me of the &quot;FizzBuzz&quot; test ([url:2mmerbva]http&#58;//www&#46;codinghorror&#46;com/blog/2007/02/why-cant-programmers-program&#46;html[/url:2mmerbva]) which I solved with the following code:
+That first problem reminds me of the &quot;FizzBuzz&quot; test (<http&#58;//www&#46;codinghorror&#46;com/blog/2007/02/why-cant-programmers-program&#46;html>) which I solved with the following code:
 
 [code:2mmerbva]
 &lt;?php

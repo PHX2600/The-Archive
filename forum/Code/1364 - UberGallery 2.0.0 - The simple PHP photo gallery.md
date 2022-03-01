@@ -3,7 +3,7 @@ Posted by **PHLAK** on Fri December 24th, 2010 04:16:12 PM
 
 So, a while back while I was learning PHP, Dual and I were squaring off to develop different, but relatively equal, photo galleries (mine in PHP his in [strike:2jbof20q]Pearl[/strike:2jbof20q] Perl).  Well, it's been a while since anything has come of that but that ends now, for yesterday I pushed v2.0.0 of UberGallery!
 
-[size=150:2jbof20q]Check it out at: [url:2jbof20q]http&#58;//www&#46;UberGallery&#46;net[/url:2jbof20q][/size:2jbof20q]
+[size=150:2jbof20q]Check it out at: <http&#58;//www&#46;UberGallery&#46;net>[/size:2jbof20q]
 
 For those not familiar with UberGallery, here's a quick quote to hopefully peak your interest:
 
@@ -30,7 +30,7 @@ DOH!  I knew that.
 
 Posted by **PHLAK** on Thu October 20th, 2011 10:23:46 AM
 
-So I pushed some major changes to UberGallery 2 not too long ago and figured I'd let you guys know in case you were interested.  Check it out here: [url:b6jsiqvs]http&#58;//www&#46;ubergallery&#46;net/[/url:b6jsiqvs]
+So I pushed some major changes to UberGallery 2 not too long ago and figured I'd let you guys know in case you were interested.  Check it out here: <http&#58;//www&#46;ubergallery&#46;net/>
 
 --------------------------------------------------------------------------------
 

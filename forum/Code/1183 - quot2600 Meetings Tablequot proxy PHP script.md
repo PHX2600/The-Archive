@@ -3,7 +3,7 @@ Posted by **jargon** on Tue December 29th, 2009 04:29:39 PM
 
 I wrote this last night, and removed dependencies etc along with adding the Gnu Public License 2.0 comments this afternoon.
 
-This PHP script acts as a proxy for viewing the 2600.com meetings list page in a uniform table rather than in its original slightly chaotic plain/text formatting. It simply downloads [url:wydeps3t]http&#58;//2600&#46;com/meetings/mtg&#46;html[/url:wydeps3t], then reformats the downloaded page and dumps it into the browser as a nice clean HTML table.
+This PHP script acts as a proxy for viewing the 2600.com meetings list page in a uniform table rather than in its original slightly chaotic plain/text formatting. It simply downloads <http&#58;//2600&#46;com/meetings/mtg&#46;html>, then reformats the downloaded page and dumps it into the browser as a nice clean HTML table.
 
 The 6 columns in the table are:
 1. country

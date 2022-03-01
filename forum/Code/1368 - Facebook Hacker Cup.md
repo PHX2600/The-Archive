@@ -3,7 +3,7 @@ Posted by **dxh** on Wed January 5th, 2011 08:16:01 PM
 
 Hey [ladeez|guise],
 
-Facebook is hosting a worldwide programming competition this Friday, and it might be really cool if its like their engineering puzzles, which are fun for long light rail commutes: [url:20e9cnok]https&#58;//www&#46;facebook&#46;com/hackercup/reg&#46;php[/url:20e9cnok].
+Facebook is hosting a worldwide programming competition this Friday, and it might be really cool if its like their engineering puzzles, which are fun for long light rail commutes: <https&#58;//www&#46;facebook&#46;com/hackercup/reg&#46;php>.
 
 --------------------------------------------------------------------------------
 

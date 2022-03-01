@@ -4,7 +4,7 @@ Posted by **AltF4** on Mon January 23rd, 2012 08:09:08 PM
 I have been working on an Open Source video game for the last month or two and it's starting to see the light of day! More to the point, I feel like the code base is in a position where it makes sense to get some others on board. And so here I am! (Currently the team consists of myself, my friend M3D (a professional game developer), and my brother who has done all the 3D work)
 
 Code is here:
-[url:394cmt00]https&#58;//github&#46;com/altf4/RealTimeTactics[/url:394cmt00]
+<https&#58;//github&#46;com/altf4/RealTimeTactics>
 
 What is this thing?
 
@@ -16,7 +16,7 @@ The code base is in C++, written using Eclipse IDE, and on an Ubuntu desktop. Th
 
 I'd love to have anyone who is interested to come and join us!  A good way to get started would of course be to download the code and give it a run. The HACKING file should include sufficient instructions, but feel free to contact me about anything. After that, a current list of bugs and other issues can be found here:
 
-[url:394cmt00]https&#58;//github&#46;com/altf4/RealTimeTactics/issues[/url:394cmt00]
+<https&#58;//github&#46;com/altf4/RealTimeTactics/issues>
 
 Finding something minor there may be a good place to get going in the code. I'd especially appreciate it if the Phoenix2600 were able to find some bugs, particularly security related issues. Many praises will be gained for the finding of exploitable bugs in the server code.
 
@@ -141,7 +141,7 @@ I'm trying to do something like that because, glib-2.0 is hiding in:
 I just need to figure out how to pass the cflags to the g++ or whatever I don't know, I'm going to bed lol
 
 EDIT:
-Ok, might as well post this: [url:1g07pr0d]http&#58;//stackoverflow&#46;com/questions/1146010/why-cant-i-build-a-hello-world-for-glib[/url:1g07pr0d]
+Ok, might as well post this: <http&#58;//stackoverflow&#46;com/questions/1146010/why-cant-i-build-a-hello-world-for-glib>
 
 It's the issue I'm having -- but I don't know how to implement the solution with make
 
@@ -194,7 +194,7 @@ Though with this method you have to re-copy over the binary any time you make a 
 
 Also, yea, the game itself isn't yet quite hooked up into the game server. I'm hoping to do that within this week actually. The API is already defined for moving units around the gameboard remotely, I have to fill in the functionality.
 
-And there is no real authentication on the server yet, except that you have to use a name not already in use. I do have password hashing code actually, but the GTK client just isn't using it. (It does need salt, too. That's issue #4[url:183mywud]https&#58;//github&#46;com/altf4/RealTimeTactics/issues/4[/url:183mywud]) There needs to be a persistent file of valid usernames that the server can read from to authenticate for.
+And there is no real authentication on the server yet, except that you have to use a name not already in use. I do have password hashing code actually, but the GTK client just isn't using it. (It does need salt, too. That's issue #4<https&#58;//github&#46;com/altf4/RealTimeTactics/issues/4>) There needs to be a persistent file of valid usernames that the server can read from to authenticate for.
 
 pkg-config needs both glib-2.0 and gtkmm-3.0 fed into it
 

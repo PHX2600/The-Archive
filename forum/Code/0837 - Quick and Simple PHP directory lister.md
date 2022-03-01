@@ -1,7 +1,7 @@
 ## Quick and Simple PHP directory lister
 Posted by **PHLAK** on Tue June 30th, 2009 12:20:05 AM
 
-Just pushed my new site for my Directory Lister project: [url:2l2ez58v]http&#58;//www&#46;directorylister&#46;com[/url:2l2ez58v]
+Just pushed my new site for my Directory Lister project: <http&#58;//www&#46;directorylister&#46;com>
 
 Directory Lister is a simple PHP based script created to let you list the contents of a directory and all it's sub-directories and allow you to navigate there within. Just download and install Directory Lister to any web directory and have immediate access to all files and sub-direcories under that directory.
 

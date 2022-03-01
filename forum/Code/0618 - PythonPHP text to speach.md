@@ -4,7 +4,7 @@ Posted by **Automated Penguin** on Tue October 14th, 2008 10:16:40 PM
 I wrote a python program that searches the Merriam-Webster site for audio clips of words and plays them in order, creating a crude but hilarious tts program. this is that program ported to PHP
 
 
-[url:c9hruxdm]http&#58;//blastwavelabs&#46;com/Media/Uploads/voice&#46;php?text=hello+phoenix+twenty+six+hundred+and+welcome+to+my+program[/url:c9hruxdm]
+<http&#58;//blastwavelabs&#46;com/Media/Uploads/voice&#46;php?text=hello+phoenix+twenty+six+hundred+and+welcome+to+my+program>
 
 and heres the original python 
 

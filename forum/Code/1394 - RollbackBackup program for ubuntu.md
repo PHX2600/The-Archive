@@ -30,7 +30,7 @@ Its free. Check it.
 
 Posted by **PHLAK** on Fri April 1st, 2011 12:11:49 PM
 
-This might be a good place to start for Ubuntu: [url:2cuqreg1]http&#58;//zeitgeist-project&#46;com/[/url:2cuqreg1]
+This might be a good place to start for Ubuntu: <http&#58;//zeitgeist-project&#46;com/>
 
 --------------------------------------------------------------------------------
 

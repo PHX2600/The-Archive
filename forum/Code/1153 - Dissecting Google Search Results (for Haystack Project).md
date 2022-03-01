@@ -23,7 +23,7 @@ Posted by **dxh** on Fri November 27th, 2009 12:30:08 AM
 
 If anyone wants to take a look at the whole result page's source, this is what Opera's DragonFly page inspector pulled up.
 
-[url:34609mxw]http&#58;//pastebin&#46;com/f455a00ff[/url:34609mxw]
+<http&#58;//pastebin&#46;com/f455a00ff>
 
 It seems that DragonFly found something useful that Firebug didn't seem to:
 
@@ -68,7 +68,7 @@ Posted by **dxh** on Fri December 11th, 2009 10:07:58 PM
 
 [quote=&quot;dxh&quot;:2z7lo0rc]TrackMeNot was able to get clickthrough obfuscation working at one point, but Google changed the code and its broken, according to one of their developers.  They seem to have similar aims with HayProj, although their algorithms and technical goals seem slightly different.[/quote:2z7lo0rc]
 
-Speaking of which, their code is CC licensed, so I can post it here.  Credits: [url:2z7lo0rc]http&#58;//mrl&#46;nyu&#46;edu/~dhowe/trackmenot/[/url:2z7lo0rc].  It used to work, they're working on updating it soon:
+Speaking of which, their code is CC licensed, so I can post it here.  Credits: <http&#58;//mrl&#46;nyu&#46;edu/~dhowe/trackmenot/>.  It used to work, they're working on updating it soon:
 
 [code:2z7lo0rc]  /***************************************************************************
   Get the redirect link, so it appears we click on a link
@@ -154,7 +154,7 @@ Posted by **dxh** on Sat January 2nd, 2010 12:55:06 AM
 
 [quote=&quot;PHLAK&quot;:a9ogn1j6]The point of putting it up on Github is so others (aka, myself) can help.[/quote:a9ogn1j6]
 
-Alright, I got over my don't-check-broken-code-in mentality and posted what I have so far in the alpha directory: [url:a9ogn1j6]http&#58;//hmm&#46;ph/9pu[/url:a9ogn1j6]
+Alright, I got over my don't-check-broken-code-in mentality and posted what I have so far in the alpha directory: <http&#58;//hmm&#46;ph/9pu>
 
 Basically, I can't get the button on the page to call a function in the GS script, despite defining the webSearch function as part of the window object where it should be accesible anywhere.  The examples of this sort of thing I've seen in other scripts involve building the html button element and adding it on the page, which I might end up doing.
 

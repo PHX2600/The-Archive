@@ -62,7 +62,7 @@ You're getting an ASCII string with data like so:
 \x5C\x78\x35\x38           \x5C\x78\x35\x39
 (without the spaces)
 you can pop open your file in a hex editor to check it out.
-I tried to google how to read binary in perl, but I cried as I tried to scan over and make sense of this: [url:1fn8koie]http&#58;//oreilly&#46;com/catalog/cookbook/chapter/ch08&#46;html#19069[/url:1fn8koie]
+I tried to google how to read binary in perl, but I cried as I tried to scan over and make sense of this: <http&#58;//oreilly&#46;com/catalog/cookbook/chapter/ch08&#46;html#19069>
 
 Its late and I'm feeling a little loopy, but I will continue... and hope I'm not misinterpreting your situation <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
 

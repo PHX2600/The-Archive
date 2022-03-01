@@ -21,7 +21,7 @@ Yup, got that when you sent it to me on twitter.  So far good stuff, I just fini
 
 Posted by **Nrezinorn** on Thu January 8th, 2009 05:55:07 PM
 
-[url:2b1sj2ji]http&#58;//letmegooglethatforyou&#46;com/?q=java+beginner+tutorial[/url:2b1sj2ji]   <!-- s:roll: --><img src="{SMILIES_PATH}/icon_rolleyes.gif" alt=":roll:" title="Rolling Eyes" /><!-- s:roll: -->
+<http&#58;//letmegooglethatforyou&#46;com/?q=java+beginner+tutorial>   <!-- s:roll: --><img src="{SMILIES_PATH}/icon_rolleyes.gif" alt=":roll:" title="Rolling Eyes" /><!-- s:roll: -->
 
 --------------------------------------------------------------------------------
 

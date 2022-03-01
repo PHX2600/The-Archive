@@ -37,7 +37,7 @@ Enjoy.
 
 Posted by **PHLAK** on Mon July 12th, 2010 03:00:35 PM
 
-This was just released a day or two ago: [url:2luff4bk]http&#58;//appinventor&#46;googlelabs&#46;com/about/[/url:2luff4bk]
+This was just released a day or two ago: <http&#58;//appinventor&#46;googlelabs&#46;com/about/>
 
 --------------------------------------------------------------------------------
 
