@@ -27,7 +27,7 @@ This breaks \x58\x59 up into pieces defined by the RegEx of /\\x/ (\x) so we get
 Posted by **nak** on Mon February 6th, 2012 10:43:38 AM
 
 yeah, working with binary in scripting languages is something that has to be learned over time <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
-I encountered similar issues with python and got around it using the [url=http&#58;//docs&#46;python&#46;org/library/struct&#46;html:192f12zn]'struct' module[/url:192f12zn] -- &quot;Interpret strings as packed binary data&quot;
+I encountered similar issues with python and got around it using the [http&#58;//docs&#46;python&#46;org/library/struct&#46;html]('struct' module) -- &quot;Interpret strings as packed binary data&quot;
 
 Scripting languages deal with strings mostly and _try_ to make people's lives easier <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
 

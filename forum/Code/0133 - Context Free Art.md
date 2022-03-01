@@ -3,7 +3,7 @@ Posted by **nak** on Wed July 2nd, 2008 06:04:28 PM
 
 Link: <!-- m --><a class="postlink" href="http://www.contextfreeart.org">http://www.contextfreeart.org</a><!-- m -->
 
-[url=http&#58;//fc02&#46;deviantart&#46;com/fs26/f/2008/184/b/b/Lollipops_by_naknak&#46;jpg:2pfauq9x]Click here to look at the*edit* high res picture from the grammar below![/url:2pfauq9x]
+[http&#58;//fc02&#46;deviantart&#46;com/fs26/f/2008/184/b/b/Lollipops_by_naknak&#46;jpg](Click here to look at the*edit* high res picture from the grammar below!)
 
 [code:2pfauq9x]startshape FINAL
 

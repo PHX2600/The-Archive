@@ -3,7 +3,7 @@ Posted by **Valveritas** on Thu February 14th, 2008 04:14:01 AM
 
 I guess this thread is mostly directed to PHLAK and XlogicX. 
 
-Recently I installed [url=http&#58;//www&#46;phpbb&#46;com/mods/db/index&#46;php?i=misc&amp;mode=display&amp;contrib_id=1699:jnv58mom]a mod[/url:jnv58mom] for an older version of phpBB.  XlogicX installed such a mod on the old board but couldn't quite  remember at the time which one it was.
+Recently I installed [http&#58;//www&#46;phpbb&#46;com/mods/db/index&#46;php?i=misc&amp;mode=display&amp;contrib_id=1699](a mod) for an older version of phpBB.  XlogicX installed such a mod on the old board but couldn't quite  remember at the time which one it was.
 
 Anyway, it didn't quite work as I was hoping.  I was suppose to be able to modify the questions from the admin panel. There was a section for Textual Confirmation but when clicking on it did not display correctly. No fields or anything to modify. Other than that, it seemed to work (like when you register). But I couldn't change the questions.
 
@@ -46,7 +46,7 @@ it is very possible to write a bot that does it by getting the page, parsing the
 
 Posted by **Valveritas** on Fri February 15th, 2008 08:27:47 PM
 
-I installed a simple mod recently that just adds another confirmation code.  No bots so far.  I found [url=http&#58;//www&#46;phpbb&#46;com/community/viewtopic&#46;php?f=1&amp;t=427852:1tab2f4p]a thread of information[/url:1tab2f4p] that pretty much has everything I need to know for defense.
+I installed a simple mod recently that just adds another confirmation code.  No bots so far.  I found [http&#58;//www&#46;phpbb&#46;com/community/viewtopic&#46;php?f=1&amp;t=427852](a thread of information) that pretty much has everything I need to know for defense.
 
 It would probably be fun to write a bot though. <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 

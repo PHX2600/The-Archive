@@ -5,7 +5,7 @@ Just pushed my new site for my Directory Lister project: [url:2l2ez58v]http&#58;
 
 Directory Lister is a simple PHP based script created to let you list the contents of a directory and all it's sub-directories and allow you to navigate there within. Just download and install Directory Lister to any web directory and have immediate access to all files and sub-direcories under that directory.
 
-Check it out and spread the word on [b:2l2ez58v][url=http&#58;//digg&#46;com/d1vFso:2l2ez58v]Digg[/url:2l2ez58v][/b:2l2ez58v] or [b:2l2ez58v][url=http&#58;//www&#46;reddit&#46;com/submit/?url=http&#58;//www&#46;directorylister&#46;comtitle=Quick%20and%20Simple%20PHP%20Directory%20Lister:2l2ez58v]Reddit[/url:2l2ez58v][/b:2l2ez58v] if you feel so inclined.
+Check it out and spread the word on [b:2l2ez58v][http&#58;//digg&#46;com/d1vFso:2l2ez58v]Digg[/url:2l2ez58v][/b:2l2ez58v] or [b:2l2ez58v][url=http&#58;//www&#46;reddit&#46;com/submit/?url=http&#58;//www&#46;directorylister&#46;comtitle=Quick%20and%20Simple%20PHP%20Directory%20Lister](Reddit)[/b:2l2ez58v] if you feel so inclined.
 
 --------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Posted by **PHLAK** on Tue June 30th, 2009 11:05:36 PM
 
 [quote=&quot;Evil1&quot;:3sk5wwjd]Hey PHLAK, you sure you wrote that directory list yourself? Looks copied from evoluted.net Here is a comparison.[/quote:3sk5wwjd]
 
-Well you caught me.  I was, in fact, inspired by an earlier version of that very directory lister ([url=http&#58;//www&#46;chriskankiewicz&#46;com/documents/phx2600/dlister&#46;zip:3sk5wwjd]See the exact version here[/url:3sk5wwjd]).  However, if you'd take a look at the code underneath, you'll probably notice it is substantially different.  Also, at the time I started coding my script, nowhere in his script or on his site could I find a copyright notice for the script.  Lastly, I find it hard to believe that any coder can honestly say that they never borrowed code from other sources, ESPECIALLY on the web.
+Well you caught me.  I was, in fact, inspired by an earlier version of that very directory lister ([http&#58;//www&#46;chriskankiewicz&#46;com/documents/phx2600/dlister&#46;zip](See the exact version here)).  However, if you'd take a look at the code underneath, you'll probably notice it is substantially different.  Also, at the time I started coding my script, nowhere in his script or on his site could I find a copyright notice for the script.  Lastly, I find it hard to believe that any coder can honestly say that they never borrowed code from other sources, ESPECIALLY on the web.
 
 --------------------------------------------------------------------------------
 
@@ -110,7 +110,7 @@ but when I go here I can view the directory contents
 
 Noted.  Will be fixing this and updating the script (hopefully) later today.
 
-Also, you may consider joining [url=http&#58;//github&#46;com/:5hy5epiz]GitHub[/url:5hy5epiz], forking [url=http&#58;//github&#46;com/PHLAK/directory-lister/tree/master:5hy5epiz]my project,[/url:5hy5epiz] making the changes and committing it yourself.  Then I will merge your commits back into the master and everyone is happy!  After all, that's the power of open source!
+Also, you may consider joining [http&#58;//github&#46;com/:5hy5epiz]GitHub[/url:5hy5epiz], forking [url=http&#58;//github&#46;com/PHLAK/directory-lister/tree/master](my project,) making the changes and committing it yourself.  Then I will merge your commits back into the master and everyone is happy!  After all, that's the power of open source!
 
 
 [quote=&quot;hexatex&quot;:5hy5epiz]btw you need to put the updated coed on your website, and the folder with the css and images is not in the zips on your site[/quote:5hy5epiz]

@@ -13,9 +13,9 @@ I tried Cake a while ago but ran into too many esoteric errors when I was trying
 
 Posted by **PHLAK** on Mon November 15th, 2010 09:21:26 AM
 
-I work with [url=http&#58;//framework&#46;zend&#46;com/:1odbw9eq]Zend Framework[/url:1odbw9eq] on a daily basis at work.  This is a fantastic framework with lots of power, flexibility and extensibility.  Zend Framework is backed by the leading PHP company [url=http&#58;//www&#46;zend&#46;com/en/:1odbw9eq]Zend[/url:1odbw9eq] and has a large community and long history to back itself up.  The initial learning curve is probably steeper than others, but there's nothing that we haven't been able to with this framework.
+I work with [http&#58;//framework&#46;zend&#46;com/:1odbw9eq]Zend Framework[/url:1odbw9eq] on a daily basis at work.  This is a fantastic framework with lots of power, flexibility and extensibility.  Zend Framework is backed by the leading PHP company [url=http&#58;//www&#46;zend&#46;com/en/](Zend) and has a large community and long history to back itself up.  The initial learning curve is probably steeper than others, but there's nothing that we haven't been able to with this framework.
 
-Another PHP framework I've heard a lot of good things about is [url=http&#58;//kohanaframework&#46;org/:1odbw9eq]Kohana[/url:1odbw9eq].  This framework is designed to be lightweight, fast and secure.  While I've only fiddled with this one myself, it seems like it might be a better alternative than Zend Framework for the beginner to intermediate PHP developer.
+Another PHP framework I've heard a lot of good things about is [http&#58;//kohanaframework&#46;org/](Kohana).  This framework is designed to be lightweight, fast and secure.  While I've only fiddled with this one myself, it seems like it might be a better alternative than Zend Framework for the beginner to intermediate PHP developer.
 
 While I've never used them myself, when it comes to CakePHP and CodeIgniter I've only heard bad things from high level developers.  I'd avoid them like that plague.
 

@@ -1,7 +1,7 @@
 ## Twigga -python cgi hack
 Posted by **nak** on Wed August 31st, 2011 01:07:57 AM
 
-Check out [url=http&#58;//fgsfds&#46;com/~ctoledo/cgi-bin/twigga?query=2600&amp;row_mult=2:3qbvhpwc]twigga[/url:3qbvhpwc]!!
+Check out [http&#58;//fgsfds&#46;com/~ctoledo/cgi-bin/twigga?query=2600&amp;row_mult=2](twigga)!!
  <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 2600????????(???)?
 

@@ -80,7 +80,7 @@ Posted by **nak** on Mon January 30th, 2012 06:46:51 PM
 
 [quote=&quot;AltF4&quot;:1xjgd72r]Eclipse just uses makefiles for building, so you ought to be able to just hit &quot;make&quot; and build everything yourself.[/quote:1xjgd72r]
 
-you mean hit &quot;make&quot; in eclipse or [url=http&#58;//linux&#46;about&#46;com/library/cmd/blcmdl1_make&#46;htm:1xjgd72r]make[/url:1xjgd72r]
+you mean hit &quot;make&quot; in eclipse or [http&#58;//linux&#46;about&#46;com/library/cmd/blcmdl1_make&#46;htm](make)
 
 --------------------------------------------------------------------------------
 
@@ -94,7 +94,7 @@ Actually, maybe I can give a mini-presentation on it's current status. Like 5-10
 
 And any contributions of any type and quantity are more than welcome!
 
-[quote=&quot;nak&quot;:105q43g7]you mean hit &quot;make&quot; in eclipse or [url=http&#58;//linux&#46;about&#46;com/library/cmd/blcmdl1_make&#46;htm:105q43g7]make[/url:105q43g7][/quote:105q43g7]
+[quote=&quot;nak&quot;:105q43g7]you mean hit &quot;make&quot; in eclipse or [http&#58;//linux&#46;about&#46;com/library/cmd/blcmdl1_make&#46;htm](make)[/quote:105q43g7]
 
 The second. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) --> The standard &quot;make&quot; command, straight on your terminal. It runs the Makefile which will automagically build the project. If this doesn't work, then I'd like to know about it because it &quot;should&quot; just build straight from the makefile. (Assuming to apt-get all the dependencies listed in the HACKING file)
 
@@ -152,7 +152,7 @@ Contains the g++ command, just had to stick -I/usr/lib/glib-2.0/include/ in fron
 
 EDIT3:
 Success!
-[url=http&#58;//www&#46;zimagez&#46;com/zimage/screenshot-020212-012602&#46;php:1g07pr0d][img:1g07pr0d]http&#58;//www&#46;zimagez&#46;com/miniature/screenshot-020212-012602&#46;php[/img:1g07pr0d][/url:1g07pr0d]
+[http&#58;//www&#46;zimagez&#46;com/zimage/screenshot-020212-012602&#46;php:1g07pr0d][img](http&#58;//www&#46;zimagez&#46;com/miniature/screenshot-020212-012602&#46;php[/img:1g07pr0d])
 
 EDIT4:
 Ok so I've got a couple clients running and the server, and I can't start a match <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( -->

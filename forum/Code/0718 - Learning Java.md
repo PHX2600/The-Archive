@@ -41,7 +41,7 @@ Well, I purchased &quot;Java for Dummies&quot;, and IMHO it was a damn good $20 
 
 So between the 3 physical books, one e-book and multitudes of information available online I think I'll be set. I'm already approximately 2/3 - 3/4 done with &quot;Java for Dummies&quot;, and I've learned a lot, can't wait to keep learning!
 
-If anyone cares, you can go [url=http&#58;//www&#46;chriskankiewicz&#46;com/documents/index&#46;php?dir=java/testing/:1du5llio]here[/url:1du5llio] to see a number of the tutorials I've been doing from &quot;Java for Dummies.&quot;
+If anyone cares, you can go [http&#58;//www&#46;chriskankiewicz&#46;com/documents/index&#46;php?dir=java/testing/](here) to see a number of the tutorials I've been doing from &quot;Java for Dummies.&quot;
 
 --------------------------------------------------------------------------------
 

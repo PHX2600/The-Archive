@@ -33,6 +33,6 @@ I ran across a site awhile back, that has many small C programs, with the goal o
 
 Posted by **reteo** on Wed November 5th, 2008 10:16:30 PM
 
-Well, I don't know if you are interested in using existing tools to make your games, but the [url=http&#58;//www&#46;inform-fiction&#46;org:2tkz4cj3]Inform Language[/url:2tkz4cj3] is designed to take a special form of source code, and compile it into modules that will run in any Z-Code (read: [url=http&#58;//en&#46;wikipedia&#46;org/wiki/Infocom:2tkz4cj3]Infocom[/url:2tkz4cj3]) interpreter.
+Well, I don't know if you are interested in using existing tools to make your games, but the [http&#58;//www&#46;inform-fiction&#46;org:2tkz4cj3]Inform Language[/url:2tkz4cj3] is designed to take a special form of source code, and compile it into modules that will run in any Z-Code (read: [url=http&#58;//en&#46;wikipedia&#46;org/wiki/Infocom](Infocom)) interpreter.
 
 I toyed with the idea of this and also of a mud, but haven't had the real determination to see it through.  Good luck, though.  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
