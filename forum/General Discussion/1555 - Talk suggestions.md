@@ -6,7 +6,7 @@ I KNOW there are knowledgeable people who would probably give some wonderful pre
 I figure'd I'd start a thread where we could post talk suggestions and people could step up and take a suggestion and turn it into a reality.
 
 My suggestions:
-[list:1tscau6n]1. Language primers: Every language has a purpose, the more you know, or know the case-uses for, the better programmer you can be (ie, one hasn't written an MVC web framework in assembly, or has programed a 16 bit microcontroller with Ruby [or... well... [url=http://rad.rubyforge.org/:1tscau6n]Ruby->C->machine... neat>) Know of obscure, not so obscure languages, frameworks, libraries that people should add to their toolkit?
+[list:1tscau6n]1. Language primers: Every language has a purpose, the more you know, or know the case-uses for, the better programmer you can be (ie, one hasn't written an MVC web framework in assembly, or has programed a 16 bit microcontroller with Ruby [or... well... [http://rad.rubyforge.org/](Ruby->C->machine... neat)) Know of obscure, not so obscure languages, frameworks, libraries that people should add to their toolkit?
 
 2. Git(hub): a quick run down for git familiarize the audience with basic syntax/vocab/methodology: push, pull, commit? FORK?!
 

@@ -22,7 +22,7 @@ You'd think for 9k it'd have more than a 2 year warranty though.... sigh.
 
 Posted by **PHLAK** on Fri August 26th, 2011 01:32:00 PM
 
-[url=http://www.newegg.com/Product/Product.aspx?Item=N82E16833124190:21h6itti]Linksys WRT54GL> + ( [url=http://dd-wrt.com/:21h6itti]DD-WRT> or [url=http://www.polarcloud.com/tomato:21h6itti]Tomato> ) = The best router I've ever owned (and at a good price too)
+[http://www.newegg.com/Product/Product.aspx?Item=N82E16833124190:21h6itti]Linksys WRT54GL> + ( [url=http://dd-wrt.com/:21h6itti]DD-WRT> or [url=http://www.polarcloud.com/tomato](Tomato) ) = The best router I've ever owned (and at a good price too)
 
 The only reason I replaced this router is because it only uses 10/100 ports and doesn't do wireless N.  I actually still use it as a dedicated G/B access point, just not my main router.  Never had any hardware problems with it, and as long as you use one of the aforementioned custom firmwares, the software is rock solid and feature rich as well.
 

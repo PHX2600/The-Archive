@@ -27,7 +27,7 @@ Him, thanks AA. I DO use that add-on... but I'd much rather use that add-on than
 
 Posted by **PHLAK** on Thu October 20th, 2011 10:21:14 AM
 
-Firefox has had [url=http://kb.mozillazine.org/Chrome_URLs:3rmkgq4b]chrome URLs> for XUL components since before the Google Chrome browser existed.  This likely has to do with one of your extensions.  A quick [url=http://www.google.com/support/forum/p/Chrome/thread?tid=639a8625d5743e88&amp;hl=en:3rmkgq4b]Google search> indicates it may be related to the YouTube Downloader add-on.
+Firefox has had [http://kb.mozillazine.org/Chrome_URLs:3rmkgq4b]chrome URLs> for XUL components since before the Google Chrome browser existed.  This likely has to do with one of your extensions.  A quick [url=http://www.google.com/support/forum/p/Chrome/thread?tid=639a8625d5743e88&amp;hl=en](Google search) indicates it may be related to the YouTube Downloader add-on.
 
 --------------------------------------------------------------------------------
 

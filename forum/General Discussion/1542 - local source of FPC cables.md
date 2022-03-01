@@ -63,14 +63,14 @@ Posted by **nak** on Mon January 30th, 2012 06:48:55 PM
 Oh well, going to have to head down there this weekend anyway. Need to find some odds and ends, maybe try to get a nice rackmount signal generator while I'm there too, one of these days I'm going to get their helium laser if 
 it's still there when I have a bunch of money and nothing better to spend it on.[/quote:gq52qj1u]
 
-[url=http://nakedproof.blogspot.com/2012/01/huge-scr.html:gq52qj1u]I got a deal <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->>
+[http://nakedproof.blogspot.com/2012/01/huge-scr.html](I got a deal <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->)
 
 --------------------------------------------------------------------------------
 
 Posted by **Junker** on Wed February 1st, 2012 07:43:58 AM
 
 [quote="nak":33llf6bh]
-[url=http://nakedproof.blogspot.com/2012/01/huge-scr.html:33llf6bh]I got a deal <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->>[/quote:33llf6bh]
+[http://nakedproof.blogspot.com/2012/01/huge-scr.html](I got a deal <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":D" title="Very Happy" /><!-- s:D -->)[/quote:33llf6bh]
 
 WOWSER !!! That thing it HUUUUGE !
 

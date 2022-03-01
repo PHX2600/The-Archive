@@ -30,7 +30,7 @@ You might start with googling "CIA google" or "DARPA google" or "NSA Google" as 
 Posted by **nak** on Fri August 19th, 2011 03:32:08 PM
 
 [quote="CultLeadr":3sdzeqs8]...start with googling "CIA google" or "DARPA google" or "NSA Google"...[/quote:3sdzeqs8]
-[url=http://gwei.org/index.php:3sdzeqs8]Ouroborus  <!-- s:o --><img src="{SMILIES_PATH}/icon_e_surprised.gif" alt=":o" title="Surprised" /><!-- s:o -->>
+[http://gwei.org/index.php](Ouroborus  <!-- s:o --><img src="{SMILIES_PATH}/icon_e_surprised.gif" alt=":o" title="Surprised" /><!-- s:o -->)
 
 --------------------------------------------------------------------------------
 
@@ -119,7 +119,7 @@ Posted by **nak** on Wed January 25th, 2012 12:35:34 PM
 
 Old topic I know, but ran into this just now: <http://www.extremetech.com/computing/115425-google-is-fubar>
 
-[quote:2235zpny]Starting in March, your search and surf habits across all of Google’s products will be combined to form the mother of all behavioral profiles. On March 1, Search will know the contents of your email and the videos you watch on YouTube. If you use Google Docs for work, Search will know which company you work for and which industry you work in.[/quote:2235zpny]
+[quote:2235zpny]Starting in March, your search and surf habits across all of Googleï¿½s products will be combined to form the mother of all behavioral profiles. On March 1, Search will know the contents of your email and the videos you watch on YouTube. If you use Google Docs for work, Search will know which company you work for and which industry you work in.[/quote:2235zpny]
 
 FUD
 
@@ -144,7 +144,7 @@ This should [u:18ypaiik]assure all of you[/u:18ypaiik] that Google is perfectly 
 
 Posted by **PHLAK** on Mon January 30th, 2012 03:30:56 PM
 
-[url=http://smarterware.org/9303/google-going-evil-is-the-godwins-law-of-tech-commentary:3c2xnlax]I'll just leave this here.>
+[http://smarterware.org/9303/google-going-evil-is-the-godwins-law-of-tech-commentary](I'll just leave this here.)
 
 --------------------------------------------------------------------------------
 

@@ -17,7 +17,7 @@ Without a Starbucks card, only UDP on 53 is allowed, so at least you can use dig
 
 Posted by **dual** on Sun June 8th, 2008 03:51:52 PM
 
-From Slashdot, [url=http://wifinetnews.com/archives/008345.html:2rf1qho7]T-Mobile Sues Starbucks over Premature Free Wi-Fi>.
+From Slashdot, [http://wifinetnews.com/archives/008345.html](T-Mobile Sues Starbucks over Premature Free Wi-Fi).
 
 --------------------------------------------------------------------------------
 

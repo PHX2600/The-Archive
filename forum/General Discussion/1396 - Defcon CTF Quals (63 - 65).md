@@ -27,7 +27,7 @@ Hope to see you!
 
 Posted by **PHLAK** on Fri May 6th, 2011 09:26:50 AM
 
-I'm so totally interested but that's the weekend of [url=http://www.desertbash.com/:dquxocoy]Desertbash> which I've already paid for and am obligated to go. =(
+I'm so totally interested but that's the weekend of [http://www.desertbash.com/](Desertbash) which I've already paid for and am obligated to go. =(
 
 --------------------------------------------------------------------------------
 

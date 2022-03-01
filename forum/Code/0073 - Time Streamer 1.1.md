@@ -3,7 +3,7 @@ Posted by **Valveritas** on Sat March 1st, 2008 06:53:39 PM
 
 I'm done.  This is the &quot;final&quot; version of Time Streamer.
 
-[size=150:soeyiuqa][http&#58;//www&#46;4shared&#46;com/file/39468516/6d3b0983/TIMESTREAMER_11&#46;html](DOWNLOAD)[/size:soeyiuqa]
+[size=150:soeyiuqa][http://www.4shared.com/file/39468516/6d3b0983/TIMESTREAMER_11&#46;html](DOWNLOAD)[/size:soeyiuqa]
 
 
 Here's a recap of what it is:
@@ -41,7 +41,7 @@ think this is a major leap in batch file game programming, and a fun game!
 
 Even more info in the README.TXT
 
-[http&#58;//www&#46;phx2600&#46;org/forum/viewtopic&#46;php?t=1516](Previous phx2600 thread here).
+[http://www.phx2600.org/forum/viewtopic&#46;php?t=1516](Previous phx2600 thread here).
 
 And here's what has changed in this &quot;final&quot; version (if you care to read all that!):
 
@@ -171,7 +171,7 @@ When I start my next major project it'll definitely be in a different language! 
 
 Posted by **Valveritas** on Tue March 4th, 2008 09:37:27 AM
 
-Good god.  This time around I decided to post about Time Streamer on a new forum that I don't usually visit, [http&#58;//www&#46;godlikeproductions&#46;com](Godlike).  About two seconds after I made a post about Time Streamer, it was removed and my IP was banned.  HOLY COW.  I was given an email address (<!-- e --><a href="mailto:bans@godlikeproductions.com">bans@godlikeproductions.com</a><!-- e -->)
+Good god.  This time around I decided to post about Time Streamer on a new forum that I don't usually visit, [http://www.godlikeproductions.com](Godlike).  About two seconds after I made a post about Time Streamer, it was removed and my IP was banned.  HOLY COW.  I was given an email address (<!-- e --><a href="mailto:bans@godlikeproductions.com">bans@godlikeproductions.com</a><!-- e -->)
 so I wrote to it.  Here's how the conversation went (I'm -GO):
 
 &gt; Godlike,
@@ -228,7 +228,7 @@ Interesting forum though, I posted some responses to the &quot;Moses was high on
 
 Posted by **Valveritas** on Thu April 10th, 2008 07:06:30 PM
 
-I'm not sure how interesting it is.  [http&#58;//www&#46;godlikeproductions&#46;com/forum1/message13772/pg1](They have a 1342 page &quot;OFFICIAL&quot; George Noory Sucks Thread).  Yawn.
+I'm not sure how interesting it is.  [http://www.godlikeproductions.com/forum1/message13772/pg1](They have a 1342 page &quot;OFFICIAL&quot; George Noory Sucks Thread).  Yawn.
 
 I notice they have a disclaimer that says &quot;We do not discriminate against the mentally ill!&quot;.  I wonder, before they ban you, how do they tell?  Maybe they just discriminate against the mentally sane, and that's how it works.  I guess that would explain the heavy traffic.    <!-- s:lol: --><img src="{SMILIES_PATH}/icon_lol.gif" alt=":lol:" title="Laughing" /><!-- s:lol: -->
 
@@ -261,7 +261,7 @@ Posted by **Valveritas** on Mon November 3rd, 2008 02:41:23 PM
 I've uploaded the latest radio clip of Oliver Williams discussing John Titor on Coast 2 Coast AM with George Noory on march 20 of this year.   I've removed the commercials. 
 
 
-[http&#58;//www&#46;4shared&#46;com/file/69186415/b232648b/C2C2008_3_20_Oliver_Williams_on_John_Titor_No_commericals&#46;html](&gt;&gt; Listen or Download here &lt;&lt;)
+[http://www.4shared.com/file/69186415/b232648b/C2C2008_3_20_Oliver_Williams_on_John_Titor_No_commericals&#46;html](&gt;&gt; Listen or Download here &lt;&lt;)
 
 
 Recap from C2C:
@@ -269,7 +269,7 @@ Recap from C2C:
 
 Williams believes that we could be living in an alternate reality that was changed by Titor's visit in 1975. Specifically, he did something to stop Y2K from happening, said Williams. According to the timeline Titor shared, America entered a Civil War between 2005 and 2010, then became involved in a global war which culminated in a nuclear exchange in 2015. By 2036, the population had been reduced by one third, society is more agrarian and the US capitol is in Nebraska. The country is divided up into five main areas, with states having more control.
 
-Williams noted that the upcoming [http&#58;//www&#46;dailymail&#46;co&#46;uk/pages/live/articles/news/news&#46;html?in_article_id=512733&amp;in_page_id=1770:1g6dcgac]research[/url:1g6dcgac] at CERN may lead to unexpected breakthroughs in time travel-- and that Titor had posted comments connecting experiments at CERN to the development of time travel. Williams has created several podcasts related to the Titor story, which can be viewed on [url=http&#58;//www&#46;youtube&#46;com/user/JohnTitorDotCom](You Tube).&quot;
+Williams noted that the upcoming [http://www.dailymail&#46;co&#46;uk/pages/live/articles/news/news&#46;html?in_article_id=512733&amp;in_page_id=1770:1g6dcgac]research[/url:1g6dcgac] at CERN may lead to unexpected breakthroughs in time travel-- and that Titor had posted comments connecting experiments at CERN to the development of time travel. Williams has created several podcasts related to the Titor story, which can be viewed on [url=http&#58;//www&#46;youtube.com/user/JohnTitorDotCom](You Tube).&quot;
 
 
 The game of Time Streamer was of course inspired around this story.  

@@ -5,9 +5,9 @@ does anyone know where i can buy a new motherboard for my broken xbox 360s
 
 _____________________________________________________________________
 
-[url=http://www.r4king.com/microsoft-xbox-360-wired-controller-for-windows.html:340n3hvo]xbox wired controller for pc>
-[url=http://www.r4king.com/microsoft-xbox-360-kinect.html:340n3hvo]kinect>
-[url=http://www.r4king.com/pc-wireless-gaming-receiver-white-for-xbox360.html:340n3hvo]xbox 360 wireless receiver>
+[http://www.r4king.com/microsoft-xbox-360-wired-controller-for-windows.html](xbox wired controller for pc)
+[http://www.r4king.com/microsoft-xbox-360-kinect.html](kinect)
+[http://www.r4king.com/pc-wireless-gaming-receiver-white-for-xbox360.html](xbox 360 wireless receiver)
 
 --------------------------------------------------------------------------------
 

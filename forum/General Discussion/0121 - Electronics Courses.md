@@ -15,7 +15,7 @@ Posted by **Ugly** on Sat June 14th, 2008 01:51:25 PM
 
 Posted by **nak** on Wed June 18th, 2008 03:43:05 PM
 
-I wouldn't go to Gateway CC, they will expel you if you make a [url=http://www.btard.org/LASTDAY/glowing_cock.jpg:36q9fkqn]mushroom shaped reading lamp> with your electronics knowledge. I didn't see any courses for electronics, that's why I had to take A+ certification II ... it's annoying when the teacher teaches LIES.
+I wouldn't go to Gateway CC, they will expel you if you make a [http://www.btard.org/LASTDAY/glowing_cock.jpg](mushroom shaped reading lamp) with your electronics knowledge. I didn't see any courses for electronics, that's why I had to take A+ certification II ... it's annoying when the teacher teaches LIES.
 
 I actually don't know where someone would go to take a course on electronics basics  <!-- s:| --><img src="{SMILIES_PATH}/icon_neutral.gif" alt=":|" title="Neutral" /><!-- s:| -->
 

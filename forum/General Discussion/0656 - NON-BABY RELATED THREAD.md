@@ -7,7 +7,7 @@ One of the things that bugged me about having a ham radio is that the average pe
 
 So.. 
 
-I modded my [url=http://www.icomamerica.com/en/products/amateur/mobile/2200h/default.aspx:1n4uoj7v]ICOM IC-2200H> to transmit from 118-175MHz instead of the standard 2 meter 144-148MHz Ham band. which happens to cover the 162-163MHz Weather Channel band. As you may know you can get a simple weather band receiver for under 20 dollars from many places.
+I modded my [http://www.icomamerica.com/en/products/amateur/mobile/2200h/default.aspx](ICOM IC-2200H) to transmit from 118-175MHz instead of the standard 2 meter 144-148MHz Ham band. which happens to cover the 162-163MHz Weather Channel band. As you may know you can get a simple weather band receiver for under 20 dollars from many places.
 
 So I found a weather channel frequency that wasn't in use in mesa 
 (Channels 3 and 6 are completely empty and channel 1 is only partially audible)
@@ -52,7 +52,7 @@ Posted by **Automated Penguin** on Wed November 19th, 2008 02:02:02 PM
 
 ITS COMPLETE, well mostly.
 
-[url=http://www.youtube.com/watch?v=SjS5bn3ol4w:1cutcc33]Here's a vid demo of a few of the functions.>
+[http://www.youtube.com/watch?v=SjS5bn3ol4w](Here's a vid demo of a few of the functions.)
 
 At the last minute it kicked me in the wang, I thought I burnt out the microcontroller but it turns out the compiler I was using was just spewing out bad hex code, what a relief! <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 

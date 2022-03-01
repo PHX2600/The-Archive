@@ -23,7 +23,7 @@ my @name = (&quot;irc&#46;efnet&#46;net&quot;, &quot;irc&#46;dal&#46;net&quot;, 
 my $names = &quot;3&quot;; #number of entries in @name, minus one&#46;
 
 # Populate this list with ONLY open, recursive dns servers&#46;
-# http&#58;//www&#46;dnsstuff&#46;com/ - Block their cookies to use the site w/o paying&#46;
+# http://www.dnsstuff.com/ - Block their cookies to use the site w/o paying&#46;
 my $nameservers;
 my @nameservers = (&quot;205&#46;234&#46;223&#46;168&quot;, &quot;64&#46;202&#46;117&#46;121&quot;, &quot;208&#46;80&#46;184&#46;69&quot;, &quot;200&#46;255&#46;59&#46;150&quot;,
                    &quot;38&#46;99&#46;131&#46;12&quot;, &quot;207&#46;41&#46;41&#46;248&quot;, &quot;69&#46;225&#46;174&#46;141&quot;, &quot;68&#46;87&#46;96&#46;3&quot;,

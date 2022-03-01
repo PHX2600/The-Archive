@@ -20,7 +20,7 @@ my $browser = LWP&#58;&#58;UserAgent-&gt;new;
 $browser-&gt;agent(&quot;Mozilla/4&#46;0 (compatible; MSIE 7&#46;0; Windows NT 5&#46;1)&quot;);
 
 
-my $url = 'http&#58;//www&#46;legacy&#46;com/AZCENTRAL/GB/GuestbookView&#46;aspx?PersonId=';
+my $url = 'http://www.legacy.com/AZCENTRAL/GB/GuestbookView&#46;aspx?PersonId=';
 
 
 for (my $i = $beg; $i &lt;= $end; $i++) {

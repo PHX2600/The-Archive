@@ -96,7 +96,7 @@ Posted by **PHLAK** on Thu August 25th, 2011 04:19:24 PM
 
 [quote="CultLeadr":1b8ikzum]Yeah, some email addresses I use for random signups, some for online ordering, some for banking, and some for personal use.  I don't want my youtube emails to be mixed in with any of those other things.  If any one of my email addresses is comprised in someway, it will not affect everything else I do online.  I already learned a lesson once as far as that goes.[/quote:1b8ikzum]
 
-You may want to consider using Google's [url=http://googleblog.blogspot.com/2011/02/advanced-sign-in-security-for-your.html:1b8ikzum]two factor authentication> then.  This is probably the best thing you can do for securing your Google account security.
+You may want to consider using Google's [http://googleblog.blogspot.com/2011/02/advanced-sign-in-security-for-your.html](two factor authentication) then.  This is probably the best thing you can do for securing your Google account security.
 
 --------------------------------------------------------------------------------
 

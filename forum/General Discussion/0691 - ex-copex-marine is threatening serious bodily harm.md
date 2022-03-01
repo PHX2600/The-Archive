@@ -49,7 +49,7 @@ Haha, tuff stuff <!-- s:D --><img src="{SMILIES_PATH}/icon_e_biggrin.gif" alt=":
 
 Posted by **Ugly** on Mon December 8th, 2008 04:38:42 PM
 
-Are you sure he's an ex cop/marine and not just a [url=http://lonelymachines.org/mall-ninjas/:11p6m8la]mall> [url=http://lonelymachines.org/2006/08/12/return-of-the-iron-fist-of-the-mall-ninja/:11p6m8la]ninja>?
+Are you sure he's an ex cop/marine and not just a [http://lonelymachines.org/mall-ninjas/:11p6m8la]mall> [url=http://lonelymachines.org/2006/08/12/return-of-the-iron-fist-of-the-mall-ninja/](ninja)?
 
 --------------------------------------------------------------------------------
 

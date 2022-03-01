@@ -57,7 +57,7 @@ Posted by **nak** on Wed August 31st, 2011 12:33:33 PM
 
 Yay ^.^
 Well, I may still try and find a way to hit up first Friday's (via Light Rail perhaps?) ... but will aim to exist at Lola's for the meeting this time around.
-([url=http://www.youtube.com/watch?v=BX1atmP0Gn0&amp;feature=related:1515ip3g]I love that Kink's song>)
+([http://www.youtube.com/watch?v=BX1atmP0Gn0&amp;feature=related](I love that Kink's song))
 ...I may have some various electronic music circuits that I could talk about, seeing that I am going to be doing a little talk at heatsync laboratory Thursday (if anyone wants to go, there's gonna be people talking about electronic music projects and methods at HSL)
 
 --------------------------------------------------------------------------------

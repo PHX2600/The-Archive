@@ -27,9 +27,9 @@ I'm a web geek by trade and am the maintainer of the phx2600.org site and server
 
 --------------------------------------------------------------------------------
 
-Posted by **Fm²** on Tue April 3rd, 2012 02:05:53 AM
+Posted by **Fmï¿½** on Tue April 3rd, 2012 02:05:53 AM
 
-Hi, I'm Fm²
+Hi, I'm Fmï¿½
 
 i'm a web designer,kinda computer geek, I dont play any videogames but i do like unlocking game consoles, I occasionally do pentes and i'll probably attend to DefCon for the first time this year  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) --> .
 
@@ -83,6 +83,6 @@ Hi wook! I don't know if I'll show up this time, but welcome to the forums!
 
 Posted by **DizzyTheGnome** on Thu July 26th, 2012 12:31:45 AM
 
-My name is Dizzy. I am a Datacenter Gnome from the area. I'm hitchhiking to DEFCON with the help of kind strangers and having them post pictures of my travels to my [url=https://www.facebook.com/pages/Dizzy-The-Datacenter-Gnome/423097177729156:kpz724ym]Facebook page>.
+My name is Dizzy. I am a Datacenter Gnome from the area. I'm hitchhiking to DEFCON with the help of kind strangers and having them post pictures of my travels to my [https://www.facebook.com/pages/Dizzy-The-Datacenter-Gnome/423097177729156](Facebook page).
 
 I've asked to find my way back to your group when I'm done. If I get there, please let Ugly know.

@@ -35,7 +35,7 @@ DRAC	Dynamic Resource Allocation Control (3GPP)
 DRAC	DEERS/Rapids Assistance Center
 DRAC	Dealer Rent A Car
 DRAC	Data Reduction and Analysis Center
-DRAC	Direcção Regional de Ambiente do Centro (Portugal)
+DRAC	Direcï¿½ï¿½o Regional de Ambiente do Centro (Portugal)
 DRAC	Data Reduction and Analysis Cell
 DRAC	Digital Ratio Adapter Circuit (ABS brake systems)
 
@@ -56,7 +56,7 @@ With the idea in mind that "more is better" DARC is not a competitor to HeatSync
 Things are just in the formative stages at this point. You have the the opportunity to help shape the DARC.  As @terrordrone posted, we are going to have a weekly chat to get things rolling. Bring you ideas and join us online on Wednesday evenings at 8:30 PM (or 20:30 for you alternate time format fans).
 
 
-The room for the chat will be posted on the web site:  [url=http://theDARC.org:tuzn5cf4]theDARC.org>.
+The room for the chat will be posted on the web site:  [http://theDARC.org](theDARC.org).
 
 --------------------------------------------------------------------------------
 

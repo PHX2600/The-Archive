@@ -3,7 +3,7 @@ Posted by **Ugly** on Wed February 20th, 2008 12:35:21 AM
 
 A man hacked the live display at a train station in The Netherlands to show his phone's camera view in real time.
 
-[url=http://www.youtube.com/v/zcmmFQGxMNU&amp;rel=0&amp;border=0":2r8qyvc3]Check it out here>
+[http://www.youtube.com/v/zcmmFQGxMNU&amp;rel=0&amp;border=0"](Check it out here)
 
 --------------------------------------------------------------------------------
 

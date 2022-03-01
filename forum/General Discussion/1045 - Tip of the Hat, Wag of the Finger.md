@@ -2,7 +2,7 @@
 Posted by **TheWill** on Mon August 3rd, 2009 04:23:05 AM
 
 **Tip of the Hat:**
-   Great to meet a couple of you at defcon this past weekend! (Sorry, I don't remember any names.) It was my first actual hacker meetup and it did great things for my psyche (6,700 people just like me?!?) I'll try to make it to the meetup this Friday. Also, if you're a twitter type person, please shoot me a message [url=http://www.twitter.com/willbradley:22qtwyeo]@willbradley> since forums are about 10 years behind the online socializing curve. I r nice, n r do not b bitin.
+   Great to meet a couple of you at defcon this past weekend! (Sorry, I don't remember any names.) It was my first actual hacker meetup and it did great things for my psyche (6,700 people just like me?!?) I'll try to make it to the meetup this Friday. Also, if you're a twitter type person, please shoot me a message [http://www.twitter.com/willbradley](@willbradley) since forums are about 10 years behind the online socializing curve. I r nice, n r do not b bitin.
 
 **Wag of the Finger:**
    (Re: attached screenshot of "my password") Srsly guys? This kind of security hole is silly for a hacker group to be continuing... If you'd like me to hack phpbb to remove the little HERE IS YOUR PASSWORD WHICH YOU PROBABLY ALSO USE FOR OTHER FORUMS AND ONLINE SERVICES TOO note I'd be happy to help out <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
@@ -91,7 +91,7 @@ Not to mention that SMTP email transmission and email databases themselves are f
 
 Posted by **PHLAK** on Sat August 15th, 2009 01:05:49 PM
 
-I had a brief look around the code and didn't see where it was generating the email text.  I could probably find it if I really dug deep, but that might take a while.  If anyone would like to help me find where it's echoing this, grab a copy of the PHPBB code from [url=http://www.ohloh.net/p/phpbb/download?filename=phpBB-3.0.5.zip:11yhff8x]here> and give me a file path/name and line number and I'll get this done.
+I had a brief look around the code and didn't see where it was generating the email text.  I could probably find it if I really dug deep, but that might take a while.  If anyone would like to help me find where it's echoing this, grab a copy of the PHPBB code from [http://www.ohloh.net/p/phpbb/download?filename=phpBB-3.0.5.zip](here) and give me a file path/name and line number and I'll get this done.
 
 --------------------------------------------------------------------------------
 

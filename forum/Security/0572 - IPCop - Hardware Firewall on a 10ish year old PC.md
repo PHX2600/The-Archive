@@ -17,7 +17,7 @@ A secure Linux distribution managed through a web-interface. It turns an old PC 
 
 **Pics**
 
-[url=http://www.flickr.com/photos/kankie/2897432811:3la3vbp7][img:3la3vbp7]http://farm4.static.flickr.com/3191/2897432811_f379a00d59.jpg[/img:3la3vbp7]>
+[http://www.flickr.com/photos/kankie/2897432811:3la3vbp7][img](http://farm4.static.flickr.com/3191/2897432811_f379a00d59.jpg[/img:3la3vbp7])
 
 More @ <http://www.web-geek.net/posts/2008/10/02/turn-your-old-pc-into-a-hardware-firewall-with-ipcop/>
 

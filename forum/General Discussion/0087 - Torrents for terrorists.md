@@ -1,7 +1,7 @@
 ## Torrents for terrorists
 Posted by **Rax** on Sun March 30th, 2008 08:08:25 PM
 
-I can't believe it.  "They" are saying that the money made from copying stuff (music, movie, software, etc) is going in to the pockets of "the Terrorists".  Check [url=http://news.yahoo.com/s/ap/20080328/ap_on_hi_te/mukasey_intellectual_property:1d911w6y]this> out.
+I can't believe it.  "They" are saying that the money made from copying stuff (music, movie, software, etc) is going in to the pockets of "the Terrorists".  Check [http://news.yahoo.com/s/ap/20080328/ap_on_hi_te/mukasey_intellectual_property](this) out.
 
 The sad part is the media will get a hold of this, and parrot it enough times until the public believes it.
 
@@ -49,7 +49,7 @@ I am pretty sure you are talking about the "Souqs" which is a bizarre, like a sw
 
 Posted by **ArchAngel** on Mon April 14th, 2008 06:01:20 PM
 
-*cough* [url=http://www.google.com/search?hl=en&amp;q=define%3Abazaar:35c7y3g9]bazaar>* 
+*cough* [http://www.google.com/search?hl=en&amp;q=define%3Abazaar](bazaar)* 
 
 Although it is bizarre too, so really both spellings apply. ^_-.
 
@@ -59,7 +59,7 @@ Although it is bizarre too, so really both spellings apply. ^_-.
 
 Posted by **ThatGuy** on Tue April 15th, 2008 12:50:39 AM
 
-[quote="ArchAngel":2kl5o1a6]*cough* [url=http://www.google.com/search?hl=en&amp;q=define%3Abazaar:2kl5o1a6]bazaar>* 
+[quote="ArchAngel":2kl5o1a6]*cough* [http://www.google.com/search?hl=en&amp;q=define%3Abazaar](bazaar)* 
 
 Although it is bizarre too, so really both spellings apply. ^_-.
 

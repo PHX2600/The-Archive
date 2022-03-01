@@ -317,7 +317,7 @@ UPDATE: they copped out on me, not sure where to go from here, I put the new stu
 
 Posted by **PHLAK** on Mon May 21st, 2012 10:28:50 AM
 
-[url=http://dilbert.com/fast/2012-05-19/:2v6k5geo][img:2v6k5geo]http://i.imgur.com/33V0l.gif[/img:2v6k5geo]>
+[http://dilbert.com/fast/2012-05-19/:2v6k5geo][img](http://i.imgur.com/33V0l.gif[/img:2v6k5geo])
 
 --------------------------------------------------------------------------------
 

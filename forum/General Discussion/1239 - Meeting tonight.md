@@ -23,4 +23,4 @@ See you there.[/quote:16n9kkcm]
 
 Actually its in Chandler, but close enough to Gilbert to legitimize a visit to the e61 espresso bar at Liberty Market. :9
 
-I missed out on this one, due to Idaho, but I heard there was much papercrafting and [url=http://www.flickr.com/photos/teamdroid/4586716486/in/pool-heatsynclabs:16n9kkcm]hexapod robots> to be had.
+I missed out on this one, due to Idaho, but I heard there was much papercrafting and [http://www.flickr.com/photos/teamdroid/4586716486/in/pool-heatsynclabs](hexapod robots) to be had.

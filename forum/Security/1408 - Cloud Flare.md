@@ -69,4 +69,4 @@ I lol'd
 
 Posted by **nak** on Sat March 3rd, 2012 07:31:39 PM
 
-[url=http://siliconangle.com/blog/2012/03/02/cloudflare-speaks-out-about-their-experience-hosting-lulzsec/:a4p9bnyn]CloudFlare Speaks Out About Their Experience Hosting LulzSec>
+[http://siliconangle.com/blog/2012/03/02/cloudflare-speaks-out-about-their-experience-hosting-lulzsec/](CloudFlare Speaks Out About Their Experience Hosting LulzSec)

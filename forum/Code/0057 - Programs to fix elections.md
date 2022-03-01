@@ -9,7 +9,7 @@ This is definitely [http&#58;//video&#46;google&#46;com/videoplay?docid=58514944
 
 Posted by **phigan** on Fri February 8th, 2008 07:43:34 AM
 
-I posted a link to [http&#58;//www&#46;bradblog&#46;com/?p=4066](this story) in another thread. It's similarly interesting <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
+I posted a link to [http://www.bradblog.com/?p=4066](this story) in another thread. It's similarly interesting <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
 --------------------------------------------------------------------------------
 

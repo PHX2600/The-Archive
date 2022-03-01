@@ -79,7 +79,7 @@ Posted by **nak** on Tue June 24th, 2008 01:55:51 PM
 
 War. War never changes...  <!-- s:lol: --><img src="{SMILIES_PATH}/icon_lol.gif" alt=":lol:" title="Laughing" /><!-- s:lol: --> 
 
-It's always going to be relevant!  Im not sure if its more relevant though... Every little modification or trick is being called a "hack" now a days ([url=http://www.amazon.com/s/ref=nb_ss_gw?url=search-alias%3Dstripbooks&amp;field-keywords=hacks&amp;x=0&amp;y=0:3keingy7]Amazon search for hacks brings up 159,580 results>).  I'm sure cultleadr has some good real world experience, I've just read a couple books on the 'good ol' days.  I bet if someone had access to credit records and telephone switches, the amount of power you had could defiantly corrupt a young person into doing things for the dirty money.
+It's always going to be relevant!  Im not sure if its more relevant though... Every little modification or trick is being called a "hack" now a days ([http://www.amazon.com/s/ref=nb_ss_gw?url=search-alias%3Dstripbooks&amp;field-keywords=hacks&amp;x=0&amp;y=0](Amazon search for hacks brings up 159,580 results)).  I'm sure cultleadr has some good real world experience, I've just read a couple books on the 'good ol' days.  I bet if someone had access to credit records and telephone switches, the amount of power you had could defiantly corrupt a young person into doing things for the dirty money.
 
 I wont even try and draw a line between 'hacking' and 'cracking'...
 

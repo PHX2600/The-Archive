@@ -1,7 +1,7 @@
 ## 3M Window Film and... terrorism?
 Posted by **dual** on Wed March 5th, 2008 10:36:58 PM
 
-I'm looking at window film for the fast approaching summer and happened upon 3M's [url=http://solutions.3m.com/wps/portal/3M/en_US/WF/3MWindowFilms/:vn3u4msl]site>. And looky what I found:
+I'm looking at window film for the fast approaching summer and happened upon 3M's [http://solutions.3m.com/wps/portal/3M/en_US/WF/3MWindowFilms/](site). And looky what I found:
 
 [quote:vn3u4msl]3M Window Films are designed to:
 ...

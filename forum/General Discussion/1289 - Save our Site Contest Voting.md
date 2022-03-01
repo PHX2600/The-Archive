@@ -9,15 +9,15 @@ This poll will run for 14 days from posting (should end on the 22nd). One vote p
 I shouldn't have to mention this but if I see a large number of new accounts being registered and voting (especially if they're using throw away email addresses) I will ban those accounts and invalidate their votes.  If you are new(ish) and/or this is your first post, make mention to that below so I know that your aren't a bot/vote-spammer.
 
 **[u:3affrqt7]Entries[/u:3affrqt7]**
-1) [url=http://www.phx2600.org/archive/2010/07/24/citizen-journalism-a-media-hacking-primer/:3affrqt7]Citizen Journalism (A Media Hacking Primer)> by, Terrordrone
-2) [url=http://www.phx2600.org/archive/2010/07/24/kool-numberz-quickest-cool/:3affrqt7]Kool Numberz: The Quickest Way to Cool!> by, dual_parallel
-3) [url=http://www.phx2600.org/archive/2010/07/26/joys-rooting-android-phone/:3affrqt7]The Joys of Rooting Your Android Phone> by, HalfSight
-4) [url=http://www.phx2600.org/archive/2010/08/01/joys-rooting-android-phone-part-2/:3affrqt7]The Joys of Rooting Your Android Phone Part 2> by, HalfSight
-5) [url=http://www.phx2600.org/archive/2010/08/30/password-cracking-unix/:3affrqt7]Password Cracking on UNIX> by, maxwell
-6) [url=http://www.phx2600.org/archive/2010/09/07/binary-planting-attacks-microsoft-security-advisory-2269637/:3affrqt7]Binary Planting Attacks – Microsoft Security Advisory (2269637)> by, ninlar
-7) [url=http://www.phx2600.org/wiki/index.php/Death_Ray_Project:3affrqt7]Death Ray Project> by, Penguin
-8) [url=http://www.phx2600.org/wiki/index.php/FRS_radio_bug:3affrqt7]FRS radio bug> by, Terrordrone
-9) [url=http://www.phx2600.org/wiki/index.php/Satan%27s_Fart_Machine:3affrqt7]Satan's Fart Machine> by, Terrordrone
+1) [http://www.phx2600.org/archive/2010/07/24/citizen-journalism-a-media-hacking-primer/](Citizen Journalism (A Media Hacking Primer)) by, Terrordrone
+2) [http://www.phx2600.org/archive/2010/07/24/kool-numberz-quickest-cool/](Kool Numberz: The Quickest Way to Cool!) by, dual_parallel
+3) [http://www.phx2600.org/archive/2010/07/26/joys-rooting-android-phone/](The Joys of Rooting Your Android Phone) by, HalfSight
+4) [http://www.phx2600.org/archive/2010/08/01/joys-rooting-android-phone-part-2/](The Joys of Rooting Your Android Phone Part 2) by, HalfSight
+5) [http://www.phx2600.org/archive/2010/08/30/password-cracking-unix/](Password Cracking on UNIX) by, maxwell
+6) [url=http://www.phx2600.org/archive/2010/09/07/binary-planting-attacks-microsoft-security-advisory-2269637/:3affrqt7]Binary Planting Attacks ï¿½ Microsoft Security Advisory (2269637)> by, ninlar
+7) [http://www.phx2600.org/wiki/index.php/Death_Ray_Project](Death Ray Project) by, Penguin
+8) [http://www.phx2600.org/wiki/index.php/FRS_radio_bug](FRS radio bug) by, Terrordrone
+9) [http://www.phx2600.org/wiki/index.php/Satan%27s_Fart_Machine](Satan's Fart Machine) by, Terrordrone
 
 --------------------------------------------------------------------------------
 

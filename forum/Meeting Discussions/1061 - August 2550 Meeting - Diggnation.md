@@ -3,7 +3,7 @@ Posted by **PHLAK** on Wed August 12th, 2009 07:25:03 PM
 
 **What:** Tempe, Arizona Diggnation
 **When:** Wednesday, August 19th, 2009
-**Where:** 700 W Rio Salado Pkwy Tempe, AZ 85281([url=http://maps.google.com/maps?hl=en&amp;q=700+W.+Rio+Salado+Parkway+Tempe,+Arizona&amp;ie=UTF8&amp;ll=33.432462,-111.950147&amp;spn=0.008613,0.01605&amp;z=16&amp;iwloc=A:39hqjiom]Map>)
+**Where:** 700 W Rio Salado Pkwy Tempe, AZ 85281([http://maps.google.com/maps?hl=en&amp;q=700+W.+Rio+Salado+Parkway+Tempe,+Arizona&amp;ie=UTF8&amp;ll=33.432462,-111.950147&amp;spn=0.008613,0.01605&amp;z=16&amp;iwloc=A](Map))
 **Who:** Anyone and everyone who wants to go
 
 Only link I know of for the event: <http://www.facebook.com/event.php?eid=102487581826> (if you have a better one, post it please)
@@ -58,14 +58,14 @@ Posted by **AltF4Warrior** on Wed August 19th, 2009 06:33:59 PM
 
 For those of you reading this before leaving for Diggnation:
 
-My fiancée and I are the ones wearing Diggnation and EFF shirts, respectively. My hair is considerably less spikey this time 'round though... got it cut.
+My fiancï¿½e and I are the ones wearing Diggnation and EFF shirts, respectively. My hair is considerably less spikey this time 'round though... got it cut.
 
 Feel free to bump into us and say hi. I'm bad with faces, and really bad with names. So I may not be able to pick out any of you guys. <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
 
 For those of you reading this after returning from Diggnation:
 
-My fiancée and I were the ones wearing Diggnation and EFF shirts, respectively. My hair was considerably less spikey this time 'round though... got it cut.
+My fiancï¿½e and I were the ones wearing Diggnation and EFF shirts, respectively. My hair was considerably less spikey this time 'round though... got it cut.
 
 Too bad we didn't meet up. But it sure was awesome, right? How about when Alex took off his pants and stuck Kevin's laptop down his underwear. Yea, that was awesome...
 

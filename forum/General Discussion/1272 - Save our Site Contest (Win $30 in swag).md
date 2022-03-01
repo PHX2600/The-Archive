@@ -26,13 +26,13 @@ Posted by **PHLAK** on Mon July 26th, 2010 07:16:23 PM
 
 Four entries so far:
 
-[url=http://www.phx2600.org/wiki/index.php/Death_Ray_Project:2hgpxvw2]Death Ray wiki entry> by, Penguin
+[http://www.phx2600.org/wiki/index.php/Death_Ray_Project](Death Ray wiki entry) by, Penguin
 
-[url=http://www.phx2600.org/archive/2010/07/24/citizen-journalism-a-media-hacking-primer/:2hgpxvw2]Citizen Journalism (A Media Hacking Primer)> by, Terrordrone
+[http://www.phx2600.org/archive/2010/07/24/citizen-journalism-a-media-hacking-primer/](Citizen Journalism (A Media Hacking Primer)) by, Terrordrone
 
-[url=http://www.phx2600.org/archive/2010/07/24/kool-numberz-quickest-cool/:2hgpxvw2]Kool Numberz: The Quickest Way to Cool!> by, dual_parallel
+[http://www.phx2600.org/archive/2010/07/24/kool-numberz-quickest-cool/](Kool Numberz: The Quickest Way to Cool!) by, dual_parallel
 
-[url=http://www.phx2600.org/archive/2010/07/26/joys-rooting-android-phone/:2hgpxvw2]The Joys of Rooting Your Android Phone> by, HalfSight
+[http://www.phx2600.org/archive/2010/07/26/joys-rooting-android-phone/](The Joys of Rooting Your Android Phone) by, HalfSight
 
 Keep up the great work guys!
 

@@ -1,11 +1,11 @@
 ## Quick and Simple PHP directory lister
 Posted by **PHLAK** on Tue June 30th, 2009 12:20:05 AM
 
-Just pushed my new site for my Directory Lister project: <http&#58;//www&#46;directorylister&#46;com>
+Just pushed my new site for my Directory Lister project: <http://www.directorylister.com>
 
 Directory Lister is a simple PHP based script created to let you list the contents of a directory and all it's sub-directories and allow you to navigate there within. Just download and install Directory Lister to any web directory and have immediate access to all files and sub-direcories under that directory.
 
-Check it out and spread the word on [b:2l2ez58v][http&#58;//digg&#46;com/d1vFso:2l2ez58v]Digg[/url:2l2ez58v][/b:2l2ez58v] or [b:2l2ez58v][url=http&#58;//www&#46;reddit&#46;com/submit/?url=http&#58;//www&#46;directorylister&#46;comtitle=Quick%20and%20Simple%20PHP%20Directory%20Lister](Reddit)[/b:2l2ez58v] if you feel so inclined.
+Check it out and spread the word on [b:2l2ez58v][http&#58;//digg&#46;com/d1vFso:2l2ez58v]Digg[/url:2l2ez58v][/b:2l2ez58v] or [b:2l2ez58v][url=http://www.reddit&#46;com/submit/?url=http&#58;//www&#46;directorylister.comtitle=Quick%20and%20Simple%20PHP%20Directory%20Lister](Reddit)[/b:2l2ez58v] if you feel so inclined.
 
 --------------------------------------------------------------------------------
 
@@ -35,7 +35,7 @@ Posted by **PHLAK** on Tue June 30th, 2009 11:05:36 PM
 
 [quote=&quot;Evil1&quot;:3sk5wwjd]Hey PHLAK, you sure you wrote that directory list yourself? Looks copied from evoluted.net Here is a comparison.[/quote:3sk5wwjd]
 
-Well you caught me.  I was, in fact, inspired by an earlier version of that very directory lister ([http&#58;//www&#46;chriskankiewicz&#46;com/documents/phx2600/dlister&#46;zip](See the exact version here)).  However, if you'd take a look at the code underneath, you'll probably notice it is substantially different.  Also, at the time I started coding my script, nowhere in his script or on his site could I find a copyright notice for the script.  Lastly, I find it hard to believe that any coder can honestly say that they never borrowed code from other sources, ESPECIALLY on the web.
+Well you caught me.  I was, in fact, inspired by an earlier version of that very directory lister ([http://www.chriskankiewicz.com/documents/phx2600/dlister&#46;zip](See the exact version here)).  However, if you'd take a look at the code underneath, you'll probably notice it is substantially different.  Also, at the time I started coding my script, nowhere in his script or on his site could I find a copyright notice for the script.  Lastly, I find it hard to believe that any coder can honestly say that they never borrowed code from other sources, ESPECIALLY on the web.
 
 --------------------------------------------------------------------------------
 

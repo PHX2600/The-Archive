@@ -15,7 +15,7 @@ Maybe we should cycle back to borders.
 
 Posted by **PHLAK** on Thu August 12th, 2010 04:55:53 PM
 
-So it appears yet another one of our meeting locations has gone belly up.  It was announced yesterday by Jargon and [url=http://twitter.com/dualisanoob/status/21009091003:b65l35kg]confirmed today by Dual> that Unlimited Coffee  has closed it's doors for good.  That makes Unlimited the fourth venue to be hit by the "PHX2600 Curse" following Nick's Pizza, Cartel Coffee and The Willow House.  So here we go again, please make your suggestions and leave your comments for new meeting locations.
+So it appears yet another one of our meeting locations has gone belly up.  It was announced yesterday by Jargon and [http://twitter.com/dualisanoob/status/21009091003](confirmed today by Dual) that Unlimited Coffee  has closed it's doors for good.  That makes Unlimited the fourth venue to be hit by the "PHX2600 Curse" following Nick's Pizza, Cartel Coffee and The Willow House.  So here we go again, please make your suggestions and leave your comments for new meeting locations.
 
 [size=200:b65l35kg]**Proposed Meeting Locations:**[/size:b65l35kg]
 

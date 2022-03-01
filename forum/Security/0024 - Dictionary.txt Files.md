@@ -220,4 +220,4 @@ finally i got something new here, maybe i should take this one..
 
 
 ________________
-[url=http://www.chacha.com/language-lookup/definitions/:hoimv7fo]Define>
+[http://www.chacha.com/language-lookup/definitions/](Define)

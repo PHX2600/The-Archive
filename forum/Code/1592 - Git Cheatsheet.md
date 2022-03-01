@@ -130,7 +130,7 @@ I can't speak for Nak, but Git was originally designed by Linus Torvalds as the 
 Posted by **nak** on Thu July 12th, 2012 01:00:43 PM
 
 Hey chums!
-Just got this in my inbox: <http&#58;//www&#46;codeschool&#46;com/courses/try-git> I haven't tried it, but I've taken their rails for zombies course and it wasn't too bad. I figure this might help break the ice.
+Just got this in my inbox: <http://www.codeschool.com/courses/try-git> I haven't tried it, but I've taken their rails for zombies course and it wasn't too bad. I figure this might help break the ice.
 
 Also I PM'd you with infos wook <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 

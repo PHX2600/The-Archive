@@ -20,7 +20,7 @@ I think Nak has/had a Ham operating license, you should talk to him.
 
 Posted by **nak** on Mon July 7th, 2008 05:16:03 PM
 
-Yeah I have a technician's license, expires 2011, I really haven't done much with ham radio lately besides [url=http://youtube.com/watch?v=hby-elbUfkY:1bb7p99i]spin an antenna around for my grandpa.>
+Yeah I have a technician's license, expires 2011, I really haven't done much with ham radio lately besides [http://youtube.com/watch?v=hby-elbUfkY](spin an antenna around for my grandpa.)
 
 --------------------------------------------------------------------------------
 
@@ -34,15 +34,15 @@ just really wanna know what you can do with it
 
 Posted by **nak** on Tue July 8th, 2008 12:28:04 AM
 
-Well if you get a ham radio license, it just means you are legally able to experiment/communicate/and just USE [url=http://www.radiotimeline.com/n2knl-USbands.gif:3o0fzyht]certain frequencies of the EM spectrum>.
+Well if you get a ham radio license, it just means you are legally able to experiment/communicate/and just USE [http://www.radiotimeline.com/n2knl-USbands.gif](certain frequencies of the EM spectrum).
 
 Some interesting things with ham radio:
-[url=http://www.hamquick.com/tutorial_index.php?id=14:3o0fzyht]Repeaters>
-[url=http://en.wikipedia.org/wiki/Packet_radio:3o0fzyht]Packet/APRS>
-[url=http://www.amsat.org/amsat-new/index.php:3o0fzyht]Satellite>
-[url=http://www.ansr.org/:3o0fzyht]Arizona Near Space Research>(balloons with radios and other equipment)
-[url=http://www.dxzone.com/cgi-bin/dir/jump2.cgi?ID=2949:3o0fzyht]Television>
-[url=http://home.att.net/~jleggio/projects/rdf/rdf.htm:3o0fzyht]Radio direction finding (find the fox transmitter)>
+[http://www.hamquick.com/tutorial_index.php?id=14](Repeaters)
+[http://en.wikipedia.org/wiki/Packet_radio](Packet/APRS)
+[http://www.amsat.org/amsat-new/index.php](Satellite)
+[http://www.ansr.org/](Arizona Near Space Research)(balloons with radios and other equipment)
+[http://www.dxzone.com/cgi-bin/dir/jump2.cgi?ID=2949](Television)
+[http://home.att.net/~jleggio/projects/rdf/rdf.htm](Radio direction finding (find the fox transmitter))
 
 And just like talking to people (phone), chewing bacon... morse code (CW)... other data like RTTY, PSK31
 

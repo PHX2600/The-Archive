@@ -34,14 +34,14 @@ Posted by **Valveritas** on Tue August 5th, 2008 04:09:48 AM
 
 I encourage all of you to watch the "Fuzzy Logic" episode of La Femme Nikita, one of my favorite episodes.  Not because it has a lot of errors, but because it manages to be - though still fantastic - a fairly accurate depiction of code cracking, computers, and the arrogance sometimes associated with hacking.   It's by no means perfect, but it's quite entertaining, and really gets me in the mood to try and do something similar. 
 
-You might want to download a torrent instead, but you can view the [url=http://us.video.aol.com/player/launcher?ar=us_en_video_748x541_full&amp;mode=1&amp;pmmsid=1458176:211swyp3]episode here>.
+You might want to download a torrent instead, but you can view the [http://us.video.aol.com/player/launcher?ar=us_en_video_748x541_full&amp;mode=1&amp;pmmsid=1458176](episode here).
 
 The web video is kind of buggy for me.  I can't run it in full screen, and if I pause or fast forward it locks up.  Also, doesn't work in Firefox for me and there's quite a few annoying ads. <!-- s:P --><img src="{SMILIES_PATH}/icon_razz.gif" alt=":P" title="Razz" /><!-- s:P -->
 
 So try and find something better if you can.  <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->
 
 Edit:
-[url=http://rapidlibrary.com/index.php?q=fuzzy+logic+La+Femme+Nikita&amp;filetype=0:211swyp3]Rapid Library Download>
+[http://rapidlibrary.com/index.php?q=fuzzy+logic+La+Femme+Nikita&amp;filetype=0](Rapid Library Download)
 
 --------------------------------------------------------------------------------
 

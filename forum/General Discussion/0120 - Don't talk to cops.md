@@ -1,7 +1,7 @@
 ## Don't talk to cops
 Posted by **Valveritas** on Sat June 14th, 2008 03:25:53 AM
 
-[url=http://video.google.com/videoplay?docid=-3186339336387603295&amp;q=&amp;hl=en:dsbkjliv]Don't Talk to Cops, Part 1>
+[http://video.google.com/videoplay?docid=-3186339336387603295&amp;q=&amp;hl=en](Don't Talk to Cops, Part 1)
 [quote:dsbkjliv]
 An law school professor and former criminal defense attorney tells you why you should never agree to be interviewed by the police.
 [/quote:dsbkjliv]

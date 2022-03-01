@@ -19,7 +19,7 @@ Posted by **PHLAK** on Wed July 2nd, 2008 12:53:12 AM
 
 The weather man isn't doing 50% of his job, all his job consists of is standing in front of a large green screen, waving his hands, and reading off a 50% accurate report from an expensive computer system with a futuristic name like DOPPLER, NEXRAD, or SKYNET.
 
-[url=http://itsgonnarain.ytmnd.com/:lsmgn21j]And now, here's Ollie Williams with the Black-u Weather Forecast. Ollie?>
+[http://itsgonnarain.ytmnd.com/](And now, here's Ollie Williams with the Black-u Weather Forecast. Ollie?)
 
 --------------------------------------------------------------------------------
 

@@ -46,7 +46,7 @@ Posted by **Automated Penguin** on Tue October 28th, 2008 01:33:39 PM
 
 Posted by **nak** on Tue October 28th, 2008 01:40:23 PM
 
-[url=http://www.youtube.com/watch?v=QZs6kcSYuk8:2pwv8wgg]hot hot hot hot hot>
+[http://www.youtube.com/watch?v=QZs6kcSYuk8](hot hot hot hot hot)
 
 --------------------------------------------------------------------------------
 

@@ -145,7 +145,7 @@ Posted by **PHLAK** on Wed August 27th, 2008 04:29:17 AM
 
 Does anyone have a good wordlist?!  HA!  You've come to the right place my friend!
 
-[url=http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=24:mjxghnza]http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=24>
+[http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=24](http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=24)
 
 --------------------------------------------------------------------------------
 

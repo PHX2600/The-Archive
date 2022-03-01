@@ -3,13 +3,13 @@ Posted by **Automated Penguin** on Mon October 24th, 2011 11:13:55 AM
 
 In September I demoed some fun projects at the ASU Poly tech campus and forgot to make a post about it.
 
-I presented my [url=https://github.com/Penguin2600/AetherTap:2eofccej]AetherTap> platform with some servo control via android fun.
+I presented my [https://github.com/Penguin2600/AetherTap](AetherTap) platform with some servo control via android fun.
 
 Also the kinect demos which some of you saw at previous meetings.
 
 And finally I had my Jacobs ladder with me. 4+ feet of fun plasma arc action.
 
-Anyway here are some [url=http://www.blastwavelabs.com/files/index.php?dir=Images/polypresentation090811/:2eofccej]pics> of the enthralled masses. I also had the phx2600 URL on the demo screen and a small stack of fliers out.
+Anyway here are some [http://www.blastwavelabs.com/files/index.php?dir=Images/polypresentation090811/](pics) of the enthralled masses. I also had the phx2600 URL on the demo screen and a small stack of fliers out.
 
 --------------------------------------------------------------------------------
 

@@ -1,7 +1,7 @@
 ## PHP Photo Gallery with Thumbnails
 Posted by **PHLAK** on Fri October 10th, 2008 11:42:00 AM
 
-For as long as I can remember I’ve been looking for a simple photo gallery that let you drag and drop images into a folder on your web server and let it do the rest of the work.  After a long time searching with no success I decided why not make one my self.  So I did!  Ladies and gentleman, I give to you CK-Gallery, a simple, yet powerful PHP photo gallery that will basically manage itself for you.
+For as long as I can remember Iï¿½ve been looking for a simple photo gallery that let you drag and drop images into a folder on your web server and let it do the rest of the work.  After a long time searching with no success I decided why not make one my self.  So I did!  Ladies and gentleman, I give to you CK-Gallery, a simple, yet powerful PHP photo gallery that will basically manage itself for you.
 
 [b:307vqo4q]Features[/b:307vqo4q]
 
@@ -9,11 +9,11 @@ For as long as I can remember I’ve been looking for a simple photo gallery that 
 [*:307vqo4q]Automatically creates thumbnails on the fly[/*:m:307vqo4q]
 [*:307vqo4q][b:307vqo4q]NEW![/b:307vqo4q] Dynamic pagination[/*:m:307vqo4q]
 [*:307vqo4q]Automatically generates valid XHTML markup[/*:m:307vqo4q]
-[*:307vqo4q]Doesn’t require a database (MySQL, Postgre, etc.)[/*:m:307vqo4q]
+[*:307vqo4q]Doesnï¿½t require a database (MySQL, Postgre, etc.)[/*:m:307vqo4q]
 [*:307vqo4q]When you delete an image, it will delete the corresponding thumbnail[/*:m:307vqo4q]
 [*:307vqo4q]Creates a log file for reference and debugging[/*:m:307vqo4q][/list:u:307vqo4q]
 
-View the CK-Gallery in action: [url:307vqo4q]http&#58;//www&#46;chriskankiewicz&#46;com/photography&#46;php[/url:307vqo4q]
+View the CK-Gallery in action: [url:307vqo4q]http://www.chriskankiewicz.com/photography&#46;php[/url:307vqo4q]
 
 [code:307vqo4q]&lt;?php
 
@@ -28,7 +28,7 @@ View the CK-Gallery in action: [url:307vqo4q]http&#58;//www&#46;chriskankiewicz&
 
   // START FUNCTIONS
 
-  // Modified from http&#58;//www&#46;findmotive&#46;com/2006/08/29/create-square-image-thumbnails-with-php/
+  // Modified from http://www.findmotive.com/2006/08/29/create-square-image-thumbnails-with-php/
   function createThumb($source,$dest,$thumb_size) {
     $size = getimagesize($source);
     $width = $size&#91;0&#93;;
@@ -147,7 +147,7 @@ View the CK-Gallery in action: [url:307vqo4q]http&#58;//www&#46;chriskankiewicz&
 ?&gt;[/code:307vqo4q]
 [color=#BF0000:307vqo4q][b:307vqo4q]UPDATE: Version 1.0.0 released, check it out![/b:307vqo4q][/color:307vqo4q]
 
-[b:307vqo4q]More information and latest version available @ [url:307vqo4q]http&#58;//www&#46;web-geek&#46;net/ck-gallery[/url:307vqo4q][/b:307vqo4q]
+[b:307vqo4q]More information and latest version available @ [url:307vqo4q]http://www.web-geek.net/ck-gallery[/url:307vqo4q][/b:307vqo4q]
 
 Let me know what you guys think, feed back is always great.  Also, if you have any suggestions for improvement of the gallery or optimization of the code I'd love to hear it too.
 
@@ -173,7 +173,7 @@ Posted by **PHLAK** on Thu November 6th, 2008 12:00:53 AM
 
 [b:1nbmdxtn]VERSION 1.0.0 RELEASED!  CHECK IT OUT!!!
 
-[url:1nbmdxtn]http&#58;//www&#46;web-geek&#46;net/ck-gallery/[/url:1nbmdxtn][/b:1nbmdxtn]
+[url:1nbmdxtn]http://www.web-geek.net/ck-gallery/[/url:1nbmdxtn][/b:1nbmdxtn]
 
 --------------------------------------------------------------------------------
 

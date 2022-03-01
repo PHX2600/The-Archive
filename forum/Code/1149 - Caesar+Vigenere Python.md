@@ -74,6 +74,6 @@ Also, can't you see now why it makes your ciphers stronger if you compress your 
 
 Posted by **Medicine Storm** on Thu December 10th, 2009 09:30:28 AM
 
-Nice. Zaphraud used a similar method to attempt brute-forcing a component of the [http&#58;//www&#46;phx2600&#46;org/forum-archive/viewtopic&#46;php?t=1466](obfusconversation (message 9)). Unfortunately we could not give him full points because of the &quot;statistical&quot; portion of these types of cracks means that sometimes the result is slightly inaccurate.
+Nice. Zaphraud used a similar method to attempt brute-forcing a component of the [http://www.phx2600.org/forum-archive/viewtopic&#46;php?t=1466](obfusconversation (message 9)). Unfortunately we could not give him full points because of the &quot;statistical&quot; portion of these types of cracks means that sometimes the result is slightly inaccurate.
 
 Off topic, but: since the contest was never quite completed and the amount of remaining points available was enough to sway the outcome, we never named a winner. We think it is time to declare a deadline. We'll talk to XlogicX and possibly start a new thread on it.

@@ -11,9 +11,9 @@ MAC filtering is a joke to anyone who knows anything about wireless hacking.
 
 The process I use to getting past this type of security is as follows:
 
-1) [Optional] Use [url=http://www.netstumbler.com:1kvw4l1h]NetStumbler> to determine the channel of the access point you wish to test.
-2) Use [url=http://www.aircrack-ng.org/doku.php:1kvw4l1h]Aircrack-NG> to identify a MAC address connected to the access point you wish to connect to.
-3) Use [url=http://www.klcconsulting.net/smac:1kvw4l1h]SMAC> to spoof your computers MAC address.
+1) [Optional] Use [http://www.netstumbler.com](NetStumbler) to determine the channel of the access point you wish to test.
+2) Use [http://www.aircrack-ng.org/doku.php](Aircrack-NG) to identify a MAC address connected to the access point you wish to connect to.
+3) Use [http://www.klcconsulting.net/smac](SMAC) to spoof your computers MAC address.
 4) Connect
 5) ???
 6) PROFIT!

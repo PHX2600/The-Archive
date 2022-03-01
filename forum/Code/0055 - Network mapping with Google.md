@@ -14,17 +14,17 @@ I bet we have read or heard of the book &quot;Google Hacking for Penetration Tes
 echo &quot;domain&#58;&quot;
 read domain
 
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=1&amp;q=site&#58;www&#46;$domain&quot; &gt; tmp
+lynx -dump &quot;http://www.google.com/search?num=1&amp;q=site&#58;www&#46;$domain&quot; &gt; tmp
 
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=100&amp;q=site&#58;$domain+-www&#46;*&quot; &gt;&gt; tmp
+lynx -dump &quot;http://www.google.com/search?num=100&amp;q=site&#58;$domain+-www&#46;*&quot; &gt;&gt; tmp
 
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=100&amp;start=100&amp;q=site&#58;$domain+-www&#46;*&quot; &gt;&gt; tmp
+lynx -dump &quot;http://www.google.com/search?num=100&amp;start=100&amp;q=site&#58;$domain+-www&#46;*&quot; &gt;&gt; tmp
 
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=100&amp;start=200&amp;q=site&#58;$domain+-www&#46;*&quot; &gt;&gt; tmp
+lynx -dump &quot;http://www.google.com/search?num=100&amp;start=200&amp;q=site&#58;$domain+-www&#46;*&quot; &gt;&gt; tmp
 
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=100&amp;start=300&amp;q=site&#58;$domain+-www&#46;*&quot; &gt;&gt; tmp
+lynx -dump &quot;http://www.google.com/search?num=100&amp;start=300&amp;q=site&#58;$domain+-www&#46;*&quot; &gt;&gt; tmp
 
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?&amp;q=site&#58;ftp&#58;//*&#46;$domain&quot; &gt;&gt; tmp
+lynx -dump &quot;http://www.google.com/search?&amp;q=site&#58;ftp&#58;//*&#46;$domain&quot; &gt;&gt; tmp
 
 sed -n 's/\&#46; http&#58;\/\/&#91;&#91;&#58;alpha&#58;&#93;&#93;*&#46;'$domain'\//&amp; /p' tmp | awk '{print $2}' | sort -u &gt; $domain&#46;dns
 
@@ -70,12 +70,12 @@ if &#91; -z &quot;$1&quot; &#93;; then
         exit
 fi
 
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=1&amp;q=site&#58;www&#46;$1&quot; &gt; $TEMP
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=100&amp;q=site&#58;$1+-www&#46;*&quot; &gt;&gt; $TEMP
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=100&amp;start=100&amp;q=site&#58;$1+-www&#46;*&quot; &gt;&gt; $TEMP
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=100&amp;start=200&amp;q=site&#58;$1+-www&#46;*&quot; &gt;&gt; $TEMP
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?num=100&amp;start=300&amp;q=site&#58;$1+-www&#46;*&quot; &gt;&gt; $TEMP
-lynx -dump &quot;http&#58;//www&#46;google&#46;com/search?&amp;q=site&#58;ftp&#58;//*&#46;$1&quot; &gt;&gt; $TEMP
+lynx -dump &quot;http://www.google.com/search?num=1&amp;q=site&#58;www&#46;$1&quot; &gt; $TEMP
+lynx -dump &quot;http://www.google.com/search?num=100&amp;q=site&#58;$1+-www&#46;*&quot; &gt;&gt; $TEMP
+lynx -dump &quot;http://www.google.com/search?num=100&amp;start=100&amp;q=site&#58;$1+-www&#46;*&quot; &gt;&gt; $TEMP
+lynx -dump &quot;http://www.google.com/search?num=100&amp;start=200&amp;q=site&#58;$1+-www&#46;*&quot; &gt;&gt; $TEMP
+lynx -dump &quot;http://www.google.com/search?num=100&amp;start=300&amp;q=site&#58;$1+-www&#46;*&quot; &gt;&gt; $TEMP
+lynx -dump &quot;http://www.google.com/search?&amp;q=site&#58;ftp&#58;//*&#46;$1&quot; &gt;&gt; $TEMP
 
 sed -n 's/\&#46; http&#58;\/\/&#91;&#91;&#58;alpha&#58;&#93;&#93;*&#46;'$1'\//&amp; /p' $TEMP | awk '{print $2}' | sort -u &gt; $1&#46;dns
 sed -n 's/\&#46; ftp&#58;\/\/&#91;&#91;&#58;alpha&#58;&#93;&#93;*&#46;'$1'\//&amp; /p' $TEMP | awk '{print $2}' | sort -u &gt;&gt; $1&#46;dns

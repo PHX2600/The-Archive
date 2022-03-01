@@ -1,7 +1,7 @@
 ## Cell Fone Security
 Posted by **ArchAngel** on Mon May 12th, 2008 04:45:07 PM
 
-Mad props to [url=http://en.wikipedia.org/wiki/Bruce_Schneier:1p6stylz]Bruce Schneier> for linking these in [url=http://www.schneier.com/blog/archives/2008/05/cell_phone_spyi_1.html:1p6stylz]his blog> -- interesting enough that I thought I'd share with you all here:
+Mad props to [http://en.wikipedia.org/wiki/Bruce_Schneier:1p6stylz]Bruce Schneier> for linking these in [url=http://www.schneier.com/blog/archives/2008/05/cell_phone_spyi_1.html](his blog) -- interesting enough that I thought I'd share with you all here:
 
 First up, Flexispy is apparently a service (only in Europe?) that allows their clients to enter a mobile phone number and then listen in on the microphone. Pretty afternow-ish.
 <!-- m --><a class="postlink" href="http://www.flexispy.com/">http://www.flexispy.com/</a><!-- m -->

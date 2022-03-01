@@ -26,9 +26,9 @@ Anyone is free to use this script unrestricted; However, I advise websites of me
 // http&#58;//thekealshow&#46;com/
 //
 // Please review the Gnu Public License, Thank you&#46; 
-// The GPL can be located online at http&#58;//www&#46;gnu&#46;org/copyleft/gpl&#46;html
+// The GPL can be located online at http://www.gnu.org/copyleft/gpl&#46;html
 */
-$mtg=file_get_contents('http&#58;//www&#46;2600&#46;com/meetings/mtg&#46;html');
+$mtg=file_get_contents('http://www.2600.com/meetings/mtg&#46;html');
 $mtg=substr($mtg,strpos($mtg,'&lt;PRE&gt;'));
 $mtg=str_replace(&quot;\r\n&quot;,&quot;\n&quot;,$mtg);
 $ln=explode(&quot;\n&quot;,$mtg);

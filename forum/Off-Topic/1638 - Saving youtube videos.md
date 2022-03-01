@@ -7,7 +7,7 @@ Has anyone noticed this is currently not possible?
 
 Posted by **PHLAK** on Mon August 6th, 2012 05:48:23 PM
 
-I'm sure this is done on purpose for legal/copyright reasons.  However, you can always [url=http://www.vikitech.com/950/stream-convert-and-save-youtube-videos-using-vlc-media-player:1rwftfcz]use trusty ol' VLC to save those Youtube videos>.
+I'm sure this is done on purpose for legal/copyright reasons.  However, you can always [http://www.vikitech.com/950/stream-convert-and-save-youtube-videos-using-vlc-media-player](use trusty ol' VLC to save those Youtube videos).
 
 --------------------------------------------------------------------------------
 

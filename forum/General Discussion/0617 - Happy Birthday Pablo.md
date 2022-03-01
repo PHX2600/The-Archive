@@ -13,7 +13,7 @@ Posted by **PHLAK** on Wed October 15th, 2008 03:42:04 AM
 
 LOLOL!!!
 
-Happy birthday Pablo, and thanks for introducing me to PHP back during the oppressive days while working together!  I think you've seen my [url=http://www.web-geek.net/ck-gallery/:45ikuuis]photo gallery>, couldn't have done it with our your motivation!
+Happy birthday Pablo, and thanks for introducing me to PHP back during the oppressive days while working together!  I think you've seen my [http://www.web-geek.net/ck-gallery/](photo gallery), couldn't have done it with our your motivation!
 
 --------------------------------------------------------------------------------
 

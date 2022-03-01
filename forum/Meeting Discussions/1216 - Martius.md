@@ -21,7 +21,7 @@ I'll very likely be there.
 
 Posted by **dxh** on Tue March 2nd, 2010 08:01:32 PM
 
-Any presentations planned?  I'd like to put something other than "Cool stories, bros!" in the [url=http://eventification.com:px60cv8f]Eventification> event.
+Any presentations planned?  I'd like to put something other than "Cool stories, bros!" in the [http://eventification.com](Eventification) event.
 
 --------------------------------------------------------------------------------
 

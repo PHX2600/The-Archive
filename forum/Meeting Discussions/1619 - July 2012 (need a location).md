@@ -5,7 +5,7 @@ The July meeting is fast aproaching and Citizen Espresso will be closing early a
 
 Anyway, please make suggestions on a meeting location for July (and possibly indefinitely). Also sound off if you've got anything cool to do/present at the meeting.
 
-[size=150:37ncbj2a]UPDATE: Unless otherwise noted, the plan is to have the July meeting at [url=https://plus.google.com/102253522672025336085/about:37ncbj2a]Pink Spot> (same place as last month).[/size:37ncbj2a]
+[size=150:37ncbj2a]UPDATE: Unless otherwise noted, the plan is to have the July meeting at [https://plus.google.com/102253522672025336085/about](Pink Spot) (same place as last month).[/size:37ncbj2a]
 
 --------------------------------------------------------------------------------
 
@@ -104,7 +104,7 @@ CoHoots is a coworking space, but they have some events that meet there in the e
 
 The only "expense" we would have is the cost of someone being there to close up. They're going to get back to me on what that would be.  I'd suggest that everyone who shows up pitches in a couple of bucks to cover this cost. Since we won't have "coffee/pizza/gelato/etc" available for purchase (or the obligation to feel like we need to purchase something from the coffee shop that we're at) I think it'd would end up being about the same out of pocket. We'll find out for sure.
 
-CoHoots  ([url=http://www.cohoots.com/:3l1it4xq]cohoots.com>) is located on 7th Street, 1/4 mile south of the I-10 freeway, and just a bit south of Roosevelt.  The address is 875 N 7th Street.
+CoHoots  ([http://www.cohoots.com/](cohoots.com)) is located on 7th Street, 1/4 mile south of the I-10 freeway, and just a bit south of Roosevelt.  The address is 875 N 7th Street.
 
 We might even get some more people at the meeting, if we get it listed as an event on their site. Who knows, perhaps some of our meeting attendees will like the "co-working" idea and start to use the facilities during the day.
 
@@ -116,7 +116,7 @@ Posted by **PHLAK** on Fri June 29th, 2012 12:51:33 PM
 
 Talked with Rax, sounds like Co-Hoots want's $36/hr to use their space (that's >$100 for 3 hours).  Unless they decide to bring that price down substantially I don't think we will be meeting threre.
 
-Due to this, I'm calling it now.  Unless otherwise notified, we will meet at [url=https://plus.google.com/102253522672025336085/about:3doi1r2q]Pink Spot> again.  Please spread the word.
+Due to this, I'm calling it now.  Unless otherwise notified, we will meet at [https://plus.google.com/102253522672025336085/about](Pink Spot) again.  Please spread the word.
 
 --------------------------------------------------------------------------------
 

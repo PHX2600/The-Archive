@@ -15,7 +15,7 @@ import urllib, string, webbrowser, re
 
 
 def findwav(word)&#58;
-    url=&quot;http&#58;//www&#46;merriam-webster&#46;com/dictionary/&quot;+word
+    url=&quot;http://www.merriam-webster.com/dictionary/&quot;+word
     res = urllib&#46;urlopen(url)
 
     
@@ -48,7 +48,7 @@ for word in tts&#58;
         link= findwav(word)&#46;strip('()\'')
         link=link&#46;split(&quot;'&quot;)
         print link&#91;0&#93;
-        url=&quot;http&#58;//www&#46;merriam-webster&#46;com&quot;+link&#91;0&#93;
+        url=&quot;http://www.merriam-webster.com&quot;+link&#91;0&#93;
         webbrowser&#46;open_new_tab(url)
     except&#58;
         print &quot;sorry, no wav D&#58;&quot;

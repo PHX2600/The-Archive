@@ -152,7 +152,7 @@ Contains the g++ command, just had to stick -I/usr/lib/glib-2.0/include/ in fron
 
 EDIT3:
 Success!
-[http&#58;//www&#46;zimagez&#46;com/zimage/screenshot-020212-012602&#46;php:1g07pr0d][img](http&#58;//www&#46;zimagez&#46;com/miniature/screenshot-020212-012602&#46;php[/img:1g07pr0d])
+[http://www.zimagez&#46;com/zimage/screenshot-020212-012602&#46;php:1g07pr0d][img](http&#58;//www&#46;zimagez.com/miniature/screenshot-020212-012602&#46;php[/img:1g07pr0d])
 
 EDIT4:
 Ok so I've got a couple clients running and the server, and I can't start a match <!-- s:( --><img src="{SMILIES_PATH}/icon_e_sad.gif" alt=":(" title="Sad" /><!-- s:( -->

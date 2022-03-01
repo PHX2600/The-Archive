@@ -1,7 +1,7 @@
 ## Flash Hacking with ArchAngel: Revisted
 Posted by **Valveritas** on Sat February 9th, 2008 02:23:33 AM
 
-This thread refers a thread from the [http&#58;//www&#46;phx2600&#46;org/forum/viewtopic&#46;php?t=1443&amp;highlight=owned+flash](old board).
+This thread refers a thread from the [http://www.phx2600.org/forum/viewtopic&#46;php?t=1443&amp;highlight=owned+flash](old board).
 
 Having some time I finally got around to trying your short tutorial.  Yes, I realize it's like NINE MONTHS LATER.  Problem is (not surprisingly at this point), that 'owned' site is down.  So I had trouble completing the tutorial.  All I still have is the owned.swf, and I had used a slightly different method than you to retrieve it (if it even matters).
 

@@ -1,7 +1,7 @@
 ## Dread Zeppelin - Official Write Up
 Posted by **Ugly** on Mon April 7th, 2008 01:32:21 AM
 
-I've written up a summary of my proposed build for the Kismet Blimp project. It can be viewed [url=http://www.hackerscouts.com/wiki/index.php/Main_Page:qede6zvv]Here>
+I've written up a summary of my proposed build for the Kismet Blimp project. It can be viewed [http://www.hackerscouts.com/wiki/index.php/Main_Page](Here)
 
 --------------------------------------------------------------------------------
 
@@ -30,7 +30,7 @@ The police use a similar model that is more heavy duty with a larger heavier cam
 
 Posted by **nak** on Sat May 31st, 2008 09:04:23 AM
 
-Oh yeah those quad-copter things are awesome, Ive seen some videos from the [url=http://events.ccc.de/camp/2007/Home:ytwtxk0s]CCC camp> I guess they are a popular thing there.
+Oh yeah those quad-copter things are awesome, Ive seen some videos from the [http://events.ccc.de/camp/2007/Home](CCC camp) I guess they are a popular thing there.
 
 This might be a good page to look at for balloon stuff:
 <!-- m --><a class="postlink" href="http://www.ansr.org/index.php?title=Main_Page">http://www.ansr.org/index.php?title=Main_Page</a><!-- m -->

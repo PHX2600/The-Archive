@@ -66,7 +66,7 @@ Posted by **Rax** on Wed November 4th, 2009 11:18:49 AM
 
 Cool. Thanks for the post! <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
-There's some great info at [url=http://theunlockr.com/2009/08/22/how-to-root-the-mytouch-3g-or-g1-in-one-click/:1p92u1bg]TheUnlockr.com>.  The recovery image they suggest (Amon Ra's Recovery Image) rocks!  You can even mount the SD card on your computer when in Recovery mode, so you can copy files to the phone, and then unmount it an continue the install.  <!-- s:mrgreen: --><img src="{SMILIES_PATH}/icon_mrgreen.gif" alt=":mrgreen:" title="Mr. Green" /><!-- s:mrgreen: -->
+There's some great info at [http://theunlockr.com/2009/08/22/how-to-root-the-mytouch-3g-or-g1-in-one-click/](TheUnlockr.com>.  The recovery image they suggest (Amon Ra's Recovery Image) rocks!  You can even mount the SD card on your computer when in Recovery mode, so you can copy files to the phone, and then unmount it an continue the install.  <!-- s:mrgreen: --><img src="{SMILIES_PATH}/icon_mrgreen.gif" alt=":mrgreen:" title="Mr. Green" /><!-- s:mrgreen: --)
 
 --------------------------------------------------------------------------------
 
@@ -74,6 +74,6 @@ Posted by **HalfSight** on Fri November 6th, 2009 09:04:07 AM
 
 [quote="Rax":lc5wg5ek]Cool. Thanks for the post! <!-- s:) --><img src="{SMILIES_PATH}/icon_e_smile.gif" alt=":)" title="Smile" /><!-- s:) -->
 
-There's some great info at [url=http://theunlockr.com/2009/08/22/how-to-root-the-mytouch-3g-or-g1-in-one-click/:lc5wg5ek]TheUnlockr.com>.  The recovery image they suggest (Amon Ra's Recovery Image) rocks!  You can even mount the SD card on your computer when in Recovery mode, so you can copy files to the phone, and then unmount it an continue the install.  <!-- s:mrgreen: --><img src="{SMILIES_PATH}/icon_mrgreen.gif" alt=":mrgreen:" title="Mr. Green" /><!-- s:mrgreen: -->[/quote:lc5wg5ek]
+There's some great info at [http://theunlockr.com/2009/08/22/how-to-root-the-mytouch-3g-or-g1-in-one-click/](TheUnlockr.com>.  The recovery image they suggest (Amon Ra's Recovery Image) rocks!  You can even mount the SD card on your computer when in Recovery mode, so you can copy files to the phone, and then unmount it an continue the install.  <!-- s:mrgreen: --><img src="{SMILIES_PATH}/icon_mrgreen.gif" alt=":mrgreen:" title="Mr. Green" /><!-- s:mrgreen: --)[/quote:lc5wg5ek]
 
 I know, after I noticed all that, I switched my recovery image to Aman-Ra. You can even partition FAT32+ext2+swap straight from Aman-Ra with the touch of a button. the unlockr is in my special thanks list, their the ones I found out about Aman-Ra from. They have great guides. My guide is just a mix of a few different guides.

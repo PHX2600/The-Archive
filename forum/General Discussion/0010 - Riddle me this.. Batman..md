@@ -39,12 +39,12 @@ Interesting so that is perfect, that meta data will work perfectly if that is th
 
 Posted by **phigan** on Tue January 1st, 2008 05:29:50 PM
 
-Have you seen [url=http://www.plutohome.com:3duo1b8e]Pluto home> distro yet? I'm not sure if it does what you were saying, but it might (with all the other crazy shit it does).
+Have you seen [http://www.plutohome.com](Pluto home) distro yet? I'm not sure if it does what you were saying, but it might (with all the other crazy shit it does).
 
 --------------------------------------------------------------------------------
 
 Posted by **Konshu** on Wed January 2nd, 2008 07:07:01 PM
 
-[quote="phigan":2vrupsbh]Have you seen [url=http://www.plutohome.com:2vrupsbh]Pluto home> distro yet? I'm not sure if it does what you were saying, but it might (with all the other crazy shit it does).[/quote:2vrupsbh]
+[quote="phigan":2vrupsbh]Have you seen [http://www.plutohome.com](Pluto home) distro yet? I'm not sure if it does what you were saying, but it might (with all the other crazy shit it does).[/quote:2vrupsbh]
 
 No I had not seen that yet, I don't think I am quite ready to add in home automation. However It does open some potential if I did want to add it in. Thanks for the link.

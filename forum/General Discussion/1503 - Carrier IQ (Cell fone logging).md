@@ -10,23 +10,23 @@ An Android app developer has published what he says is conclusive proof that mil
 
 In a YouTube video posted on Monday, Trevor Eckhart showed how software from a Silicon Valley company known as Carrier IQ recorded in real time the keys he pressed into a stock EVO handset, which he had reset to factory settings just prior to the demonstration. Using a packet sniffer while his device was in airplane mode, he demonstrated how each numeric tap and every received text message is logged by the software.
 
-Ironically, he says, the Carrier IQ software recorded the “hello world” dispatch even before it was displayed on his handset.
+Ironically, he says, the Carrier IQ software recorded the ï¿½hello worldï¿½ dispatch even before it was displayed on his handset.
  
-Eckhart then connected the device to a Wi-Fi network and pointed his browser at Google. Even though he denied the search giant's request that he share his physical location, the Carrier IQ software recorded it. The secret app then recorded the precise input of his search query – again, “hello world” – even though he typed it into a page that uses the SSL, or secure sockets layer, protocol to encrypt data sent between the device and the servers.
+Eckhart then connected the device to a Wi-Fi network and pointed his browser at Google. Even though he denied the search giant's request that he share his physical location, the Carrier IQ software recorded it. The secret app then recorded the precise input of his search query ï¿½ again, ï¿½hello worldï¿½ ï¿½ even though he typed it into a page that uses the SSL, or secure sockets layer, protocol to encrypt data sent between the device and the servers.
 
-“We can see that Carrier IQ is querying these strings over my wireless network [with] no 3G connectivity and it is reading HTTPS,” the 25-year-old Eckhart says.
+ï¿½We can see that Carrier IQ is querying these strings over my wireless network [with] no 3G connectivity and it is reading HTTPS,ï¿½ the 25-year-old Eckhart says.
 
-The video was posted four days after Carrier IQ withdrew legal threats against Eckhart for calling its software a “rootkit.” The Connecticut-based programmer said the characterization is accurate because the software is designed to obscure its presence by bypassing typical operating-system functions.
+The video was posted four days after Carrier IQ withdrew legal threats against Eckhart for calling its software a ï¿½rootkit.ï¿½ The Connecticut-based programmer said the characterization is accurate because the software is designed to obscure its presence by bypassing typical operating-system functions.
 
 In an interview last week, Carrier IQ VP of Marketing Andrew Coward rejected claims the software posed a privacy threat because it never captured key presses.
 
-“Our technology is not real time,” he said at the time. "It's not constantly reporting back. It's gathering information up and is usually transmitted in small doses.”
+ï¿½Our technology is not real time,ï¿½ he said at the time. "It's not constantly reporting back. It's gathering information up and is usually transmitted in small doses.ï¿½
 
 Coward went on to say that Carrier IQ was a diagnostic tool designed to give network carriers and device manufacturers detailed information about the causes of dropped calls and other performance issues.
 
 Eckhart said he chose the HTC phone purely for demonstration purposes. Blackberrys, other Android-powered handsets, and smartphones from Nokia contain the same snooping software, he claims.
 
-The 17-minute video concluded with questions, including: “Why does SMSNotify get called and show to be dispatching text messages to Carrier IQ?” and “Why is my browser data being read, especially HTTPS on my Wi-Fi?”
+The 17-minute video concluded with questions, including: ï¿½Why does SMSNotify get called and show to be dispatching text messages to Carrier IQ?ï¿½ and ï¿½Why is my browser data being read, especially HTTPS on my Wi-Fi?ï¿½
 
 The Register has put the same questions to Carrier IQ, and will update this post if the company responds.
 [/quote:cbn75klq]
@@ -75,7 +75,7 @@ Neat...
 Has anyone here run USB debugging on their phone? Is there special hardware?
 Why did we not notice this before that nerd from CT?
 
-[url=http://www.youtube.com/watch?v=ofHr8Lv5cNk:4nwfgnra]It seems like carrier IQ are some pretty cool dudes <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->>
+[http://www.youtube.com/watch?v=ofHr8Lv5cNk](It seems like carrier IQ are some pretty cool dudes <!-- s;) --><img src="{SMILIES_PATH}/icon_e_wink.gif" alt=";)" title="Wink" /><!-- s;) -->)
 
 --------------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ Posted by **PHLAK** on Mon December 5th, 2011 08:10:48 AM
 
 [quote="nak":gylq1kxe]Has anyone here run USB debugging on their phone? Is there special hardware?[/url][/quote:gylq1kxe]
 
-You can enable USB debugging on (I believe) any android phone from the settings menu.  With that enabled, you can run [url=http://developer.android.com/guide/developing/tools/adb.html:gylq1kxe]Android Debug Bridge (ADB)> on your PC and debug stuff.
+You can enable USB debugging on (I believe) any android phone from the settings menu.  With that enabled, you can run [http://developer.android.com/guide/developing/tools/adb.html](Android Debug Bridge (ADB)) on your PC and debug stuff.
 
 --------------------------------------------------------------------------------
 
@@ -150,7 +150,7 @@ Posted by **PHLAK** on Wed December 7th, 2011 11:52:50 AM
 
 From what I recall, navigate to Settings -> Applications -> Manage Applications -> All (tab) then look for anything named "CarrierIQ" or "CIQ".  If you see this on your phone then you have it.  As for removing it, I know there's a way to do it via the terminal (app or via ADB), but would have to look that up.
 
-The easy way would be to grab [url=https://market.android.com/details?id=com.keramidas.TitaniumBackup&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5rZXJhbWlkYXMuVGl0YW5pdW1CYWNrdXAiXQ..:1cuws39a]Titanium Backup> from the market and remove it through there.  I'm not sure, but you may need [url=https://market.android.com/details?id=com.keramidas.TitaniumBackupPro&amp;feature=search_result:1cuws39a]Titanium Backup Pro> (worth the money) to do it.
+The easy way would be to grab [https://market.android.com/details?id=com.keramidas.TitaniumBackup&amp;feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5rZXJhbWlkYXMuVGl0YW5pdW1CYWNrdXAiXQ..:1cuws39a]Titanium Backup> from the market and remove it through there.  I'm not sure, but you may need [url=https://market.android.com/details?id=com.keramidas.TitaniumBackupPro&amp;feature=search_result](Titanium Backup Pro) (worth the money) to do it.
 
 --------------------------------------------------------------------------------
 

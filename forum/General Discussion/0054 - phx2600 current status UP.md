@@ -1,7 +1,7 @@
 ## #phx2600 current status: UP
 Posted by **Valveritas** on Wed February 6th, 2008 06:19:40 AM
 
-Since [url=http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=19:26z31fba]no one really answered me> I created a channel on EFnet.  I'll be there off and on, probably as 'phatmlord'.  I may have some stupid script running, so be warned!
+Since [http://www.phx2600.org/forum2/viewtopic.php?f=12&amp;t=19](no one really answered me) I created a channel on EFnet.  I'll be there off and on, probably as 'phatmlord'.  I may have some stupid script running, so be warned!
 
 Excitement.
 
@@ -66,7 +66,7 @@ For several days (I think 5?) phigan has been squatting in the channel, saying n
 
 As he obviously knows I set up a channel bot (PhatmLord) to keep the channel going and to set auto-ops.  I have a computer dedicated to this, so I can reboot and not worry about it.   I've asked him nicely to leave the channel temporarily so I can re-establish the bot which got disconnected during a software error many days ago.  However, he's ignored that request, and others.  Basically, it seems ignoring everything around him in the channel is his strongest asset.
 
-While I've been in the channel phigan has been rather immature and disingenuous.  For one, he thinks he's superior because he uses Bitch-X and I use Mirc.  I would like to refer him to the [url=http://www.phx2600.org/guidelines.php:3eon0a5u]appended 2600 rule> as well as rule #1.  Since this channel is related to this site and 2600 I see no reason why it should be governed any other way.
+While I've been in the channel phigan has been rather immature and disingenuous.  For one, he thinks he's superior because he uses Bitch-X and I use Mirc.  I would like to refer him to the [http://www.phx2600.org/guidelines.php](appended 2600 rule) as well as rule #1.  Since this channel is related to this site and 2600 I see no reason why it should be governed any other way.
 
 --------------------------------------------------------------------------------
 

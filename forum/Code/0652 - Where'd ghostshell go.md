@@ -83,7 +83,7 @@ for i in range(0,10)&#58;
         subject = entry + '&#91;' + title + '&#93;'
         message = '&#91;url=' + link + '&#93;' + entry + '&#91;/url&#93;'
 
-        post_url = 'http&#58;//www&#46;phx2600&#46;org/forum2/posting&#46;php?mode=post&amp;f=27'
+        post_url = 'http://www.phx2600.org/forum2/posting&#46;php?mode=post&amp;f=27'
         
         s&#46;go(post_url)
         d = s&#46;doc
@@ -115,7 +115,7 @@ for i in range(0,10)&#58;
         print &quot;sid&#58; &quot; + sid&#91;1&#93;
 
         time&#46;sleep(5)
-        post_url2 = 'http&#58;//www&#46;phx2600&#46;org/forum2/posting&#46;php?mode=post&amp;f=27&amp;sid=' + sid&#91;1&#93;
+        post_url2 = 'http://www.phx2600.org/forum2/posting&#46;php?mode=post&amp;f=27&amp;sid=' + sid&#91;1&#93;
         params2 = urllib&#46;urlencode({'subject'&#58; subject&#91;&#58;50&#93;,
                                     'message'&#58; message,
                                     'lastclick'&#58; lastclick&#91;2&#93;,

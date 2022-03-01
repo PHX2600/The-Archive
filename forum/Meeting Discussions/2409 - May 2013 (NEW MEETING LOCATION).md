@@ -1,9 +1,9 @@
 ## May 2013 (NEW MEETING LOCATION!!!)
 Posted by **PHLAK** on Tue April 9th, 2013 05:24:26 PM
 
-The May meeting will be held at [url=http://goo.gl/maps/YLr2S:3rbg8pie]Cartel Coffee Lab> located in Tempe just off of University and Mill.  Cartel has recently expanded and we wanted to try them out for this meeting.  If things don't work out we can always go back to Pink Spot.
+The May meeting will be held at [http://goo.gl/maps/YLr2S](Cartel Coffee Lab) located in Tempe just off of University and Mill.  Cartel has recently expanded and we wanted to try them out for this meeting.  If things don't work out we can always go back to Pink Spot.
 
-There is limited parking available in front of Cartel, but you can park in [url=http://goo.gl/maps/xwmBu:3rbg8pie]ASU Lot 16> after ~5pm on weekdays without threat of being towed.  From here it's a short walk to Cartel.
+There is limited parking available in front of Cartel, but you can park in [http://goo.gl/maps/xwmBu](ASU Lot 16) after ~5pm on weekdays without threat of being towed.  From here it's a short walk to Cartel.
 
 I hope this place works out and that everyone will be able to make it.  Many people have already expressed interest in this change.
 

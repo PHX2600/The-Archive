@@ -45,7 +45,7 @@ Impressive. I hear jpg is a pain in the ass to work with for that.
 Posted by **nak** on Sat January 21st, 2012 10:20:18 PM
 
 Yes xlogicx, JPG would be a pain to work with, even PNG is difficult (the first format I studied).  Penguin linked me to this the other day:
-<http&#58;//www&#46;darkside&#46;com&#46;au/gifshuffle/>
+<http://www.darkside.com&#46;au/gifshuffle/>
 
 Which is a stego application for GIF files, it doesn't let you hide a lot, but still a very interesting concept.
 

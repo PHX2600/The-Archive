@@ -165,7 +165,7 @@ Posted by **PHLAK** on Tue November 1st, 2011 10:48:47 AM
 
 72.215.225.9 is just Cox's "page not found" proxy.  Whenever you hit a site that doesn't exist, Cox may intercept this and show you a page with sponsored links like this:
 
-[url=http://dl.dropbox.com/u/785103/Screenshots/permalinks/225838.png:1zrte3pv][img:1zrte3pv]http://dl.dropbox.com/u/785103/Screenshots/permalinks/225838_640.png[/img:1zrte3pv]>
+[http://dl.dropbox.com/u/785103/Screenshots/permalinks/225838.png:1zrte3pv][img](http://dl.dropbox.com/u/785103/Screenshots/permalinks/225838_640.png[/img:1zrte3pv])
 
 So it appears that every domain in that list other than phx2600.org and phx2600.com are not in use.
 
